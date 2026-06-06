@@ -17,7 +17,7 @@ function normalizeBaseUrl(raw: string): string {
 }
 
 const SITE_URL = normalizeBaseUrl(
-  process.env.NEXT_PUBLIC_SITE_URL || "https://clinicahispanamangum.com",
+  process.env.NEXT_PUBLIC_SITE_URL || "https://www.clinicahispanamangum.com",
 );
 
 export const SITE_CONFIG = {
