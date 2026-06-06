@@ -5,6 +5,21 @@ import type {
   Testimonial,
 } from "@/types";
 
+// Normaliza la URL del sitio: añade https:// si falta el esquema y quita la
+// barra final. Evita que un valor mal puesto en la env (p. ej.
+// "clinicahispanamangum.com" sin https) rompa `new URL()` en el build.
+function normalizeBaseUrl(raw: string): string {
+  const trimmed = raw.trim();
+  const withScheme = /^https?:\/\//i.test(trimmed)
+    ? trimmed
+    : `https://${trimmed}`;
+  return withScheme.replace(/\/+$/, "");
+}
+
+const SITE_URL = normalizeBaseUrl(
+  process.env.NEXT_PUBLIC_SITE_URL || "https://clinicahispanamangum.com",
+);
+
 export const SITE_CONFIG = {
   name: "Clínica Hispana Mangum",
   shortName: "Clínica Mangum",
@@ -14,8 +29,7 @@ export const SITE_CONFIG = {
     "Clínica médica hispana en Houston, TX. Atención profesional en español, sin cita previa, aceptamos pacientes con o sin seguro. Medicina familiar, exámenes de inmigración, laboratorio y más.",
   descriptionEn:
     "Hispanic medical clinic in Houston, TX. Professional care in Spanish, walk-ins welcome, patients with or without insurance. Family medicine, immigration exams, lab work and more.",
-  baseUrl:
-    process.env.NEXT_PUBLIC_SITE_URL || "https://clinicahispanamangum.com",
+  baseUrl: SITE_URL,
   locale: "es-MX",
   logoUrl: "/logo-mangum-transparent.webp",
   ogImage: "/images/og/og-default.png",
