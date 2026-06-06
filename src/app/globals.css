@@ -1,26 +1,239 @@
 @import "tailwindcss";
+@import "tw-animate-css";
+@import "shadcn/tailwind.css";
 
+@custom-variant dark (&:is(.dark *));
+
+/* ────────────────────────────────────────────────────────────
+   Paleta de marca Clínica Hispana Mangum (derivada del logo)
+   Verde · Mint · Rojo · Dorado · Slate
+   Regla: nunca hardcodear hex en componentes — usar estas vars
+   o las utilidades Tailwind generadas en @theme inline.
+   ──────────────────────────────────────────────────────────── */
 :root {
+  /* VERDE — color principal */
+  --green-primary: #178a3a;
+  --green-dark: #0f6b2c;
+  --green-deep: #08431c;
+  --green-medium: #1ea64a;
+  --green-soft: #4ade80;
+  --green-light: #dcf3e3;
+
+  /* MINT — fondos secundarios */
+  --mint-bg: #eaf8ee;
+  --mint-bg-alt: #d7f0de;
+  --mint-warm: #f4fcf6;
+
+  /* ROJO — acento (corazón del logo) */
+  --red-accent: #c81e2c;
+  --red-accent-dark: #a3151f;
+  --red-accent-light: #fecaca;
+  --red-accent-bg: #fef2f2;
+
+  /* DORADO/ÁMBAR — acento cálido para CTAs */
+  --gold-accent: #e0a83c;
+  --gold-accent-dark: #b9831f;
+  --gold-accent-light: #f6e3b0;
+  --gold-accent-bg: #fffaf0;
+
+  /* SLATE — neutros */
+  --slate-dark: #1e293b;
+  --slate-primary: #475569;
+  --slate-muted: #64748b;
+  --slate-light: #f1f5f9;
+
+  /* Estados */
+  --success: #16a34a;
+  --error: #dc2626;
+  --warning: #d97706;
+
+  /* ── Tokens shadcn mapeados a la paleta (modo claro) ── */
   --background: #ffffff;
-  --foreground: #171717;
+  --foreground: var(--slate-dark);
+  --card: #ffffff;
+  --card-foreground: var(--slate-dark);
+  --popover: #ffffff;
+  --popover-foreground: var(--slate-dark);
+  --primary: var(--green-primary);
+  --primary-foreground: #ffffff;
+  --secondary: var(--mint-bg);
+  --secondary-foreground: var(--green-deep);
+  --muted: var(--mint-bg);
+  --muted-foreground: var(--slate-muted);
+  --accent: var(--mint-bg-alt);
+  --accent-foreground: var(--green-deep);
+  --destructive: var(--red-accent);
+  --destructive-foreground: #ffffff;
+  --border: var(--green-light);
+  --input: var(--green-light);
+  --ring: var(--green-primary);
+  --chart-1: var(--green-primary);
+  --chart-2: var(--green-medium);
+  --chart-3: var(--gold-accent);
+  --chart-4: var(--red-accent);
+  --chart-5: var(--green-deep);
+  --radius: 0.625rem;
+  --sidebar: var(--mint-warm);
+  --sidebar-foreground: var(--slate-dark);
+  --sidebar-primary: var(--green-primary);
+  --sidebar-primary-foreground: #ffffff;
+  --sidebar-accent: var(--mint-bg-alt);
+  --sidebar-accent-foreground: var(--green-deep);
+  --sidebar-border: var(--green-light);
+  --sidebar-ring: var(--green-primary);
+}
+
+.dark {
+  /* Paleta adaptada a fondo verde muy oscuro */
+  --green-light: #14361f;
+  --mint-bg: #0f3d1f;
+  --mint-bg-alt: #123a20;
+  --mint-warm: #0c2614;
+  --red-accent: #ef5360;
+  --red-accent-light: #7f1d1d;
+  --red-accent-bg: #1f0f10;
+  --gold-accent: #e8bb5e;
+  --slate-dark: #f4fcf6;
+  --slate-muted: #9bbfa6;
+  --slate-light: #123a20;
+
+  --background: #06190d;
+  --foreground: #f4fcf6;
+  --card: #0c2614;
+  --card-foreground: #f4fcf6;
+  --popover: #0c2614;
+  --popover-foreground: #f4fcf6;
+  --primary: var(--green-soft);
+  --primary-foreground: #06190d;
+  --secondary: #0f3d1f;
+  --secondary-foreground: #f4fcf6;
+  --muted: #0f3d1f;
+  --muted-foreground: #9bbfa6;
+  --accent: #123a20;
+  --accent-foreground: #f4fcf6;
+  --destructive: #ef5360;
+  --destructive-foreground: #ffffff;
+  --border: oklch(1 0 0 / 10%);
+  --input: oklch(1 0 0 / 15%);
+  --ring: var(--green-soft);
+  --chart-1: var(--green-soft);
+  --chart-2: var(--green-medium);
+  --chart-3: var(--gold-accent);
+  --chart-4: #ef5360;
+  --chart-5: var(--green-light);
+  --sidebar: #0c2614;
+  --sidebar-foreground: #f4fcf6;
+  --sidebar-primary: var(--green-soft);
+  --sidebar-primary-foreground: #06190d;
+  --sidebar-accent: #123a20;
+  --sidebar-accent-foreground: #f4fcf6;
+  --sidebar-border: oklch(1 0 0 / 10%);
+  --sidebar-ring: var(--green-soft);
 }
 
 @theme inline {
+  /* Fuentes (variables inyectadas por next/font en layout) */
+  --font-sans: var(--font-roboto-condensed);
+  --font-heading: var(--font-montserrat);
+  --font-mono: var(--font-geist-mono);
+
+  /* Tokens shadcn */
   --color-background: var(--background);
   --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  --color-popover: var(--popover);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-destructive: var(--destructive);
+  --color-destructive-foreground: var(--destructive-foreground);
+  --color-border: var(--border);
+  --color-input: var(--input);
+  --color-ring: var(--ring);
+  --color-chart-1: var(--chart-1);
+  --color-chart-2: var(--chart-2);
+  --color-chart-3: var(--chart-3);
+  --color-chart-4: var(--chart-4);
+  --color-chart-5: var(--chart-5);
+  --color-sidebar: var(--sidebar);
+  --color-sidebar-foreground: var(--sidebar-foreground);
+  --color-sidebar-primary: var(--sidebar-primary);
+  --color-sidebar-primary-foreground: var(--sidebar-primary-foreground);
+  --color-sidebar-accent: var(--sidebar-accent);
+  --color-sidebar-accent-foreground: var(--sidebar-accent-foreground);
+  --color-sidebar-border: var(--sidebar-border);
+  --color-sidebar-ring: var(--sidebar-ring);
+
+  /* Utilidades de paleta Mangum (bg-green-primary, text-red-accent, …) */
+  --color-green-primary: var(--green-primary);
+  --color-green-dark: var(--green-dark);
+  --color-green-deep: var(--green-deep);
+  --color-green-medium: var(--green-medium);
+  --color-green-soft: var(--green-soft);
+  --color-green-light: var(--green-light);
+  --color-mint-bg: var(--mint-bg);
+  --color-mint-bg-alt: var(--mint-bg-alt);
+  --color-mint-warm: var(--mint-warm);
+  --color-red-accent: var(--red-accent);
+  --color-red-accent-dark: var(--red-accent-dark);
+  --color-red-accent-light: var(--red-accent-light);
+  --color-red-accent-bg: var(--red-accent-bg);
+  --color-gold-accent: var(--gold-accent);
+  --color-gold-accent-dark: var(--gold-accent-dark);
+  --color-gold-accent-light: var(--gold-accent-light);
+  --color-gold-accent-bg: var(--gold-accent-bg);
+  --color-slate-dark: var(--slate-dark);
+  --color-slate-primary: var(--slate-primary);
+  --color-slate-muted: var(--slate-muted);
+  --color-slate-light: var(--slate-light);
+  --color-success: var(--success);
+  --color-error: var(--error);
+  --color-warning: var(--warning);
+
+  /* Escala de radios */
+  --radius-sm: calc(var(--radius) * 0.6);
+  --radius-md: calc(var(--radius) * 0.8);
+  --radius-lg: var(--radius);
+  --radius-xl: calc(var(--radius) * 1.4);
+  --radius-2xl: calc(var(--radius) * 1.8);
+  --radius-3xl: calc(var(--radius) * 2.2);
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+@layer base {
+  * {
+    @apply border-border outline-ring/50;
+  }
+  body {
+    @apply bg-background text-foreground font-sans antialiased;
+  }
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-heading;
   }
 }
 
-body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+/* Animaciones de entrada (scroll-animations) — editorial, sutiles */
+@layer utilities {
+  .reveal {
+    opacity: 0;
+    transform: translateY(24px);
+    transition: opacity 0.7s ease, transform 0.7s ease;
+  }
+  .reveal.is-visible {
+    opacity: 1;
+    transform: none;
+  }
+  @media (prefers-reduced-motion: reduce) {
+    .reveal {
+      opacity: 1;
+      transform: none;
+      transition: none;
+    }
+  }
 }
