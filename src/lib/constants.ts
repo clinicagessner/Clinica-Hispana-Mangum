@@ -14,7 +14,8 @@ export const SITE_CONFIG = {
     "Clínica médica hispana en Houston, TX. Atención profesional en español, sin cita previa, aceptamos pacientes con o sin seguro. Medicina familiar, exámenes de inmigración, laboratorio y más.",
   descriptionEn:
     "Hispanic medical clinic in Houston, TX. Professional care in Spanish, walk-ins welcome, patients with or without insurance. Family medicine, immigration exams, lab work and more.",
-  baseUrl: "https://www.clinicahispanamangum.com",
+  baseUrl:
+    process.env.NEXT_PUBLIC_SITE_URL || "https://clinicahispanamangum.com",
   locale: "es-MX",
   logoUrl: "/logo-mangum-transparent.webp",
   ogImage: "/images/og/og-default.png",
