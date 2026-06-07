@@ -165,12 +165,22 @@ export function Footer() {
           <p>
             © {year} {SITE_CONFIG.name}. {t("rights")}
           </p>
-          <Link
-            href="/privacy"
-            className="hover:text-gold-accent-light"
-          >
-            {t("privacy")}
-          </Link>
+          <div className="flex flex-wrap items-center gap-x-4 gap-y-2">
+            <p>
+              {t("developedBy")}{" "}
+              <a
+                href="https://rcweb.dev"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="font-medium text-mint-bg/80 hover:text-gold-accent-light"
+              >
+                RC Web Solutions LLC
+              </a>
+            </p>
+            <Link href="/privacy" className="hover:text-gold-accent-light">
+              {t("privacy")}
+            </Link>
+          </div>
         </div>
       </div>
     </footer>
