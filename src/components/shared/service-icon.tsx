@@ -10,6 +10,7 @@ import {
   Flower,
   Flower2,
   HeartPulse,
+  Pill,
   ScanLine,
   ShieldCheck,
   Stethoscope,
@@ -42,6 +43,7 @@ const ICONS: Record<string, LucideIcon> = {
   Truck,
   ClipboardList,
   Bone,
+  Pill,
 };
 
 export function ServiceIcon({

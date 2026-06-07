@@ -1532,6 +1532,84 @@ ${PAYMENT_EN}
 
 ${AREAS_EN}`,
   },
+  {
+    slug: "farmacia",
+    order: 19,
+    category: "tratamientos",
+    icon: "Pill",
+    title: "Farmacia en Houston TX",
+    titleEn: "Pharmacy in Houston TX",
+    shortDescription:
+      "Recoge tus medicamentos al terminar la consulta, sin ir a otra farmacia.",
+    shortDescriptionEn:
+      "Pick up your medications right after your visit — no second stop.",
+    description:
+      "Farmacia en Houston, TX dentro de la clínica. Surtimos tu receta al terminar la consulta: medicamentos de marca y genéricos, atención en español.",
+    descriptionEn:
+      "Pharmacy in Houston, TX inside the clinic. We fill your prescription right after your visit: brand-name and generic medications, service in Spanish.",
+    keywords: [
+      "farmacia en houston",
+      "farmacia hispana houston",
+      "farmacia cerca de mí houston",
+      "surtir receta houston",
+    ],
+    keywordsEn: [
+      "pharmacy houston",
+      "hispanic pharmacy houston",
+      "pharmacy near me houston",
+      "fill prescription houston",
+    ],
+    features: [
+      "Surtido de tu receta al instante",
+      "Medicamentos de marca y genéricos",
+      "Medicamentos de venta libre (OTC)",
+      "Asesoría sobre tus medicamentos en español",
+    ],
+    featuresEn: [
+      "Prescriptions filled on the spot",
+      "Brand-name and generic medications",
+      "Over-the-counter (OTC) medications",
+      "Guidance about your medications in Spanish",
+    ],
+    longDescription: `Al terminar tu consulta en Clínica Hispana Mangum puedes recoger tus medicamentos en nuestra propia farmacia, sin tener que ir a otro lugar. Es la comodidad de resolver todo en una sola visita, con atención en español.
+
+## ¿Qué incluye?
+
+- Surtido de tu receta justo al terminar la consulta
+- Medicamentos de marca y genéricos
+- Medicamentos de venta libre (OTC) para gripe, dolor, alergias y más
+- Asesoría del personal sobre cómo tomar tus medicamentos
+- Resurtido de recetas
+
+## ¿Por qué usar nuestra farmacia?
+
+Te ahorras una segunda parada: el médico te atiende, te receta y recoges tu medicamento en el mismo lugar. Te explicamos en español la dosis, los horarios y los cuidados, para que empieces tu tratamiento con confianza.
+
+${WHY_ES}
+
+${PAYMENT_ES}
+
+${AREAS_ES}`,
+    longDescriptionEn: `After your visit at Clínica Hispana Mangum you can pick up your medications at our own pharmacy, without going anywhere else. It's the convenience of getting everything done in a single visit, with service in Spanish.
+
+## What's included?
+
+- Your prescription filled right after your visit
+- Brand-name and generic medications
+- Over-the-counter (OTC) medications for colds, pain, allergies and more
+- Staff guidance on how to take your medications
+- Prescription refills
+
+## Why use our pharmacy?
+
+You skip the second stop: the doctor sees you, writes your prescription, and you pick up your medication in the same place. We explain the dosage, schedule and precautions in Spanish so you can start your treatment with confidence.
+
+${WHY_EN}
+
+${PAYMENT_EN}
+
+${AREAS_EN}`,
+  },
 ];
 
 // Testimonios de respaldo para el carrusel cuando no hay data en vivo de Google.

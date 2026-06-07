@@ -469,6 +469,32 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
         "Yes, you can come without an appointment Monday to Sunday from 9 AM to 9 PM.",
     },
   ],
+  farmacia: [
+    {
+      question: "¿Puedo recoger mis medicamentos en la misma clínica?",
+      answer:
+        "Sí. Al terminar tu consulta puedes surtir tu receta en nuestra farmacia, sin tener que ir a otro lugar.",
+      questionEn: "Can I pick up my medications at the clinic?",
+      answerEn:
+        "Yes. Right after your visit you can fill your prescription at our pharmacy, without going anywhere else.",
+    },
+    {
+      question: "¿Tienen medicamentos de marca y genéricos?",
+      answer:
+        "Sí, manejamos medicamentos de marca y genéricos, además de productos de venta libre (OTC) para gripe, dolor, alergias y más.",
+      questionEn: "Do you carry brand-name and generic medications?",
+      answerEn:
+        "Yes, we carry brand-name and generic medications, plus over-the-counter (OTC) products for colds, pain, allergies and more.",
+    },
+    {
+      question: "¿Me explican cómo tomar mis medicamentos?",
+      answer:
+        "Claro. Nuestro personal te explica en español la dosis, los horarios y los cuidados de cada medicamento.",
+      questionEn: "Will you explain how to take my medications?",
+      answerEn:
+        "Of course. Our staff explains the dosage, schedule and precautions for each medication in Spanish.",
+    },
+  ],
 };
 
 export function getServiceFaqs(slug: string): ServiceFaq[] {

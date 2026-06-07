@@ -28,6 +28,7 @@ const SERVICE_IMAGE_SLUGS = new Set<string>([
   "examenes-generales",
   "dolores-musculares",
   "condiciones-cronicas",
+  "farmacia",
 ]);
 
 export function hasServiceImage(slug: string): boolean {
