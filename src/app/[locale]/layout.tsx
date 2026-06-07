@@ -39,6 +39,9 @@ export async function generateMetadata({
     description,
     applicationName: SITE_CONFIG.name,
     authors: [{ name: SITE_CONFIG.name }],
+    verification: {
+      google: "XiPUKbIE_Kie6LQWBXHVdNZifUsM4A3k6F6NA_LgnzQ",
+    },
     openGraph: {
       type: "website",
       siteName: SITE_CONFIG.name,
