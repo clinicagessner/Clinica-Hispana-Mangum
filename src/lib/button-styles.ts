@@ -10,7 +10,7 @@ export const ctaButton = cva(
     variants: {
       variant: {
         primary:
-          "bg-green-primary text-white shadow-sm hover:bg-green-dark hover:shadow-md focus-visible:ring-green-primary",
+          "bg-green-dark text-white shadow-sm hover:bg-green-deep hover:shadow-md focus-visible:ring-green-primary",
         gold: "bg-gold-accent text-slate-dark shadow-sm hover:bg-gold-accent-dark hover:text-white focus-visible:ring-gold-accent",
         red: "bg-red-accent text-white shadow-sm hover:bg-red-accent-dark focus-visible:ring-red-accent",
         outline:

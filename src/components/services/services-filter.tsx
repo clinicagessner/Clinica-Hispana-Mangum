@@ -77,7 +77,7 @@ function FilterButton({
       className={cn(
         "rounded-full border px-4 py-2 text-sm font-semibold transition-colors",
         active
-          ? "border-green-primary bg-green-primary text-white"
+          ? "border-green-dark bg-green-dark text-white"
           : "border-green-light bg-white text-slate-primary hover:border-green-primary/40 hover:text-green-dark",
       )}
     >

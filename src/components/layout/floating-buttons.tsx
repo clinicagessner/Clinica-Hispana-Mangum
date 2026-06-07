@@ -40,7 +40,7 @@ export function FloatingButtons() {
         target="_blank"
         rel="noopener noreferrer"
         aria-label={t("directions")}
-        className="pointer-events-auto flex h-14 w-14 items-center justify-center rounded-full bg-green-primary font-heading text-sm font-semibold text-white shadow-lg shadow-green-primary/25 transition-transform hover:scale-[1.03] sm:h-12 sm:w-auto sm:gap-2 sm:px-5"
+        className="pointer-events-auto flex h-14 w-14 items-center justify-center rounded-full bg-green-dark font-heading text-sm font-semibold text-white shadow-lg shadow-green-primary/25 transition-transform hover:scale-[1.03] sm:h-12 sm:w-auto sm:gap-2 sm:px-5"
       >
         <Navigation className="h-5 w-5 shrink-0" />
         <span className="hidden sm:inline">{t("directions")}</span>
