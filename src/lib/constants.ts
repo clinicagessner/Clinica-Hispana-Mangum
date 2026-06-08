@@ -689,8 +689,8 @@ ${AREAS_EN}`,
     category: "salud-mujer",
     icon: "Flower2",
     highlighted: true,
-    title: "Ginecólogos en Houston en Español | Clínica de la Mujer",
-    titleEn: "Gynecologists in Houston in Spanish | Women's Clinic",
+    title: "Consulta de Ginecología",
+    titleEn: "Gynecology Consultation",
     shortDescription:
       "Salud ginecológica integral: papanicolaou, chequeos y atención de la mujer en español.",
     shortDescriptionEn:
