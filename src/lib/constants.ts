@@ -376,8 +376,8 @@ ${AREAS_EN}`,
     order: 4,
     category: "tratamientos",
     icon: "Droplets",
-    title: "Urólogo en Houston TX que Habla Español",
-    titleEn: "Urologist in Houston TX who Speaks Spanish",
+    title: "Consulta de Urología",
+    titleEn: "Urology Consultation",
     shortDescription:
       "Atención urológica para problemas urinarios, de próstata y del tracto urinario, en español.",
     shortDescriptionEn:
