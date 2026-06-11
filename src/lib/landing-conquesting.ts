@@ -33,11 +33,11 @@ const CONTENT: Record<Locale, LandingContent> = {
   es: {
     metaTitle: "Comparación de Clínicas en Houston | Clínica Mangum",
     metaDescription:
-      "Compara Clínica Hispana Mangum con otras clínicas en Houston: atención en español, sin cita, con o sin seguro y precios accesibles.",
+      "Compara Clínica Hispana Mangum con otras clínicas en Houston: atención en español, sin cita, sin necesidad de seguro y precios accesibles.",
     eyebrow: "Comparación de clínicas en Houston",
     title: "¿Buscas una clínica en Houston? Compara y decide",
     subtitle:
-      "En Clínica Hispana Mangum recibes atención médica 100% en español, sin cita previa y con o sin seguro. Compara lo que ofrecemos frente a otras clínicas.",
+      "En Clínica Hispana Mangum recibes atención médica 100% en español, sin cita previa y sin necesidad de seguro. Compara lo que ofrecemos frente a otras clínicas.",
     ctaCall: "Llamar ahora",
     ctaForm: "Pedir información",
     comparisonTitle: "Mangum frente a otras clínicas",
@@ -46,7 +46,7 @@ const CONTENT: Record<Locale, LandingContent> = {
     comparison: [
       { feature: "Atención 100% en español", mangum: true, others: false },
       { feature: "Sin cita previa", mangum: true, others: false },
-      { feature: "Con o sin seguro", mangum: true, others: false },
+      { feature: "Sin necesidad de seguro", mangum: true, others: false },
       { feature: "Abierto todos los días 9 AM–9 PM", mangum: true, others: false },
       { feature: "Laboratorio el mismo día", mangum: true, others: false },
       { feature: "Examen de inmigración I-693", mangum: true, others: false },
@@ -75,7 +75,7 @@ const CONTENT: Record<Locale, LandingContent> = {
       },
       {
         question: "¿Atienden sin seguro?",
-        answer: "Sí, con o sin seguro y con precios accesibles.",
+        answer: "Sí, sin necesidad de seguro y con precios accesibles.",
       },
       {
         question: "¿El personal habla español?",
@@ -89,11 +89,11 @@ const CONTENT: Record<Locale, LandingContent> = {
   en: {
     metaTitle: "Compare Clinics in Houston | Clínica Mangum",
     metaDescription:
-      "Compare Clínica Hispana Mangum with other clinics in Houston: care in Spanish, walk-ins, with or without insurance and affordable pricing.",
+      "Compare Clínica Hispana Mangum with other clinics in Houston: care in Spanish, walk-ins, with no insurance needed and affordable pricing.",
     eyebrow: "Comparing clinics in Houston",
     title: "Looking for a clinic in Houston? Compare and decide",
     subtitle:
-      "At Clínica Hispana Mangum you get medical care 100% in Spanish, with no appointment and with or without insurance. Compare what we offer against other clinics.",
+      "At Clínica Hispana Mangum you get medical care 100% in Spanish, with no appointment or insurance needed. Compare what we offer against other clinics.",
     ctaCall: "Call now",
     ctaForm: "Request information",
     comparisonTitle: "Mangum vs. other clinics",
@@ -102,7 +102,7 @@ const CONTENT: Record<Locale, LandingContent> = {
     comparison: [
       { feature: "Care 100% in Spanish", mangum: true, others: false },
       { feature: "Walk-ins welcome", mangum: true, others: false },
-      { feature: "With or without insurance", mangum: true, others: false },
+      { feature: "No insurance needed", mangum: true, others: false },
       { feature: "Open every day 9 AM–9 PM", mangum: true, others: false },
       { feature: "Same-day lab work", mangum: true, others: false },
       { feature: "I-693 immigration exam", mangum: true, others: false },
@@ -131,7 +131,7 @@ const CONTENT: Record<Locale, LandingContent> = {
       },
       {
         question: "Do you see patients without insurance?",
-        answer: "Yes, with or without insurance and with affordable pricing.",
+        answer: "Yes, with no insurance needed and with affordable pricing.",
       },
       {
         question: "Does the staff speak Spanish?",

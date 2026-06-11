@@ -13,10 +13,10 @@ export const HOME_FAQS: ServiceFaq[] = [
   {
     question: "¿Atienden a pacientes sin seguro médico?",
     answer:
-      "Sí. Aceptamos pacientes con o sin seguro, con precios accesibles y transparentes. Pregúntanos por el costo antes de tu visita.",
+      "Sí. Aceptamos pacientes sin necesidad de seguro, con precios accesibles y transparentes. Pregúntanos por el costo antes de tu visita.",
     questionEn: "Do you see patients without health insurance?",
     answerEn:
-      "Yes. We accept patients with or without insurance, with affordable and transparent pricing. Ask us about the cost before your visit.",
+      "Yes. We accept patients with no insurance needed, with affordable and transparent pricing. Ask us about the cost before your visit.",
   },
   {
     question: "¿El personal habla español?",

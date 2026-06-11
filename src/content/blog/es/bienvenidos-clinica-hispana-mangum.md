@@ -1,6 +1,6 @@
 ---
 title: "Bienvenidos a Clínica Hispana Mangum"
-description: "Conoce Clínica Hispana Mangum: atención médica 100% en español en Houston, TX, sin cita previa y con o sin seguro."
+description: "Conoce Clínica Hispana Mangum: atención médica 100% en español en Houston, TX, sin cita previa y sin necesidad de seguro."
 date: "2026-01-15"
 author: "Equipo Clínica Hispana Mangum"
 category: "Clínica"
@@ -16,7 +16,7 @@ En Clínica Hispana Mangum creemos que cuidar tu salud no debería ser complicad
 
 ## Quiénes somos
 
-Somos una clínica médica familiar ubicada en **2912 Mangum Rd Ste. A, Houston, TX 77092**. Atendemos a niños y adultos, con o sin seguro, y sin necesidad de cita previa. Nuestro horario es de **lunes a domingo, de 9:00 AM a 9:00 PM**, porque sabemos que la salud no espera al fin de semana.
+Somos una clínica médica familiar ubicada en **2912 Mangum Rd Ste. A, Houston, TX 77092**. Atendemos a niños y adultos, sin necesidad de seguro y sin cita previa. Nuestro horario es de **lunes a domingo, de 9:00 AM a 9:00 PM**, porque sabemos que la salud no espera al fin de semana.
 
 ## Qué puedes encontrar con nosotros
 
@@ -32,7 +32,7 @@ Ofrecemos una amplia gama de servicios bajo un mismo techo:
 
 ## Por qué elegirnos
 
-Lo que nos distingue no es solo lo que hacemos, sino **cómo lo hacemos**. Te recibimos en tu idioma, te explicamos cada paso sin tecnicismos y te tratamos con el respeto y el tiempo que mereces. Aceptamos pacientes con o sin seguro y manejamos precios accesibles y transparentes.
+Lo que nos distingue no es solo lo que hacemos, sino **cómo lo hacemos**. Te recibimos en tu idioma, te explicamos cada paso sin tecnicismos y te tratamos con el respeto y el tiempo que mereces. Aceptamos pacientes sin necesidad de seguro y manejamos precios accesibles y transparentes.
 
 ## Te esperamos
 

@@ -26,9 +26,9 @@ export const SITE_CONFIG = {
   tagline: "Atención médica profesional 100% en español",
   taglineEn: "Professional healthcare 100% in Spanish",
   description:
-    "Clínica médica hispana en Houston, TX. Atención profesional en español, sin cita previa, aceptamos pacientes con o sin seguro. Medicina familiar, exámenes de inmigración, laboratorio y más.",
+    "Clínica médica hispana en Houston, TX. Atención profesional en español, sin cita previa, aceptamos pacientes sin necesidad de seguro. Medicina familiar, exámenes de inmigración, laboratorio y más.",
   descriptionEn:
-    "Hispanic medical clinic in Houston, TX. Professional care in Spanish, walk-ins welcome, patients with or without insurance. Family medicine, immigration exams, lab work and more.",
+    "Hispanic medical clinic in Houston, TX. Professional care in Spanish, walk-ins welcome, patients with no insurance needed. Family medicine, immigration exams, lab work and more.",
   baseUrl: SITE_URL,
   locale: "es-MX",
   logoUrl: "/logo-mangum-transparent.webp",
@@ -112,19 +112,19 @@ export const SERVICE_CATEGORIES: {
 // Bloques de copy reutilizados (marca Mangum + Houston).
 const WHY_ES = `## ¿Por qué elegir Clínica Hispana Mangum?
 
-En Clínica Hispana Mangum te atendemos 100% en español, sin cita previa y con o sin seguro. Estamos en ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, con horario de lunes a domingo de 9 AM a 9 PM. Nuestro equipo trata a cada paciente con respeto, tiempo y explicaciones claras.`;
+En Clínica Hispana Mangum te atendemos 100% en español, sin cita previa y sin necesidad de seguro. Estamos en ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, con horario de lunes a domingo de 9 AM a 9 PM. Nuestro equipo trata a cada paciente con respeto, tiempo y explicaciones claras.`;
 
 const WHY_EN = `## Why choose Clínica Hispana Mangum?
 
-At Clínica Hispana Mangum we care for you 100% in Spanish, with no appointment needed and with or without insurance. We are located at ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, open Monday through Sunday from 9 AM to 9 PM. Our team treats every patient with respect, time and clear explanations.`;
+At Clínica Hispana Mangum we care for you 100% in Spanish, with no appointment or insurance needed. We are located at ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, open Monday through Sunday from 9 AM to 9 PM. Our team treats every patient with respect, time and clear explanations.`;
 
-const PAYMENT_ES = `## Seguros y formas de pago
+const PAYMENT_ES = `## Formas de pago
 
-Aceptamos pacientes con o sin seguro médico. Manejamos precios accesibles y transparentes, y aceptamos efectivo y tarjetas. Pregúntanos por el costo de tu servicio antes de tu visita.`;
+No necesitas seguro para atenderte. Manejamos precios accesibles y transparentes, y aceptamos efectivo y tarjetas. Pregúntanos por el costo de tu servicio antes de tu visita.`;
 
-const PAYMENT_EN = `## Insurance and payment
+const PAYMENT_EN = `## Payment
 
-We accept patients with or without health insurance. We offer affordable, transparent pricing and accept cash and cards. Ask us about the cost of your service before your visit.`;
+No insurance needed to be seen. We offer affordable, transparent pricing and accept cash and cards. Ask us about the cost of your service before your visit.`;
 
 const AREAS_ES = `## Áreas que servimos
 
@@ -148,9 +148,9 @@ export const SERVICES: Service[] = [
     shortDescriptionEn:
       "Primary medical care for the whole family, in Spanish and walk-ins welcome.",
     description:
-      "Medicina familiar en Houston, TX para niños y adultos. Consultas, chequeos y seguimiento en español, con o sin seguro.",
+      "Medicina familiar en Houston, TX para niños y adultos. Consultas, chequeos y seguimiento en español, sin necesidad de seguro.",
     descriptionEn:
-      "Family medicine in Houston, TX for children and adults. Visits, checkups and follow-up in Spanish, with or without insurance.",
+      "Family medicine in Houston, TX for children and adults. Visits, checkups and follow-up in Spanish, with no insurance needed.",
     keywords: [
       "medicina familiar houston",
       "doctor que habla español houston",
@@ -305,9 +305,9 @@ ${AREAS_EN}`,
     shortDescriptionEn:
       "Fast, confidential, judgment-free testing for sexually transmitted infections.",
     description:
-      "Pruebas de ETS/STD confidenciales en Houston. Resultados rápidos y tratamiento en español, con o sin seguro.",
+      "Pruebas de ETS/STD confidenciales en Houston. Resultados rápidos y tratamiento en español, sin necesidad de seguro.",
     descriptionEn:
-      "Confidential STD testing in Houston. Fast results and treatment in Spanish, with or without insurance.",
+      "Confidential STD testing in Houston. Fast results and treatment in Spanish, with no insurance needed.",
     keywords: [
       "prueba std houston",
       "examen enfermedades de transmision sexual houston",
@@ -383,9 +383,9 @@ ${AREAS_EN}`,
     shortDescriptionEn:
       "Urology care for urinary, prostate and urinary-tract issues, in Spanish.",
     description:
-      "Atención urológica en Houston en español: infecciones urinarias, próstata, cálculos renales y más. Con o sin seguro.",
+      "Atención urológica en Houston en español: infecciones urinarias, próstata, cálculos renales y más. Sin necesidad de seguro.",
     descriptionEn:
-      "Urology care in Houston in Spanish: urinary infections, prostate, kidney stones and more. With or without insurance.",
+      "Urology care in Houston in Spanish: urinary infections, prostate, kidney stones and more. No insurance needed.",
     keywords: [
       "urologo houston español",
       "urologo que habla español houston",
@@ -462,9 +462,9 @@ ${AREAS_EN}`,
     shortDescriptionEn:
       "Diabetes, high blood pressure and cholesterol management with close follow-up.",
     description:
-      "Control de diabetes, hipertensión y colesterol en Houston. Seguimiento y laboratorio en español, con o sin seguro.",
+      "Control de diabetes, hipertensión y colesterol en Houston. Seguimiento y laboratorio en español, sin necesidad de seguro.",
     descriptionEn:
-      "Diabetes, hypertension and cholesterol management in Houston. Follow-up and lab work in Spanish, with or without insurance.",
+      "Diabetes, hypertension and cholesterol management in Houston. Follow-up and lab work in Spanish, with no insurance needed.",
     keywords: [
       "control de diabetes houston",
       "doctor diabetes español houston",
@@ -541,9 +541,9 @@ ${AREAS_EN}`,
     shortDescriptionEn:
       "Blood work and clinical lab tests with fast results, no appointment needed.",
     description:
-      "Laboratorio clínico en Houston: análisis de sangre, orina y más con resultados el mismo día. En español, con o sin seguro.",
+      "Laboratorio clínico en Houston: análisis de sangre, orina y más con resultados el mismo día. En español, sin necesidad de seguro.",
     descriptionEn:
-      "Clinical lab in Houston: blood, urine and more with same-day results. In Spanish, with or without insurance.",
+      "Clinical lab in Houston: blood, urine and more with same-day results. In Spanish, with no insurance needed.",
     keywords: [
       "laboratorio clinico houston",
       "analisis de sangre houston",
@@ -619,9 +619,9 @@ ${AREAS_EN}`,
     shortDescriptionEn:
       "Diagnostic and pregnancy ultrasounds with modern equipment and care in Spanish.",
     description:
-      "Ultrasonido y ecografía en Houston: abdominal, pélvico y de embarazo. Atención en español, con o sin seguro.",
+      "Ultrasonido y ecografía en Houston: abdominal, pélvico y de embarazo. Atención en español, sin necesidad de seguro.",
     descriptionEn:
-      "Ultrasound and sonography in Houston: abdominal, pelvic and pregnancy. Care in Spanish, with or without insurance.",
+      "Ultrasound and sonography in Houston: abdominal, pelvic and pregnancy. Care in Spanish, with no insurance needed.",
     keywords: [
       "ultrasonido houston",
       "ecografia houston español",
@@ -696,9 +696,9 @@ ${AREAS_EN}`,
     shortDescriptionEn:
       "Comprehensive gynecological care: Pap smears, checkups and women's health in Spanish.",
     description:
-      "Ginecología en Houston en español: papanicolaou, chequeos y salud de la mujer. Con o sin seguro, sin cita previa.",
+      "Ginecología en Houston en español: papanicolaou, chequeos y salud de la mujer. Sin necesidad de seguro, sin cita previa.",
     descriptionEn:
-      "Gynecology in Houston in Spanish: Pap smears, checkups and women's health. With or without insurance, walk-ins welcome.",
+      "Gynecology in Houston in Spanish: Pap smears, checkups and women's health. No insurance needed, walk-ins welcome.",
     keywords: [
       "ginecologo houston español",
       "clinica de la mujer houston",
@@ -774,9 +774,9 @@ ${AREAS_EN}`,
     shortDescriptionEn:
       "Family-planning guidance and methods to decide with clear information, in Spanish.",
     description:
-      "Planificación familiar en Houston: orientación y métodos anticonceptivos en español. Con o sin seguro.",
+      "Planificación familiar en Houston: orientación y métodos anticonceptivos en español. Sin necesidad de seguro.",
     descriptionEn:
-      "Family planning in Houston: guidance and contraceptive methods in Spanish. With or without insurance.",
+      "Family planning in Houston: guidance and contraceptive methods in Spanish. No insurance needed.",
     keywords: [
       "planificacion familiar houston",
       "metodos anticonceptivos houston",
@@ -850,9 +850,9 @@ ${AREAS_EN}`,
     shortDescriptionEn:
       "Contraceptive injection with follow-up and guidance in Spanish.",
     description:
-      "Inyección anticonceptiva en Houston con seguimiento médico, en español. Con o sin seguro, sin cita previa.",
+      "Inyección anticonceptiva en Houston con seguimiento médico, en español. Sin necesidad de seguro, sin cita previa.",
     descriptionEn:
-      "Contraceptive injection in Houston with medical follow-up, in Spanish. With or without insurance, walk-ins welcome.",
+      "Contraceptive injection in Houston with medical follow-up, in Spanish. No insurance needed, walk-ins welcome.",
     keywords: [
       "inyeccion anticonceptiva houston",
       "inyeccion para no quedar embarazada houston",
@@ -926,9 +926,9 @@ ${AREAS_EN}`,
     shortDescriptionEn:
       "Safe removal of arm contraceptive implants by trained staff.",
     description:
-      "Extracción de implantes anticonceptivos en Houston, procedimiento seguro y en español. Con o sin seguro.",
+      "Extracción de implantes anticonceptivos en Houston, procedimiento seguro y en español. Sin necesidad de seguro.",
     descriptionEn:
-      "Contraceptive implant removal in Houston, a safe procedure in Spanish. With or without insurance.",
+      "Contraceptive implant removal in Houston, a safe procedure in Spanish. No insurance needed.",
     keywords: [
       "extraccion de implante anticonceptivo houston",
       "quitar implante del brazo houston",
@@ -1002,9 +1002,9 @@ ${AREAS_EN}`,
     shortDescriptionEn:
       "Fast electrocardiogram (EKG) to evaluate your heart health, in Spanish.",
     description:
-      "Electrocardiograma EKG en Houston, rápido y sin dolor. Resultados y atención en español, con o sin seguro.",
+      "Electrocardiograma EKG en Houston, rápido y sin dolor. Resultados y atención en español, sin necesidad de seguro.",
     descriptionEn:
-      "Electrocardiogram EKG in Houston, fast and painless. Results and care in Spanish, with or without insurance.",
+      "Electrocardiogram EKG in Houston, fast and painless. Results and care in Spanish, with no insurance needed.",
     keywords: [
       "electrocardiograma houston",
       "ekg houston español",
@@ -1078,9 +1078,9 @@ ${AREAS_EN}`,
     shortDescriptionEn:
       "Diagnosis and treatment of flu, cough, bronchitis and other respiratory illnesses.",
     description:
-      "Tratamiento de gripe y enfermedades respiratorias en Houston, en español. Sin cita previa, con o sin seguro.",
+      "Tratamiento de gripe y enfermedades respiratorias en Houston, en español. Sin cita previa, sin necesidad de seguro.",
     descriptionEn:
-      "Flu and respiratory illness treatment in Houston, in Spanish. Walk-ins welcome, with or without insurance.",
+      "Flu and respiratory illness treatment in Houston, in Spanish. Walk-ins welcome, with no insurance needed.",
     keywords: [
       "tratamiento gripe houston",
       "doctor para la tos houston español",
@@ -1156,9 +1156,9 @@ ${AREAS_EN}`,
     shortDescriptionEn:
       "Same-day diagnosis and treatment of urinary infections, in Spanish.",
     description:
-      "Tratamiento de infecciones urinarias en Houston, el mismo día y en español. Con o sin seguro, sin cita previa.",
+      "Tratamiento de infecciones urinarias en Houston, el mismo día y en español. Sin necesidad de seguro, sin cita previa.",
     descriptionEn:
-      "Urinary infection treatment in Houston, same day and in Spanish. With or without insurance, walk-ins welcome.",
+      "Urinary infection treatment in Houston, same day and in Spanish. No insurance needed, walk-ins welcome.",
     keywords: [
       "infeccion urinaria houston",
       "tratamiento infeccion urinaria houston español",
@@ -1232,9 +1232,9 @@ ${AREAS_EN}`,
     shortDescriptionEn:
       "Diagnosis and treatment of vaginal infections, discreet and in Spanish.",
     description:
-      "Tratamiento de infecciones vaginales en Houston, discreto y en español. Con o sin seguro, sin cita previa.",
+      "Tratamiento de infecciones vaginales en Houston, discreto y en español. Sin necesidad de seguro, sin cita previa.",
     descriptionEn:
-      "Vaginal infection treatment in Houston, discreet and in Spanish. With or without insurance, walk-ins welcome.",
+      "Vaginal infection treatment in Houston, discreet and in Spanish. No insurance needed, walk-ins welcome.",
     keywords: [
       "infeccion vaginal houston",
       "tratamiento infeccion vaginal houston español",
@@ -1308,9 +1308,9 @@ ${AREAS_EN}`,
     shortDescriptionEn:
       "DOT physical exam for commercial drivers (CDL), with same-day certificate.",
     description:
-      "Examen físico DOT en Houston para licencia CDL, certificado el mismo día y en español. Con o sin seguro.",
+      "Examen físico DOT en Houston para licencia CDL, certificado el mismo día y en español. Sin necesidad de seguro.",
     descriptionEn:
-      "DOT physical exam in Houston for CDL license, same-day certificate, in Spanish. With or without insurance.",
+      "DOT physical exam in Houston for CDL license, same-day certificate, in Spanish. No insurance needed.",
     keywords: [
       "examen dot houston",
       "examen fisico dot houston español",
@@ -1386,9 +1386,9 @@ ${AREAS_EN}`,
     shortDescriptionEn:
       "Physical exams for work, school and sports, fast and in Spanish.",
     description:
-      "Exámenes físicos en Houston para trabajo, escuela y deportes. Rápidos, en español y con o sin seguro.",
+      "Exámenes físicos en Houston para trabajo, escuela y deportes. Rápidos, en español y sin necesidad de seguro.",
     descriptionEn:
-      "Physical exams in Houston for work, school and sports. Fast, in Spanish, with or without insurance.",
+      "Physical exams in Houston for work, school and sports. Fast, in Spanish, with no insurance needed.",
     keywords: [
       "examen fisico houston",
       "examen fisico para trabajo houston",
@@ -1466,9 +1466,9 @@ ${AREAS_EN}`,
     shortDescriptionEn:
       "Evaluation and treatment of back and muscle pain so you regain mobility.",
     description:
-      "Tratamiento del dolor de espalda y muscular en Houston, en español. Con o sin seguro, sin cita previa.",
+      "Tratamiento del dolor de espalda y muscular en Houston, en español. Sin necesidad de seguro, sin cita previa.",
     descriptionEn:
-      "Back and muscle pain treatment in Houston, in Spanish. With or without insurance, walk-ins welcome.",
+      "Back and muscle pain treatment in Houston, in Spanish. No insurance needed, walk-ins welcome.",
     keywords: [
       "dolor de espalda houston",
       "tratamiento dolor muscular houston español",

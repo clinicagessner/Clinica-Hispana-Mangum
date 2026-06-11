@@ -1,6 +1,6 @@
 ---
 title: "Welcome to Clínica Hispana Mangum"
-description: "Get to know Clínica Hispana Mangum: healthcare 100% in Spanish in Houston, TX, walk-ins welcome and with or without insurance."
+description: "Get to know Clínica Hispana Mangum: healthcare 100% in Spanish in Houston, TX, walk-ins welcome and with no insurance needed."
 date: "2026-01-15"
 author: "Clínica Hispana Mangum Team"
 category: "Clinic"
@@ -16,7 +16,7 @@ At Clínica Hispana Mangum we believe that taking care of your health shouldn't 
 
 ## Who we are
 
-We are a family medical clinic located at **2912 Mangum Rd Ste. A, Houston, TX 77092**. We care for children and adults, with or without insurance, and no appointment is needed. Our hours are **Monday to Sunday, 9:00 AM to 9:00 PM**, because health doesn't wait for the weekend.
+We are a family medical clinic located at **2912 Mangum Rd Ste. A, Houston, TX 77092**. We care for children and adults, with no insurance needed and no appointment required. Our hours are **Monday to Sunday, 9:00 AM to 9:00 PM**, because health doesn't wait for the weekend.
 
 ## What you'll find with us
 
@@ -32,7 +32,7 @@ We offer a wide range of services under one roof:
 
 ## Why choose us
 
-What sets us apart isn't just what we do, but **how we do it**. We welcome you in your language, explain every step without jargon, and treat you with the respect and time you deserve. We accept patients with or without insurance and offer affordable, transparent pricing.
+What sets us apart isn't just what we do, but **how we do it**. We welcome you in your language, explain every step without jargon, and treat you with the respect and time you deserve. We accept patients with no insurance needed and offer affordable, transparent pricing.
 
 ## We're waiting for you
 

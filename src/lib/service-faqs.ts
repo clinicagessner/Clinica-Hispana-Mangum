@@ -25,10 +25,10 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
     {
       question: "¿Aceptan pacientes sin seguro?",
       answer:
-        "Sí. Atendemos a pacientes con o sin seguro, con precios accesibles y transparentes.",
+        "Sí. Atendemos a pacientes sin necesidad de seguro, con precios accesibles y transparentes.",
       questionEn: "Do you accept patients without insurance?",
       answerEn:
-        "Yes. We see patients with or without insurance, with affordable and transparent pricing.",
+        "Yes. We see patients with no insurance needed, with affordable and transparent pricing.",
     },
   ],
   "examenes-inmigracion": [
@@ -205,10 +205,10 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
     {
       question: "¿Atienden sin seguro?",
       answer:
-        "Sí, atendemos a pacientes con o sin seguro y con precios accesibles.",
+        "Sí, atendemos a pacientes sin necesidad de seguro y con precios accesibles.",
       questionEn: "Do you see patients without insurance?",
       answerEn:
-        "Yes, we see patients with or without insurance and with affordable pricing.",
+        "Yes, we see patients with no insurance needed and with affordable pricing.",
     },
   ],
   "planificacion-familiar": [

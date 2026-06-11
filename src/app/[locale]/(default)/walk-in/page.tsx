@@ -23,17 +23,17 @@ const COPY = {
   es: {
     metaTitle: "Clínica Sin Cita en Houston - Walk-in en Español",
     metaDescription:
-      "Atención médica sin cita previa en Houston, en español, con o sin seguro. Abierto de lunes a domingo de 9 AM a 9 PM.",
+      "Atención médica sin cita previa en Houston, en español, sin necesidad de seguro. Abierto de lunes a domingo de 9 AM a 9 PM.",
     eyebrow: "Atención sin cita previa",
     title: "Te atendemos hoy, sin cita y en español",
     subtitle:
-      "No necesitas agendar. Llega a Clínica Hispana Mangum cuando lo necesites: te recibimos con o sin seguro, todos los días de 9 AM a 9 PM.",
+      "No necesitas agendar. Llega a Clínica Hispana Mangum cuando lo necesites: te recibimos sin necesidad de seguro, todos los días de 9 AM a 9 PM.",
     call: "Llamar ahora",
     directions: "Cómo llegar",
     benefitsTitle: "Por qué venir sin cita",
     benefits: [
       { title: "Sin cita previa", body: "Llega cuando puedas; te atendemos el mismo día." },
-      { title: "Con o sin seguro", body: "Precios accesibles y transparentes para todos." },
+      { title: "Sin necesidad de seguro", body: "Precios accesibles y transparentes para todos." },
       { title: "100% en español", body: "Un equipo que te escucha y te explica en tu idioma." },
       { title: "Todos los días", body: "Abierto de lunes a domingo, de 9 AM a 9 PM." },
     ],
@@ -51,7 +51,7 @@ const COPY = {
       },
       {
         question: "¿Atienden si no tengo seguro?",
-        answer: "Sí, atendemos con o sin seguro, con precios accesibles.",
+        answer: "Sí, atendemos sin necesidad de seguro, con precios accesibles.",
       },
       {
         question: "¿Qué servicios puedo recibir sin cita?",
@@ -65,17 +65,17 @@ const COPY = {
   en: {
     metaTitle: "Walk-in Clinic in Houston - No Appointment, Spanish",
     metaDescription:
-      "Walk-in medical care in Houston, in Spanish, with or without insurance. Open Monday to Sunday, 9 AM to 9 PM.",
+      "Walk-in medical care in Houston, in Spanish, with no insurance needed. Open Monday to Sunday, 9 AM to 9 PM.",
     eyebrow: "Walk-ins welcome",
     title: "We see you today—no appointment, in Spanish",
     subtitle:
-      "No need to schedule. Come to Clínica Hispana Mangum whenever you need: we see you with or without insurance, every day from 9 AM to 9 PM.",
+      "No need to schedule. Come to Clínica Hispana Mangum whenever you need: we see you with no insurance needed, every day from 9 AM to 9 PM.",
     call: "Call now",
     directions: "Get directions",
     benefitsTitle: "Why walk in",
     benefits: [
       { title: "No appointment", body: "Come when you can; we see you the same day." },
-      { title: "With or without insurance", body: "Affordable, transparent pricing for everyone." },
+      { title: "No insurance needed", body: "Affordable, transparent pricing for everyone." },
       { title: "100% in Spanish", body: "A team that listens and explains in your language." },
       { title: "Every day", body: "Open Monday to Sunday, 9 AM to 9 PM." },
     ],
@@ -93,7 +93,7 @@ const COPY = {
       },
       {
         question: "Do you see patients without insurance?",
-        answer: "Yes, we see patients with or without insurance, with affordable pricing.",
+        answer: "Yes, we see patients with no insurance needed, with affordable pricing.",
       },
       {
         question: "Which services can I get as a walk-in?",
