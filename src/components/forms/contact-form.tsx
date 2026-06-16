@@ -110,6 +110,7 @@ export function ContactForm({
         <Field
           id="name"
           label={t("nameLabel")}
+          required
           invalid={!!errors.name}
           error={errors.name ? t("errorName") : undefined}
         >
@@ -118,6 +119,7 @@ export function ContactForm({
             autoComplete="name"
             placeholder={t("namePlaceholder")}
             aria-invalid={!!errors.name}
+            aria-required="true"
             className="h-11"
             {...register("name")}
           />
@@ -126,6 +128,7 @@ export function ContactForm({
         <Field
           id="phone"
           label={t("phoneLabel")}
+          required
           invalid={!!errors.phone}
           error={errors.phone ? t("errorPhone") : undefined}
         >
@@ -135,6 +138,7 @@ export function ContactForm({
             autoComplete="tel"
             placeholder={t("phonePlaceholder")}
             aria-invalid={!!errors.phone}
+            aria-required="true"
             className="h-11"
             {...register("phone")}
           />
@@ -143,6 +147,7 @@ export function ContactForm({
         <Field
           id="email"
           label={t("emailLabel")}
+          required
           invalid={!!errors.email}
           error={errors.email ? t("errorEmail") : undefined}
         >
@@ -152,6 +157,7 @@ export function ContactForm({
             autoComplete="email"
             placeholder={t("emailPlaceholder")}
             aria-invalid={!!errors.email}
+            aria-required="true"
             className="h-11"
             {...register("email")}
           />
@@ -172,6 +178,13 @@ export function ContactForm({
           </select>
         </Field>
       </div>
+
+      <p className="mt-2 text-xs text-slate-primary">
+        <span className="text-red-accent" aria-hidden="true">
+          *
+        </span>{" "}
+        {t("requiredHint")}
+      </p>
 
       <div className="mt-5">
         <Field
@@ -221,12 +234,14 @@ function Field({
   id,
   label,
   invalid,
+  required,
   error,
   children,
 }: {
   id: string;
   label: string;
   invalid?: boolean;
+  required?: boolean;
   error?: string;
   children: React.ReactNode;
 }) {
@@ -237,6 +252,11 @@ function Field({
         className={cn("mb-1.5 text-slate-dark", invalid && "text-red-accent")}
       >
         {label}
+        {required ? (
+          <span className="ml-0.5 text-red-accent" aria-hidden="true">
+            *
+          </span>
+        ) : null}
       </Label>
       {children}
       {error ? (

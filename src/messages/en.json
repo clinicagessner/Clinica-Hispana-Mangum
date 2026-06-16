@@ -110,6 +110,7 @@
     "errorBody": "Please try again or call us directly.",
     "orCall": "Or call us at",
     "optional": "optional",
+    "requiredHint": "Required fields",
     "errorName": "Enter your name (at least 2 characters).",
     "errorPhone": "Enter a 10-digit phone number.",
     "errorEmail": "Enter a valid email address.",

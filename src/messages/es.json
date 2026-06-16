@@ -110,6 +110,7 @@
     "errorBody": "Inténtalo de nuevo o llámanos directamente.",
     "orCall": "O llámanos al",
     "optional": "opcional",
+    "requiredHint": "Campos obligatorios",
     "errorName": "Escribe tu nombre (mínimo 2 caracteres).",
     "errorPhone": "Escribe un teléfono de 10 dígitos.",
     "errorEmail": "Escribe un correo electrónico válido.",
