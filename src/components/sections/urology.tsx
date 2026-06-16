@@ -34,7 +34,7 @@ export function Urology() {
             {t("body")}
           </p>
           <Link
-            href="/services/urologia"
+            href="/services/salud-hombre"
             className={cn(ctaButton({ size: "lg" }), "mt-8")}
           >
             {t("cta")}
