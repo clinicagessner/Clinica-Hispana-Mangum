@@ -111,7 +111,7 @@
     "orCall": "Or call us at",
     "optional": "optional",
     "errorName": "Enter your name (at least 2 characters).",
-    "errorPhone": "Enter a valid phone number.",
+    "errorPhone": "Enter a 10-digit phone number.",
     "errorEmail": "Enter a valid email address.",
     "errorConsent": "You must accept in order to send."
   },

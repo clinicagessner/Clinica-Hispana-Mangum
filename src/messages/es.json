@@ -111,7 +111,7 @@
     "orCall": "O llámanos al",
     "optional": "opcional",
     "errorName": "Escribe tu nombre (mínimo 2 caracteres).",
-    "errorPhone": "Escribe un teléfono válido.",
+    "errorPhone": "Escribe un teléfono de 10 dígitos.",
     "errorEmail": "Escribe un correo electrónico válido.",
     "errorConsent": "Debes aceptar para poder enviar."
   },
