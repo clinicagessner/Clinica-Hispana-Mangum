@@ -1,7 +1,8 @@
 import Image from "next/image";
-import { Check, Clock, Navigation, Phone, ShieldCheck, Star } from "lucide-react";
+import { Check, Clock, Navigation, Phone, ShieldCheck } from "lucide-react";
 import { getTranslations } from "next-intl/server";
 import { Reveal } from "@/components/animations/reveal";
+import { StarRating } from "@/components/shared/star-rating";
 import { CONTACT_INFO } from "@/lib/constants";
 import { getGooglePlaceData } from "@/lib/google-places";
 import { ctaButton } from "@/lib/button-styles";
@@ -101,14 +102,7 @@ export async function Hero() {
             {/* Reseñas (solo el número) */}
             <Reveal delay={120}>
               <StatCard className="sm:translate-y-6 sm:-rotate-2">
-                <div className="flex gap-0.5">
-                  {Array.from({ length: 5 }).map((_, i) => (
-                    <Star
-                      key={i}
-                      className="h-5 w-5 fill-gold-accent text-gold-accent"
-                    />
-                  ))}
-                </div>
+                <StarRating rating={place.averageRating} />
                 <p className="mt-3 font-heading text-base font-bold text-slate-dark">
                   {tc("ratingSummary", { count: place.totalReviews })}
                 </p>

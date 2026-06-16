@@ -1,6 +1,6 @@
-import { Star } from "lucide-react";
 import { getLocale, getTranslations } from "next-intl/server";
 import { Reveal } from "@/components/animations/reveal";
+import { StarRating } from "@/components/shared/star-rating";
 import {
   TestimonialsCarousel,
   type CarouselTestimonial,
@@ -52,14 +52,7 @@ export async function Testimonials() {
 
           <Reveal delay={120} className="lg:col-span-5 lg:text-right">
             <div className="inline-flex items-center gap-3 rounded-2xl border border-green-light bg-white px-5 py-3 shadow-sm">
-              <div className="flex gap-0.5">
-                {Array.from({ length: 5 }).map((_, i) => (
-                  <Star
-                    key={i}
-                    className="h-5 w-5 fill-gold-accent text-gold-accent"
-                  />
-                ))}
-              </div>
+              <StarRating rating={place.averageRating} />
               <span className="font-heading text-sm font-bold text-green-dark">
                 {tc("ratingSummary", { count: place.totalReviews })}
               </span>
