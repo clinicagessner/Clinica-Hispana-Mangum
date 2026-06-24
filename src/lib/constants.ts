@@ -40,9 +40,12 @@ export const CONTACT_INFO = {
   city: "Houston",
   state: "TX",
   zip: "77092",
-  phone: "+18329068551",
-  phoneFormatted: "+1 (832) 906-8551",
-  phoneDisplay: "(832) 906-8551",
+  // Número real de la clínica (NAP). CallRail swap.js lo intercambia en el
+  // navegador por un número del pool de seguimiento; el código siempre lleva
+  // el real para mantener la consistencia del NAP (SEO local + JSON-LD).
+  phone: "+18328345507",
+  phoneFormatted: "+1 (832) 834-5507",
+  phoneDisplay: "(832) 834-5507",
   email: "clinicahispanamangum@gmail.com",
   hours: "Lunes a Domingo: 9:00 AM - 9:00 PM",
   hoursEn: "Monday to Sunday: 9:00 AM - 9:00 PM",
