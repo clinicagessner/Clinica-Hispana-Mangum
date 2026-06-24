@@ -82,9 +82,133 @@ export const GOOGLE_REVIEWS_DATA = {
   totalReviews: 477,
 } as const;
 
+// Promociones. El flyer (imagen 4:5, 1080x1350) vive en
+// public/images/promotions/<slug>.webp y el texto descriptivo (title, blurb,
+// includes, price) se renderiza en la página /promociones para SEO y los flyers
+// se muestran en el carrusel de la home. Para agregar una: nuevo objeto aquí +
+// flyer con el mismo slug. `price` = null cuando el flyer no muestra precio.
+export interface Promotion {
+  slug: string;
+  title: string;
+  titleEn: string;
+  price: string | null;
+  blurb: string;
+  blurbEn: string;
+  includes: string[];
+  includesEn: string[];
+  alt: string;
+  altEn: string;
+}
+
+export const PROMOTIONS: Promotion[] = [
+  {
+    slug: "examen-dot",
+    title: "Examen DOT para licencia CDL",
+    titleEn: "DOT exam for your CDL license",
+    price: null,
+    blurb:
+      "¿Necesitas tu examen físico DOT para conducir? En Clínica Hispana Mangum te lo hacemos de forma rápida, con certificación oficial y atención 100% en español. Sal el mismo día con tu certificado y vuelve a la carretera sin demoras.",
+    blurbEn:
+      "Need your DOT physical to drive? At Clínica Hispana Mangum we do it fast, with official certification and care 100% in Spanish. Leave the same day with your certificate and get back on the road without delays.",
+    includes: [
+      "Examen médico DOT rápido",
+      "Certificación oficial para tu licencia CDL",
+      "Atención 100% en español",
+      "Resultados el mismo día",
+    ],
+    includesEn: [
+      "Fast DOT medical exam",
+      "Official certification for your CDL license",
+      "Care 100% in Spanish",
+      "Same-day results",
+    ],
+    alt: "Promoción de examen médico DOT para licencia CDL en Clínica Hispana Mangum, Houston",
+    altEn:
+      "DOT medical exam promotion for CDL license at Clínica Hispana Mangum, Houston",
+  },
+  {
+    slug: "sangre-b12",
+    title: "Examen general de sangre + Vitamina B12",
+    titleEn: "Complete blood panel + Vitamin B12",
+    price: "$99",
+    blurb:
+      "Cuida tu salud con nuestra promoción especial: un examen general de sangre completo más una inyección de vitamina B12 para apoyar tu energía y bienestar. Conoce cómo está tu cuerpo y date un impulso, todo por solo $99.",
+    blurbEn:
+      "Take care of your health with our special promotion: a complete blood panel plus a vitamin B12 shot to support your energy and wellbeing. Find out how your body is doing and give yourself a boost, all for only $99.",
+    includes: [
+      "Examen general de sangre completo",
+      "Inyección de vitamina B12",
+      "Apoyo a tu energía y bienestar",
+      "Atención en español",
+    ],
+    includesEn: [
+      "Complete blood panel",
+      "Vitamin B12 injection",
+      "Support for your energy and wellbeing",
+      "Care in Spanish",
+    ],
+    alt: "Promoción de examen general de sangre con inyección de vitamina B12 por $99 en Clínica Hispana Mangum, Houston",
+    altEn:
+      "Complete blood panel with vitamin B12 injection for $99 promotion at Clínica Hispana Mangum, Houston",
+  },
+  {
+    slug: "salud-intima-femenina",
+    title: "Salud íntima femenina",
+    titleEn: "Women's intimate health",
+    price: "$69",
+    blurb:
+      "¿Picazón, flujo o mal olor? No lo ignores: pueden ser señales de una infección. Nuestra promoción de salud íntima femenina incluye cultivo íntimo, consulta médica y examen de orina gratis, con atención confidencial y personal femenino. Todo por solo $69.",
+    blurbEn:
+      "Itching, discharge or odor? Don't ignore it — these can be signs of an infection. Our women's intimate health promotion includes an intimate culture, a medical consultation and a free urine test, with confidential care and female staff. All for only $69.",
+    includes: [
+      "Cultivo íntimo",
+      "Consulta médica",
+      "Examen de orina gratis",
+      "Atención confidencial con personal femenino",
+      "Resultados rápidos",
+    ],
+    includesEn: [
+      "Intimate culture test",
+      "Medical consultation",
+      "Free urine test",
+      "Confidential care with female staff",
+      "Fast results",
+    ],
+    alt: "Promoción de salud íntima femenina por $69 en Clínica Hispana Mangum, Houston",
+    altEn:
+      "Women's intimate health promotion for $69 at Clínica Hispana Mangum, Houston",
+  },
+  {
+    slug: "perfil-hormonal-hombres",
+    title: "Perfil hormonal para hombres",
+    titleEn: "Hormone panel for men",
+    price: "$200",
+    blurb:
+      "¿Cansancio, irritabilidad, pérdida de masa muscular o baja libido? Pueden ser señales de un desequilibrio hormonal. Nuestro perfil hormonal masculino evalúa tu salud hormonal con exámenes confiables y resultados precisos, con atención profesional en español. Por solo $200.",
+    blurbEn:
+      "Fatigue, irritability, loss of muscle mass or low libido? These can be signs of a hormonal imbalance. Our male hormone panel evaluates your hormonal health with reliable tests and precise results, with professional care in Spanish. For only $200.",
+    includes: [
+      "Evalúa desequilibrios hormonales",
+      "Energía, sueño y estado de ánimo",
+      "Masa muscular y libido",
+      "Exámenes confiables y resultados precisos",
+    ],
+    includesEn: [
+      "Evaluates hormonal imbalances",
+      "Energy, sleep and mood",
+      "Muscle mass and libido",
+      "Reliable tests and precise results",
+    ],
+    alt: "Promoción de perfil hormonal masculino por $200 en Clínica Hispana Mangum, Houston",
+    altEn:
+      "Male hormone panel promotion for $200 at Clínica Hispana Mangum, Houston",
+  },
+];
+
 // Navbar (header): sin "Sin cita".
 export const NAV_LINKS: NavLink[] = [
   { key: "services", href: "/services" },
+  { key: "promotions", href: "/promociones" },
   { key: "blog", href: "/blog" },
   { key: "contact", href: "/#contacto" },
 ];
@@ -92,6 +216,7 @@ export const NAV_LINKS: NavLink[] = [
 // Footer: incluye "Sin cita" (walk-in).
 export const FOOTER_NAV_LINKS: NavLink[] = [
   { key: "services", href: "/services" },
+  { key: "promotions", href: "/promociones" },
   { key: "blog", href: "/blog" },
   { key: "walkIn", href: "/walk-in" },
   { key: "contact", href: "/#contacto" },

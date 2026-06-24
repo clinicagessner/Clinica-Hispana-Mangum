@@ -67,7 +67,7 @@ export default async function ServicesPage({
       />
 
       {/* Encabezado */}
-      <section className="relative overflow-hidden bg-gradient-to-b from-mint-warm to-mint-bg py-16 lg:py-20">
+      <section className="relative overflow-hidden bg-linear-to-b from-mint-warm to-mint-bg py-16 lg:py-20">
         <div
           aria-hidden
           className="pointer-events-none absolute -right-20 -top-20 h-80 w-80 rounded-full bg-green-soft/15 blur-3xl"
@@ -83,7 +83,7 @@ export default async function ServicesPage({
             <p className="mt-4 max-w-2xl text-lg leading-relaxed text-slate-primary">
               {t("subtitle")}
             </p>
-            <div className="mt-5 h-0.5 w-24 rounded-full bg-gradient-to-r from-green-primary to-gold-accent" />
+            <div className="mt-5 h-0.5 w-24 rounded-full bg-linear-to-r from-green-primary to-gold-accent" />
           </Reveal>
         </div>
       </section>

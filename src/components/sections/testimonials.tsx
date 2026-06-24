@@ -35,7 +35,10 @@ export async function Testimonials() {
         }));
 
   return (
-    <section className="bg-gradient-to-b from-mint-bg to-mint-warm py-20 lg:py-28">
+    <section
+      id="testimonios"
+      className="scroll-mt-24 bg-linear-to-b from-mint-bg to-mint-warm py-20 lg:py-28"
+    >
       <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
         <div className="grid gap-6 lg:grid-cols-12 lg:items-end">
           <Reveal className="lg:col-span-7">

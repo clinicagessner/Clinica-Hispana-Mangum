@@ -24,7 +24,7 @@ export function BlogCard({
       )}
     >
       {/* Cover: foto real si existe, si no composición CSS */}
-      <div className="relative flex aspect-[16/9] items-end overflow-hidden bg-gradient-to-br from-green-primary via-green-dark to-green-deep p-5">
+      <div className="relative flex aspect-[16/9] items-end overflow-hidden bg-linear-to-br from-green-primary via-green-dark to-green-deep p-5">
         {post.hasCover ? (
           <>
             <Image
@@ -36,7 +36,7 @@ export function BlogCard({
             />
             <div
               aria-hidden
-              className="absolute inset-0 bg-gradient-to-t from-green-deep/80 via-green-deep/20 to-transparent"
+              className="absolute inset-0 bg-linear-to-t from-green-deep/80 via-green-deep/20 to-transparent"
             />
           </>
         ) : (

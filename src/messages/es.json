@@ -2,6 +2,7 @@
   "Nav": {
     "home": "Inicio",
     "services": "Servicios",
+    "promotions": "Promociones",
     "blog": "Blog",
     "walkIn": "Sin cita",
     "contact": "Contacto",
@@ -32,10 +33,26 @@
     "subtitle": "Medicina familiar, exámenes de inmigración, laboratorio y más. Sin cita previa, sin necesidad de seguro. Te atendemos como a los nuestros.",
     "ctaCall": "Llamar a la clínica",
     "ctaDirections": "Cómo llegar",
+    "ctaForm": "¿Prefieres que te contactemos? Escríbenos",
     "trustWalkIn": "Sin cita previa",
-    "trustBilingual": "Hablamos español",
-    "trustInsurance": "Sin necesidad de seguro",
+    "trustBilingual": "100% en español",
+    "trustInsurance": "Aceptamos pacientes sin seguro",
+    "trustPricing": "Precios accesibles",
+    "reviewsBadge": "{count}+ reseñas en Google",
+    "ctaCallAria": "Llamar a Clínica Hispana Mangum al {phone}",
+    "ctaDirectionsAria": "Cómo llegar a {address} (abre Google Maps en una pestaña nueva)",
     "hoursLine": "Lunes a Domingo · 9 AM – 9 PM"
+  },
+  "Promotions": {
+    "eyebrow": "Ofertas del mes",
+    "title": "Promociones de la clínica",
+    "subtitle": "Aprovecha nuestras ofertas en consultas, laboratorio y exámenes. Toca una promoción para verla en grande.",
+    "swipeHint": "Desliza para ver más promociones",
+    "viewAll": "Ver todas las promociones",
+    "viewDetail": "Ver promoción",
+    "prev": "Promoción anterior",
+    "next": "Siguiente promoción",
+    "openAria": "Ver detalle de {name}"
   },
   "Services": {
     "eyebrow": "Nuestros servicios",

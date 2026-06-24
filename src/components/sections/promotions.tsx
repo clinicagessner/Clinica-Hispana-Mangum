@@ -1,0 +1,80 @@
+import { ArrowRight } from "lucide-react";
+import { useLocale, useTranslations } from "next-intl";
+import { Link } from "@/i18n/navigation";
+import { Reveal } from "@/components/animations/reveal";
+import {
+  PromotionsCarousel,
+  type PromotionItem,
+} from "@/components/sections/promotions-carousel";
+import { PROMOTIONS } from "@/lib/constants";
+import { ctaButton } from "@/lib/button-styles";
+import { cn } from "@/lib/utils";
+import type { Locale } from "@/types";
+
+export function Promotions() {
+  const t = useTranslations("Promotions");
+  const locale = useLocale() as Locale;
+  const isEn = locale === "en";
+
+  const items: PromotionItem[] = PROMOTIONS.map((promo) => {
+    const alt = isEn ? promo.altEn : promo.alt;
+    return {
+      slug: promo.slug,
+      src: `/images/promotions/${promo.slug}.webp`,
+      alt,
+      openLabel: t("openAria", { name: alt }),
+    };
+  });
+
+  return (
+    <section
+      id="promociones"
+      className="scroll-mt-24 bg-mint-warm py-20 lg:py-28"
+    >
+      <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+        {/* Encabezado centrado */}
+        <Reveal className="mx-auto max-w-2xl text-center">
+          <p className="text-xs font-semibold uppercase tracking-[0.25em] text-gold-accent-dark">
+            {t("eyebrow")}
+          </p>
+          <h2 className="mt-3 font-heading text-3xl font-extrabold leading-tight tracking-tight text-slate-dark sm:text-4xl">
+            {t("title")}
+          </h2>
+          <div className="mx-auto mt-4 h-0.5 w-20 rounded-full bg-linear-to-r from-green-primary to-gold-accent" />
+          <p className="mt-4 text-base leading-relaxed text-slate-primary">
+            {t("subtitle")}
+          </p>
+        </Reveal>
+
+        {/* Carrusel de flyers (client) */}
+        <div className="mt-12">
+          <PromotionsCarousel
+            items={items}
+            labels={{
+              viewDetail: t("viewDetail"),
+              prev: t("prev"),
+              next: t("next"),
+            }}
+          />
+        </div>
+
+        {/* Pista de deslizar (solo móvil/tablet) */}
+        <p className="mt-6 flex items-center justify-center gap-1.5 text-sm font-medium text-slate-muted md:hidden">
+          {t("swipeHint")}
+          <ArrowRight className="h-4 w-4" />
+        </p>
+
+        {/* CTA a la página completa de promociones */}
+        <div className="mt-10 flex justify-center">
+          <Link
+            href="/promociones"
+            className={cn(ctaButton({ size: "lg" }))}
+          >
+            {t("viewAll")}
+            <ArrowRight className="h-5 w-5" />
+          </Link>
+        </div>
+      </div>
+    </section>
+  );
+}

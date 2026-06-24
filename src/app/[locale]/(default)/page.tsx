@@ -1,6 +1,8 @@
 import type { Metadata } from "next";
 import { setRequestLocale } from "next-intl/server";
+import { ScrollSpy } from "@/components/shared/scroll-spy";
 import { Hero } from "@/components/sections/hero";
+import { Promotions } from "@/components/sections/promotions";
 import { Services } from "@/components/sections/services";
 import { Gynecology } from "@/components/sections/gynecology";
 import { Urology } from "@/components/sections/urology";
@@ -39,7 +41,22 @@ export default async function HomePage({
 
   return (
     <>
+      <ScrollSpy
+        ids={[
+          "inicio",
+          "promociones",
+          "servicios",
+          "ginecologia",
+          "urologia",
+          "testimonios",
+          "blog",
+          "faq",
+          "ubicacion",
+          "contacto",
+        ]}
+      />
       <Hero />
+      <Promotions />
       <Services />
       <Gynecology />
       <Urology />

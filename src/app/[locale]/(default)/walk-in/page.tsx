@@ -145,7 +145,7 @@ export default async function WalkInPage({
       />
 
       {/* Hero */}
-      <section className="relative overflow-hidden bg-gradient-to-br from-green-primary via-green-dark to-green-deep py-20 text-mint-bg lg:py-28">
+      <section className="relative overflow-hidden bg-linear-to-br from-green-primary via-green-dark to-green-deep py-20 text-mint-bg lg:py-28">
         <div
           aria-hidden
           className="pointer-events-none absolute -right-20 -top-16 h-96 w-96 rounded-full bg-gold-accent/15 blur-3xl"
@@ -184,7 +184,7 @@ export default async function WalkInPage({
       </section>
 
       {/* Beneficios */}
-      <section className="bg-gradient-to-b from-mint-warm to-mint-bg py-20 lg:py-24">
+      <section className="bg-linear-to-b from-mint-warm to-mint-bg py-20 lg:py-24">
         <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
           <h2 className="text-center font-heading text-3xl font-extrabold tracking-tight text-slate-dark">
             {c.benefitsTitle}
@@ -213,7 +213,7 @@ export default async function WalkInPage({
       </section>
 
       {/* Cómo funciona */}
-      <section className="bg-gradient-to-b from-mint-bg to-mint-warm py-20 lg:py-24">
+      <section className="bg-linear-to-b from-mint-bg to-mint-warm py-20 lg:py-24">
         <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
           <h2 className="text-center font-heading text-3xl font-extrabold tracking-tight text-slate-dark">
             {c.stepsTitle}
@@ -239,7 +239,7 @@ export default async function WalkInPage({
       </section>
 
       {/* FAQ */}
-      <section className="bg-gradient-to-b from-mint-warm to-mint-bg py-20 lg:py-24">
+      <section className="bg-linear-to-b from-mint-warm to-mint-bg py-20 lg:py-24">
         <div className="mx-auto max-w-3xl px-4 sm:px-6 lg:px-8">
           <h2 className="text-center font-heading text-3xl font-extrabold tracking-tight text-slate-dark">
             {c.faqTitle}
@@ -253,8 +253,8 @@ export default async function WalkInPage({
       </section>
 
       {/* CTA final */}
-      <section className="bg-gradient-to-b from-mint-bg to-green-deep py-16 text-center">
-        <div className="mx-auto max-w-3xl rounded-[2rem] bg-gradient-to-br from-green-deep via-green-dark to-green-deep px-6 py-12 text-mint-bg shadow-2xl shadow-green-deep/20 sm:px-10">
+      <section className="bg-linear-to-b from-mint-bg to-green-deep py-16 text-center">
+        <div className="mx-auto max-w-3xl rounded-4xl bg-linear-to-br from-green-deep via-green-dark to-green-deep px-6 py-12 text-mint-bg shadow-2xl shadow-green-deep/20 sm:px-10">
           <h2 className="font-heading text-2xl font-extrabold text-white sm:text-3xl">
             {c.finalTitle}
           </h2>

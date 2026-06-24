@@ -95,7 +95,7 @@ export default async function PrivacyPage({
           {c.title}
         </h1>
         <p className="mt-3 text-lg text-slate-primary">{c.subtitle}</p>
-        <div className="mt-5 h-0.5 w-24 rounded-full bg-gradient-to-r from-green-primary to-gold-accent" />
+        <div className="mt-5 h-0.5 w-24 rounded-full bg-linear-to-r from-green-primary to-gold-accent" />
 
         <div className="mt-10 rounded-2xl border border-green-light bg-white px-6 py-8 shadow-sm sm:px-10">
           <p className="leading-relaxed text-slate-primary">{c.intro}</p>

@@ -12,7 +12,10 @@ export function Location() {
   const en = locale === "en";
 
   return (
-    <section className="bg-gradient-to-b from-mint-warm to-mint-bg py-20 lg:py-28">
+    <section
+      id="ubicacion"
+      className="scroll-mt-24 bg-linear-to-b from-mint-warm to-mint-bg py-20 lg:py-28"
+    >
       <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
         <Reveal>
           <p className="text-xs font-semibold uppercase tracking-[0.25em] text-gold-accent-dark">
@@ -21,7 +24,7 @@ export function Location() {
           <h2 className="mt-3 font-heading text-3xl font-extrabold leading-tight tracking-tight text-slate-dark sm:text-4xl">
             {t("title")}
           </h2>
-          <div className="mt-4 h-0.5 w-20 rounded-full bg-gradient-to-r from-green-primary to-gold-accent" />
+          <div className="mt-4 h-0.5 w-20 rounded-full bg-linear-to-r from-green-primary to-gold-accent" />
         </Reveal>
 
         <div className="mt-10 grid gap-8 lg:grid-cols-12">

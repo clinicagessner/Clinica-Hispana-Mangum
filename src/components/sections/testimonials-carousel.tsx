@@ -78,7 +78,7 @@ export function TestimonialsCarousel({
                     className="h-11 w-11 shrink-0 rounded-full object-cover ring-2 ring-green-light"
                   />
                 ) : (
-                  <span className="flex h-11 w-11 shrink-0 items-center justify-center rounded-full bg-gradient-to-br from-green-primary to-green-dark font-heading text-sm font-bold text-white">
+                  <span className="flex h-11 w-11 shrink-0 items-center justify-center rounded-full bg-linear-to-br from-green-primary to-green-dark font-heading text-sm font-bold text-white">
                     {initials(item.author)}
                   </span>
                 )}

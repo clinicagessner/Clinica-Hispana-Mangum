@@ -2,6 +2,7 @@
   "Nav": {
     "home": "Home",
     "services": "Services",
+    "promotions": "Promotions",
     "blog": "Blog",
     "walkIn": "Walk-in",
     "contact": "Contact",
@@ -32,10 +33,26 @@
     "subtitle": "Family medicine, immigration exams, lab work and more. Walk-ins welcome, with no insurance needed. We treat you like family.",
     "ctaCall": "Call the clinic",
     "ctaDirections": "Get directions",
+    "ctaForm": "Prefer we reach out? Send us a message",
     "trustWalkIn": "Walk-ins welcome",
-    "trustBilingual": "We speak Spanish",
-    "trustInsurance": "No insurance needed",
+    "trustBilingual": "100% in Spanish",
+    "trustInsurance": "We accept patients without insurance",
+    "trustPricing": "Affordable pricing",
+    "reviewsBadge": "{count}+ Google reviews",
+    "ctaCallAria": "Call Clínica Hispana Mangum at {phone}",
+    "ctaDirectionsAria": "Get directions to {address} (opens Google Maps in a new tab)",
     "hoursLine": "Monday to Sunday · 9 AM – 9 PM"
+  },
+  "Promotions": {
+    "eyebrow": "This month's offers",
+    "title": "Clinic promotions",
+    "subtitle": "Take advantage of our offers on consultations, lab work and exams. Tap a promotion to see it larger.",
+    "swipeHint": "Swipe to see more promotions",
+    "viewAll": "View all promotions",
+    "viewDetail": "View promotion",
+    "prev": "Previous promotion",
+    "next": "Next promotion",
+    "openAria": "View details for {name}"
   },
   "Services": {
     "eyebrow": "Our services",

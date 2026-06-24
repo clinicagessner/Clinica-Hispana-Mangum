@@ -10,18 +10,21 @@ export function Gynecology() {
   const points = [t("point1"), t("point2"), t("point3")];
 
   return (
-    <section className="bg-gradient-to-b from-mint-bg to-mint-warm py-16 lg:py-24">
+    <section
+      id="ginecologia"
+      className="scroll-mt-24 bg-linear-to-b from-mint-bg to-mint-warm py-16 lg:py-24"
+    >
       <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
         {/* Tarjeta oscura flotante: sin línea ni degradado, fondo claro continuo */}
         <Reveal>
-          <div className="relative overflow-hidden rounded-[2rem] bg-gradient-to-br from-green-deep via-green-dark to-green-deep px-6 py-12 text-mint-bg shadow-2xl shadow-green-deep/20 sm:px-10 lg:px-14 lg:py-16">
+          <div className="relative overflow-hidden rounded-4xl bg-linear-to-br from-green-deep via-green-dark to-green-deep px-6 py-12 text-mint-bg shadow-2xl shadow-green-deep/20 sm:px-10 lg:px-14 lg:py-16">
             <div
               aria-hidden
               className="pointer-events-none absolute -right-20 top-1/2 h-72 w-72 -translate-y-1/2 rounded-full bg-green-primary/30 blur-3xl"
             />
             <Flower2
               aria-hidden
-              className="pointer-events-none absolute -bottom-8 -left-6 h-44 w-44 text-white/[0.05]"
+              className="pointer-events-none absolute -bottom-8 -left-6 h-44 w-44 text-white/5"
             />
 
             <div className="relative grid gap-10 lg:grid-cols-2 lg:items-center">

@@ -112,7 +112,7 @@ export default async function ServiceDetailPage({
       <JsonLdFaqPage faqs={faqs} />
 
       {/* Hero del servicio (foto del servicio de fondo + overlay verde) */}
-      <section className="relative isolate overflow-hidden bg-gradient-to-br from-green-deep via-green-dark to-green-deep py-16 text-mint-bg lg:py-20">
+      <section className="relative isolate overflow-hidden bg-linear-to-br from-green-deep via-green-dark to-green-deep py-16 text-mint-bg lg:py-20">
         {hasServiceImage(slug) ? (
           <>
             <Image
@@ -125,7 +125,7 @@ export default async function ServiceDetailPage({
             />
             <div
               aria-hidden
-              className="absolute inset-0 -z-10 bg-gradient-to-r from-green-deep via-green-deep/85 to-green-deep/45"
+              className="absolute inset-0 -z-10 bg-linear-to-r from-green-deep via-green-deep/85 to-green-deep/45"
             />
             <div aria-hidden className="absolute inset-0 -z-10 bg-green-deep/40" />
           </>
@@ -231,7 +231,7 @@ export default async function ServiceDetailPage({
           {/* Sidebar CTA */}
           <aside className="lg:col-span-4">
             <div className="lg:sticky lg:top-28">
-              <div className="rounded-2xl border border-green-light bg-gradient-to-br from-green-primary to-green-dark p-7 text-white shadow-lg">
+              <div className="rounded-2xl border border-green-light bg-linear-to-br from-green-primary to-green-dark p-7 text-white shadow-lg">
                 <h2 className="font-heading text-xl font-bold">
                   {t("ctaTitle")}
                 </h2>

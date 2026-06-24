@@ -21,7 +21,10 @@ export function Urology() {
   ];
 
   return (
-    <section className="bg-gradient-to-b from-mint-warm to-mint-bg py-20 lg:py-28">
+    <section
+      id="urologia"
+      className="scroll-mt-24 bg-linear-to-b from-mint-warm to-mint-bg py-20 lg:py-28"
+    >
       <div className="mx-auto grid max-w-7xl items-center gap-12 px-4 sm:px-6 lg:grid-cols-2 lg:px-8">
         <Reveal>
           <p className="text-xs font-semibold uppercase tracking-[0.25em] text-red-accent">

@@ -18,13 +18,13 @@ export function Contact() {
   return (
     <section
       id="contacto"
-      className="bg-gradient-to-b from-mint-bg to-green-deep py-16 lg:py-24"
+      className="scroll-mt-24 bg-linear-to-b from-mint-bg to-green-deep py-16 lg:py-24"
     >
       <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
         {/* Tarjeta oscura flotante: el fondo de sección funde de mint (arriba)
             a verde profundo (abajo) para enlazar con Ubicación y el footer. */}
         <Reveal>
-          <div className="relative overflow-hidden rounded-[2rem] bg-gradient-to-br from-green-deep via-green-dark to-green-deep px-6 py-12 text-mint-bg shadow-2xl shadow-green-deep/30 sm:px-10 lg:px-14 lg:py-14">
+          <div className="relative overflow-hidden rounded-4xl bg-linear-to-br from-green-deep via-green-dark to-green-deep px-6 py-12 text-mint-bg shadow-2xl shadow-green-deep/30 sm:px-10 lg:px-14 lg:py-14">
             <div
               aria-hidden
               className="pointer-events-none absolute -right-24 top-1/4 h-80 w-80 rounded-full bg-gold-accent/10 blur-3xl"

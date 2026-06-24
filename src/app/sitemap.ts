@@ -31,7 +31,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     entry("/services", "weekly", 0.9),
     entry("/blog", "weekly", 0.7),
     entry("/walk-in", "monthly", 0.8),
-    entry("/landing/comparacion-clinicas-houston", "monthly", 0.7),
+    entry("/promociones", "weekly", 0.8),
     entry("/privacy", "yearly", 0.3),
   ];
 
