@@ -1,22 +1,27 @@
 "use client";
 
-import { useCallback } from "react";
+import { useCallback, useState } from "react";
 import Image from "next/image";
 import useEmblaCarousel from "embla-carousel-react";
 import Autoplay from "embla-carousel-autoplay";
 import { ArrowRight, ChevronLeft, ChevronRight } from "lucide-react";
-import { Link } from "@/i18n/navigation";
+import {
+  PromotionDialog,
+  type PromotionContact,
+  type PromotionDetail,
+  type PromotionDialogLabels,
+} from "@/components/sections/promotion-dialog";
 
-export interface PromotionItem {
-  slug: string;
-  src: string;
-  alt: string;
+export interface PromotionItem extends PromotionDetail {
   openLabel: string;
 }
 
 export function PromotionsCarousel({
   items,
   labels,
+  dialogLabels,
+  contact,
+  formHref = "#contacto",
 }: {
   items: PromotionItem[];
   labels: {
@@ -24,10 +29,14 @@ export function PromotionsCarousel({
     prev: string;
     next: string;
   };
+  dialogLabels: PromotionDialogLabels;
+  contact: PromotionContact;
+  formHref?: string;
 }) {
   const [emblaRef, emblaApi] = useEmblaCarousel({ loop: true, align: "start" }, [
     Autoplay({ delay: 5000, stopOnInteraction: true }),
   ]);
+  const [open, setOpen] = useState<number | null>(null);
 
   const scrollPrev = useCallback(() => emblaApi?.scrollPrev(), [emblaApi]);
   const scrollNext = useCallback(() => emblaApi?.scrollNext(), [emblaApi]);
@@ -36,13 +45,14 @@ export function PromotionsCarousel({
     <div className="relative">
       <div className="overflow-hidden" ref={emblaRef}>
         <div className="flex touch-pan-y py-2">
-          {items.map((item) => (
+          {items.map((item, i) => (
             <div
               key={item.slug}
               className="min-w-0 shrink-0 grow-0 basis-[78%] px-2.5 sm:basis-1/2 lg:basis-1/3"
             >
-              <Link
-                href={`/promociones#${item.slug}`}
+              <button
+                type="button"
+                onClick={() => setOpen(i)}
                 aria-label={item.openLabel}
                 className="group relative block aspect-4/5 w-full overflow-hidden rounded-2xl border border-green-light bg-white shadow-md transition-all duration-200 hover:-translate-y-1 hover:shadow-xl hover:shadow-green-primary/10 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-green-primary focus-visible:ring-offset-2"
               >
@@ -60,7 +70,7 @@ export function PromotionsCarousel({
                     <ArrowRight className="h-4 w-4" />
                   </span>
                 </span>
-              </Link>
+              </button>
             </div>
           ))}
         </div>
@@ -83,6 +93,15 @@ export function PromotionsCarousel({
       >
         <ChevronRight className="h-5 w-5" />
       </button>
+
+      {/* Modal con el detalle (se abre sobre la home, sin navegar) */}
+      <PromotionDialog
+        promo={open === null ? null : items[open]}
+        labels={dialogLabels}
+        contact={contact}
+        formHref={formHref}
+        onClose={() => setOpen(null)}
+      />
     </div>
   );
 }

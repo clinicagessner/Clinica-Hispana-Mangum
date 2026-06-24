@@ -52,7 +52,14 @@
     "viewDetail": "Ver promoción",
     "prev": "Promoción anterior",
     "next": "Siguiente promoción",
-    "openAria": "Ver detalle de {name}"
+    "openAria": "Ver detalle de {name}",
+    "limitedTime": "Oferta por tiempo limitado",
+    "priceLabel": "Por solo",
+    "includesLabel": "Incluye",
+    "ctaCall": "Llamar ahora",
+    "ctaDirections": "Cómo llegar",
+    "ctaForm": "Llenar formulario",
+    "close": "Cerrar"
   },
   "Services": {
     "eyebrow": "Nuestros servicios",

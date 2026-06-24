@@ -6,7 +6,7 @@ import {
   PromotionsCarousel,
   type PromotionItem,
 } from "@/components/sections/promotions-carousel";
-import { PROMOTIONS } from "@/lib/constants";
+import { CONTACT_INFO, PROMOTIONS } from "@/lib/constants";
 import { ctaButton } from "@/lib/button-styles";
 import { cn } from "@/lib/utils";
 import type { Locale } from "@/types";
@@ -17,12 +17,16 @@ export function Promotions() {
   const isEn = locale === "en";
 
   const items: PromotionItem[] = PROMOTIONS.map((promo) => {
-    const alt = isEn ? promo.altEn : promo.alt;
+    const title = isEn ? promo.titleEn : promo.title;
     return {
       slug: promo.slug,
       src: `/images/promotions/${promo.slug}.webp`,
-      alt,
-      openLabel: t("openAria", { name: alt }),
+      alt: isEn ? promo.altEn : promo.alt,
+      title,
+      price: promo.price,
+      blurb: isEn ? promo.blurbEn : promo.blurb,
+      includes: isEn ? promo.includesEn : promo.includes,
+      openLabel: t("openAria", { name: title }),
     };
   });
 
@@ -46,7 +50,7 @@ export function Promotions() {
           </p>
         </Reveal>
 
-        {/* Carrusel de flyers (client) */}
+        {/* Carrusel de flyers (abre el detalle en un modal, sin salir de la home) */}
         <div className="mt-12">
           <PromotionsCarousel
             items={items}
@@ -55,6 +59,21 @@ export function Promotions() {
               prev: t("prev"),
               next: t("next"),
             }}
+            dialogLabels={{
+              limitedTime: t("limitedTime"),
+              priceLabel: t("priceLabel"),
+              includesLabel: t("includesLabel"),
+              ctaCall: t("ctaCall"),
+              ctaDirections: t("ctaDirections"),
+              ctaForm: t("ctaForm"),
+              close: t("close"),
+            }}
+            contact={{
+              phone: CONTACT_INFO.phone,
+              phoneDisplay: CONTACT_INFO.phoneDisplay,
+              mapsUrl: CONTACT_INFO.googleMapsUrl,
+            }}
+            formHref="#contacto"
           />
         </div>
 
@@ -66,10 +85,7 @@ export function Promotions() {
 
         {/* CTA a la página completa de promociones */}
         <div className="mt-10 flex justify-center">
-          <Link
-            href="/promociones"
-            className={cn(ctaButton({ size: "lg" }))}
-          >
+          <Link href="/promociones" className={cn(ctaButton({ size: "lg" }))}>
             {t("viewAll")}
             <ArrowRight className="h-5 w-5" />
           </Link>
