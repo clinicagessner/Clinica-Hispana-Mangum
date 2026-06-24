@@ -206,6 +206,85 @@ export const PROMOTIONS: Promotion[] = [
     altEn:
       "Male hormone panel promotion for $200 at Clínica Hispana Mangum, Houston",
   },
+  {
+    slug: "diagnostico-its",
+    title: "Diagnóstico completo de ITS",
+    titleEn: "Complete STI screening",
+    price: "$249",
+    blurb:
+      "Cuida tu salud y la de tu pareja con un diagnóstico completo de enfermedades de transmisión sexual. Incluye pruebas de RPR (sífilis), VIH, herpes, clamidia y gonorrea, con atención confidencial 100% en español. Todo por solo $249.",
+    blurbEn:
+      "Protect your health and your partner's with a complete screening for sexually transmitted infections. It includes RPR (syphilis), HIV, herpes, chlamydia and gonorrhea testing, with confidential care 100% in Spanish. All for only $249.",
+    includes: [
+      "Prueba RPR (sífilis)",
+      "Prueba de VIH",
+      "Prueba de herpes",
+      "Prueba de clamidia",
+      "Prueba de gonorrea",
+      "Atención confidencial en español",
+    ],
+    includesEn: [
+      "RPR test (syphilis)",
+      "HIV test",
+      "Herpes test",
+      "Chlamydia test",
+      "Gonorrhea test",
+      "Confidential care in Spanish",
+    ],
+    alt: "Promoción de diagnóstico completo de enfermedades de transmisión sexual por $249 en Clínica Hispana Mangum, Houston",
+    altEn:
+      "Complete sexually transmitted infection screening for $249 promotion at Clínica Hispana Mangum, Houston",
+  },
+  {
+    slug: "chequeo-mujer",
+    title: "Chequeo completo de la mujer",
+    titleEn: "Complete women's checkup",
+    price: "$79",
+    blurb:
+      "Tu salud es una prioridad. Nuestro chequeo completo de la mujer incluye examen de Papanicolaou, consulta ginecológica y orden de mamografía, con atención cercana y 100% en español. Cuídate hoy por solo $79.",
+    blurbEn:
+      "Your health is a priority. Our complete women's checkup includes a Pap smear, a gynecological consultation and a mammogram referral, with caring service 100% in Spanish. Take care of yourself today for only $79.",
+    includes: [
+      "Examen de Papanicolaou",
+      "Consulta ginecológica",
+      "Orden de mamografía",
+      "Atención en español",
+    ],
+    includesEn: [
+      "Pap smear test",
+      "Gynecological consultation",
+      "Mammogram referral",
+      "Care in Spanish",
+    ],
+    alt: "Promoción de chequeo completo de la mujer con Papanicolaou, consulta ginecológica y orden de mamografía por $79 en Clínica Hispana Mangum, Houston",
+    altEn:
+      "Complete women's checkup with Pap smear, gynecological consultation and mammogram referral for $79 promotion at Clínica Hispana Mangum, Houston",
+  },
+  {
+    slug: "examen-hombres",
+    title: "Examen completo para hombres",
+    titleEn: "Complete men's exam",
+    price: "$89",
+    blurb:
+      "Tómate un momento para tu salud. Nuestro examen completo para hombres incluye examen de orina, examen de próstata para prevención de cáncer y examen de testosterona, más una consulta médica gratis, con atención 100% en español. Por solo $89.",
+    blurbEn:
+      "Take a moment for your health. Our complete men's exam includes a urine test, a prostate exam for cancer prevention and a testosterone test, plus a free medical consultation, with care 100% in Spanish. For only $89.",
+    includes: [
+      "Examen de orina",
+      "Examen de próstata (prevención de cáncer)",
+      "Examen de testosterona",
+      "Consulta médica gratis",
+    ],
+    includesEn: [
+      "Urine test",
+      "Prostate exam (cancer prevention)",
+      "Testosterone test",
+      "Free medical consultation",
+    ],
+    alt: "Promoción de examen completo para hombres con examen de orina, próstata y testosterona por $89 en Clínica Hispana Mangum, Houston",
+    altEn:
+      "Complete men's exam with urine, prostate and testosterone testing for $89 promotion at Clínica Hispana Mangum, Houston",
+  },
 ];
 
 // Navbar (header): sin "Sin cita".
