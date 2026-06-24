@@ -73,7 +73,7 @@ export async function Hero() {
       />
 
       <div className="mx-auto w-full max-w-7xl px-4 py-24 sm:px-6 lg:px-8 lg:py-28">
-        <div className="mx-auto max-w-xl text-center md:mx-0 md:text-left lg:max-w-2xl">
+        <div className="mx-auto max-w-xl text-center md:mx-0 md:text-left lg:max-w-3xl xl:max-w-4xl">
           {/* Badge de reseñas de Google */}
           <Reveal>
             <span className="inline-flex items-center gap-2.5 rounded-full border border-white/20 bg-white/10 px-4 py-1.5 backdrop-blur">
@@ -88,7 +88,7 @@ export async function Hero() {
           <Reveal delay={80}>
             <h1
               id="hero-heading"
-              className="mt-6 font-heading text-[2.6rem] font-extrabold uppercase leading-[0.98] tracking-tight text-white sm:text-6xl lg:text-[4.5rem]"
+              className="mt-6 text-balance font-heading text-[2.6rem] font-extrabold uppercase leading-[1.05] tracking-tight text-white sm:text-6xl sm:leading-[1.02] lg:text-[4.5rem]"
             >
               {t("titleLead")}{" "}
               <span className="relative inline-block text-gold-accent">
