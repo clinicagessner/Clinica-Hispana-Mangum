@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { getTranslations, setRequestLocale } from "next-intl/server";
-import { Phone } from "lucide-react";
+import { ArrowLeft, Phone } from "lucide-react";
+import { Link } from "@/i18n/navigation";
 import { Reveal } from "@/components/animations/reveal";
 import { StarRating } from "@/components/shared/star-rating";
 import { FaqAccordion } from "@/components/shared/faq-accordion";
@@ -83,8 +84,15 @@ export default async function PromocionesPage({
 
       {/* Encabezado compacto */}
       <section className="bg-linear-to-br from-green-deep via-green-dark to-green-primary py-14 text-mint-bg lg:py-16">
-        <div className="mx-auto max-w-3xl px-4 text-center sm:px-6">
-          <Reveal>
+        <div className="mx-auto max-w-3xl px-4 sm:px-6">
+          <Link
+            href="/"
+            className="inline-flex items-center gap-1.5 text-sm font-medium text-mint-bg/70 transition-colors hover:text-white"
+          >
+            <ArrowLeft className="h-4 w-4" />
+            {c.backToHome}
+          </Link>
+          <Reveal className="mt-6 text-center">
             <span className="inline-flex items-center gap-2 rounded-full border border-white/20 bg-white/10 px-4 py-1.5 text-xs font-semibold uppercase tracking-widest text-gold-accent-light">
               {c.eyebrow}
             </span>

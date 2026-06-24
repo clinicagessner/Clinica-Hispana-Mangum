@@ -3,6 +3,7 @@ import type { Locale } from "@/types";
 export interface PromotionsLandingContent {
   metaTitle: string;
   metaDescription: string;
+  backToHome: string;
   eyebrow: string;
   title: string;
   subtitle: string;
@@ -28,6 +29,7 @@ const CONTENT: Record<Locale, PromotionsLandingContent> = {
     metaTitle: "Promociones de la clínica en Houston | Clínica Mangum",
     metaDescription:
       "Promociones del mes en Clínica Hispana Mangum: examen DOT, general de sangre + B12 por $99, salud íntima femenina por $69 y perfil hormonal masculino por $200. En español, sin cita y sin seguro en Houston, TX.",
+    backToHome: "Volver al inicio",
     eyebrow: "Promociones del mes",
     title: "Promociones de la clínica",
     subtitle:
@@ -66,6 +68,7 @@ const CONTENT: Record<Locale, PromotionsLandingContent> = {
     metaTitle: "Clinic promotions in Houston | Clínica Mangum",
     metaDescription:
       "This month's promotions at Clínica Hispana Mangum: DOT exam, complete blood panel + B12 for $99, women's intimate health for $69 and a male hormone panel for $200. In Spanish, walk-ins and no insurance needed in Houston, TX.",
+    backToHome: "Back to home",
     eyebrow: "This month's offers",
     title: "Clinic promotions",
     subtitle:

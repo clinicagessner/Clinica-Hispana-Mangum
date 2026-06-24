@@ -78,7 +78,7 @@ export function PromotionDialog({
     >
       <div
         onClick={(e) => e.stopPropagation()}
-        className="relative grid max-h-[90vh] w-full max-w-3xl overflow-y-auto rounded-3xl bg-white shadow-2xl sm:grid-cols-2"
+        className="relative flex max-h-[90vh] w-full max-w-md flex-col overflow-y-auto rounded-3xl bg-white shadow-2xl"
       >
         <button
           ref={closeRef}
@@ -90,13 +90,13 @@ export function PromotionDialog({
           <X className="h-5 w-5" />
         </button>
 
-        {/* Imagen */}
-        <div className="relative aspect-4/5 w-full sm:h-full">
+        {/* Imagen (flyer completo, sin recorte: la imagen ya es 4:5) */}
+        <div className="relative aspect-4/5 w-full shrink-0">
           <Image
             src={promo.src}
             alt={promo.alt}
             fill
-            sizes="(min-width: 640px) 24rem, 100vw"
+            sizes="28rem"
             className="object-cover"
           />
         </div>
