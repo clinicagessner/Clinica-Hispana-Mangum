@@ -8,6 +8,7 @@ import {
   PenLine,
   Phone,
 } from "lucide-react";
+import { WhatsappLogoIcon } from "@phosphor-icons/react/dist/ssr";
 import { getTranslations } from "next-intl/server";
 import { Reveal } from "@/components/animations/reveal";
 import { ScrollLink } from "@/components/shared/scroll-link";
@@ -19,12 +20,17 @@ import { cn } from "@/lib/utils";
 
 export async function Hero() {
   // Lectura de Google Places + i18n en paralelo (sin waterfall).
-  const [t, place] = await Promise.all([
+  const [t, tc, place] = await Promise.all([
     getTranslations("Hero"),
+    getTranslations("Common"),
     getGooglePlaceData(),
   ]);
 
   const fullAddress = `${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}`;
+  // wa.me usa el número real dedicado (CONTACT_INFO.whatsapp), nunca el que
+  // CallRail muestra en pantalla; el botón no enseña el número como texto para
+  // que swap.js no lo intercambie.
+  const whatsappHref = `https://wa.me/${CONTACT_INFO.whatsapp}?text=${encodeURIComponent(tc("whatsappMessage"))}`;
   const features = [
     t("trustBilingual"),
     t("trustWalkIn"),
@@ -120,6 +126,16 @@ export async function Hero() {
               >
                 <Phone className="h-5 w-5" />
                 {t("ctaCall")} · {CONTACT_INFO.phoneDisplay}
+              </a>
+              <a
+                href={whatsappHref}
+                target="_blank"
+                rel="noopener noreferrer"
+                aria-label={tc("whatsapp")}
+                className={cn(ctaButton({ variant: "whatsapp", size: "lg" }))}
+              >
+                <WhatsappLogoIcon className="h-5 w-5" weight="fill" />
+                {t("ctaWhatsapp")}
               </a>
               <a
                 href={CONTACT_INFO.googleMapsUrl}

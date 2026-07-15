@@ -46,6 +46,11 @@ export const CONTACT_INFO = {
   phone: "+18328345507",
   phoneFormatted: "+1 (832) 834-5507",
   phoneDisplay: "(832) 834-5507",
+  // WhatsApp — mismo número real de la clínica, en E.164 sin "+" (formato que
+  // exige wa.me). Los botones de WhatsApp nunca muestran el número como texto:
+  // solo el label "WhatsApp", para que CallRail swap.js no tenga nada que
+  // intercambiar y el chat apunte siempre al número real.
+  whatsapp: "18328345507",
   email: "clinicahispanamangum@gmail.com",
   hours: "Lunes a Domingo: 9:00 AM - 9:00 PM",
   hoursEn: "Monday to Sunday: 9:00 AM - 9:00 PM",

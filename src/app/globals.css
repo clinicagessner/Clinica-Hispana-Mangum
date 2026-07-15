@@ -36,6 +36,10 @@
   --gold-accent-light: #f6e3b0;
   --gold-accent-bg: #fffaf0;
 
+  /* WHATSAPP — color oficial de la marca (solo botones de chat) */
+  --whatsapp: #25d366;
+  --whatsapp-dark: #1da851;
+
   /* SLATE — neutros */
   --slate-dark: #1e293b;
   --slate-primary: #475569;
@@ -189,6 +193,8 @@
   --color-gold-accent-dark: var(--gold-accent-dark);
   --color-gold-accent-light: var(--gold-accent-light);
   --color-gold-accent-bg: var(--gold-accent-bg);
+  --color-whatsapp: var(--whatsapp);
+  --color-whatsapp-dark: var(--whatsapp-dark);
   --color-slate-dark: var(--slate-dark);
   --color-slate-primary: var(--slate-primary);
   --color-slate-muted: var(--slate-muted);
