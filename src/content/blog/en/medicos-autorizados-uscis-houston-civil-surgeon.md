@@ -39,4 +39,4 @@ Only the form completed and **sealed by a civil surgeon** is valid for your proc
 
 ## At Clínica Hispana Mangum
 
-We have a USCIS-authorized physician and perform your complete I-693 exam, in Spanish and with the sealed form. Call us at **(832) 906-8551** for more information.
+We have a USCIS-authorized physician and perform your complete I-693 exam, in Spanish and with the sealed form. Call us at **(832) 834-5507** for more information.

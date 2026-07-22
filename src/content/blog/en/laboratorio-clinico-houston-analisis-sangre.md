@@ -35,4 +35,4 @@ In most cases we deliver results **the same day** and explain them in Spanish, w
 
 ## Walk in anytime
 
-At Clínica Hispana Mangum we draw your samples on the spot and guide you on the next steps. Call us at **(832) 906-8551** or visit from 9 AM to 9 PM.
+At Clínica Hispana Mangum we draw your samples on the spot and guide you on the next steps. Call us at **(832) 834-5507** or visit from 9 AM to 9 PM.
