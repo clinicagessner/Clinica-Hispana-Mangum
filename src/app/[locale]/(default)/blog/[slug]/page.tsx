@@ -157,6 +157,9 @@ export default async function BlogPostPage({
               "[&_ol]:list-decimal [&_ol]:space-y-1.5 [&_ol]:pl-5",
               "[&_strong]:font-semibold [&_strong]:text-slate-dark",
               "[&_a]:text-green-primary [&_a]:underline [&_a]:underline-offset-2",
+              "[&_table]:w-full [&_table]:border-collapse [&_table]:text-sm",
+              "[&_th]:border [&_th]:border-green-light [&_th]:bg-mint-bg [&_th]:px-3 [&_th]:py-2 [&_th]:text-left [&_th]:font-semibold [&_th]:text-slate-dark",
+              "[&_td]:border [&_td]:border-green-light [&_td]:px-3 [&_td]:py-2 [&_td]:align-top [&_td]:text-slate-primary",
             )}
           >
             <ReactMarkdown remarkPlugins={[remarkGfm]}>
