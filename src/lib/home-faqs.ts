@@ -50,4 +50,20 @@ export const HOME_FAQS: ServiceFaq[] = [
     answerEn:
       "Yes, we perform the I-693 exam with a USCIS-authorized physician, including vaccines and the sealed form the same day.",
   },
+  {
+    question: "¿Dónde encuentro una clínica hispana cerca de mí en Houston?",
+    answer:
+      "Clínica Hispana Mangum es una clínica hispana y latina en 2912 Mangum Rd Ste. A, Houston, TX 77092, en el noroeste de Houston, cerca de Lazybrook y Timbergrove. Abrimos todos los días de 9:00 AM a 9:00 PM, sin cita previa.",
+    questionEn: "Where can I find a Hispanic clinic near me in Houston?",
+    answerEn:
+      "Clínica Hispana Mangum is a Hispanic and Latino clinic at 2912 Mangum Rd Ste. A, Houston, TX 77092, in northwest Houston near Lazybrook and Timbergrove. We are open every day from 9:00 AM to 9:00 PM, no appointment needed.",
+  },
+  {
+    question: "¿Puedo tener aquí a mi médico primario?",
+    answer:
+      "Sí. Muchas familias nos eligen como su médico primario y centro médico cerca de casa: consultas de medicina general, control de condiciones crónicas y laboratorio en un solo lugar.",
+    questionEn: "Can this clinic be my primary care doctor?",
+    answerEn:
+      "Yes. Many families choose us as their primary care provider and medical center close to home: general medicine visits, chronic condition management and lab work in one place.",
+  },
 ];

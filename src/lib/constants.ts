@@ -26,9 +26,9 @@ export const SITE_CONFIG = {
   tagline: "Atención médica profesional 100% en español",
   taglineEn: "Professional healthcare 100% in Spanish",
   description:
-    "Clínica médica hispana en Houston, TX. Atención profesional en español, sin cita previa, aceptamos pacientes sin necesidad de seguro. Medicina familiar, exámenes de inmigración, laboratorio y más.",
+    "Clínica médica hispana en Houston, TX. Centro médico con atención profesional en español, sin cita previa, aceptamos pacientes sin necesidad de seguro. Médico primario, medicina familiar, exámenes de inmigración, laboratorio y más.",
   descriptionEn:
-    "Hispanic medical clinic in Houston, TX. Professional care in Spanish, walk-ins welcome, patients with no insurance needed. Family medicine, immigration exams, lab work and more.",
+    "Hispanic medical clinic in Houston, TX. A medical center with professional care in Spanish, walk-ins welcome, patients with no insurance needed. Primary care, family medicine, immigration exams, lab work and more.",
   baseUrl: SITE_URL,
   locale: "es-MX",
   logoUrl: "/logo-mangum-transparent.webp",
@@ -324,11 +324,11 @@ export const SERVICE_CATEGORIES: {
 // Bloques de copy reutilizados (marca Mangum + Houston).
 const WHY_ES = `## ¿Por qué elegir Clínica Hispana Mangum?
 
-En Clínica Hispana Mangum te atendemos 100% en español, sin cita previa y sin necesidad de seguro. Estamos en ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, con horario de lunes a domingo de 9 AM a 9 PM. Nuestro equipo trata a cada paciente con respeto, tiempo y explicaciones claras.`;
+Somos una clínica hispana y latina que te atiende 100% en español, sin cita previa y sin necesidad de seguro. Encuéntranos como tu centro médico cerca de ti en ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, con horario de lunes a domingo de 9 AM a 9 PM. Nuestro equipo trata a cada paciente con respeto, tiempo y explicaciones claras.`;
 
 const WHY_EN = `## Why choose Clínica Hispana Mangum?
 
-At Clínica Hispana Mangum we care for you 100% in Spanish, with no appointment or insurance needed. We are located at ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, open Monday through Sunday from 9 AM to 9 PM. Our team treats every patient with respect, time and clear explanations.`;
+We are a Hispanic and Latino clinic that cares for you 100% in Spanish, with no appointment or insurance needed. Find your medical center near you at ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, open Monday through Sunday from 9 AM to 9 PM. Our team treats every patient with respect, time and clear explanations.`;
 
 const PAYMENT_ES = `## Formas de pago
 
@@ -731,12 +731,14 @@ ${AREAS_EN}`,
     description: "Atención ginecológica en Houston, TX: papanicolaou, cultivos vaginales y tratamiento de infecciones. En español, con precios accesibles.",
     descriptionEn: "Gynecology care in Houston, TX: Pap smear, vaginal cultures and infection treatment. In Spanish, with affordable pricing.",
     keywords: [
+      "ginecologia en houston",
       "ginecologo houston español",
       "papanicolaou houston",
       "cultivo vaginal houston",
       "infeccion vaginal tratamiento houston",
     ],
     keywordsEn: [
+      "gynecology houston",
       "gynecologist houston spanish",
       "pap smear houston",
       "vaginal culture houston",
@@ -768,6 +770,10 @@ ${AREAS_EN}`,
 
 Comezón, ardor, flujo diferente o mal olor son señales de que algo necesita atención. Un cultivo permite un diagnóstico correcto y un tratamiento que sí resuelve.
 
+## Ginecología en una clínica hispana cerca de ti
+
+Si buscas ginecología en Houston, en nuestra clínica hispana te atendemos cerca de ti: en español, sin cita previa y con precios accesibles, en el noroeste de Houston.
+
 ${WHY_ES}
 
 ${PAYMENT_ES}
@@ -786,6 +792,10 @@ ${AREAS_ES}`,
 ## Don't stay in doubt
 
 Itching, burning, unusual discharge or odor are signs that something needs attention. A culture allows an accurate diagnosis and treatment that truly resolves it.
+
+## Gynecology at a Hispanic clinic near you
+
+If you are looking for gynecology care in Houston, our Hispanic clinic is near you: care in Spanish, walk-ins welcome and affordable pricing, in northwest Houston.
 
 ${WHY_EN}
 
@@ -1092,11 +1102,11 @@ ${AREAS_EN}`,
     category: "laboratorio",
     icon: "FlaskConical",
     highlighted: true,
-    title: "Exámenes de Sangre | Laboratorio",
+    title: "Análisis y Exámenes de Sangre | Laboratorio",
     titleEn: "Blood Tests | Lab",
     shortDescription: "Análisis de sangre completos con resultados rápidos e interpretación en español, sin cita previa.",
     shortDescriptionEn: "Complete blood work with fast results and results explained in Spanish, no appointment needed.",
-    description: "Exámenes de sangre en Houston, TX: biometría, química, glucosa, colesterol y más. Resultados en español, con precios accesibles.",
+    description: "Análisis de sangre en Houston, TX: biometría, química, glucosa, colesterol y más. Resultados en español, con precios accesibles.",
     descriptionEn: "Blood tests in Houston, TX: CBC, chemistry, glucose, cholesterol and more. Results in Spanish, with affordable pricing.",
     keywords: [
       "examenes de sangre houston",
@@ -1136,6 +1146,10 @@ ${AREAS_EN}`,
 
 Los análisis ayudan a detectar problemas antes de que den síntomas, dar seguimiento a una condición crónica o completar un examen de trabajo o escuela.
 
+## Análisis de sangre en una clínica hispana cerca de ti
+
+¿Necesitas un análisis de sangre en Houston? En nuestra clínica hispana te tomamos la muestra sin cita previa, con precios accesibles y resultados explicados en español.
+
 ${WHY_ES}
 
 ${PAYMENT_ES}
@@ -1154,6 +1168,10 @@ ${AREAS_ES}`,
 ## Why they matter
 
 Blood tests help detect problems before symptoms appear, follow up on a chronic condition or complete a work or school exam.
+
+## Blood work at a Hispanic clinic near you
+
+Need blood work in Houston? At our Hispanic clinic we draw your sample with no appointment needed, at affordable prices, with results explained in Spanish.
 
 ${WHY_EN}
 
@@ -1210,6 +1228,10 @@ ${AREAS_EN}`,
 
 Ardor al orinar, ganas constantes de ir al baño, orina turbia o con mal olor y dolor en la parte baja del abdomen. No esperes: una infección sin tratar puede llegar a los riñones.
 
+## Tratamiento de infecciones urinarias en una clínica hispana cerca de ti
+
+Somos una clínica hispana cerca de ti en Houston: te hacemos el examen de orina y, si hay infección, sales con tu tratamiento el mismo día, sin cita previa y en español.
+
 ${WHY_ES}
 
 ${PAYMENT_ES}
@@ -1228,6 +1250,10 @@ ${AREAS_ES}`,
 ## Common symptoms
 
 Burning when urinating, a constant urge to go, cloudy or foul-smelling urine and lower-abdomen pain. Don't wait: an untreated infection can reach the kidneys.
+
+## UTI treatment at a Hispanic clinic near you
+
+We are a Hispanic clinic near you in Houston: we run your urine test and, if there is an infection, you leave with treatment the same day, no appointment needed and in Spanish.
 
 ${WHY_EN}
 

@@ -66,7 +66,7 @@
   },
   "Services": {
     "eyebrow": "Nuestros servicios",
-    "title": "Todo lo que tu familia necesita, en un solo lugar",
+    "title": "Todo lo que tu familia necesita, en nuestra clínica hispana en Houston",
     "subtitle": "18 servicios médicos con atención profesional en tu idioma.",
     "cta": "Ver todos los servicios",
     "featured": "Destacado"
@@ -104,7 +104,7 @@
   },
   "Location": {
     "eyebrow": "Visítanos",
-    "title": "Estamos cerca de ti, en Houston",
+    "title": "Nuestra Clínica Hispana Cerca de Ti en Houston",
     "addressLabel": "Dirección",
     "hoursLabel": "Horario",
     "phoneLabel": "Teléfono",
@@ -150,7 +150,7 @@
     "cta": "Ver todo el blog"
   },
   "Footer": {
-    "tagline": "Atención médica profesional 100% en español en Houston, TX.",
+    "tagline": "Tu clínica hispana en Houston, TX: atención médica profesional 100% en español.",
     "servicesTitle": "Servicios",
     "navTitle": "Navegación",
     "contactTitle": "Contacto",
