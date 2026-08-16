@@ -72,12 +72,6 @@ export async function Hero() {
         aria-hidden
         className="pointer-events-none absolute -right-16 bottom-0 -z-10 h-72 w-72 rounded-full bg-red-accent/15 blur-3xl"
       />
-      {/* Funde el hero con la sección Servicios */}
-      <div
-        aria-hidden
-        className="pointer-events-none absolute inset-x-0 bottom-0 z-[-1] h-40 bg-linear-to-b from-transparent to-mint-warm"
-      />
-
       <div className="mx-auto w-full max-w-7xl px-4 py-24 sm:px-6 lg:px-8 lg:py-28">
         <div className="mx-auto max-w-xl text-center md:mx-0 md:text-left lg:max-w-3xl xl:max-w-4xl">
           {/* Badge de reseñas de Google */}
