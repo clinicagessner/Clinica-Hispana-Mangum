@@ -110,6 +110,33 @@ export interface Promotion {
 
 export const PROMOTIONS: Promotion[] = [
   {
+    slug: "chequeo-general-completo",
+    title: "Chequeo general completo",
+    titleEn: "Complete general checkup",
+    price: "$99",
+    blurb:
+      "Cuídate hoy y vive mejor mañana. Nuestro chequeo general completo incluye examen general de sangre, A1C (hemoglobina glicosilada), examen general de orina y consulta médica gratis, con resultados rápidos y atención 100% en español. Valor regular de $250, ahora por solo $99.",
+    blurbEn:
+      "Take care of yourself today and live better tomorrow. Our complete general checkup includes a complete blood panel, A1C (glycated hemoglobin), a complete urine test and a free medical consultation, with fast results and care 100% in Spanish. Regular value $250, now for only $99.",
+    includes: [
+      "Examen general de sangre",
+      "A1C (hemoglobina glicosilada)",
+      "Examen general de orina",
+      "Consulta médica gratis",
+      "Resultados rápidos",
+    ],
+    includesEn: [
+      "Complete blood panel",
+      "A1C (glycated hemoglobin)",
+      "Complete urine test",
+      "Free medical consultation",
+      "Fast results",
+    ],
+    alt: "Promoción de chequeo general completo con examen de sangre, A1C, examen de orina y consulta médica gratis por $99 en Clínica Hispana Mangum, Houston",
+    altEn:
+      "Complete general checkup promotion with blood panel, A1C, urine test and free medical consultation for $99 at Clínica Hispana Mangum, Houston",
+  },
+  {
     slug: "examen-dot",
     title: "Examen DOT para licencia CDL",
     titleEn: "DOT exam for your CDL license",
