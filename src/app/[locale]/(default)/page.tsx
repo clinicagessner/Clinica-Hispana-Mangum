@@ -24,8 +24,8 @@ export async function generateMetadata({
   const isEn = locale === "en";
   return {
     title: isEn
-      ? "Hispanic Clinic in Houston, TX - Care in Spanish"
-      : "Clínica Hispana en Houston, TX - Atención en Español",
+      ? "Clínica Hispana Mangum · Walk-in Clinic in Houston, TX, Open 7 Days"
+      : "Clínica Hispana Mangum · Sin Cita en Houston, TX, Abierta 7 Días",
     description: isEn ? SITE_CONFIG.descriptionEn : SITE_CONFIG.description,
     alternates: buildAlternates("/", locale as Locale),
   };
