@@ -35,4 +35,4 @@ En la mayoría de los casos entregamos resultados **el mismo día** y te los exp
 
 ## Ven sin cita
 
-En Clínica Hispana Mangum tomamos tus muestras en el momento y te orientamos sobre los siguientes pasos. Llámanos al **(832) 834-5507** o visítanos de 9 AM a 9 PM.
+En Clínica Hispana Mangum tomamos tus muestras en el momento y te orientamos sobre los siguientes pasos. Conoce los [análisis y exámenes de sangre](/services/examenes-sangre) que realizamos en nuestro laboratorio, o [ven sin cita](/walk-in): llámanos al **(832) 834-5507** o visítanos de 9 AM a 9 PM.

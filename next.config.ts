@@ -53,6 +53,31 @@ const nextConfig: NextConfig = {
       { protocol: "https", hostname: "maps.googleapis.com" },
     ],
   },
+  // 301 desde URLs del catálogo anterior (jun 2026) y de la landing retirada.
+  // Search Console aún les manda impresiones; así conservan la autoridad.
+  async redirects() {
+    const legacyServices: Record<string, string> = {
+      laboratorio: "/services/examenes-sangre",
+      "examenes-generales": "/services/examenes-sangre",
+      "medicina-familiar": "/services/condiciones-cronicas",
+      "dolores-musculares": "/services",
+      urologia: "/services/salud-hombre",
+      "planificacion-familiar": "/services/anticonceptivos",
+      "infecciones-vaginales": "/services/ginecologia",
+      "vacunas-anticonceptivas": "/services/anticonceptivos",
+    };
+    const serviceRedirects = Object.entries(legacyServices).flatMap(
+      ([from, to]) => [
+        { source: `/services/${from}`, destination: to, permanent: true },
+        { source: `/en/services/${from}`, destination: `/en${to}`, permanent: true },
+      ],
+    );
+    return [
+      ...serviceRedirects,
+      { source: "/landing/:path*", destination: "/", permanent: true },
+      { source: "/en/landing/:path*", destination: "/en", permanent: true },
+    ];
+  },
   async headers() {
     return [
       {

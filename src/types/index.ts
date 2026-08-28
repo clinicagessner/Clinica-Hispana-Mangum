@@ -24,6 +24,8 @@ export interface Service {
 
   // Español (base)
   title: string;
+  /** Título SEO (<title>/OG) si debe diferir del H1; opcional. */
+  metaTitle?: string;
   shortDescription: string;
   description: string;
   keywords: string[];
@@ -32,6 +34,7 @@ export interface Service {
 
   // Inglés
   titleEn: string;
+  metaTitleEn?: string;
   shortDescriptionEn: string;
   descriptionEn: string;
   keywordsEn: string[];
@@ -47,6 +50,8 @@ export interface LocalizedService {
   icon: string;
   highlighted: boolean;
   title: string;
+  /** Título para <title>/OG; cae al title (H1) si no se definió. */
+  metaTitle: string;
   shortDescription: string;
   description: string;
   keywords: string[];

@@ -21,9 +21,9 @@ import type { Locale } from "@/types";
 // COPY local bilingüe (sin message keys), propio de esta landing.
 const COPY = {
   es: {
-    metaTitle: "Clínica Sin Cita en Houston - Walk-in en Español",
+    metaTitle: "Clínica Sin Cita en Houston · Abierto Domingos 9 AM–9 PM",
     metaDescription:
-      "Atención médica sin cita previa en Houston, en español, sin necesidad de seguro. Abierto de lunes a domingo de 9 AM a 9 PM.",
+      "Clínica hispana abierta hoy, sin cita y sin seguro. Te atendemos en español el mismo día, de lunes a domingo de 9 AM a 9 PM, en Houston, TX.",
     eyebrow: "Atención sin cita previa",
     title: "Te atendemos hoy, sin cita y en español",
     subtitle:
@@ -63,9 +63,9 @@ const COPY = {
     finalBody: "2912 Mangum Rd Ste. A, Houston, TX 77092",
   },
   en: {
-    metaTitle: "Walk-in Clinic in Houston - No Appointment, Spanish",
+    metaTitle: "Walk-in Clinic in Houston · Open Sundays 9 AM–9 PM",
     metaDescription:
-      "Walk-in medical care in Houston, in Spanish, with no insurance needed. Open Monday to Sunday, 9 AM to 9 PM.",
+      "Hispanic clinic open today, no appointment and no insurance needed. Same-day care in Spanish, Monday to Sunday 9 AM to 9 PM, in Houston, TX.",
     eyebrow: "Walk-ins welcome",
     title: "We see you today—no appointment, in Spanish",
     subtitle:

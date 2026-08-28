@@ -39,4 +39,4 @@ Solo el formulario completado y **sellado por un civil surgeon** es válido para
 
 ## En Clínica Hispana Mangum
 
-Contamos con médico autorizado por USCIS y realizamos tu examen I-693 completo, en español y con el formulario sellado. Llámanos al **(832) 834-5507** para más información.
+Contamos con médico autorizado por USCIS y realizamos tu [examen médico de inmigración I-693](/services/examenes-inmigracion) completo, en español y con el formulario sellado. Si quieres saber qué llevar y cómo prepararte, revisa nuestra [guía del examen I-693 en Houston](/blog/guia-examen-medico-inmigracion-i693-houston). Llámanos al **(832) 834-5507** para más información.
