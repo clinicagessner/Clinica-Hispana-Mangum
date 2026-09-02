@@ -137,6 +137,31 @@ export const PROMOTIONS: Promotion[] = [
       "Complete general checkup promotion with blood panel, A1C, urine test and free medical consultation for $99 at Clínica Hispana Mangum, Houston",
   },
   {
+    slug: "chequeo-mujer-ultrasonido",
+    title: "Chequeo Completo de la Mujer",
+    titleEn: "Complete Women's Check-Up",
+    price: "$179",
+    blurb:
+      "¿Hace cuánto no revisas tu salud femenina? Chequeo completo de la mujer por $179 (valor regular $300) que incluye ultrasonido pélvico, Papanicolaou, examen de orina y consulta médica gratis. Sin cita previa y con atención en español.",
+    blurbEn:
+      "How long since your last women's health check? Complete women's check-up for $179 (regular value $300) including pelvic ultrasound, Pap smear, urine test and a free medical consultation. Walk-ins welcome, with care in Spanish.",
+    includes: [
+      "Ultrasonido pélvico",
+      "Papanicolaou",
+      "Examen de orina",
+      "Consulta médica gratis",
+    ],
+    includesEn: [
+      "Pelvic ultrasound",
+      "Pap smear",
+      "Urine test",
+      "Free medical consultation",
+    ],
+    alt: "Promoción de chequeo completo de la mujer con ultrasonido pélvico, Papanicolaou, examen de orina y consulta médica gratis por $179 en Clínica Hispana Mangum, Houston",
+    altEn:
+      "Complete women's check-up promotion with pelvic ultrasound, Pap smear, urine test and free medical consultation for $179 at Clínica Hispana Mangum, Houston",
+  },
+  {
     slug: "examen-dot",
     title: "Examen DOT para licencia CDL",
     titleEn: "DOT exam for your CDL license",
