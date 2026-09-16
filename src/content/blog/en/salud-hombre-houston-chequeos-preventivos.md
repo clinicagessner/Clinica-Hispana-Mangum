@@ -24,7 +24,7 @@ At Clínica Hispana Mangum we offer services designed for you:
 
 - **[Men's health](/en/services/salud-hombre):** a comprehensive evaluation focused on men's needs.
 - **[Men's physical exam](/en/services/examen-hombres):** a full review with history, vital signs, and lab work.
-- **[Male hormone panel](/en/services/perfil-hormonal-hombres):** includes testosterone, useful if you notice fatigue or low energy.
+- **[Male hormone panel](/en/services/salud-hombre):** includes testosterone, useful if you notice fatigue or low energy.
 - **[Blood tests](/en/services/examenes-sangre):** glucose, cholesterol, kidney and liver function, with fast results.
 - **[Electrocardiogram](/en/services/electrocardiograma):** checks your heart's electrical activity.
 - **[Chronic condition management](/en/services/condiciones-cronicas):** follow-up for diabetes, hypertension, and cholesterol.

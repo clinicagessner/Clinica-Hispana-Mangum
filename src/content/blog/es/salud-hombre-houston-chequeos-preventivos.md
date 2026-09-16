@@ -24,7 +24,7 @@ En Clínica Hispana Mangum contamos con servicios pensados para ti:
 
 - **[Salud del hombre](/services/salud-hombre):** evaluación integral enfocada en las necesidades masculinas.
 - **[Examen físico para hombres](/services/examen-hombres):** revisión completa con historial, signos vitales y laboratorio.
-- **[Perfil hormonal masculino](/services/perfil-hormonal-hombres):** incluye testosterona, útil si notas cansancio o baja energía.
+- **[Perfil hormonal masculino](/services/salud-hombre):** incluye testosterona, útil si notas cansancio o baja energía.
 - **[Exámenes de sangre](/services/examenes-sangre):** glucosa, colesterol, función renal y hepática, con resultados rápidos.
 - **[Electrocardiograma](/services/electrocardiograma):** revisa la actividad eléctrica de tu corazón.
 - **[Control de condiciones crónicas](/services/condiciones-cronicas):** seguimiento de diabetes, hipertensión y colesterol.
