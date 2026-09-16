@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { setRequestLocale } from "next-intl/server";
+import { JsonLdMedicalClinic } from "@/components/seo/json-ld";
 import { ScrollSpy } from "@/components/shared/scroll-spy";
 import { Hero } from "@/components/sections/hero";
 import { Promotions } from "@/components/sections/promotions";
@@ -41,6 +42,7 @@ export default async function HomePage({
 
   return (
     <>
+      <JsonLdMedicalClinic locale={locale as Locale} />
       <ScrollSpy
         ids={[
           "inicio",
