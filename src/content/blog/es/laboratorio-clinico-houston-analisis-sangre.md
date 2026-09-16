@@ -2,6 +2,7 @@
 title: "Laboratorio clínico en Houston: análisis de sangre"
 description: "Conoce qué análisis de sangre puedes hacerte en Houston, para qué sirven y cómo obtener resultados el mismo día en español."
 date: "2026-03-30"
+dateModified: "2026-08-28"
 author: "Equipo Clínica Hispana Mangum"
 category: "Laboratorio"
 cover: "/images/blog/laboratorio-clinico-houston-analisis-sangre.webp"

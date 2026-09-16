@@ -87,6 +87,8 @@ export interface BlogFrontmatter {
   title: string;
   description: string;
   date: string;
+  /** Último cambio de contenido (YYYY-MM-DD); si falta, se usa date. */
+  dateModified?: string;
   author: string;
   category: string;
   cover: string;

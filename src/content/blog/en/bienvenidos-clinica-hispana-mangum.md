@@ -2,6 +2,7 @@
 title: "Welcome to Clínica Hispana Mangum"
 description: "Get to know Clínica Hispana Mangum: healthcare 100% in Spanish in Houston, TX, walk-ins welcome and with no insurance needed."
 date: "2026-01-15"
+dateModified: "2026-07-22"
 author: "Clínica Hispana Mangum Team"
 category: "Clinic"
 cover: "/images/blog/bienvenidos-clinica-hispana-mangum.webp"

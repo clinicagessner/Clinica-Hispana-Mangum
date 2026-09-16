@@ -2,6 +2,7 @@
 title: "Men's health in Houston: preventive checkups that save lives"
 description: "A guide to preventive checkups for men in Houston: recommended exams by age, warning signs, and care with no appointment or insurance needed."
 date: "2026-07-22"
+dateModified: "2026-09-16"
 author: "Clínica Hispana Mangum Team"
 category: "Men's health"
 cover: "/images/blog/salud-hombre-houston-chequeos-preventivos.webp"

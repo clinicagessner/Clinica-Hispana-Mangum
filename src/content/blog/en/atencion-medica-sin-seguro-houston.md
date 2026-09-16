@@ -2,6 +2,7 @@
 title: "Healthcare without insurance in Houston: your options"
 description: "No health insurance? In Houston you can get professional care in Spanish, with affordable pricing and no appointment needed."
 date: "2026-01-28"
+dateModified: "2026-07-22"
 author: "Clínica Hispana Mangum Team"
 category: "Health"
 cover: "/images/blog/atencion-medica-sin-seguro-houston.webp"

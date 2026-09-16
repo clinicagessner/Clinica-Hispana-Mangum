@@ -45,6 +45,7 @@ export async function generateMetadata({
       title: post.title,
       description: post.description,
       publishedTime: post.date,
+      modifiedTime: post.dateModified ?? post.date,
       url: absoluteUrl(`/blog/${slug}`, locale as Locale),
       images: [{ url: post.cover, alt: post.coverAlt }],
     },

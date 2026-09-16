@@ -2,6 +2,7 @@
 title: "Control de diabetes en Houston: guía para pacientes"
 description: "Aprende a controlar tu diabetes con una guía práctica en español: alimentación, monitoreo y seguimiento médico en Houston."
 date: "2026-02-10"
+dateModified: "2026-07-22"
 author: "Equipo Clínica Hispana Mangum"
 category: "Diabetes"
 cover: "/images/blog/control-diabetes-houston-guia-pacientes.webp"

@@ -2,6 +2,7 @@
 title: "Ginecólogos hispanos en Houston que hablan español"
 description: "Encuentra atención ginecológica en español en Houston: papanicolaou, chequeos y salud de la mujer con privacidad y respeto."
 date: "2026-03-05"
+dateModified: "2026-07-22"
 author: "Equipo Clínica Hispana Mangum"
 category: "Salud de la mujer"
 cover: "/images/blog/ginecologos-hispanos-houston-hablan-espanol.webp"

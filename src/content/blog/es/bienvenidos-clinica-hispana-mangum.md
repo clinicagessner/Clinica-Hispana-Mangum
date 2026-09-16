@@ -2,6 +2,7 @@
 title: "Bienvenidos a Clínica Hispana Mangum"
 description: "Conoce Clínica Hispana Mangum: atención médica 100% en español en Houston, TX, sin cita previa y sin necesidad de seguro."
 date: "2026-01-15"
+dateModified: "2026-07-22"
 author: "Equipo Clínica Hispana Mangum"
 category: "Clínica"
 cover: "/images/blog/bienvenidos-clinica-hispana-mangum.webp"
