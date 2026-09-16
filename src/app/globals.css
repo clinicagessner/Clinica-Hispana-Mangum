@@ -224,20 +224,19 @@
   }
 }
 
-/* Animaciones de entrada (scroll-animations) — editorial, sutiles */
+/* Animaciones de entrada (scroll-animations) — editorial, sutiles.
+   Solo transform, sin opacity: con opacity 0 el contenido quedaba invisible
+   hasta hidratar y el LCP de /services llegaba a 9 s. */
 @layer utilities {
   .reveal {
-    opacity: 0;
     transform: translateY(24px);
-    transition: opacity 0.7s ease, transform 0.7s ease;
+    transition: transform 0.7s ease;
   }
   .reveal.is-visible {
-    opacity: 1;
     transform: none;
   }
   @media (prefers-reduced-motion: reduce) {
     .reveal {
-      opacity: 1;
       transform: none;
       transition: none;
     }
