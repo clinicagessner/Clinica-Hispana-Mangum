@@ -30,7 +30,7 @@ const postalAddress = {
 
 /**
  * MedicalClinic global (montado en (default)/layout). Async: trae rating y
- * reseñas 5★ en vivo (cache 1h) con fallback a GOOGLE_REVIEWS_DATA.
+ * reseñas 5★ en vivo (cache 7 días) con fallback a GOOGLE_REVIEWS_DATA.
  * availableService usa MedicalProcedure (sin price → no rompe validación).
  */
 export async function JsonLdMedicalClinic({ locale }: { locale: Locale }) {
