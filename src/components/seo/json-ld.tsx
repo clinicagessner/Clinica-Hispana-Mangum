@@ -110,7 +110,14 @@ export async function JsonLdMedicalClinic({ locale }: { locale: Locale }) {
     logo: `${SITE_CONFIG.baseUrl}${SITE_CONFIG.logoUrl}`,
     priceRange: "$$",
     currenciesAccepted: "USD",
-    paymentAccepted: "Cash, Credit Card",
+    paymentAccepted: "Cash, Credit Card, Apple Pay",
+    // Datos de la ficha de Google Business Profile.
+    amenityFeature: [
+      "Wheelchair-accessible entrance",
+      "Wheelchair-accessible parking",
+      "Wheelchair-accessible restroom",
+      "Free on-site parking",
+    ].map((name) => ({ "@type": "LocationFeatureSpecification", name, value: true })),
     address: postalAddress,
     geo: {
       "@type": "GeoCoordinates",
