@@ -2883,44 +2883,90 @@ We are at 2912 Mangum Rd, Suite A, in northwest Houston, open every day from 9 A
       "Removal of moles, cysts and lipomas",
       "After-care explained",
     ],
-    longDescription: `Muchos problemas de piel y tejidos blandos se resuelven con un procedimiento sencillo. En Clínica Hispana Mangum realizamos cirugías menores ambulatorias con anestesia local, en un mismo día.
+    longDescription: `Un lunar que molesta con la ropa, un quiste que se inflama o una bolita de grasa que crece pueden retirarse con un procedimiento corto en la clínica, con anestesia local y sin hospitalización. En Clínica Hispana Mangum el equipo médico de la clínica evalúa la lesión, te explica el procedimiento y te da indicaciones claras para la recuperación.
 
-## ¿Qué incluye?
+## ¿Qué procedimientos hacemos?
 
-- Evaluación del lunar, quiste o lesión
-- Procedimiento ambulatorio con anestesia local
-- Extracción de lunares, quistes y lipomas
-- Indicaciones claras de cuidado posterior
-- Retiro de puntos cuando corresponde
+- **Extracción de lunares** y lesiones pequeñas de la piel.
+- **Retiro de quistes** sebáceos o epidérmicos.
+- **Extracción de lipomas** pequeños (bolitas de grasa debajo de la piel).
+- Otros procedimientos menores de piel según la evaluación.
 
-## Rápido y seguro
+## Lunares que conviene revisar pronto
 
-La mayoría de estos procedimientos toman poco tiempo y no requieren hospitalización. Te explicamos cada paso en español para que estés tranquilo.
+Usa la regla **ABCDE**:
 
-${WHY_ES}
+- **A**simetría: una mitad no se parece a la otra.
+- **B**ordes irregulares o borrosos.
+- **C**olor disparejo, con varios tonos.
+- **D**iámetro mayor de 6 mm, como el borrador de un lápiz.
+- **E**volución: cambia de tamaño, forma o color, pica o sangra.
 
-${PAYMENT_ES}
+Si un lunar tiene alguna de estas señales, se revisa y, cuando está indicado, se envía a analizar.
 
-${AREAS_ES}`,
-    longDescriptionEn: `Many skin and soft-tissue problems are solved with a simple procedure. At Clínica Hispana Mangum we perform minor outpatient surgery with local anesthesia, in a single day.
+## ¿Cómo es el procedimiento?
 
-## What's included?
+1. Evaluación y explicación de riesgos y cuidados.
+2. Limpieza de la piel y **anestesia local**.
+3. Retiro de la lesión y cierre con puntos si hace falta.
+4. Vendaje e indicaciones por escrito.
 
-- Evaluation of the mole, cyst or lesion
-- Outpatient procedure with local anesthesia
-- Removal of moles, cysts and lipomas
-- Clear after-care instructions
-- Suture removal when appropriate
+La mayoría de los procedimientos toman menos de una hora y regresas a casa el mismo día.
 
-## Fast and safe
+## Cuidados después
 
-Most of these procedures take little time and don't require hospitalization. We explain every step in Spanish so you feel at ease.
+- Mantén la zona **limpia y seca 24 a 48 horas**.
+- Evita ejercicio intenso que estire la herida durante unos días.
+- Regresa para **retirar los puntos** en la fecha indicada.
+- Consulta si hay pus, enrojecimiento que crece o fiebre.
 
-${WHY_EN}
+## Antes del procedimiento
 
-${PAYMENT_EN}
+Avisa si tomas **anticoagulantes o aspirina**, si tienes alergia a la anestesia o si tienes diabetes, para planear el procedimiento con seguridad.
 
-${AREAS_EN}`,
+Estamos en 2912 Mangum Rd, Suite A, en el noroeste de Houston, abiertos todos los días de 9 AM a 9 PM. No necesitas seguro; pregunta el precio antes de tu visita. Aceptamos efectivo, tarjetas y Apple Pay.`,
+    longDescriptionEn: `A mole that rubs against clothing, a cyst that gets inflamed or a growing lump of fat can be removed with a short procedure at the clinic, using local anesthesia and no hospital stay. At Clínica Hispana Mangum the clinic's medical team evaluates the lesion, explains the procedure and gives clear recovery instructions.
+
+## Which procedures do we do?
+
+- **Mole removal** and removal of small skin lesions.
+- **Cyst removal** for sebaceous or epidermal cysts.
+- **Removal of small lipomas** (fatty lumps under the skin).
+- Other minor skin procedures based on the evaluation.
+
+## Moles to have checked soon
+
+Use the **ABCDE** rule:
+
+- **A**symmetry: one half does not match the other.
+- **B**orders that are irregular or blurry.
+- **C**olor that is uneven, with several shades.
+- **D**iameter larger than 6 mm, about a pencil eraser.
+- **E**volving: it changes size, shape or color, itches or bleeds.
+
+If a mole shows any of these signs, it is examined and, when indicated, sent for analysis.
+
+## What is the procedure like?
+
+1. Evaluation and explanation of risks and care.
+2. Skin cleaning and **local anesthesia**.
+3. Removal of the lesion and stitches if needed.
+4. A bandage and written instructions.
+
+Most procedures take less than an hour and you go home the same day.
+
+## Aftercare
+
+- Keep the area **clean and dry for 24 to 48 hours**.
+- Avoid hard exercise that stretches the wound for a few days.
+- Come back to **have stitches removed** on the scheduled date.
+- Get checked if there is pus, spreading redness or fever.
+
+## Before the procedure
+
+Tell us if you take **blood thinners or aspirin**, are allergic to anesthesia or have diabetes, so the procedure can be planned safely.
+
+We are at 2912 Mangum Rd, Suite A, in northwest Houston, open every day from 9 AM to 9 PM. No insurance needed; ask for the price before your visit. We accept cash, cards and Apple Pay.`,
   },
   {
     slug: "drenaje-abscesos",
@@ -2957,44 +3003,72 @@ ${AREAS_EN}`,
       "Local anesthesia",
       "After-care instructions",
     ],
-    longDescription: `Un absceso es una acumulación de pus que causa dolor e hinchazón y necesita drenarse. En Clínica Hispana Mangum lo tratamos de forma segura para aliviar la molestia y prevenir que la infección avance.
+    longDescription: `Un absceso es una bolsa de pus debajo de la piel: se ve como una bola roja, caliente y muy dolorosa que va creciendo. Muchas veces no se cura solo con antibiótico y necesita drenarse. En Clínica Hispana Mangum lo atendemos sin cita, con anestesia local, para aliviar el dolor y evitar que la infección avance.
 
-## ¿Qué incluye?
+## ¿Cómo reconocer un absceso?
 
-- Evaluación del absceso o infección de piel
-- Drenaje con anestesia local
-- Limpieza y desinfección de la zona
-- Tratamiento de la infección cuando se requiere
-- Indicaciones de cuidado y seguimiento
+- Bulto rojo, caliente y doloroso, a veces con un punto blanco o amarillo en el centro.
+- Se siente **blando o con líquido** al presionar suavemente.
+- Aparece con frecuencia en axilas, ingles, glúteos, piernas o donde hubo un vello enterrado.
 
-## No lo dejes pasar
+## ¿Por qué no apretarlo en casa?
 
-Un bulto rojo, caliente y doloroso, a veces con fiebre, necesita atención. Drenarlo a tiempo evita complicaciones y alivia el dolor rápidamente.
+Exprimirlo o pincharlo con una aguja puede **empujar la infección más adentro**, dejar pus sin salir y extender la infección a la piel de alrededor. Mientras vienes, aplica **compresas tibias** 10 a 15 minutos varias veces al día.
 
-${WHY_ES}
+## ¿Cómo es el drenaje?
 
-${PAYMENT_ES}
+1. Evaluación del absceso y de la piel alrededor.
+2. Limpieza y **anestesia local**.
+3. Pequeña incisión para dejar salir el pus y lavar la cavidad.
+4. En algunos casos se deja una gasa dentro para que siga drenando.
+5. Vendaje y cita de revisión.
 
-${AREAS_ES}`,
-    longDescriptionEn: `An abscess is a buildup of pus that causes pain and swelling and needs to be drained. At Clínica Hispana Mangum we treat it safely to relieve the discomfort and prevent the infection from spreading.
+El alivio del dolor suele notarse pronto después del drenaje. El antibiótico se indica **solo cuando hace falta**, por ejemplo si hay celulitis alrededor o fiebre.
 
-## What's included?
+## Cuidados después
 
-- Evaluation of the abscess or skin infection
-- Drainage with local anesthesia
-- Cleaning and disinfection of the area
-- Treatment of the infection when needed
-- Care and follow-up instructions
+- Cambia el vendaje como se te indique y mantenlo limpio.
+- Regresa a la revisión, sobre todo si se dejó gasa.
+- Lava la ropa y toallas por separado mientras drena.
 
-## Don't let it go
+## Busca atención urgente si
 
-A red, warm, painful lump, sometimes with fever, needs attention. Draining it in time prevents complications and relieves pain quickly.
+Hay **fiebre, líneas rojas** que salen del absceso, el absceso está **en la cara cerca del ojo o la nariz**, o tienes diabetes o defensas bajas y la zona crece rápido.
 
-${WHY_EN}
+Estamos en 2912 Mangum Rd, Suite A, en el noroeste de Houston, abiertos todos los días de 9 AM a 9 PM. No necesitas seguro; pregunta el precio antes de tu visita. Aceptamos efectivo, tarjetas y Apple Pay.`,
+    longDescriptionEn: `An abscess is a pocket of pus under the skin: it looks like a red, warm, very painful lump that keeps growing. It often does not heal with antibiotics alone and needs to be drained. At Clínica Hispana Mangum we treat it with no appointment, using local anesthesia, to relieve pain and keep the infection from spreading.
 
-${PAYMENT_EN}
+## How to recognize an abscess
 
-${AREAS_EN}`,
+- A red, warm, painful lump, sometimes with a white or yellow point in the center.
+- It feels **soft or fluid-filled** when pressed gently.
+- It often appears in the armpits, groin, buttocks, legs or where there was an ingrown hair.
+
+## Why not squeeze it at home?
+
+Squeezing it or poking it with a needle can **push the infection deeper**, leave pus inside and spread the infection to the surrounding skin. On the way, apply **warm compresses** for 10 to 15 minutes several times a day.
+
+## What is drainage like?
+
+1. Evaluation of the abscess and the surrounding skin.
+2. Cleaning and **local anesthesia**.
+3. A small incision to let the pus out and rinse the cavity.
+4. In some cases gauze is left inside so it keeps draining.
+5. A bandage and a follow-up visit.
+
+Pain relief is usually noticeable soon after drainage. Antibiotics are prescribed **only when needed**, for example if there is surrounding cellulitis or fever.
+
+## Aftercare
+
+- Change the bandage as instructed and keep it clean.
+- Return for the follow-up, especially if gauze was left in.
+- Wash clothes and towels separately while it drains.
+
+## Get urgent care if
+
+There is **fever, red streaks** spreading from the abscess, the abscess is **on the face near the eye or nose**, or you have diabetes or a weak immune system and the area grows quickly.
+
+We are at 2912 Mangum Rd, Suite A, in northwest Houston, open every day from 9 AM to 9 PM. No insurance needed; ask for the price before your visit. We accept cash, cards and Apple Pay.`,
   },
   {
     slug: "unas-encarnadas",
@@ -3031,44 +3105,80 @@ ${AREAS_EN}`,
       "Pain relief",
       "After-care instructions",
     ],
-    longDescription: `Una uña encarnada puede doler mucho e infectarse si no se trata. En Clínica Hispana Mangum la atendemos con un procedimiento sencillo y anestesia local para aliviarte el mismo día.
+    longDescription: `Una uña encarnada se clava en la piel del dedo, casi siempre del dedo gordo del pie, y causa dolor, enrojecimiento y a veces pus. Cuando no mejora con cuidados en casa, se puede tratar en la clínica con un procedimiento sencillo y anestesia local, y el alivio llega el mismo día.
 
-## ¿Qué incluye?
+## ¿Por qué se encarna la uña?
 
-- Evaluación de la uña y el dedo
-- Procedimiento con anestesia local
-- Extracción de la porción encarnada de la uña
-- Tratamiento de la infección si la hay
-- Indicaciones de cuidado para evitar que regrese
+- Cortar la uña **en curva o demasiado corta**.
+- **Zapatos apretados** o de punta angosta.
+- Golpes en el dedo o forma natural de la uña.
+- Sudor y humedad constantes en los pies.
 
-## Cuándo acudir
+## ¿Qué puedo hacer en casa al inicio?
 
-Dolor, enrojecimiento, hinchazón o pus alrededor de la uña, sobre todo del dedo gordo del pie. Atenderla pronto evita una infección mayor.
+1. Remoja el pie en **agua tibia 15 minutos**, 2 o 3 veces al día.
+2. Sécalo bien y usa zapatos abiertos o amplios.
+3. No cortes la esquina "en pico" ni te metas objetos debajo de la uña.
 
-${WHY_ES}
+Si en 2 o 3 días no mejora, hay pus o el dolor aumenta, conviene tratarla.
 
-${PAYMENT_ES}
+## ¿Cómo es el procedimiento?
 
-${AREAS_ES}`,
-    longDescriptionEn: `An ingrown toenail can hurt a lot and get infected if untreated. At Clínica Hispana Mangum we treat it with a simple procedure and local anesthesia to relieve you the same day.
+1. Evaluación del dedo y de la infección.
+2. **Anestesia local** en la base del dedo.
+3. Retiro de la **porción encarnada** de la uña, sin quitar la uña completa cuando no hace falta.
+4. Limpieza, vendaje e indicaciones.
 
-## What's included?
+Si las uñas encarnadas se repiten, el equipo médico te explica las opciones para evitar que esa parte vuelva a crecer hacia la piel.
 
-- Evaluation of the nail and toe
-- Procedure with local anesthesia
-- Removal of the ingrown portion of the nail
-- Treatment of the infection if present
-- Care instructions to prevent recurrence
+## Cuidados después
 
-## When to come in
+- Mantén el vendaje limpio y sigue las indicaciones de remojo.
+- Usa calzado abierto unos días.
+- Corta las uñas **rectas** y no demasiado cortas.
 
-Pain, redness, swelling or pus around the nail, especially the big toe. Treating it promptly prevents a larger infection.
+## Si tienes diabetes o mala circulación
 
-${WHY_EN}
+**No intentes tratarla en casa.** Una herida pequeña en el pie puede complicarse rápido; consulta pronto.
 
-${PAYMENT_EN}
+Estamos en 2912 Mangum Rd, Suite A, en el noroeste de Houston, abiertos todos los días de 9 AM a 9 PM. No necesitas seguro; pregunta el precio antes de tu visita. Aceptamos efectivo, tarjetas y Apple Pay.`,
+    longDescriptionEn: `An ingrown nail digs into the skin of the toe, usually the big toe, causing pain, redness and sometimes pus. When home care does not help, it can be treated at the clinic with a simple procedure and local anesthesia, with relief the same day.
 
-${AREAS_EN}`,
+## Why do nails become ingrown?
+
+- Cutting the nail **curved or too short**.
+- **Tight or narrow-toed shoes**.
+- Toe injuries or the nail's natural shape.
+- Constant sweat and moisture on the feet.
+
+## What can I do at home early on?
+
+1. Soak the foot in **warm water for 15 minutes**, 2 or 3 times a day.
+2. Dry it well and wear open or roomy shoes.
+3. Do not cut the corner into a point or push objects under the nail.
+
+If it does not improve in 2 or 3 days, there is pus or the pain increases, it should be treated.
+
+## What is the procedure like?
+
+1. Evaluation of the toe and any infection.
+2. **Local anesthesia** at the base of the toe.
+3. Removal of the **ingrown portion** of the nail, without removing the whole nail when it is not needed.
+4. Cleaning, a bandage and instructions.
+
+If ingrown nails keep coming back, the medical team explains the options to keep that part from growing into the skin again.
+
+## Aftercare
+
+- Keep the bandage clean and follow the soaking instructions.
+- Wear open shoes for a few days.
+- Cut nails **straight across** and not too short.
+
+## If you have diabetes or poor circulation
+
+**Do not try to treat it at home.** A small foot wound can get complicated quickly; get checked early.
+
+We are at 2912 Mangum Rd, Suite A, in northwest Houston, open every day from 9 AM to 9 PM. No insurance needed; ask for the price before your visit. We accept cash, cards and Apple Pay.`,
   },
   {
     slug: "farmacia",
@@ -3105,43 +3215,77 @@ ${AREAS_EN}`,
       "Over-the-counter (OTC) medications",
       "Guidance about your medications in Spanish",
     ],
-    longDescription: `Al terminar tu consulta en Clínica Hispana Mangum puedes recoger tus medicamentos en nuestra propia farmacia, sin tener que ir a otro lugar. Es la comodidad de resolver todo en una sola visita, con atención en español.
+    longDescription: `Después de la consulta, lo último que quieres es manejar a otra parte para buscar tus medicamentos. En Clínica Hispana Mangum tenemos farmacia dentro de la clínica, para que puedas salir con lo que el equipo médico te indicó y con las explicaciones en tu idioma.
 
-## ¿Qué incluye?
+## ¿Qué encuentras en la farmacia?
 
-- Surtido de tu receta justo al terminar la consulta
-- Medicamentos de marca y genéricos
-- Medicamentos de venta libre (OTC) para gripe, dolor, alergias y más
-- Asesoría del personal sobre cómo tomar tus medicamentos
-- Resurtido de recetas
+- **Medicamentos indicados en tu consulta**, disponibles en el mismo lugar.
+- **Opciones genéricas**, que suelen costar menos y tienen el mismo ingrediente activo.
+- **Medicamentos de venta libre** para gripe, dolor, fiebre, alergias y malestar estomacal.
 
-## ¿Por qué usar nuestra farmacia?
+Si necesitas un medicamento específico, llámanos antes para confirmar si está disponible.
 
-Te ahorras una segunda parada: el médico te atiende, te receta y recoges tu medicamento en el mismo lugar. Te explicamos en español la dosis, los horarios y los cuidados.
+## Te explicamos cómo tomarlos
 
-${WHY_ES}
+Antes de irte, el personal te explica:
 
-${PAYMENT_ES}
+- **Cuánto** tomar y **cada cuántas horas**.
+- Si se toma **con comida o en ayunas**.
+- **Por cuántos días**, sobre todo con antibióticos, que se terminan completos.
+- Qué **efectos secundarios** son comunes y cuáles requieren consulta.
 
-${AREAS_ES}`,
-    longDescriptionEn: `After your visit at Clínica Hispana Mangum you can pick up your medications at our own pharmacy, without going anywhere else. It's the convenience of getting everything done in a single visit, with service in Spanish.
+## Consejos para usar tus medicamentos con seguridad
 
-## What's included?
+1. Lleva una **lista actualizada** de todo lo que tomas, incluidas vitaminas y remedios naturales.
+2. No compartas medicamentos con otras personas ni uses los que sobraron de otra enfermedad.
+3. Guárdalos en un lugar fresco, seco y **fuera del alcance de los niños**.
+4. No tomes dos productos para la gripe al mismo tiempo: muchos repiten el mismo ingrediente.
+5. Pregunta antes de combinar medicamentos con alcohol.
 
-- Your prescription filled right after your visit
-- Brand-name and generic medications
-- Over-the-counter (OTC) medications for colds, pain, allergies and more
-- Staff guidance on how to take your medications
-- Prescription refills
+## ¿Genérico o de marca?
 
-## Why use our pharmacy?
+Los genéricos aprobados por la FDA tienen el mismo ingrediente activo, dosis y forma de uso que el de marca. Si tienes dudas sobre cuál te conviene, pregunta en la farmacia.
 
-You skip the second stop: the doctor sees you, writes your prescription, and you pick up your medication in the same place. We explain the dosage, schedule and precautions in Spanish.
+## Emergencias con medicamentos
 
-${WHY_EN}
+Si alguien tomó una sobredosis o un niño tragó medicamentos, llama al **Centro de Control de Envenenamientos: 1-800-222-1222**, o al 911 si hay dificultad para respirar o pérdida del conocimiento.
 
-${PAYMENT_EN}
+Estamos en 2912 Mangum Rd, Suite A, en el noroeste de Houston, abiertos todos los días de 9 AM a 9 PM. No necesitas seguro; pregunta el precio antes de tu visita. Aceptamos efectivo, tarjetas y Apple Pay.`,
+    longDescriptionEn: `After your visit, the last thing you want is to drive somewhere else for your medications. At Clínica Hispana Mangum we have a pharmacy inside the clinic, so you can leave with what the medical team prescribed and with instructions in your language.
 
-${AREAS_EN}`,
+## What will you find at the pharmacy?
+
+- **Medications prescribed during your visit**, available in the same place.
+- **Generic options**, which usually cost less and have the same active ingredient.
+- **Over-the-counter medications** for colds, pain, fever, allergies and upset stomach.
+
+If you need a specific medication, call ahead to confirm it is available.
+
+## We explain how to take them
+
+Before you leave, staff explain:
+
+- **How much** to take and **how often**.
+- Whether to take it **with food or on an empty stomach**.
+- **For how many days**, especially antibiotics, which must be finished.
+- Which **side effects** are common and which need a visit.
+
+## Tips for using medications safely
+
+1. Keep an **up-to-date list** of everything you take, including vitamins and herbal remedies.
+2. Do not share medications or use leftovers from another illness.
+3. Store them in a cool, dry place **out of children's reach**.
+4. Do not take two cold products at once: many repeat the same ingredient.
+5. Ask before mixing medications with alcohol.
+
+## Generic or brand name?
+
+FDA-approved generics have the same active ingredient, dose and use as the brand-name drug. If you are unsure which is right for you, ask at the pharmacy.
+
+## Medication emergencies
+
+If someone took an overdose or a child swallowed medication, call **Poison Control at 1-800-222-1222**, or 911 if there is trouble breathing or loss of consciousness.
+
+We are at 2912 Mangum Rd, Suite A, in northwest Houston, open every day from 9 AM to 9 PM. No insurance needed; ask for the price before your visit. We accept cash, cards and Apple Pay.`,
   },
 ];
