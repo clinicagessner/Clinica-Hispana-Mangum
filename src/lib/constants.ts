@@ -445,44 +445,52 @@ export const SERVICES: Service[] = [
       "Medication adjustment",
       "Nutrition and lifestyle plan",
     ],
-    longDescription: `Las enfermedades crónicas como la diabetes, la hipertensión y las dislipidemias (colesterol y triglicéridos altos) se controlan mejor con seguimiento constante. En Clínica Hispana Mangum diseñamos un plan claro y te acompañamos paso a paso, en español.
+    longDescription: `La diabetes, la presión alta y el colesterol elevado casi nunca duelen al principio, y por eso muchas personas no saben que los tienen hasta que aparece una complicación. En Clínica Hispana Mangum el equipo médico de la clínica te ayuda a medirlos, entenderlos y mantenerlos bajo control con visitas regulares y en español.
 
-## ¿Qué incluye?
+## ¿Qué hacemos en tu control?
 
-- Evaluación inicial y exámenes de laboratorio
-- Monitoreo de glucosa, presión arterial, colesterol y triglicéridos
-- Ajuste de medicamentos según tu evolución
-- Plan de alimentación y actividad física
-- Educación sobre tu condición en tu idioma
+- **Diagnóstico con laboratorio:** glucosa, A1C, perfil de lípidos y función del riñón.
+- **Medición de presión** en cada visita y revisión de tus registros de casa.
+- **Ajuste de medicamentos** según tus resultados y cómo te sientes.
+- **Plan de alimentación y actividad** que puedas seguir con tu rutina y tu comida de siempre.
+- **Revisión de pies y vigilancia de complicaciones** en diabetes.
 
-## Por qué es importante el control
+## ¿Cuáles son las metas habituales?
 
-Una diabetes, presión o colesterol mal controlados dañan con el tiempo el corazón, los riñones, los ojos y los nervios. Un buen seguimiento previene complicaciones y mejora tu calidad de vida.
+Para muchos adultos, la Asociación Americana de la Diabetes sugiere una **A1C menor de 7 %** y una **presión menor de 130/80**. Las metas de colesterol dependen de tu riesgo cardiovascular. Tu equipo médico ajusta cada meta a tu edad y tu salud.
 
-${WHY_ES}
+## ¿Cada cuánto debo venir?
 
-${PAYMENT_ES}
+Mientras se ajusta el tratamiento, cada 1 a 3 meses. Cuando ya estás en meta, cada 3 a 6 meses. Trae tu glucómetro o tu registro de presión para revisarlos juntos.
 
-${AREAS_ES}`,
-    longDescriptionEn: `Chronic conditions like diabetes, hypertension and dyslipidemia (high cholesterol and triglycerides) are best controlled with consistent follow-up. At Clínica Hispana Mangum we design a clear plan and support you every step of the way, in Spanish.
+## Señales para buscar atención pronto
 
-## What's included?
+Azúcar por encima de 300 varias veces, presión de 180/120 o más, dolor de pecho, falta de aire o debilidad de un lado del cuerpo. Las últimas tres son una emergencia: llama al 911.
 
-- Initial evaluation and lab work
-- Monitoring of glucose, blood pressure, cholesterol and triglycerides
-- Medication adjustment based on your progress
-- Nutrition and physical-activity plan
-- Education about your condition in your language
+Estamos en 2912 Mangum Rd, Suite A, en el noroeste de Houston, abiertos todos los días de 9 AM a 9 PM. No necesitas seguro; pregunta el precio antes de tu visita. Aceptamos efectivo, tarjetas y Apple Pay.`,
+    longDescriptionEn: `Diabetes, high blood pressure and high cholesterol rarely hurt at first, which is why many people do not know they have them until a complication appears. At Clínica Hispana Mangum the clinic's medical team helps you measure, understand and control them with regular visits in Spanish or English.
 
-## Why control matters
+## What do we do at your follow-up?
 
-Poorly managed diabetes, blood pressure or cholesterol damage the heart, kidneys, eyes and nerves over time. Good follow-up prevents complications and improves your quality of life.
+- **Lab-based diagnosis:** glucose, A1C, lipid panel and kidney function.
+- **Blood pressure checks** at every visit and review of your home readings.
+- **Medication adjustments** based on your results and how you feel.
+- **A food and activity plan** you can follow with your routine and usual meals.
+- **Foot checks and complication monitoring** for diabetes.
 
-${WHY_EN}
+## What are the usual goals?
 
-${PAYMENT_EN}
+For many adults, the American Diabetes Association suggests an **A1C below 7%** and **blood pressure below 130/80**. Cholesterol goals depend on your heart risk. Your medical team adjusts each goal to your age and health.
 
-${AREAS_EN}`,
+## How often should I come?
+
+While treatment is being adjusted, every 1 to 3 months. Once you are at goal, every 3 to 6 months. Bring your glucose meter or blood pressure log so we can review them together.
+
+## Signs to get care soon
+
+Blood sugar above 300 several times, blood pressure of 180/120 or higher, chest pain, shortness of breath or weakness on one side of the body. The last three are emergencies: call 911.
+
+We are at 2912 Mangum Rd, Suite A, in northwest Houston, open every day from 9 AM to 9 PM. No insurance needed; ask for the price before your visit. We accept cash, cards and Apple Pay.`,
   },
   {
     slug: "tiroides",
@@ -519,44 +527,60 @@ ${AREAS_EN}`,
       "Treatment and medication adjustment",
       "Follow-up in Spanish",
     ],
-    longDescription: `La tiroides regula tu energía, tu peso y tu ánimo. Cuando funciona de más o de menos aparecen síntomas que afectan tu día a día. En Clínica Hispana Mangum evaluamos tu tiroides con análisis de laboratorio y te damos el tratamiento adecuado.
+    longDescription: `La tiroides es una glándula pequeña en el cuello que controla el ritmo con que el cuerpo usa la energía. Cuando trabaja lento o acelerado, los síntomas se confunden con cansancio, estrés o cambios de peso. Un análisis de sangre sencillo aclara la duda.
 
-## ¿Qué incluye?
+## ¿Qué síntomas pueden venir de la tiroides?
 
-- Evaluación de síntomas
-- Pruebas de función tiroidea (TSH, T3, T4)
-- Diagnóstico de hipotiroidismo o hipertiroidismo
-- Inicio y ajuste del tratamiento
-- Seguimiento periódico
+| Tiroides lenta (hipotiroidismo) | Tiroides acelerada (hipertiroidismo) |
+|---|---|
+| Cansancio y sueño | Nerviosismo o ansiedad |
+| Aumento de peso | Pérdida de peso sin dieta |
+| Frío, piel seca, caída de cabello | Calor, sudor, temblor |
+| Estreñimiento | Palpitaciones |
+| Reglas abundantes | Reglas escasas |
 
-## Síntomas frecuentes
+## ¿Cómo se diagnostica?
 
-Cansancio, cambios de peso sin explicación, caída del cabello, frío o calor excesivo, nerviosismo o tristeza. Si los notas, una prueba sencilla puede dar la respuesta.
+Con la **TSH**, la prueba principal. Si sale alterada, se agregan **T4 libre** y a veces **T3**. En algunos casos se pide un ultrasonido del cuello para revisar nódulos.
 
-${WHY_ES}
+## ¿Cómo es el tratamiento?
 
-${PAYMENT_ES}
+- **Hipotiroidismo:** una pastilla diaria de hormona tiroidea. Se toma en ayunas, con agua, 30 a 60 minutos antes del desayuno y lejos del calcio o el hierro.
+- **Hipertiroidismo:** medicamentos para bajar la actividad de la glándula y controlar las palpitaciones; algunos casos necesitan especialista.
+- **Seguimiento:** se repite la TSH unas 6 a 8 semanas después de cada ajuste de dosis.
 
-${AREAS_ES}`,
-    longDescriptionEn: `The thyroid regulates your energy, weight and mood. When it works too much or too little, symptoms appear that affect your daily life. At Clínica Hispana Mangum we evaluate your thyroid with lab work and provide the right treatment.
+## ¿Quién debería revisarse?
 
-## What's included?
+Personas con síntomas, mujeres embarazadas o que buscan embarazo con antecedentes, quienes tienen familiares con problemas de tiroides y pacientes con diabetes tipo 1 u otras enfermedades autoinmunes.
 
-- Symptom evaluation
-- Thyroid function tests (TSH, T3, T4)
-- Diagnosis of hypothyroidism or hyperthyroidism
-- Treatment start and adjustment
-- Periodic follow-up
+Estamos en 2912 Mangum Rd, Suite A, en el noroeste de Houston, abiertos todos los días de 9 AM a 9 PM. No necesitas seguro; pregunta el precio antes de tu visita. Aceptamos efectivo, tarjetas y Apple Pay.`,
+    longDescriptionEn: `The thyroid is a small gland in the neck that controls how fast the body uses energy. When it runs slow or fast, the symptoms are mistaken for fatigue, stress or weight changes. A simple blood test clears up the doubt.
 
-## Common symptoms
+## Which symptoms can come from the thyroid?
 
-Fatigue, unexplained weight changes, hair loss, feeling too cold or too hot, nervousness or sadness. If you notice them, a simple test can give the answer.
+| Slow thyroid (hypothyroidism) | Overactive thyroid (hyperthyroidism) |
+|---|---|
+| Fatigue and sleepiness | Nervousness or anxiety |
+| Weight gain | Weight loss without dieting |
+| Feeling cold, dry skin, hair loss | Feeling hot, sweating, tremor |
+| Constipation | Palpitations |
+| Heavy periods | Light periods |
 
-${WHY_EN}
+## How is it diagnosed?
 
-${PAYMENT_EN}
+With **TSH**, the main test. If it is abnormal, **free T4** and sometimes **T3** are added. In some cases a neck ultrasound is ordered to check for nodules.
 
-${AREAS_EN}`,
+## What is the treatment?
+
+- **Hypothyroidism:** a daily thyroid hormone pill. It is taken on an empty stomach with water, 30 to 60 minutes before breakfast and away from calcium or iron.
+- **Hyperthyroidism:** medications to lower the gland's activity and control palpitations; some cases need a specialist.
+- **Follow-up:** TSH is repeated about 6 to 8 weeks after each dose change.
+
+## Who should get checked?
+
+People with symptoms, pregnant women or those planning pregnancy with a history of thyroid problems, people with relatives who have thyroid disease and patients with type 1 diabetes or other autoimmune conditions.
+
+We are at 2912 Mangum Rd, Suite A, in northwest Houston, open every day from 9 AM to 9 PM. No insurance needed; ask for the price before your visit. We accept cash, cards and Apple Pay.`,
   },
   {
     slug: "alergias",
@@ -593,44 +617,54 @@ ${AREAS_EN}`,
       "Management of rhinitis and congestion",
       "Care in Spanish",
     ],
-    longDescription: `Las alergias pueden afectar tu respiración, tu piel y tu descanso. En Clínica Hispana Mangum identificamos qué las provoca y te ayudamos a controlarlas para que recuperes tu bienestar.
+    longDescription: `Estornudos todas las mañanas, ojos que pican en primavera o ronchas después de comer algo: las alergias son muy comunes en Houston, donde el polen, el moho y la humedad están presentes casi todo el año. Con un buen diagnóstico se pueden controlar y dejar de afectar tu sueño y tu trabajo.
 
-## ¿Qué incluye?
+## ¿Qué alergias atendemos?
 
-- Evaluación de síntomas y posibles desencadenantes
-- Tratamiento de alergias estacionales y respiratorias
-- Manejo de rinitis, estornudos y congestión
-- Atención de alergias en la piel (ronchas, comezón)
-- Recomendaciones para evitar las crisis
+- **Rinitis alérgica:** estornudos, nariz tapada o que escurre, comezón en ojos y garganta.
+- **Alergias de la piel:** ronchas (urticaria), comezón y eccema.
+- **Reacciones a picaduras o alimentos** leves, con plan para evitarlas.
+- **Tos o silbido en el pecho** relacionados con alergia, para descartar asma.
 
-## Cuándo consultar
+## ¿Cómo sabemos qué te causa la alergia?
 
-Estornudos frecuentes, ojos llorosos, comezón, ronchas o congestión que no mejora son señales de alergia. Un tratamiento adecuado marca la diferencia.
+El equipo médico revisa cuándo aparecen los síntomas, dónde estás y qué cambió en tu rutina. Muchas veces el patrón basta para identificar el desencadenante. Si hace falta confirmar, se indican estudios o la referencia a un alergólogo.
 
-${WHY_ES}
+## ¿Cómo se tratan?
 
-${PAYMENT_ES}
+- **Antihistamínicos** que no dan sueño y **esteroides nasales**, que funcionan mejor si se usan todos los días en temporada.
+- **Cremas o medicamentos** para ronchas y comezón.
+- **Medidas en casa:** lavar la ropa de cama con agua caliente, cerrar ventanas en días de mucho polen y controlar la humedad para evitar moho.
 
-${AREAS_ES}`,
-    longDescriptionEn: `Allergies can affect your breathing, your skin and your rest. At Clínica Hispana Mangum we identify what triggers them and help you control them so you feel well again.
+## ¿Cuándo es una emergencia?
 
-## What's included?
+Si hay **hinchazón de labios, lengua o garganta, dificultad para respirar o mareo** después de un alimento, medicamento o picadura, llama al 911 de inmediato: puede ser anafilaxia.
 
-- Evaluation of symptoms and possible triggers
-- Treatment of seasonal and respiratory allergies
-- Management of rhinitis, sneezing and congestion
-- Care for skin allergies (hives, itching)
-- Recommendations to avoid flare-ups
+Estamos en 2912 Mangum Rd, Suite A, en el noroeste de Houston, abiertos todos los días de 9 AM a 9 PM. No necesitas seguro; pregunta el precio antes de tu visita. Aceptamos efectivo, tarjetas y Apple Pay.`,
+    longDescriptionEn: `Sneezing every morning, itchy eyes in spring or hives after eating something: allergies are very common in Houston, where pollen, mold and humidity are around most of the year. With a good diagnosis they can be controlled so they stop affecting your sleep and work.
 
-## When to seek care
+## Which allergies do we treat?
 
-Frequent sneezing, watery eyes, itching, hives or congestion that won't improve are signs of allergy. The right treatment makes the difference.
+- **Allergic rhinitis:** sneezing, stuffy or runny nose, itchy eyes and throat.
+- **Skin allergies:** hives, itching and eczema.
+- **Mild reactions to insect stings or foods**, with a plan to avoid them.
+- **Cough or wheezing** related to allergies, to rule out asthma.
 
-${WHY_EN}
+## How do we find what causes it?
 
-${PAYMENT_EN}
+The medical team reviews when symptoms appear, where you are and what changed in your routine. Often the pattern is enough to identify the trigger. If confirmation is needed, tests or a referral to an allergist are arranged.
 
-${AREAS_EN}`,
+## How are allergies treated?
+
+- **Non-drowsy antihistamines** and **nasal steroids**, which work best when used every day during the season.
+- **Creams or medications** for hives and itching.
+- **Home measures:** wash bedding in hot water, close windows on high-pollen days and control humidity to prevent mold.
+
+## When is it an emergency?
+
+If there is **swelling of the lips, tongue or throat, trouble breathing or dizziness** after a food, medication or sting, call 911 right away: it may be anaphylaxis.
+
+We are at 2912 Mangum Rd, Suite A, in northwest Houston, open every day from 9 AM to 9 PM. No insurance needed; ask for the price before your visit. We accept cash, cards and Apple Pay.`,
   },
   {
     slug: "enfermedades-respiratorias",
@@ -667,44 +701,60 @@ ${AREAS_EN}`,
       "Treatment of flu, cough and bronchitis",
       "Walk-in care in Spanish",
     ],
-    longDescription: `Cuando empiezan la fiebre, la tos o el malestar, saber si es flu o COVID ayuda a tratarte a tiempo. En Clínica Hispana Mangum hacemos pruebas rápidas y te damos tratamiento el mismo día, sin cita.
+    longDescription: `Fiebre, dolor de cuerpo, tos y garganta irritada pueden ser gripe, COVID-19, una infección de garganta o un resfriado común. Se parecen mucho, pero no se tratan igual. En Clínica Hispana Mangum hacemos pruebas rápidas en la misma visita, sin cita, para saber qué tienes y empezar el tratamiento correcto.
 
-## ¿Qué incluye?
+## ¿Qué pruebas hacemos?
 
-- Prueba rápida de influenza (flu)
-- Prueba de COVID-19
-- Evaluación de síntomas respiratorios
-- Tratamiento de gripe, tos, bronquitis e infecciones de garganta
-- Indicaciones de recuperación y cuidado
+- **Prueba rápida de influenza (flu).**
+- **Prueba rápida de COVID-19.**
+- **Evaluación de garganta, oídos y pulmones**, y prueba de estreptococo cuando hay sospecha.
 
-## No dejes que avance
+## ¿Por qué conviene venir pronto?
 
-Si la fiebre es alta, la tos no mejora o cuesta respirar, es mejor evaluarte. Un diagnóstico oportuno acorta la enfermedad y evita complicaciones.
+Los antivirales contra la influenza funcionan mejor si se empiezan en las **primeras 48 horas** de síntomas, sobre todo en personas mayores de 65 años, embarazadas, niños pequeños o con diabetes, asma o problemas del corazón.
 
-${WHY_ES}
+## ¿Qué tratamiento recibes?
 
-${PAYMENT_ES}
+Depende del resultado: antiviral para la gripe cuando está indicado, alivio de fiebre, dolor y tos, y antibiótico **solo si hay infección bacteriana**. Los antibióticos no sirven contra gripe, COVID ni resfriado.
 
-${AREAS_ES}`,
-    longDescriptionEn: `When fever, cough or discomfort begin, knowing whether it's flu or COVID helps treat you in time. At Clínica Hispana Mangum we run rapid tests and provide same-day treatment, no appointment needed.
+## Cuidados en casa
 
-## What's included?
+- Descansa y toma mucho líquido.
+- Quédate en casa hasta pasar **24 horas sin fiebre** sin usar medicamento para bajarla.
+- Cúbrete al toser y lávate las manos seguido.
 
-- Rapid influenza (flu) test
-- COVID-19 test
-- Respiratory symptom evaluation
-- Treatment of flu, cough, bronchitis and throat infections
-- Recovery and care instructions
+## Señales de alarma
 
-## Don't let it progress
+Dificultad para respirar, dolor o presión en el pecho, labios morados, confusión, fiebre que regresa después de mejorar, o en niños, respiración rápida y no querer tomar líquidos. En esos casos ve a urgencias o llama al 911.
 
-If the fever is high, the cough won't improve or breathing is hard, it's best to get evaluated. Timely diagnosis shortens the illness and prevents complications.
+Estamos en 2912 Mangum Rd, Suite A, en el noroeste de Houston, abiertos todos los días de 9 AM a 9 PM. No necesitas seguro; pregunta el precio antes de tu visita. Aceptamos efectivo, tarjetas y Apple Pay.`,
+    longDescriptionEn: `Fever, body aches, cough and a sore throat can be flu, COVID-19, a throat infection or a common cold. They look alike, but they are not treated the same way. At Clínica Hispana Mangum we run rapid tests during the same visit, no appointment needed, to find out what you have and start the right treatment.
 
-${WHY_EN}
+## Which tests do we do?
 
-${PAYMENT_EN}
+- **Rapid influenza (flu) test.**
+- **Rapid COVID-19 test.**
+- **Throat, ear and lung exam**, plus a strep test when suspected.
 
-${AREAS_EN}`,
+## Why come in early?
+
+Flu antivirals work best when started within the **first 48 hours** of symptoms, especially for people over 65, pregnant women, young children or people with diabetes, asthma or heart disease.
+
+## What treatment do you get?
+
+It depends on the result: an antiviral for flu when indicated, relief for fever, pain and cough, and antibiotics **only if there is a bacterial infection**. Antibiotics do not work against flu, COVID or colds.
+
+## Care at home
+
+- Rest and drink plenty of fluids.
+- Stay home until you are **fever-free for 24 hours** without fever-reducing medicine.
+- Cover your cough and wash your hands often.
+
+## Warning signs
+
+Trouble breathing, chest pain or pressure, bluish lips, confusion, fever that returns after improving, or in children, fast breathing and refusing fluids. In those cases go to the emergency room or call 911.
+
+We are at 2912 Mangum Rd, Suite A, in northwest Houston, open every day from 9 AM to 9 PM. No insurance needed; ask for the price before your visit. We accept cash, cards and Apple Pay.`,
   },
   {
     slug: "examen-fisico-escolar",
@@ -743,44 +793,66 @@ ${AREAS_EN}`,
       "School and sports forms completed",
       "Care in Spanish",
     ],
-    longDescription: `Antes de inscribirse en la escuela o practicar un deporte, los niños y jóvenes necesitan un chequeo físico. En Clínica Hispana Mangum lo hacemos de forma rápida y completa, con todos los formularios listos.
+    longDescription: `Muchas escuelas, ligas y campamentos piden un examen físico antes de empezar el año o la temporada. En Clínica Hispana Mangum lo hacemos sin cita y llenamos el formulario durante la visita, para que tu hijo o hija pueda entrar a clases o al equipo sin retrasos.
 
-## ¿Qué incluye?
+## ¿Qué revisa el examen?
 
-- Examen físico general
-- Revisión de signos vitales (peso, talla, presión)
-- Evaluación de visión y audición
-- Llenado de los formularios requeridos
-- Recomendaciones de salud
+- **Historia de salud:** enfermedades, cirugías, alergias, medicamentos y antecedentes familiares del corazón.
+- **Signos vitales:** peso, estatura, presión arterial y pulso.
+- **Vista y oído.**
+- **Examen físico:** corazón, pulmones, abdomen, piel, columna y articulaciones.
+- **Revisión del registro de vacunas** según lo que pida la escuela.
 
-## Para la escuela y el deporte
+## Examen deportivo: el corazón es lo más importante
 
-Cumple los requisitos de inscripción escolar y la evaluación para practicar deportes con seguridad. Trae el formulario de tu escuela o equipo y lo completamos.
+Antes de un deporte se pregunta si el atleta se ha **desmayado o ha tenido dolor de pecho al hacer ejercicio**, y si algún familiar murió de forma repentina antes de los 50 años. Si hay alguna de esas señales, se recomienda estudiar el corazón antes de competir, por ejemplo con un electrocardiograma.
 
-${WHY_ES}
+## ¿Qué debo traer?
 
-${PAYMENT_ES}
+1. El **formulario de la escuela o la liga**; cada una usa el suyo.
+2. La **cartilla de vacunas** del menor.
+3. Lentes, si los usa.
+4. La lista de medicamentos, incluido el inhalador si tiene asma.
 
-${AREAS_ES}`,
-    longDescriptionEn: `Before enrolling in school or playing a sport, children and teens need a physical exam. At Clínica Hispana Mangum we do it quickly and thoroughly, with all the forms ready.
+## ¿Quién puede traer al menor?
 
-## What's included?
+Los menores de edad deben venir con su padre, madre o tutor legal, quien firma la autorización y responde la historia de salud.
 
-- General physical exam
-- Vital-signs check (weight, height, blood pressure)
-- Vision and hearing screening
-- Completion of required forms
-- Health recommendations
+## ¿Cuándo hacerlo?
 
-## For school and sports
+Con **2 a 4 semanas** de anticipación a la fecha límite, para tener tiempo si falta alguna vacuna o un estudio.
 
-Meet school enrollment requirements and the evaluation to play sports safely. Bring your school or team form and we'll complete it.
+Estamos en 2912 Mangum Rd, Suite A, en el noroeste de Houston, abiertos todos los días de 9 AM a 9 PM. No necesitas seguro; pregunta el precio antes de tu visita. Aceptamos efectivo, tarjetas y Apple Pay.`,
+    longDescriptionEn: `Many schools, leagues and camps require a physical before the school year or season starts. At Clínica Hispana Mangum we do it with no appointment and fill out the form during the visit, so your child can start classes or join the team without delays.
 
-${WHY_EN}
+## What does the exam check?
 
-${PAYMENT_EN}
+- **Health history:** illnesses, surgeries, allergies, medications and family history of heart problems.
+- **Vital signs:** weight, height, blood pressure and pulse.
+- **Vision and hearing.**
+- **Physical exam:** heart, lungs, abdomen, skin, spine and joints.
+- **Vaccination record review** based on what the school requires.
 
-${AREAS_EN}`,
+## Sports physicals: the heart comes first
+
+Before a sport, we ask whether the athlete has **fainted or had chest pain during exercise**, and whether a relative died suddenly before age 50. If any of those signs are present, a heart evaluation such as an electrocardiogram is recommended before competing.
+
+## What should I bring?
+
+1. The **school or league form**; each one uses its own.
+2. The child's **vaccination record**.
+3. Glasses, if they wear them.
+4. A list of medications, including an inhaler if they have asthma.
+
+## Who can bring the child?
+
+Minors must come with a parent or legal guardian, who signs the consent and answers the health history.
+
+## When should we do it?
+
+**2 to 4 weeks** before the deadline, so there is time if a vaccine or test is missing.
+
+We are at 2912 Mangum Rd, Suite A, in northwest Houston, open every day from 9 AM to 9 PM. No insurance needed; ask for the price before your visit. We accept cash, cards and Apple Pay.`,
   },
   {
     slug: "ginecologia",
