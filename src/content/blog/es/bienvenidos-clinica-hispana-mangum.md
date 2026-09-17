@@ -1,8 +1,8 @@
 ---
 title: "Bienvenidos a Clínica Hispana Mangum"
-description: "Conoce Clínica Hispana Mangum: atención médica 100% en español en Houston, TX, sin cita previa y sin necesidad de seguro."
+description: "Tu primera visita a Clínica Hispana Mangum: cómo funciona la atención sin cita, qué traer, horario, pagos, estacionamiento y contacto."
 date: "2026-01-15"
-dateModified: "2026-07-22"
+dateModified: "2026-09-17"
 author: "Equipo Clínica Hispana Mangum"
 category: "Clínica"
 relatedServices:
@@ -17,28 +17,42 @@ keywords:
   - "clínica sin cita houston"
 ---
 
-En Clínica Hispana Mangum creemos que cuidar tu salud no debería ser complicado ni costoso, y mucho menos cuando el idioma se interpone. Por eso abrimos nuestras puertas en Houston con una idea muy clara: ofrecer atención médica profesional, cercana y **100% en español** para toda la comunidad hispana.
+Si es la primera vez que vienes a Clínica Hispana Mangum, esta guía te cuenta cómo funciona la visita de principio a fin, para que llegues sin dudas. Somos una clínica médica familiar en el noroeste de Houston y atendemos en español y en inglés.
 
-## Quiénes somos
+## ¿Dónde estamos y cuándo abrimos?
 
-Somos una clínica médica familiar ubicada en **2912 Mangum Rd Ste. A, Houston, TX 77092**. Atendemos a niños y adultos, sin necesidad de seguro y sin cita previa. Nuestro horario es de **lunes a domingo, de 9:00 AM a 9:00 PM**, porque sabemos que la salud no espera al fin de semana.
+- **Dirección:** 2912 Mangum Rd, Suite A, Houston, TX 77092.
+- **Horario:** todos los días, de lunes a domingo, de 9:00 AM a 9:00 PM.
+- **Estacionamiento:** gratuito, frente a la clínica, con lugares accesibles.
+- **Accesibilidad:** entrada y baños accesibles para silla de ruedas.
 
-## Qué puedes encontrar con nosotros
+## ¿Necesito cita?
 
-Ofrecemos una amplia gama de servicios bajo un mismo techo:
+No. Puedes llegar en cualquier momento del horario y te atendemos por orden de llegada. Si prefieres, llama antes para preguntar cómo está la espera o para avisar que vas en camino.
 
-- Medicina familiar para todas las edades
-- Examen médico de inmigración I-693 con médico autorizado por USCIS
-- Laboratorio clínico con resultados el mismo día
-- Ultrasonido y electrocardiograma
-- Control de diabetes, hipertensión y colesterol
-- Ginecología y salud de la mujer
-- Examen físico DOT para licencia CDL
+## ¿Cómo es la primera visita?
 
-## Por qué elegirnos
+1. **Registro:** te pedimos tu nombre, fecha de nacimiento y un teléfono.
+2. **Signos vitales:** presión, temperatura, peso y pulso.
+3. **Consulta:** el equipo médico de la clínica escucha qué te pasa, te revisa y te explica en tu idioma.
+4. **Estudios o tratamiento:** si hacen falta análisis, pruebas o curaciones, muchos se hacen en la misma visita.
+5. **Indicaciones:** sales sabiendo qué hacer, cuándo regresar y cuándo ir a urgencias.
 
-Lo que nos distingue no es solo lo que hacemos, sino **cómo lo hacemos**. Te recibimos en tu idioma, te explicamos cada paso sin tecnicismos y te tratamos con el respeto y el tiempo que mereces. Aceptamos pacientes sin necesidad de seguro y manejamos precios accesibles y transparentes.
+## ¿Qué debo traer?
 
-## Te esperamos
+- Identificación con foto, si la tienes.
+- Lista de medicamentos y alergias.
+- Resultados o estudios anteriores relacionados con tu consulta.
+- Registros de vacunas si vienes por un examen escolar o de inmigración.
 
-Cuidar tu salud es la mejor inversión que puedes hacer por ti y por tu familia. Ven sin cita o llámanos al **(832) 834-5507**. En Clínica Hispana Mangum, te atendemos como a los nuestros.
+## ¿Cómo se paga?
+
+No necesitas seguro médico. Pregunta el precio antes de la consulta o del estudio; aceptamos **efectivo, tarjetas y Apple Pay**. También tenemos [promociones vigentes](/promociones) para chequeos.
+
+## ¿Qué atendemos?
+
+Medicina familiar y [control de enfermedades crónicas](/services/condiciones-cronicas), [análisis de sangre](/services/examenes-sangre), [ginecología](/services/ginecologia), [salud del hombre](/services/salud-hombre), exámenes [DOT](/services/examen-dot), [de inmigración I-693](/services/examenes-inmigracion) y escolares, vacunas, curaciones y cirugías menores. Consulta la [lista completa de servicios](/services).
+
+## ¿Cómo contactarnos?
+
+Llama al **(832) 834-5507** o escríbenos por WhatsApp al mismo número. También nos encuentras en Facebook e Instagram como clinicahispanamangum. Si tienes una emergencia, como dolor de pecho o dificultad para respirar, llama al **911**.
