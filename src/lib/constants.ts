@@ -996,42 +996,58 @@ You do not need health insurance, and we accept cash, cards and Apple Pay. We ar
       "Guidance on next steps",
       "Care in Spanish",
     ],
-    longDescription: `Si crees que podrías estar embarazada, una prueba confiable te da tranquilidad y claridad. En Clínica Hispana Mangum realizamos pruebas de embarazo y te orientamos sobre lo que sigue, en español y sin juicios.
+    longDescription: `Un retraso en la regla trae muchas preguntas. Confirmar el embarazo con personal de salud te da un resultado claro y, sobre todo, te orienta sobre qué hacer después, tanto si lo buscabas como si no. En Clínica Hispana Mangum la prueba se hace sin cita y con total privacidad.
 
-## ¿Qué incluye?
+## ¿Cuándo hacer la prueba?
 
-- Prueba de embarazo (orina o sangre)
-- Confirmación médica del resultado
-- Orientación sobre tus siguientes pasos
-- Información sobre control prenatal y referencias
+- **Prueba en orina:** es confiable a partir del **primer día de retraso** de la regla. Si sale negativa y la regla no llega, repítela en una semana.
+- **Prueba en sangre:** detecta la hormona del embarazo antes y en menor cantidad; útil cuando hay dudas o para seguimiento.
 
-## Con confianza y respeto
+## ¿Qué pasa si sale positiva?
 
-Te explicamos el resultado con claridad y te acompañamos en la decisión que tomes, siempre con respeto y privacidad.
+1. El equipo médico confirma el resultado y calcula las semanas según tu última regla.
+2. Revisamos tus medicamentos y si ya tomas **ácido fólico** (400 microgramos diarios).
+3. Te orientamos para iniciar el **control prenatal** cuanto antes; si hace falta, con un ultrasonido y la referencia a obstetricia.
 
-${WHY_ES}
+## ¿Y si sale negativa?
 
-${PAYMENT_ES}
+Si la regla sigue sin llegar, pueden influir el estrés, cambios de peso, la tiroides o el síndrome de ovario poliquístico. Vale la pena una consulta para revisar la causa.
 
-${AREAS_ES}`,
-    longDescriptionEn: `If you think you might be pregnant, a reliable test gives you peace of mind and clarity. At Clínica Hispana Mangum we perform pregnancy tests and guide you on what comes next, in Spanish and without judgment.
+## Señales de alarma al inicio del embarazo
 
-## What's included?
+**Dolor fuerte de un solo lado del abdomen, sangrado abundante, mareo o desmayo** pueden indicar un embarazo fuera del útero. Es una emergencia: ve a urgencias o llama al 911.
 
-- Pregnancy test (urine or blood)
-- Medical confirmation of the result
-- Guidance on your next steps
-- Information on prenatal care and referrals
+## Privacidad
 
-## With trust and respect
+Tu resultado es confidencial y solo se comparte contigo. Puedes venir sola o acompañada.
 
-We explain the result clearly and support you in whatever decision you make, always with respect and privacy.
+Estamos en 2912 Mangum Rd, Suite A, en el noroeste de Houston, abiertos todos los días de 9 AM a 9 PM. No necesitas seguro; pregunta el precio antes de tu visita. Aceptamos efectivo, tarjetas y Apple Pay.`,
+    longDescriptionEn: `A late period brings lots of questions. Confirming a pregnancy with health staff gives you a clear result and, above all, guidance on what comes next, whether or not you were planning it. At Clínica Hispana Mangum the test is done with no appointment and full privacy.
 
-${WHY_EN}
+## When should I test?
 
-${PAYMENT_EN}
+- **Urine test:** reliable from the **first day of a missed period**. If it is negative and your period still does not come, repeat it in a week.
+- **Blood test:** detects the pregnancy hormone earlier and at lower levels; useful when in doubt or for follow-up.
 
-${AREAS_EN}`,
+## What if it is positive?
+
+1. The medical team confirms the result and estimates the weeks from your last period.
+2. We review your medications and whether you already take **folic acid** (400 micrograms a day).
+3. We guide you to start **prenatal care** as soon as possible; if needed, with an ultrasound and a referral to obstetrics.
+
+## What if it is negative?
+
+If your period still does not come, stress, weight changes, thyroid problems or polycystic ovary syndrome may be involved. A visit to look for the cause is worthwhile.
+
+## Warning signs in early pregnancy
+
+**Severe pain on one side of the abdomen, heavy bleeding, dizziness or fainting** can mean a pregnancy outside the uterus. It is an emergency: go to the emergency room or call 911.
+
+## Privacy
+
+Your result is confidential and shared only with you. You can come alone or with someone.
+
+We are at 2912 Mangum Rd, Suite A, in northwest Houston, open every day from 9 AM to 9 PM. No insurance needed; ask for the price before your visit. We accept cash, cards and Apple Pay.`,
   },
   {
     slug: "anticonceptivos",
@@ -1068,44 +1084,70 @@ ${AREAS_EN}`,
       "Method start and follow-up",
       "Care in Spanish",
     ],
-    longDescription: `Decidir cuándo y cómo formar tu familia es tu derecho. En Clínica Hispana Mangum te damos información clara y sin juicios para que elijas el método anticonceptivo que mejor se adapta a ti.
+    longDescription: `Elegir un método anticonceptivo depende de tu salud, tus planes y tu estilo de vida. No existe uno "mejor" para todas. En Clínica Hispana Mangum el equipo médico de la clínica te explica las opciones en español, revisa tu salud y te ayuda a empezar el método que mejor te funcione.
 
-## ¿Qué incluye?
+## ¿Qué métodos ofrecemos en la clínica?
 
-- Consulta de orientación personalizada
-- Información sobre los distintos métodos
-- Pastillas anticonceptivas e inyección
-- Inicio y seguimiento del método elegido
-- Resolución de dudas y efectos secundarios
+- **Pastillas anticonceptivas:** una al día, a la misma hora.
+- **Inyección anticonceptiva:** una aplicación cada 3 meses.
+- **Orientación** sobre otros métodos de larga duración, como el implante o el DIU, con referencia si eliges uno de ellos.
 
-## Una decisión informada
+## ¿Qué tan efectivos son?
 
-Cada cuerpo y cada vida es distinta. Te ayudamos a comparar opciones según tu salud, tus planes y tu comodidad para que tomes la mejor decisión.
+Con el uso real de todos los días, según los CDC:
 
-${WHY_ES}
+| Método | Embarazos por cada 100 mujeres en un año |
+|---|---|
+| Implante o DIU | Menos de 1 |
+| Inyección | Alrededor de 4 |
+| Pastillas | Alrededor de 7 |
+| Condón masculino | Alrededor de 13 |
 
-${PAYMENT_ES}
+La diferencia está en el olvido: la inyección no depende de acordarte cada día.
 
-${AREAS_ES}`,
-    longDescriptionEn: `Deciding when and how to build your family is your right. At Clínica Hispana Mangum we give you clear, judgment-free information so you can choose the contraceptive method that best fits you.
+## Antes de empezar
 
-## What's included?
+El equipo médico revisa tu presión, si fumas, si tienes migraña con aura o antecedentes de coágulos, porque algunas pastillas no son recomendables en esos casos.
 
-- Personalized guidance visit
-- Information about the different methods
-- Birth control pills and injection
-- Starting and following up on the chosen method
-- Answers to questions and side effects
+## Cosas que conviene saber
 
-## An informed decision
+- Las pastillas y la inyección **no protegen contra infecciones de transmisión sexual**; para eso está el condón.
+- Si tuviste relaciones sin protección, la **pastilla de emergencia** de venta libre funciona mejor mientras antes se tome, idealmente en las primeras 72 horas.
+- Si olvidas pastillas o te pasas de la fecha de la inyección, usa condón y pregúntanos qué hacer.
 
-Every body and every life is different. We help you compare options based on your health, your plans and your comfort so you make the best decision.
+Estamos en 2912 Mangum Rd, Suite A, en el noroeste de Houston, abiertos todos los días de 9 AM a 9 PM. No necesitas seguro; pregunta el precio antes de tu visita. Aceptamos efectivo, tarjetas y Apple Pay.`,
+    longDescriptionEn: `Choosing birth control depends on your health, your plans and your lifestyle. There is no single "best" method for everyone. At Clínica Hispana Mangum the clinic's medical team explains the options in Spanish or English, reviews your health and helps you start the method that works best for you.
 
-${WHY_EN}
+## Which methods do we offer at the clinic?
 
-${PAYMENT_EN}
+- **Birth control pills:** one a day, at the same time.
+- **Birth control shot:** one injection every 3 months.
+- **Guidance** on long-acting methods such as the implant or IUD, with a referral if you choose one.
 
-${AREAS_EN}`,
+## How effective are they?
+
+With typical everyday use, according to the CDC:
+
+| Method | Pregnancies per 100 women in a year |
+|---|---|
+| Implant or IUD | Fewer than 1 |
+| Shot | About 4 |
+| Pills | About 7 |
+| Male condom | About 13 |
+
+The difference is forgetting: the shot does not depend on remembering every day.
+
+## Before you start
+
+The medical team checks your blood pressure and asks whether you smoke, have migraines with aura or a history of blood clots, because some pills are not recommended in those cases.
+
+## Good to know
+
+- Pills and the shot **do not protect against sexually transmitted infections**; condoms do.
+- If you had unprotected sex, over-the-counter **emergency contraception** works best the sooner it is taken, ideally within 72 hours.
+- If you miss pills or are late for your shot, use condoms and ask us what to do.
+
+We are at 2912 Mangum Rd, Suite A, in northwest Houston, open every day from 9 AM to 9 PM. No insurance needed; ask for the price before your visit. We accept cash, cards and Apple Pay.`,
   },
   {
     slug: "extraccion-implantes",
@@ -1142,42 +1184,62 @@ ${AREAS_EN}`,
       "Trained staff",
       "After-care explained",
     ],
-    longDescription: `Si llegó el momento de retirar tu implante subdérmico —porque caducó o porque deseas cambiar de método— en Clínica Hispana Mangum lo hacemos de forma segura, rápida y con cuidado.
+    longDescription: `El implante anticonceptivo es una varilla pequeña y flexible que se coloca debajo de la piel del brazo. Cuando se cumple su tiempo, cuando buscas un embarazo o si te causa molestias, se puede retirar con un procedimiento corto en la clínica.
 
-## ¿Qué incluye?
+## ¿Cuándo conviene retirarlo?
 
-- Evaluación y localización del implante
-- Extracción ambulatoria con anestesia local
-- Indicaciones claras de cuidado posterior
-- Orientación sobre tus próximos pasos de planificación
+- Al cumplirse el tiempo indicado en tu tarjeta del implante; en EE. UU. la etiqueta aprobada es de hasta **3 años**.
+- Si quieres **quedar embarazada**.
+- Si tienes efectos que no toleras, como sangrado irregular que no mejora.
 
-## Un procedimiento sencillo
+## ¿Cómo es el procedimiento?
 
-El retiro suele tomar pocos minutos y se realiza con una pequeña incisión. Te explicamos cada paso en español para que estés tranquila.
+1. **Localización:** el equipo médico palpa el implante en el brazo.
+2. **Anestesia local:** se adormece una zona pequeña de la piel.
+3. **Extracción:** a través de un corte de pocos milímetros se retira la varilla completa.
+4. **Cierre:** se coloca una cinta adhesiva y un vendaje de presión.
 
-${WHY_ES}
+La extracción suele tomar pocos minutos. Si el implante **no se siente al tacto**, se necesita un estudio de imagen para ubicarlo antes de intentar retirarlo.
 
-${PAYMENT_ES}
+## Cuidados después
 
-${AREAS_ES}`,
-    longDescriptionEn: `If it's time to remove your subdermal implant —because it expired or you want to switch methods— at Clínica Hispana Mangum we do it safely, quickly and with care.
+- Deja el vendaje de presión **24 horas** y la cinta pequeña unos días.
+- Es normal un pequeño moretón o sensibilidad.
+- Consulta si aparece enrojecimiento que crece, pus o fiebre.
 
-## What's included?
+## ¿Y después del implante?
 
-- Evaluation and location of the implant
-- Outpatient removal with local anesthesia
-- Clear after-care instructions
-- Guidance on your next family-planning steps
+La fertilidad regresa rápido después de retirarlo. Si no buscas embarazo, **empieza otro método el mismo día** para no quedar sin protección; el equipo médico te orienta sobre pastillas, inyección u otras opciones.
 
-## A simple procedure
+Estamos en 2912 Mangum Rd, Suite A, en el noroeste de Houston, abiertos todos los días de 9 AM a 9 PM. No necesitas seguro; pregunta el precio antes de tu visita. Aceptamos efectivo, tarjetas y Apple Pay.`,
+    longDescriptionEn: `The birth control implant is a small, flexible rod placed under the skin of the arm. When its time is up, when you want to get pregnant or if it causes problems, it can be removed with a short procedure at the clinic.
 
-Removal usually takes only a few minutes through a small incision. We explain every step in Spanish so you feel at ease.
+## When should it be removed?
 
-${WHY_EN}
+- When the time on your implant card is reached; in the U.S. the approved label is up to **3 years**.
+- If you want to **get pregnant**.
+- If you have side effects you cannot tolerate, such as irregular bleeding that does not improve.
 
-${PAYMENT_EN}
+## What is the procedure like?
 
-${AREAS_EN}`,
+1. **Locating:** the medical team feels for the implant in the arm.
+2. **Local anesthesia:** a small area of skin is numbed.
+3. **Removal:** the whole rod is taken out through a cut of a few millimeters.
+4. **Closing:** an adhesive strip and a pressure bandage are applied.
+
+Removal usually takes a few minutes. If the implant **cannot be felt**, an imaging study is needed to locate it before trying to remove it.
+
+## Aftercare
+
+- Keep the pressure bandage on for **24 hours** and the small strip for a few days.
+- A small bruise or tenderness is normal.
+- Get checked if redness spreads, there is pus or you have a fever.
+
+## And after the implant?
+
+Fertility returns quickly after removal. If you do not want to get pregnant, **start another method the same day** so you are not left unprotected; the medical team guides you on pills, the shot or other options.
+
+We are at 2912 Mangum Rd, Suite A, in northwest Houston, open every day from 9 AM to 9 PM. No insurance needed; ask for the price before your visit. We accept cash, cards and Apple Pay.`,
   },
   {
     slug: "salud-hombre",
@@ -1424,52 +1486,64 @@ We are at 2912 Mangum Rd, Suite A, in northwest Houston, open every day from 9 A
       "Same-day treatment",
       "Walk-in care in Spanish",
     ],
-    longDescription: `El examen de orina ayuda a detectar infecciones urinarias y otras condiciones. En Clínica Hispana Mangum te hacemos la prueba y, si hay infección, empezamos el tratamiento el mismo día.
+    longDescription: `Ardor al orinar, ganas de ir al baño a cada rato y sentir que no terminas de vaciar la vejiga son las señales típicas de una infección urinaria. Es muy común, sobre todo en mujeres, y se trata bien si se atiende a tiempo. En Clínica Hispana Mangum hacemos el examen de orina en la visita y, si hay infección, empezamos el tratamiento ese mismo día.
 
-## ¿Qué incluye?
+## ¿Qué síntomas tiene?
 
-- Examen general de orina (urianálisis)
-- Evaluación de síntomas
-- Diagnóstico de infección urinaria
-- Tratamiento adecuado el mismo día
-- Indicaciones para evitar que regrese
+- Ardor o dolor al orinar.
+- Necesidad urgente y frecuente de orinar, aunque salga poco.
+- Orina turbia, con mal olor o con sangre.
+- Presión o dolor en la parte baja del abdomen.
 
-## Síntomas frecuentes
+## ¿Cómo se diagnostica?
 
-Ardor al orinar, ganas constantes de ir al baño, orina turbia o con mal olor y dolor en la parte baja del abdomen. No esperes: una infección sin tratar puede llegar a los riñones.
+Con un **examen general de orina** que busca glóbulos blancos, bacterias y sangre. Si las infecciones se repiten, no mejoran con el tratamiento o estás embarazada, se envía un **cultivo** para saber qué bacteria es y qué antibiótico funciona.
 
-## Tratamiento de infecciones urinarias en una clínica hispana cerca de ti
+## ¿Cuándo es más serio?
 
-Somos una clínica hispana cerca de ti en Houston: te hacemos el examen de orina y, si hay infección, sales con tu tratamiento el mismo día, sin cita previa y en español.
+Busca atención el mismo día si hay **fiebre, escalofríos, dolor en la espalda o en un costado, náuseas o vómito**: pueden indicar que la infección llegó al riñón. En hombres, embarazadas, personas con diabetes o niños, toda infección urinaria merece revisión.
 
-${WHY_ES}
+## Cómo evitar que regrese
 
-${PAYMENT_ES}
+- Toma suficiente agua durante el día.
+- No aguantes las ganas de orinar.
+- Orina después de las relaciones sexuales.
+- Termina el antibiótico completo aunque te sientas mejor.
 
-${AREAS_ES}`,
-    longDescriptionEn: `A urine test helps detect urinary infections and other conditions. At Clínica Hispana Mangum we run the test and, if there's an infection, we start treatment the same day.
+## Cómo tomar la muestra
 
-## What's included?
+Lávate las manos, deja salir el primer chorro al inodoro y recoge la orina de la mitad en el recipiente limpio que te damos.
 
-- General urinalysis
-- Symptom evaluation
-- Diagnosis of urinary infection
-- Appropriate same-day treatment
-- Tips to prevent it from coming back
+Estamos en 2912 Mangum Rd, Suite A, en el noroeste de Houston, abiertos todos los días de 9 AM a 9 PM. No necesitas seguro; pregunta el precio antes de tu visita. Aceptamos efectivo, tarjetas y Apple Pay.`,
+    longDescriptionEn: `Burning when you urinate, needing the bathroom all the time and feeling that your bladder never empties are the typical signs of a urinary tract infection. It is very common, especially in women, and it is easily treated when caught early. At Clínica Hispana Mangum we run the urine test during the visit and, if there is an infection, start treatment that same day.
 
-## Common symptoms
+## What are the symptoms?
 
-Burning when urinating, a constant urge to go, cloudy or foul-smelling urine and lower-abdomen pain. Don't wait: an untreated infection can reach the kidneys.
+- Burning or pain when urinating.
+- Urgent, frequent need to urinate, even if little comes out.
+- Cloudy, bad-smelling or bloody urine.
+- Pressure or pain in the lower abdomen.
 
-## UTI treatment at a Hispanic clinic near you
+## How is it diagnosed?
 
-We are a Hispanic clinic near you in Houston: we run your urine test and, if there is an infection, you leave with treatment the same day, no appointment needed and in Spanish.
+With a **urinalysis** that looks for white blood cells, bacteria and blood. If infections keep coming back, do not improve with treatment or you are pregnant, a **culture** is sent to identify the bacteria and which antibiotic works.
 
-${WHY_EN}
+## When is it more serious?
 
-${PAYMENT_EN}
+Get care the same day if there is **fever, chills, back or side pain, nausea or vomiting**: the infection may have reached the kidney. In men, pregnant women, people with diabetes or children, every urinary infection deserves an exam.
 
-${AREAS_EN}`,
+## How to keep it from coming back
+
+- Drink enough water during the day.
+- Do not hold your urine.
+- Urinate after sex.
+- Finish the whole antibiotic even if you feel better.
+
+## How to collect the sample
+
+Wash your hands, let the first stream go into the toilet and collect the midstream urine in the clean container we give you.
+
+We are at 2912 Mangum Rd, Suite A, in northwest Houston, open every day from 9 AM to 9 PM. No insurance needed; ask for the price before your visit. We accept cash, cards and Apple Pay.`,
   },
   {
     slug: "examen-heces",
@@ -1506,44 +1580,70 @@ ${AREAS_EN}`,
       "Digestive symptom evaluation",
       "Results explained in Spanish",
     ],
-    longDescription: `Los problemas digestivos a veces tienen una causa que solo un análisis de heces puede revelar. En Clínica Hispana Mangum realizamos exámenes de heces fecales para encontrar el origen y darte el tratamiento correcto.
+    longDescription: `Diarrea que no se quita, dolor de estómago, gases o sangre en las heces son molestias incómodas de contar, pero importantes de revisar. Un examen de heces ayuda a encontrar parásitos, infecciones o sangrado oculto. En Clínica Hispana Mangum te damos el recipiente y las instrucciones para tomar la muestra en casa.
 
-## ¿Qué incluye?
+## ¿Qué puede detectar?
 
-- Análisis general de heces fecales
-- Detección de parásitos
-- Identificación de infecciones intestinales
-- Evaluación de sangre oculta cuando se requiere
-- Resultados explicados en español
+- **Parásitos** como giardia o amibas, frecuentes después de viajes o por agua o alimentos contaminados.
+- **Bacterias** que causan diarrea infecciosa.
+- **Sangre oculta**, que no se ve a simple vista y puede venir de hemorroides, úlceras o pólipos del colon.
 
-## Cuándo es útil
+## ¿Cuándo conviene hacerlo?
 
-Diarrea persistente, dolor abdominal, gases, cambios en las evacuaciones o pérdida de peso sin explicación. El examen ayuda a un diagnóstico preciso.
+- Diarrea de más de **3 días**, o con fiebre o moco.
+- Dolor abdominal o gases que se repiten.
+- Pérdida de peso sin causa o cansancio con anemia.
+- Revisión después de un viaje o si varias personas de la casa tienen síntomas.
 
-${WHY_ES}
+## Cómo tomar la muestra
 
-${PAYMENT_ES}
+1. Orina antes para que la orina no se mezcle con las heces.
+2. Recoge las heces sobre un plástico o recipiente limpio, **no del agua del inodoro**.
+3. Pasa una porción al frasco con la paleta, sin llenarlo de más, y ciérralo bien.
+4. Anota tu nombre y la fecha y hora.
+5. Tráelo a la clínica **el mismo día**, siguiendo las indicaciones del recipiente.
 
-${AREAS_ES}`,
-    longDescriptionEn: `Digestive problems sometimes have a cause that only a stool test can reveal. At Clínica Hispana Mangum we perform stool tests to find the source and give you the right treatment.
+## Detección de cáncer de colon
 
-## What's included?
+Si tienes **45 años o más**, pregunta por la prueba anual de sangre oculta en heces (FIT), una de las opciones que recomienda el USPSTF para adultos de 45 a 75 años.
 
-- General stool analysis
-- Parasite detection
-- Identification of intestinal infections
-- Occult-blood evaluation when needed
-- Results explained in Spanish
+## Señales de alarma
 
-## When it helps
+Heces negras o con mucha sangre, mareo, vómito que no para o signos de deshidratación requieren atención urgente.
 
-Persistent diarrhea, abdominal pain, gas, changes in bowel movements or unexplained weight loss. The test helps with an accurate diagnosis.
+Estamos en 2912 Mangum Rd, Suite A, en el noroeste de Houston, abiertos todos los días de 9 AM a 9 PM. No necesitas seguro; pregunta el precio antes de tu visita. Aceptamos efectivo, tarjetas y Apple Pay.`,
+    longDescriptionEn: `Diarrhea that will not stop, stomach pain, gas or blood in the stool are uncomfortable to talk about but important to check. A stool test helps find parasites, infections or hidden bleeding. At Clínica Hispana Mangum we give you the container and instructions to collect the sample at home.
 
-${WHY_EN}
+## What can it detect?
 
-${PAYMENT_EN}
+- **Parasites** such as giardia or amoebas, common after travel or from contaminated water or food.
+- **Bacteria** that cause infectious diarrhea.
+- **Hidden blood**, not visible to the eye, which can come from hemorrhoids, ulcers or colon polyps.
 
-${AREAS_EN}`,
+## When should I get tested?
+
+- Diarrhea lasting more than **3 days**, or with fever or mucus.
+- Recurring abdominal pain or gas.
+- Unexplained weight loss or fatigue with anemia.
+- A check after travel or if several people at home have symptoms.
+
+## How to collect the sample
+
+1. Urinate first so urine does not mix with the stool.
+2. Catch the stool on plastic wrap or a clean container, **not from the toilet water**.
+3. Transfer a portion to the vial with the scoop, without overfilling, and close it tightly.
+4. Write your name and the date and time.
+5. Bring it to the clinic **the same day**, following the container instructions.
+
+## Colon cancer screening
+
+If you are **45 or older**, ask about the yearly fecal immunochemical test (FIT), one of the options the USPSTF recommends for adults aged 45 to 75.
+
+## Warning signs
+
+Black or very bloody stools, dizziness, nonstop vomiting or signs of dehydration need urgent care.
+
+We are at 2912 Mangum Rd, Suite A, in northwest Houston, open every day from 9 AM to 9 PM. No insurance needed; ask for the price before your visit. We accept cash, cards and Apple Pay.`,
   },
   {
     slug: "prueba-strep",
