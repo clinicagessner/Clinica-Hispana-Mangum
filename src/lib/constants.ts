@@ -2162,42 +2162,72 @@ We are at 2912 Mangum Rd, Suite A, in northwest Houston, open every day from 9 A
       "Modern equipment",
       "Care in Spanish",
     ],
-    longDescription: `El ultrasonido es una herramienta segura y sin dolor que nos permite ver el interior de tu cuerpo para diagnosticar con precisión. En Clínica Hispana Mangum contamos con equipo moderno y personal que te explica todo en español.
+    longDescription: `El ultrasonido usa ondas de sonido para ver órganos por dentro, sin agujas y **sin radiación**, por eso es seguro también durante el embarazo. En Clínica Hispana Mangum hacemos estudios de ultrasonido en la clínica y el equipo médico te explica qué se vio y cuáles son los siguientes pasos.
 
-## ¿Qué incluye?
+## ¿Qué estudios hacemos?
 
-- Ultrasonido abdominal (hígado, vesícula, riñones)
-- Ultrasonido pélvico
-- Ultrasonido de embarazo (control y seguimiento)
-- Evaluación de tiroides y tejidos blandos
+- **Abdominal:** hígado, vesícula, páncreas, riñones y bazo; útil para dolor abdominal o piedras en la vesícula.
+- **Pélvico:** útero y ovarios; ayuda a revisar sangrado irregular, dolor pélvico, quistes o miomas.
+- **De embarazo:** confirma el embarazo, calcula las semanas y da seguimiento.
+- **De tiroides y tejidos blandos:** nódulos en el cuello o bolitas debajo de la piel.
 
-## Sin radiación y sin dolor
+## ¿Cómo me preparo?
 
-A diferencia de los rayos X, el ultrasonido no usa radiación, por lo que es seguro incluso durante el embarazo. El estudio es rápido y no requiere preparación complicada.
+| Estudio | Preparación |
+|---|---|
+| Abdominal | **Ayuno de 6 a 8 horas**; puedes tomar un poco de agua |
+| Pélvico | **Vejiga llena:** toma unos 4 vasos de agua una hora antes y no orines |
+| Embarazo al inicio | Vejiga llena, salvo que te indiquen otra cosa |
+| Tiroides o tejidos blandos | No requiere preparación |
 
-${WHY_ES}
+Usa ropa cómoda y fácil de quitar en la zona que se va a revisar.
 
-${PAYMENT_ES}
+## ¿Cómo es el estudio?
 
-${AREAS_ES}`,
-    longDescriptionEn: `Ultrasound is a safe, painless tool that lets us see inside your body for an accurate diagnosis. At Clínica Hispana Mangum we have modern equipment and staff who explain everything in Spanish.
+Te recuestas, se aplica un gel tibio sobre la piel y se desliza el transductor por la zona. Puede sentirse algo de presión, sobre todo con la vejiga llena. La mayoría de los estudios toman entre 15 y 30 minutos.
 
-## What's included?
+## ¿Qué pasa después?
 
-- Abdominal ultrasound (liver, gallbladder, kidneys)
-- Pelvic ultrasound
-- Pregnancy ultrasound (monitoring and follow-up)
-- Thyroid and soft-tissue evaluation
+El equipo médico revisa las imágenes contigo. Si se encuentra algo que necesita otro estudio o un especialista, te damos la orden o la referencia.
 
-## No radiation, no pain
+## Cuándo no esperar
 
-Unlike X-rays, ultrasound uses no radiation, so it's safe even during pregnancy. The study is quick and requires little preparation.
+Dolor abdominal intenso con fiebre o vómito, o sangrado abundante en el embarazo, requieren atención de urgencias.
 
-${WHY_EN}
+Estamos en 2912 Mangum Rd, Suite A, en el noroeste de Houston, abiertos todos los días de 9 AM a 9 PM. No necesitas seguro; pregunta el precio antes de tu visita. Aceptamos efectivo, tarjetas y Apple Pay.`,
+    longDescriptionEn: `Ultrasound uses sound waves to see inside the body, with no needles and **no radiation**, which is why it is also safe during pregnancy. At Clínica Hispana Mangum we perform ultrasound studies at the clinic, and the medical team explains what was seen and the next steps.
 
-${PAYMENT_EN}
+## Which studies do we do?
 
-${AREAS_EN}`,
+- **Abdominal:** liver, gallbladder, pancreas, kidneys and spleen; useful for abdominal pain or gallstones.
+- **Pelvic:** uterus and ovaries; helps check irregular bleeding, pelvic pain, cysts or fibroids.
+- **Pregnancy:** confirms the pregnancy, estimates the weeks and follows progress.
+- **Thyroid and soft tissue:** neck nodules or lumps under the skin.
+
+## How do I prepare?
+
+| Study | Preparation |
+|---|---|
+| Abdominal | **Fast for 6 to 8 hours**; a little water is fine |
+| Pelvic | **Full bladder:** drink about 4 glasses of water an hour before and do not urinate |
+| Early pregnancy | Full bladder, unless told otherwise |
+| Thyroid or soft tissue | No preparation needed |
+
+Wear comfortable clothing that is easy to remove from the area being checked.
+
+## What is the study like?
+
+You lie down, warm gel is applied to the skin and the transducer is moved over the area. You may feel some pressure, especially with a full bladder. Most studies take 15 to 30 minutes.
+
+## What happens next?
+
+The medical team reviews the images with you. If something needs another study or a specialist, we give you the order or referral.
+
+## When not to wait
+
+Severe abdominal pain with fever or vomiting, or heavy bleeding during pregnancy, needs emergency care.
+
+We are at 2912 Mangum Rd, Suite A, in northwest Houston, open every day from 9 AM to 9 PM. No insurance needed; ask for the price before your visit. We accept cash, cards and Apple Pay.`,
   },
   {
     slug: "examen-dot",
@@ -2443,44 +2473,64 @@ Visit us at 2912 Mangum Rd, Suite A, Houston, TX 77092, every day from 9 AM to 9
       "Administered by medical staff",
       "Care in Spanish",
     ],
-    longDescription: `Las vacunas son una de las formas más sencillas de cuidar tu salud. En Clínica Hispana Mangum aplicamos la vacuna contra la influenza y el toxoide tetánico de forma segura y rápida.
+    longDescription: `Las vacunas son una de las formas más sencillas de evitar enfermedades graves. En Clínica Hispana Mangum aplicamos la **vacuna contra la influenza (flu)** y el **refuerzo contra el tétanos**, sin cita, y te orientamos sobre qué otras vacunas te tocan según tu edad.
 
-## ¿Qué incluye?
+## Vacuna contra la influenza
 
-- Vacuna anual contra la influenza (flu)
-- Toxoide tetánico (refuerzo del tétanos)
-- Aplicación por personal médico
-- Orientación sobre cuándo aplicar refuerzos
-- Atención en español
+- Los CDC la recomiendan **cada año a toda persona de 6 meses o más**.
+- Lo ideal es aplicarla **en septiembre u octubre**, antes de que suban los casos, pero sigue sirviendo durante toda la temporada.
+- Es especialmente importante para mayores de 65 años, embarazadas, niños pequeños y personas con diabetes, asma o problemas del corazón.
 
-## Por qué vacunarte
+## Refuerzo contra el tétanos (Td o Tdap)
 
-La vacuna de la flu reduce el riesgo de enfermarte de gravedad en temporada de gripe, y el toxoide tetánico te protege ante cortes y heridas. Pregúntanos cuál te conviene.
+- Los adultos necesitan un refuerzo **cada 10 años**.
+- Si te hiciste una **herida sucia o profunda** y tu última dosis fue hace más de 5 años, conviene aplicarlo pronto.
+- En cada **embarazo** se recomienda la Tdap entre las semanas 27 y 36 para proteger al bebé contra la tos ferina.
 
-${WHY_ES}
+## ¿Qué debo saber antes de vacunarme?
 
-${PAYMENT_ES}
+- Un resfriado leve **no impide** vacunarse; con fiebre alta conviene esperar.
+- Avisa si tuviste una **reacción alérgica grave** a una vacuna anterior.
+- Trae tu **cartilla de vacunas** para anotar la dosis.
 
-${AREAS_ES}`,
-    longDescriptionEn: `Vaccines are one of the simplest ways to protect your health. At Clínica Hispana Mangum we administer the influenza vaccine and tetanus toxoid safely and quickly.
+## ¿Qué reacciones son normales?
 
-## What's included?
+Dolor o enrojecimiento en el brazo, cansancio o febrícula durante uno o dos días. Si aparece dificultad para respirar, hinchazón de la cara o ronchas extendidas, busca atención de inmediato.
 
-- Annual influenza (flu) vaccine
-- Tetanus toxoid (tetanus booster)
-- Administered by medical staff
-- Guidance on when boosters are due
-- Care in Spanish
+## Vacunas para trámites
 
-## Why get vaccinated
+Si necesitas vacunas para el examen de inmigración, revisa el [examen médico I-693](/services/examenes-inmigracion); si son para la escuela, trae el requisito de la escuela a tu [examen físico escolar](/services/examen-fisico-escolar).
 
-The flu vaccine lowers your risk of getting seriously ill during flu season, and the tetanus toxoid protects you from cuts and wounds. Ask us which one you need.
+Estamos en 2912 Mangum Rd, Suite A, en el noroeste de Houston, abiertos todos los días de 9 AM a 9 PM. No necesitas seguro; pregunta el precio antes de tu visita. Aceptamos efectivo, tarjetas y Apple Pay.`,
+    longDescriptionEn: `Vaccines are one of the simplest ways to prevent serious illness. At Clínica Hispana Mangum we give the **flu vaccine** and the **tetanus booster**, no appointment needed, and guide you on other vaccines you may need for your age.
 
-${WHY_EN}
+## Flu vaccine
 
-${PAYMENT_EN}
+- The CDC recommends it **every year for everyone 6 months and older**.
+- Ideally get it **in September or October**, before cases rise, but it still helps throughout the season.
+- It is especially important for people over 65, pregnant women, young children and people with diabetes, asthma or heart disease.
 
-${AREAS_EN}`,
+## Tetanus booster (Td or Tdap)
+
+- Adults need a booster **every 10 years**.
+- If you have a **dirty or deep wound** and your last dose was more than 5 years ago, get it soon.
+- During every **pregnancy**, Tdap is recommended between weeks 27 and 36 to protect the baby against whooping cough.
+
+## What should I know before getting vaccinated?
+
+- A mild cold **does not prevent** vaccination; with a high fever it is better to wait.
+- Tell us if you had a **severe allergic reaction** to a previous vaccine.
+- Bring your **vaccination record** so the dose can be written down.
+
+## Which reactions are normal?
+
+Soreness or redness in the arm, tiredness or a low fever for one or two days. If you have trouble breathing, facial swelling or widespread hives, get care right away.
+
+## Vaccines for paperwork
+
+If you need vaccines for the immigration exam, see the [I-693 medical exam](/en/services/examenes-inmigracion); for school, bring the school requirement to your [school physical](/en/services/examen-fisico-escolar).
+
+We are at 2912 Mangum Rd, Suite A, in northwest Houston, open every day from 9 AM to 9 PM. No insurance needed; ask for the price before your visit. We accept cash, cards and Apple Pay.`,
   },
   {
     slug: "sueros-vitaminados",
@@ -2517,44 +2567,66 @@ ${AREAS_EN}`,
       "Administered by medical staff",
       "Care in Spanish",
     ],
-    longDescription: `Los sueros vitaminados aportan hidratación, vitaminas y minerales directamente a tu organismo. En Clínica Hispana Mangum los aplicamos con personal médico y en un ambiente cómodo y seguro.
+    longDescription: `Los sueros vitaminados, también llamados terapia IV, administran líquidos, vitaminas y minerales directamente en la vena. Muchas personas los buscan para rehidratarse después de un malestar, un día de mucho calor o una etapa de cansancio. En Clínica Hispana Mangum el equipo médico de la clínica hace una evaluación breve antes de aplicarlos y vigila la aplicación de principio a fin.
 
-## ¿Qué incluye?
+## ¿Para quién pueden ser útiles?
 
-- Evaluación breve para elegir el suero adecuado
-- Hidratación intravenosa
-- Vitaminas y minerales
-- Aplicación y monitoreo por personal médico
-- Atención en español
+- Personas **deshidratadas** por calor intenso, ejercicio o un cuadro de vómito o diarrea ya en recuperación.
+- Quienes tienen **dificultad para tomar suficientes líquidos** por la boca.
+- Personas que buscan un aporte de hidratación y vitaminas como apoyo, junto con alimentación y descanso.
 
-## Cuándo pueden ayudar
+Los sueros **no sustituyen** el tratamiento de una enfermedad ni la consulta para encontrar la causa del cansancio.
 
-Después de un periodo de cansancio, deshidratación o malestar, un suero vitaminado puede ayudarte a recuperar energía. Te orientamos sobre si es adecuado para ti.
+## ¿Cómo es la visita?
 
-${WHY_ES}
+1. **Evaluación:** preguntas sobre tu salud, medicamentos y alergias, y toma de signos vitales.
+2. **Elección del suero** adecuado para ti.
+3. **Colocación** de una vía pequeña en la vena del brazo.
+4. **Aplicación y monitoreo**, normalmente entre 30 y 60 minutos, sentado y cómodo.
 
-${PAYMENT_ES}
+## ¿Quién no debería aplicárselo sin revisión?
 
-${AREAS_ES}`,
-    longDescriptionEn: `Vitamin IV drips deliver hydration, vitamins and minerals directly into your body. At Clínica Hispana Mangum we administer them with medical staff in a comfortable, safe setting.
+Personas con **insuficiencia cardiaca, enfermedad de los riñones**, presión muy alta sin control o embarazo requieren una valoración cuidadosa, porque el exceso de líquido puede ser peligroso. Por eso siempre hay una evaluación antes.
 
-## What's included?
+## Si el cansancio no se quita
 
-- A brief evaluation to choose the right drip
-- Intravenous hydration
-- Vitamins and minerals
-- Administration and monitoring by medical staff
-- Care in Spanish
+Cuando el cansancio dura semanas, conviene buscar la causa con [análisis de sangre](/services/examenes-sangre): anemia, vitamina B12 baja o [problemas de tiroides](/services/tiroides) son frecuentes.
 
-## When they can help
+## Cuándo ir a urgencias
 
-After a period of fatigue, dehydration or feeling unwell, a vitamin drip can help you recover energy. We advise you on whether it's right for you.
+Confusión, desmayo, orinar muy poco o vómito que no para son señales de deshidratación grave que requieren atención de urgencias.
 
-${WHY_EN}
+Estamos en 2912 Mangum Rd, Suite A, en el noroeste de Houston, abiertos todos los días de 9 AM a 9 PM. No necesitas seguro; pregunta el precio antes de tu visita. Aceptamos efectivo, tarjetas y Apple Pay.`,
+    longDescriptionEn: `IV vitamin therapy delivers fluids, vitamins and minerals directly into a vein. Many people look for it to rehydrate after being sick, a very hot day or a period of fatigue. At Clínica Hispana Mangum the clinic's medical team does a brief evaluation before starting and monitors the infusion from start to finish.
 
-${PAYMENT_EN}
+## Who might it help?
 
-${AREAS_EN}`,
+- People who are **dehydrated** from intense heat, exercise or a bout of vomiting or diarrhea that is already improving.
+- People who have **trouble drinking enough fluids** by mouth.
+- People looking for hydration and vitamin support alongside good food and rest.
+
+IV therapy **does not replace** treatment for an illness or a visit to find the cause of fatigue.
+
+## What is the visit like?
+
+1. **Evaluation:** questions about your health, medications and allergies, plus vital signs.
+2. **Choosing the right IV** for you.
+3. **Placing** a small line in an arm vein.
+4. **Infusion and monitoring**, usually 30 to 60 minutes, seated and comfortable.
+
+## Who should not get it without a review?
+
+People with **heart failure, kidney disease**, uncontrolled high blood pressure or pregnancy need careful evaluation, because too much fluid can be dangerous. That is why there is always an evaluation first.
+
+## If the fatigue does not go away
+
+When fatigue lasts for weeks, it is worth looking for the cause with [blood tests](/en/services/examenes-sangre): anemia, low vitamin B12 or [thyroid problems](/en/services/tiroides) are common.
+
+## When to go to the emergency room
+
+Confusion, fainting, urinating very little or vomiting that will not stop are signs of severe dehydration that need emergency care.
+
+We are at 2912 Mangum Rd, Suite A, in northwest Houston, open every day from 9 AM to 9 PM. No insurance needed; ask for the price before your visit. We accept cash, cards and Apple Pay.`,
   },
   {
     slug: "suturas-heridas",
@@ -2591,44 +2663,82 @@ ${AREAS_EN}`,
       "Walk-ins welcome",
       "After-care instructions",
     ],
-    longDescription: `Una herida que no cierra bien puede infectarse o dejar cicatriz. En Clínica Hispana Mangum cerramos cortes y heridas con suturas de forma segura, sin cita y con atención en español.
+    longDescription: `Una cortada en la cocina, en el trabajo o jugando puede necesitar puntos para cerrar bien y dejar menos cicatriz. En Clínica Hispana Mangum atendemos heridas sin cita: las limpiamos, aplicamos anestesia local y las cerramos con suturas cuando hace falta.
 
-## ¿Qué incluye?
+## ¿Cuándo necesita puntos una herida?
 
-- Evaluación y limpieza de la herida
-- Cierre con suturas (puntos)
-- Aplicación de anestesia local
-- Indicaciones de cuidado y signos de alarma
-- Retiro de puntos cuando corresponde
+- Mide **más de 1 a 2 centímetros** o está abierta y se ven los bordes separados.
+- Es **profunda** y se ve grasa amarilla o tejido.
+- Está en la **cara, las manos o una articulación**.
+- **Sigue sangrando** después de 10 minutos de presión.
 
-## Cuándo acudir
+Lo mejor es venir **pronto, idealmente en las primeras horas**: mientras más tiempo pasa, mayor el riesgo de infección y menos conviene cerrarla.
 
-Cortes profundos, heridas que sangran o no cierran solas, o que tienen bordes abiertos. Atender pronto reduce el riesgo de infección y mejora la cicatrización.
+## Qué hacer mientras llegas
 
-${WHY_ES}
+1. Presiona con una tela limpia sin soltar.
+2. Enjuaga con agua limpia si hay tierra.
+3. No pongas remedios caseros, polvo ni alcohol dentro de la herida.
 
-${PAYMENT_ES}
+## ¿Cómo es la atención?
 
-${AREAS_ES}`,
-    longDescriptionEn: `A wound that doesn't close well can get infected or leave a scar. At Clínica Hispana Mangum we close cuts and wounds with sutures safely, no appointment needed and with care in Spanish.
+Revisión de la herida, limpieza profunda, anestesia local, cierre con puntos y vendaje. El equipo médico revisa si tu **vacuna del tétanos** está al día.
 
-## What's included?
+## ¿Cuándo se quitan los puntos?
 
-- Wound evaluation and cleaning
-- Closure with sutures (stitches)
-- Local anesthesia
-- Care instructions and warning signs
-- Suture removal when appropriate
+| Zona | Días aproximados |
+|---|---|
+| Cara | 5 |
+| Cuero cabelludo | 7 a 10 |
+| Brazos y tronco | 7 a 10 |
+| Piernas y pies | 10 a 14 |
+| Sobre articulaciones | 14 |
 
-## When to come in
+Mantén la herida **seca las primeras 24 a 48 horas** y consulta si hay enrojecimiento que crece, pus, calor o fiebre.
 
-Deep cuts, wounds that bleed or won't close on their own, or that have open edges. Treating them promptly reduces the risk of infection and improves healing.
+## Ve a urgencias si
 
-${WHY_EN}
+Hay sangrado que no para con presión, se ve el hueso, perdiste sensibilidad o movimiento en un dedo, o es una mordida profunda de animal.
 
-${PAYMENT_EN}
+Estamos en 2912 Mangum Rd, Suite A, en el noroeste de Houston, abiertos todos los días de 9 AM a 9 PM. No necesitas seguro; pregunta el precio antes de tu visita. Aceptamos efectivo, tarjetas y Apple Pay.`,
+    longDescriptionEn: `A cut in the kitchen, at work or while playing may need stitches to close properly and leave less of a scar. At Clínica Hispana Mangum we treat wounds with no appointment: we clean them, apply local anesthesia and close them with sutures when needed.
 
-${AREAS_EN}`,
+## When does a wound need stitches?
+
+- It is **longer than 1 to 2 centimeters** or gaping, with separated edges.
+- It is **deep** and you can see yellow fat or tissue.
+- It is on the **face, hands or a joint**.
+- It **keeps bleeding** after 10 minutes of pressure.
+
+It is best to come **early, ideally within the first hours**: the longer you wait, the higher the infection risk and the less suitable it is to close.
+
+## What to do on the way
+
+1. Press with a clean cloth without letting go.
+2. Rinse with clean water if there is dirt.
+3. Do not put home remedies, powders or alcohol inside the wound.
+
+## What is the care like?
+
+Wound check, thorough cleaning, local anesthesia, closure with stitches and a bandage. The medical team checks whether your **tetanus vaccine** is up to date.
+
+## When are stitches removed?
+
+| Area | Approximate days |
+|---|---|
+| Face | 5 |
+| Scalp | 7 to 10 |
+| Arms and trunk | 7 to 10 |
+| Legs and feet | 10 to 14 |
+| Over joints | 14 |
+
+Keep the wound **dry for the first 24 to 48 hours** and get checked if redness spreads or there is pus, warmth or fever.
+
+## Go to the emergency room if
+
+Bleeding does not stop with pressure, bone is visible, you lost feeling or movement in a finger, or it is a deep animal bite.
+
+We are at 2912 Mangum Rd, Suite A, in northwest Houston, open every day from 9 AM to 9 PM. No insurance needed; ask for the price before your visit. We accept cash, cards and Apple Pay.`,
   },
   {
     slug: "curacion-heridas",
@@ -2665,44 +2775,78 @@ ${AREAS_EN}`,
       "Healing follow-up",
       "Care in Spanish",
     ],
-    longDescription: `Una buena curación evita infecciones y ayuda a que la herida sane más rápido. En Clínica Hispana Mangum limpiamos, curamos y vendamos tus heridas, y te seguimos hasta que cicatricen.
+    longDescription: `Una herida que no se cuida bien puede infectarse o tardar semanas en cerrar. En Clínica Hispana Mangum limpiamos, curamos y cambiamos vendajes, y damos seguimiento hasta que la herida cicatriza, sin cita.
 
-## ¿Qué incluye?
+## ¿Qué heridas curamos?
 
-- Limpieza y desinfección de la herida
-- Aplicación de apósitos y vendajes
-- Cambio periódico de vendajes
-- Vigilancia de signos de infección
-- Indicaciones de cuidado en casa
+- **Raspones y cortadas** que no necesitan puntos.
+- **Quemaduras leves** de primer grado o pequeñas de segundo grado.
+- **Heridas después de un procedimiento**, como cirugías menores o drenaje de abscesos.
+- **Heridas que tardan en cerrar**, sobre todo en personas con diabetes o mala circulación.
 
-## Para todo tipo de heridas
+## ¿Cómo es la curación?
 
-Heridas postoperatorias, úlceras, quemaduras leves o heridas que tardan en sanar. Te ayudamos con curaciones regulares para una mejor recuperación.
+1. Revisión de la herida y de señales de infección.
+2. Limpieza con solución adecuada, retirando tejido o suciedad.
+3. Aplicación del apósito o vendaje indicado.
+4. Plan de cambios de vendaje y fecha de la próxima revisión.
 
-${WHY_ES}
+## Señales de infección
 
-${PAYMENT_ES}
+- Enrojecimiento que **se extiende** o líneas rojas desde la herida.
+- **Pus**, mal olor o más dolor en lugar de menos.
+- Calor en la zona o **fiebre**.
 
-${AREAS_ES}`,
-    longDescriptionEn: `Good wound care prevents infections and helps the wound heal faster. At Clínica Hispana Mangum we clean, treat and dress your wounds, and follow you until they heal.
+Si aparece alguna, consulta el mismo día.
 
-## What's included?
+## Cuidados en casa
 
-- Wound cleaning and disinfection
-- Application of dressings and bandages
-- Periodic dressing changes
-- Monitoring for signs of infection
-- Home-care instructions
+- Lávate las manos antes de tocar la herida.
+- Mantén el vendaje limpio y seco; cámbialo si se moja o se ensucia.
+- No uses algodón que deje pelusa ni pongas remedios caseros.
+- Si tienes **diabetes**, revisa tus pies todos los días y no esperes para consultar una herida pequeña.
 
-## For all kinds of wounds
+## Quemaduras: cuándo ir a urgencias
 
-Post-surgical wounds, ulcers, minor burns or wounds that are slow to heal. We help with regular dressing changes for a better recovery.
+Quemaduras grandes, en la cara, manos, genitales o articulaciones, quemaduras eléctricas o químicas, o con piel blanca o negra y sin dolor, requieren atención de urgencias.
 
-${WHY_EN}
+Estamos en 2912 Mangum Rd, Suite A, en el noroeste de Houston, abiertos todos los días de 9 AM a 9 PM. No necesitas seguro; pregunta el precio antes de tu visita. Aceptamos efectivo, tarjetas y Apple Pay.`,
+    longDescriptionEn: `A wound that is not cared for properly can get infected or take weeks to close. At Clínica Hispana Mangum we clean, dress and change bandages, and follow up until the wound heals, no appointment needed.
 
-${PAYMENT_EN}
+## Which wounds do we care for?
 
-${AREAS_EN}`,
+- **Scrapes and cuts** that do not need stitches.
+- **Minor burns**, first degree or small second degree.
+- **Wounds after a procedure**, such as minor surgery or abscess drainage.
+- **Slow-healing wounds**, especially in people with diabetes or poor circulation.
+
+## What is wound care like?
+
+1. Checking the wound and signs of infection.
+2. Cleaning with a suitable solution, removing debris or dirt.
+3. Applying the right dressing or bandage.
+4. A plan for bandage changes and the date of the next check.
+
+## Signs of infection
+
+- Redness that **spreads** or red streaks from the wound.
+- **Pus**, a bad smell or more pain instead of less.
+- Warmth in the area or **fever**.
+
+If any appear, get checked the same day.
+
+## Care at home
+
+- Wash your hands before touching the wound.
+- Keep the bandage clean and dry; change it if it gets wet or dirty.
+- Do not use cotton that leaves lint or put home remedies on it.
+- If you have **diabetes**, check your feet every day and do not wait to have a small wound looked at.
+
+## Burns: when to go to the emergency room
+
+Large burns, burns on the face, hands, genitals or joints, electrical or chemical burns, or burns with white or black skin and no pain need emergency care.
+
+We are at 2912 Mangum Rd, Suite A, in northwest Houston, open every day from 9 AM to 9 PM. No insurance needed; ask for the price before your visit. We accept cash, cards and Apple Pay.`,
   },
   {
     slug: "cirugias-menores",
