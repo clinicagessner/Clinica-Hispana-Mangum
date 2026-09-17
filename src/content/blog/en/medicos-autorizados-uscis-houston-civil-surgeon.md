@@ -2,7 +2,7 @@
 title: "USCIS-authorized physicians in Houston (Civil Surgeon)"
 description: "What a civil surgeon is, why only they can sign your I-693, how to check a doctor is USCIS-designated and what to ask before your visit in Houston."
 date: "2026-04-12"
-dateModified: "2026-09-16"
+dateModified: "2026-09-17"
 author: "Clínica Hispana Mangum Team"
 category: "Immigration"
 relatedServices:
@@ -60,6 +60,6 @@ Since December 2024, Form I-693 must be filed together with Form I-485. The best
 
 ## Civil surgeon at Clínica Hispana Mangum
 
-At our clinic at 2912 Mangum Rd, Suite A, the [I-693 immigration medical exam](/en/services/examenes-inmigracion) is performed by a USCIS-designated physician, with care in Spanish or English. We also do [blood tests](/en/services/examenes-sangre) and give [vaccines](/en/services/vacunas) on site. For a step-by-step look at the visit, read our [I-693 exam guide](/en/blog/guia-examen-medico-inmigracion-i693-houston). Call **(832) 834-5507**; we are open every day from 9 AM to 9 PM.
+At our clinic at 2912 Mangum Rd, Suite A, the [I-693 immigration medical exam](/en/services/examenes-inmigracion) is performed by the clinic's medical team with a USCIS-designated civil surgeon, with care in Spanish or English. We also do [blood tests](/en/services/examenes-sangre) and give [vaccines](/en/services/vacunas) on site. For a step-by-step look at the visit, read our [I-693 exam guide](/en/blog/guia-examen-medico-inmigracion-i693-houston). Call **(832) 834-5507**; we are open every day from 9 AM to 9 PM.
 
 **Sources:** [USCIS: Find a Doctor](https://my.uscis.gov/findadoctor) · [USCIS: Form I-693](https://www.uscis.gov/i-693) · [USCIS Policy Manual, Vol. 8, Part B](https://www.uscis.gov/policy-manual/volume-8-part-b)

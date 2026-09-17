@@ -2,7 +2,7 @@
 title: "Clinical lab in Houston: blood tests explained"
 description: "What common blood tests measure, which need fasting, how to read glucose and A1C, and how to prepare for walk-in lab work in Houston."
 date: "2026-03-30"
-dateModified: "2026-09-16"
+dateModified: "2026-09-17"
 author: "Clínica Hispana Mangum Team"
 category: "Lab"
 relatedServices:
@@ -46,23 +46,23 @@ According to the American Diabetes Association (ADA):
 | A1C | Below 5.7% | 5.7 to 6.4% | 6.5% or higher |
 | Fasting glucose | Below 100 mg/dL | 100 to 125 mg/dL | 126 mg/dL or higher |
 
-One high result is not enough for a diagnosis: the doctor confirms it with a repeat test and your history.
+One high result is not enough for a diagnosis: the medical team confirms it with a repeat test and your history.
 
 ## How to prepare
 
 1. **Ask whether your test needs fasting.** If it does, do not eat for 8 to 12 hours; water is fine.
-2. **Take your medications** as usual unless the doctor says otherwise.
+2. **Take your medications** as usual unless the medical team says otherwise.
 3. **Avoid alcohol and hard exercise** the day before.
 4. **Drink water**: it makes veins easier to find.
 5. **Bring your medication list** and previous results, if you have them.
 
 ## How often should you get tested?
 
-It depends on your age and risks. As a reference, the U.S. Preventive Services Task Force (USPSTF) recommends screening for prediabetes and diabetes in adults aged 35 to 70 who are overweight. If you have diabetes, high blood pressure or a family history, the doctor will tell you how often to repeat your tests.
+It depends on your age and risks. As a reference, the U.S. Preventive Services Task Force (USPSTF) recommends screening for prediabetes and diabetes in adults aged 35 to 70 who are overweight. If you have diabetes, high blood pressure or a family history, the medical team will tell you how often to repeat your tests.
 
 ## When are results ready?
 
-It depends on the test: some are ready the same day and others take longer. When they arrive, the doctor explains them in Spanish or English and tells you whether you need treatment or follow-up.
+It depends on the test: some are ready the same day and others take longer. When they arrive, the clinic's medical team explains them in Spanish or English and tells you whether you need treatment or follow-up.
 
 ## Lab work at Clínica Hispana Mangum
 
