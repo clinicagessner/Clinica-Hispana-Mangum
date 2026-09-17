@@ -1,7 +1,7 @@
 import { Mail, MapPin, Phone } from "lucide-react";
 import { useLocale, useTranslations } from "next-intl";
 import { Reveal } from "@/components/animations/reveal";
-import { ContactForm } from "@/components/forms/contact-form";
+import { ContactFormLazy } from "@/components/forms/contact-form-lazy";
 import { CONTACT_INFO } from "@/lib/constants";
 import { getAllServices } from "@/lib/services";
 import { getLocalizedService } from "@/lib/utils";
@@ -86,7 +86,7 @@ export function Contact() {
 
               {/* Formulario */}
               <div className="lg:col-span-7">
-                <ContactForm services={services} />
+                <ContactFormLazy services={services} />
               </div>
             </div>
           </div>
