@@ -5,6 +5,10 @@ date: "2026-04-12"
 dateModified: "2026-08-28"
 author: "Equipo Clínica Hispana Mangum"
 category: "Inmigración"
+relatedServices:
+  - "examenes-inmigracion"
+  - "examenes-sangre"
+  - "vacunas"
 cover: "/images/blog/medicos-autorizados-uscis-houston-civil-surgeon.webp"
 coverAlt: "Médico autorizado por USCIS atendiendo un examen de inmigración en Houston"
 keywords:

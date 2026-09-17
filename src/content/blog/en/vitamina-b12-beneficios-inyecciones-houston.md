@@ -4,6 +4,10 @@ description: "What vitamin B12 does, how to spot a deficiency and when a B12 sho
 date: "2026-08-18"
 author: "Clínica Hispana Mangum Team"
 category: "Health"
+relatedServices:
+  - "sueros-vitaminados"
+  - "examenes-sangre"
+  - "tiroides"
 cover: "/images/blog/vitamina-b12-beneficios-inyecciones-houston.webp"
 coverAlt: "Vitamin B12 shot and vitamin IV therapy at a Hispanic clinic in Houston"
 keywords:

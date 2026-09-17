@@ -93,6 +93,8 @@ export interface BlogFrontmatter {
   dateModified?: string;
   author: string;
   category: string;
+  /** Slugs de servicios que el post enlaza en "Servicios relacionados". */
+  relatedServices?: string[];
   cover: string;
   coverAlt: string;
   keywords?: string[];

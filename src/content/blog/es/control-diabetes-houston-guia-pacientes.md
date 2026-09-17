@@ -5,6 +5,10 @@ date: "2026-02-10"
 dateModified: "2026-07-22"
 author: "Equipo Clínica Hispana Mangum"
 category: "Diabetes"
+relatedServices:
+  - "condiciones-cronicas"
+  - "examenes-sangre"
+  - "infecciones-urinarias"
 cover: "/images/blog/control-diabetes-houston-guia-pacientes.webp"
 coverAlt: "Paciente midiendo su nivel de glucosa como parte del control de diabetes en Houston"
 keywords:

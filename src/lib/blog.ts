@@ -76,3 +76,26 @@ export function getAllPosts(locale: Locale): BlogPost[] {
 export function getRecentPosts(locale: Locale, count = 3): BlogPost[] {
   return getAllPosts(locale).slice(0, count);
 }
+
+/**
+ * Posts relacionados por tema: servicios en común pesan más que la categoría;
+ * el empate se rompe rotando desde el post actual para repartir los enlaces.
+ */
+export function getRelatedPosts(slug: string, locale: Locale, count = 3): BlogPost[] {
+  const posts = getAllPosts(locale);
+  const i = posts.findIndex((p) => p.slug === slug);
+  if (i === -1) return posts.slice(0, count);
+  const current = posts[i];
+  const shared = (p: BlogPost) =>
+    (p.relatedServices ?? []).filter((r) => current.relatedServices?.includes(r)).length;
+  return posts
+    .map((p, k) => ({
+      p,
+      score: shared(p) * 2 + (p.category === current.category ? 1 : 0),
+      dist: (k - i + posts.length) % posts.length,
+    }))
+    .filter(({ p }) => p.slug !== slug)
+    .sort((a, b) => b.score - a.score || a.dist - b.dist)
+    .slice(0, count)
+    .map(({ p }) => p);
+}

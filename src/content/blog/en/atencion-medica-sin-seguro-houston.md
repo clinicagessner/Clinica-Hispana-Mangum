@@ -5,6 +5,10 @@ date: "2026-01-28"
 dateModified: "2026-07-22"
 author: "Clínica Hispana Mangum Team"
 category: "Health"
+relatedServices:
+  - "condiciones-cronicas"
+  - "examenes-sangre"
+  - "farmacia"
 cover: "/images/blog/atencion-medica-sin-seguro-houston.webp"
 coverAlt: "Patient receiving care without insurance at a Hispanic clinic in Houston"
 keywords:

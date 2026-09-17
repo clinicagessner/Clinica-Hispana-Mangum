@@ -5,6 +5,10 @@ date: "2026-03-05"
 dateModified: "2026-07-22"
 author: "Clínica Hispana Mangum Team"
 category: "Women's health"
+relatedServices:
+  - "ginecologia"
+  - "prueba-embarazo"
+  - "anticonceptivos"
 cover: "/images/blog/ginecologos-hispanos-houston-hablan-espanol.webp"
 coverAlt: "Gynecology visit in Spanish for Hispanic women in Houston"
 keywords:

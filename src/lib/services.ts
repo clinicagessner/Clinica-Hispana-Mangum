@@ -71,16 +71,24 @@ export function getServicesByCategory(category: Service["category"]): Service[] 
 }
 
 /** Servicios relacionados: misma categoría primero, completando con otros. */
+/**
+ * Relacionados con rotación: primero los siguientes de la misma categoría
+ * (dando la vuelta) y luego los siguientes del catálogo, para que cada
+ * servicio aparezca como relacionado en varias páginas y no solo los primeros.
+ */
 export function getRelatedServices(slug: string, count = 3): Service[] {
-  const current = getServiceBySlug(slug);
-  if (!current) return getAllServices().slice(0, count);
-  const sameCategory = getAllServices().filter(
-    (s) => s.slug !== slug && s.category === current.category,
-  );
-  const others = getAllServices().filter(
-    (s) => s.slug !== slug && s.category !== current.category,
-  );
-  return [...sameCategory, ...others].slice(0, count);
+  const all = getAllServices();
+  const i = all.findIndex((s) => s.slug === slug);
+  if (i === -1) return all.slice(0, count);
+  const rotate = (list: Service[], from: number) =>
+    list.map((_, k) => list[(from + k) % list.length]);
+  const sameCategory = all.filter((s) => s.category === all[i].category);
+  const j = sameCategory.findIndex((s) => s.slug === slug);
+  const picks = [
+    ...rotate(sameCategory, j + 1),
+    ...rotate(all, i + 1).filter((s) => s.category !== all[i].category),
+  ].filter((s) => s.slug !== slug);
+  return picks.slice(0, count);
 }
 
 export function getAllServiceSlugs(): string[] {

@@ -5,6 +5,10 @@ description: "Para qué sirve la vitamina B12, cómo reconocer una deficiencia y
 date: "2026-08-18"
 author: "Equipo Clínica Hispana Mangum"
 category: "Salud"
+relatedServices:
+  - "sueros-vitaminados"
+  - "examenes-sangre"
+  - "tiroides"
 cover: "/images/blog/vitamina-b12-beneficios-inyecciones-houston.webp"
 coverAlt: "Aplicación de vitamina B12 y sueros vitaminados en una clínica hispana de Houston"
 keywords:

@@ -5,6 +5,10 @@ date: "2026-01-15"
 dateModified: "2026-07-22"
 author: "Clínica Hispana Mangum Team"
 category: "Clinic"
+relatedServices:
+  - "condiciones-cronicas"
+  - "vacunas"
+  - "curacion-heridas"
 cover: "/images/blog/bienvenidos-clinica-hispana-mangum.webp"
 coverAlt: "The Clínica Hispana Mangum team welcoming patients in Houston"
 keywords:

@@ -10,10 +10,11 @@ import { BlogCard } from "@/components/blog/blog-card";
 import { FaqSection } from "@/components/sections/faq-section";
 import { JsonLdBreadcrumb, JsonLdMedicalClinicRef } from "@/components/seo/json-ld";
 import { JsonLdBlogPosting } from "@/components/seo/json-ld-blog";
-import { getAllPosts, getPost, getPostSlugs } from "@/lib/blog";
+import { getPost, getPostSlugs, getRelatedPosts } from "@/lib/blog";
+import { getServiceBySlug } from "@/lib/services";
 import { HOME_FAQS } from "@/lib/home-faqs";
 import { CONTACT_INFO } from "@/lib/constants";
-import { formatDate } from "@/lib/utils";
+import { formatDate, getLocalizedService } from "@/lib/utils";
 import { absoluteUrl, buildAlternates } from "@/lib/seo";
 import { ctaButton } from "@/lib/button-styles";
 import { cn } from "@/lib/utils";
@@ -72,9 +73,11 @@ export default async function BlogPostPage({
 
   const t = await getTranslations("BlogPost");
   const url = absoluteUrl(`/blog/${slug}`, loc);
-  const related = getAllPosts(loc)
-    .filter((p) => p.slug !== slug)
-    .slice(0, 3);
+  const related = getRelatedPosts(slug, loc);
+  const relatedServices = (post.relatedServices ?? [])
+    .map((s) => getServiceBySlug(s))
+    .filter((s) => s !== undefined)
+    .map((s) => getLocalizedService(s, loc));
 
   return (
     <>
@@ -189,6 +192,34 @@ export default async function BlogPostPage({
           </div>
         </div>
       </section>
+
+      {/* Servicios relacionados */}
+      {relatedServices.length > 0 && (
+        <section className="bg-mint-warm pb-14 lg:pb-20">
+          <div className="mx-auto max-w-3xl px-4 sm:px-6 lg:px-8">
+            <h2 className="font-heading text-2xl font-bold text-slate-dark">
+              {t("relatedServicesTitle")}
+            </h2>
+            <ul className="mt-6 grid gap-4 sm:grid-cols-3">
+              {relatedServices.map((s) => (
+                <li key={s.slug}>
+                  <Link
+                    href={`/services/${s.slug}`}
+                    className="block h-full rounded-2xl border border-green-light bg-white p-5 shadow-sm transition-colors hover:border-green-primary"
+                  >
+                    <span className="font-heading text-base font-semibold text-slate-dark">
+                      {s.title}
+                    </span>
+                    <span className="mt-2 block text-sm leading-relaxed text-slate-primary">
+                      {s.shortDescription}
+                    </span>
+                  </Link>
+                </li>
+              ))}
+            </ul>
+          </div>
+        </section>
+      )}
 
       {/* Relacionados */}
       {related.length > 0 && (

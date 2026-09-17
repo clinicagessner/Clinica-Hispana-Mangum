@@ -5,6 +5,10 @@ date: "2026-03-30"
 dateModified: "2026-08-28"
 author: "Equipo Clínica Hispana Mangum"
 category: "Laboratorio"
+relatedServices:
+  - "examenes-sangre"
+  - "examen-heces"
+  - "infecciones-urinarias"
 cover: "/images/blog/laboratorio-clinico-houston-analisis-sangre.webp"
 coverAlt: "Toma de muestra de sangre en un laboratorio clínico de Houston"
 keywords:

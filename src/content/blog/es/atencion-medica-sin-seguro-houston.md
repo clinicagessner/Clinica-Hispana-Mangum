@@ -5,6 +5,10 @@ date: "2026-01-28"
 dateModified: "2026-07-22"
 author: "Equipo Clínica Hispana Mangum"
 category: "Salud"
+relatedServices:
+  - "condiciones-cronicas"
+  - "examenes-sangre"
+  - "farmacia"
 cover: "/images/blog/atencion-medica-sin-seguro-houston.webp"
 coverAlt: "Paciente recibiendo atención médica sin seguro en una clínica hispana de Houston"
 keywords:

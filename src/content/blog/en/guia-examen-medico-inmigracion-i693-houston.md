@@ -5,6 +5,10 @@ date: "2026-03-18"
 dateModified: "2026-07-22"
 author: "Clínica Hispana Mangum Team"
 category: "Immigration"
+relatedServices:
+  - "examenes-inmigracion"
+  - "vacunas"
+  - "prueba-tuberculosis"
 cover: "/images/blog/guia-examen-medico-inmigracion-i693-houston.webp"
 coverAlt: "Form I-693 and immigration medical review in Houston"
 keywords:

@@ -5,6 +5,10 @@ date: "2026-04-25"
 dateModified: "2026-07-22"
 author: "Equipo Clínica Hispana Mangum"
 category: "Salud de la mujer"
+relatedServices:
+  - "ginecologia"
+  - "ultrasonido"
+  - "enfermedades-transmision-sexual"
 cover: "/images/blog/salud-mujer-houston-servicios-ginecologia.webp"
 coverAlt: "Mujer hispana en una consulta de salud femenina en Houston"
 keywords:

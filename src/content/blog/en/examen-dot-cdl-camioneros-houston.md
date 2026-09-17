@@ -5,6 +5,10 @@ date: "2026-02-22"
 dateModified: "2026-07-22"
 author: "Clínica Hispana Mangum Team"
 category: "Exams"
+relatedServices:
+  - "examen-dot"
+  - "examen-alcohol-drogas"
+  - "electrocardiograma"
 cover: "/images/blog/examen-dot-cdl-camioneros-houston.webp"
 coverAlt: "Truck driver getting a DOT physical exam for a CDL license in Houston"
 keywords:
