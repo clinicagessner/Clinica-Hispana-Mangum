@@ -383,31 +383,6 @@ function promoList(slugs: string[], en = false): string {
     .join("\n");
 }
 
-// Bloques de copy reutilizados (marca Mangum + Houston).
-const WHY_ES = `## ¿Por qué elegir Clínica Hispana Mangum?
-
-Somos una clínica hispana y latina que te atiende 100% en español, sin cita previa y sin necesidad de seguro. Encuéntranos como tu centro médico cerca de ti en ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, con horario de lunes a domingo de 9 AM a 9 PM. Nuestro equipo trata a cada paciente con respeto, tiempo y explicaciones claras.`;
-
-const WHY_EN = `## Why choose Clínica Hispana Mangum?
-
-We are a Hispanic and Latino clinic that cares for you 100% in Spanish, with no appointment or insurance needed. Find your medical center near you at ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, open Monday through Sunday from 9 AM to 9 PM. Our team treats every patient with respect, time and clear explanations.`;
-
-const PAYMENT_ES = `## Formas de pago
-
-No necesitas seguro para atenderte. Manejamos precios accesibles y transparentes, y aceptamos efectivo y tarjetas. Pregúntanos por el costo de tu servicio antes de tu visita.`;
-
-const PAYMENT_EN = `## Payment
-
-No insurance needed to be seen. We offer affordable, transparent pricing and accept cash and cards. Ask us about the cost of your service before your visit.`;
-
-const AREAS_ES = `## Áreas que servimos
-
-Atendemos con gusto a toda la comunidad hispana de Houston, TX y sus alrededores. Nos encuentras en ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, sin cita previa y con atención 100% en español.`;
-
-const AREAS_EN = `## Areas we serve
-
-We gladly serve the entire Hispanic community of Houston, TX and surrounding areas. Find us at ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, with no appointment needed and care 100% in Spanish.`;
-
 export const SERVICES: Service[] = [
   {
     slug: "condiciones-cronicas",
