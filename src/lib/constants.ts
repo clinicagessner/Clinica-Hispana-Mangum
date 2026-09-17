@@ -372,6 +372,17 @@ export const SERVICE_CATEGORIES: {
   { value: "tratamientos", label: "Tratamientos", labelEn: "Treatments" },
 ];
 
+// Lista de promociones vigentes con precio para el texto de un servicio. Los
+// precios salen solo de PROMOTIONS (flyers), así no se desfasan.
+function promoList(slugs: string[], en = false): string {
+  return PROMOTIONS.filter((p) => slugs.includes(p.slug) && p.price)
+    .map(
+      (p) =>
+        `- **${en ? p.titleEn : p.title}: ${p.price}.** ${(en ? p.includesEn : p.includes).join(", ")}.`,
+    )
+    .join("\n");
+}
+
 // Bloques de copy reutilizados (marca Mangum + Houston).
 const WHY_ES = `## ¿Por qué elegir Clínica Hispana Mangum?
 
@@ -809,52 +820,74 @@ ${AREAS_EN}`,
       "Treatment of vaginal infections",
       "Private care in Spanish",
     ],
-    longDescription: `Tu salud como mujer merece un espacio de confianza. En Clínica Hispana Mangum ofrecemos atención ginecológica en español, con la privacidad y el respeto que mereces.
+    longDescription: `Muchas mujeres posponen su revisión ginecológica por falta de tiempo, por pena o porque no encuentran quién las atienda en su idioma. En Clínica Hispana Mangum el equipo médico de la clínica te atiende en un consultorio privado, sin cita y en español, y te explica cada paso antes de empezar.
 
-## ¿Qué incluye?
+## ¿Qué atendemos en la consulta de ginecología?
 
-- Papanicolaou y chequeo ginecológico
-- Cultivos vaginales para identificar infecciones
-- Tratamiento de infecciones vaginales (hongos, bacterias)
-- Evaluación de molestias y flujo anormal
-- Referencias cuando se necesita un especialista
+- **Papanicolaou y revisión ginecológica** para detectar a tiempo cambios en el cuello del útero.
+- **Cultivo vaginal** para saber qué causa una infección y darte el tratamiento correcto.
+- **Infecciones vaginales:** hongos, vaginosis bacteriana y otras causas de flujo, comezón o mal olor.
+- **Molestias al orinar o dolor pélvico**, con estudios de orina cuando hacen falta.
+- **Referencia a especialista** si el resultado lo necesita.
 
-## No te quedes con la duda
+## ¿Cada cuánto debo hacerme el Papanicolaou?
 
-Comezón, ardor, flujo diferente o mal olor son señales de que algo necesita atención. Un cultivo permite un diagnóstico correcto y un tratamiento que sí resuelve.
+Según el Grupo de Trabajo de Servicios Preventivos de EE. UU. (USPSTF):
 
-## Ginecología en una clínica hispana cerca de ti
+- **De 21 a 29 años:** cada 3 años.
+- **De 30 a 65 años:** cada 3 años con Papanicolaou, o cada 5 años si se combina con la prueba del VPH.
 
-Si buscas ginecología en Houston, en nuestra clínica hispana te atendemos cerca de ti: en español, sin cita previa y con precios accesibles, en el noroeste de Houston.
+Si has tenido resultados anormales, el equipo médico puede pedirte controles más seguidos.
 
-${WHY_ES}
+## ¿Cómo me preparo?
 
-${PAYMENT_ES}
+1. Programa tu visita **fuera de los días de tu periodo**.
+2. Durante los **2 días anteriores** evita relaciones sexuales, duchas vaginales, óvulos y cremas vaginales.
+3. Anota la fecha de tu última regla y los medicamentos que tomas.
 
-${AREAS_ES}`,
-    longDescriptionEn: `Your health as a woman deserves a space of trust. At Clínica Hispana Mangum we offer gynecology care in Spanish, with the privacy and respect you deserve.
+## ¿Cuándo no debo esperar?
 
-## What's included?
+Acude pronto si tienes flujo con mal olor o de color distinto, comezón o ardor que no se quita, sangrado entre reglas o después de las relaciones, o dolor en la parte baja del abdomen. Si el dolor es muy fuerte o hay fiebre alta, ve a emergencias.
 
-- Pap smear and gynecological checkup
-- Vaginal cultures to identify infections
-- Treatment of vaginal infections (yeast, bacteria)
-- Evaluation of discomfort and abnormal discharge
-- Referrals when a specialist is needed
+## Promociones para la mujer
 
-## Don't stay in doubt
+${promoList(["chequeo-mujer", "chequeo-mujer-ultrasonido", "salud-intima-femenina"])}
 
-Itching, burning, unusual discharge or odor are signs that something needs attention. A culture allows an accurate diagnosis and treatment that truly resolves it.
+No necesitas seguro médico y aceptamos efectivo, tarjetas y Apple Pay. Estamos en 2912 Mangum Rd, Suite A, en el noroeste de Houston, todos los días de 9 AM a 9 PM. También hacemos [prueba de embarazo](/services/prueba-embarazo), [ultrasonido](/services/ultrasonido) y [métodos anticonceptivos](/services/anticonceptivos).`,
+    longDescriptionEn: `Many women put off their gynecology checkup because of time, embarrassment or not finding care in their language. At Clínica Hispana Mangum the clinic's medical team sees you in a private exam room, no appointment needed, in Spanish or English, and explains each step before starting.
 
-## Gynecology at a Hispanic clinic near you
+## What does the gynecology visit cover?
 
-If you are looking for gynecology care in Houston, our Hispanic clinic is near you: care in Spanish, walk-ins welcome and affordable pricing, in northwest Houston.
+- **Pap smear and gynecological exam** to catch cervical changes early.
+- **Vaginal culture** to find what is causing an infection and give you the right treatment.
+- **Vaginal infections:** yeast, bacterial vaginosis and other causes of discharge, itching or odor.
+- **Urinary discomfort or pelvic pain**, with urine tests when needed.
+- **Referral to a specialist** if a result calls for it.
 
-${WHY_EN}
+## How often should I get a Pap smear?
 
-${PAYMENT_EN}
+According to the U.S. Preventive Services Task Force (USPSTF):
 
-${AREAS_EN}`,
+- **Ages 21 to 29:** every 3 years.
+- **Ages 30 to 65:** every 3 years with a Pap smear, or every 5 years when combined with HPV testing.
+
+If you have had abnormal results, the medical team may ask you to come more often.
+
+## How do I prepare?
+
+1. Schedule your visit **when you are not on your period**.
+2. For **2 days before**, avoid sex, douching, vaginal suppositories and creams.
+3. Note the date of your last period and the medications you take.
+
+## When should I not wait?
+
+Come in soon if you have discharge with an odor or a different color, itching or burning that does not go away, bleeding between periods or after sex, or lower abdominal pain. If the pain is severe or you have a high fever, go to the emergency room.
+
+## Women's health promotions
+
+${promoList(["chequeo-mujer", "chequeo-mujer-ultrasonido", "salud-intima-femenina"], true)}
+
+You do not need health insurance, and we accept cash, cards and Apple Pay. We are at 2912 Mangum Rd, Suite A, in northwest Houston, every day from 9 AM to 9 PM. We also offer [pregnancy testing](/en/services/prueba-embarazo), [ultrasound](/en/services/ultrasonido) and [birth control](/en/services/anticonceptivos).`,
   },
   {
     slug: "prueba-embarazo",
@@ -1110,44 +1143,70 @@ ${AREAS_EN}`,
       "General men's checkup",
       "Results explained in Spanish",
     ],
-    longDescription: `La salud del hombre muchas veces se posterga. En Clínica Hispana Mangum facilitamos los exámenes que ayudan a detectar a tiempo cambios importantes, con resultados explicados en español.
+    longDescription: `Muchos hombres solo van a consulta cuando algo duele. El problema es que la próstata, la presión o el azúcar pueden cambiar durante años sin dar síntomas. En Clínica Hispana Mangum hacemos tus exámenes sin cita y el equipo médico de la clínica te explica los resultados en español, claro y sin rodeos.
 
-## ¿Qué incluye?
+## ¿Qué incluye el examen del hombre?
 
-- Examen de antígeno prostático (PSA)
-- Medición del nivel de testosterona
-- Chequeo general y de signos vitales
-- Evaluación de síntomas urinarios o de energía
-- Referencia a especialista si se requiere
+- **Antígeno prostático específico (PSA):** un análisis de sangre que ayuda a vigilar la próstata.
+- **Perfil hormonal:** incluye el nivel de testosterona cuando hay cansancio, poca energía o cambios de ánimo.
+- **Chequeo general:** presión arterial, peso y signos vitales.
+- **Análisis de sangre y orina** según tu edad y tus síntomas.
+- **Referencia al urólogo** si un resultado lo requiere.
 
-## Por qué es importante
+## ¿A qué edad conviene hacerse el PSA?
 
-El PSA ayuda a vigilar la salud de la próstata y la testosterona influye en la energía, el ánimo y la salud general. Un control sencillo te da tranquilidad.
+El USPSTF recomienda que los hombres de **55 a 69 años** decidan con su equipo médico si hacerse el PSA, porque tiene beneficios y también puede dar falsas alarmas. La Sociedad Americana contra el Cáncer sugiere empezar la conversación **a los 45 años** si eres afroamericano o tu padre o un hermano tuvo cáncer de próstata antes de los 65, y **a los 40** si fueron varios familiares.
 
-${WHY_ES}
+## ¿Qué señales no debo ignorar?
 
-${PAYMENT_ES}
+- Chorro de orina débil o que se corta.
+- Levantarte varias veces en la noche para orinar.
+- Ardor, dolor o sangre al orinar.
+- Cansancio que no mejora con descanso.
 
-${AREAS_ES}`,
-    longDescriptionEn: `Men's health is often postponed. At Clínica Hispana Mangum we make it easy to get the exams that help catch important changes early, with results explained in Spanish.
+## ¿Cómo me preparo?
 
-## What's included?
+1. Evita el ejercicio intenso, sobre todo andar en bicicleta, las 48 horas antes del PSA.
+2. Si te hacen el perfil hormonal, ven en la mañana: los niveles son más altos a primera hora.
+3. Trae la lista de medicamentos y suplementos que tomas.
 
-- Prostate antigen (PSA) test
-- Testosterone level measurement
-- General checkup and vital signs
-- Evaluation of urinary or energy symptoms
-- Referral to a specialist if needed
+## Promociones para el hombre
 
-## Why it matters
+${promoList(["examen-hombres", "perfil-hormonal-hombres"])}
 
-PSA helps monitor prostate health, and testosterone influences energy, mood and overall health. A simple check gives you peace of mind.
+No necesitas seguro y aceptamos efectivo, tarjetas y Apple Pay. Estamos en 2912 Mangum Rd, Suite A, Houston, todos los días de 9 AM a 9 PM. Para saber qué chequeos tocan según tu edad, lee nuestra [guía de salud del hombre](/blog/salud-hombre-houston-chequeos-preventivos).`,
+    longDescriptionEn: `Many men only see a doctor when something hurts. The problem is that the prostate, blood pressure or blood sugar can change for years without symptoms. At Clínica Hispana Mangum we do your tests with no appointment, and the clinic's medical team explains the results in Spanish or English, clearly and directly.
 
-${WHY_EN}
+## What does the men's exam include?
 
-${PAYMENT_EN}
+- **Prostate-specific antigen (PSA):** a blood test that helps monitor the prostate.
+- **Hormone panel:** includes the testosterone level when there is fatigue, low energy or mood changes.
+- **General checkup:** blood pressure, weight and vital signs.
+- **Blood and urine tests** based on your age and symptoms.
+- **Referral to a urologist** if a result calls for it.
 
-${AREAS_EN}`,
+## At what age should I get a PSA test?
+
+The USPSTF recommends that men aged **55 to 69** decide with their medical team whether to get a PSA test, because it has benefits and can also cause false alarms. The American Cancer Society suggests starting the conversation **at 45** if you are African American or your father or a brother had prostate cancer before 65, and **at 40** if several relatives did.
+
+## Which signs should I not ignore?
+
+- A weak urine stream or one that stops and starts.
+- Getting up several times at night to urinate.
+- Burning, pain or blood when urinating.
+- Fatigue that does not improve with rest.
+
+## How do I prepare?
+
+1. Avoid hard exercise, especially cycling, for 48 hours before the PSA test.
+2. If you are getting a hormone panel, come in the morning: levels are highest early in the day.
+3. Bring a list of the medications and supplements you take.
+
+## Men's health promotions
+
+${promoList(["examen-hombres", "perfil-hormonal-hombres"], true)}
+
+You do not need insurance, and we accept cash, cards and Apple Pay. We are at 2912 Mangum Rd, Suite A, Houston, every day from 9 AM to 9 PM. To see which checkups apply to your age, read our [men's health guide](/en/blog/salud-hombre-houston-chequeos-preventivos).`,
   },
   {
     slug: "examenes-sangre",
@@ -1185,7 +1244,7 @@ ${AREAS_EN}`,
       "Thyroid, liver and kidney tests",
       "Results explained in Spanish",
     ],
-    longDescription: `Un análisis de sangre dice mucho más de lo que parece: puede mostrar azúcar alta, anemia, colesterol elevado o problemas de riñón, hígado o tiroides antes de que notes molestias. En Clínica Hispana Mangum tomamos la muestra en la misma visita, sin cita, y el médico revisa contigo los resultados en español.
+    longDescription: `Un análisis de sangre dice mucho más de lo que parece: puede mostrar azúcar alta, anemia, colesterol elevado o problemas de riñón, hígado o tiroides antes de que notes molestias. En Clínica Hispana Mangum tomamos la muestra en la misma visita, sin cita, y el equipo médico de la clínica revisa contigo los resultados en español.
 
 ## ¿Qué análisis puedo hacerme?
 
@@ -1196,7 +1255,7 @@ ${AREAS_EN}`,
 - **Tiroides (TSH):** si tu tiroides trabaja lento o acelerado.
 - **Vitaminas:** B12 y vitamina D, cuando hay cansancio o se sospecha deficiencia.
 
-Si no sabes cuál necesitas, el médico te orienta según tus síntomas, tu edad y tus antecedentes.
+Si no sabes cuál necesitas, el equipo médico te orienta según tus síntomas, tu edad y tus antecedentes.
 
 ## ¿Tengo que ir en ayunas?
 
@@ -1205,7 +1264,7 @@ Depende del estudio. La glucosa en ayunas y algunos paneles piden **8 a 12 horas
 ## ¿Cómo es la visita?
 
 1. Llegas sin cita y te registramos.
-2. El médico revisa por qué vienes y qué análisis conviene pedir.
+2. El equipo médico revisa por qué vienes y qué análisis conviene pedir.
 3. Tomamos la muestra de sangre del brazo; tarda pocos minutos.
 4. Cuando están los resultados, te los explicamos y, si hace falta, empezamos tratamiento o seguimiento.
 
@@ -1221,7 +1280,7 @@ Depende del estudio. La glucosa en ayunas y algunos paneles piden **8 a 12 horas
 No necesitas seguro médico. El precio depende de los análisis que se pidan; pregúntanos el costo antes de la toma de muestra. Aceptamos efectivo, tarjetas y Apple Pay.
 
 Estamos en 2912 Mangum Rd, Suite A, en el noroeste de Houston, abiertos todos los días de 9 AM a 9 PM. Para saber cómo leer glucosa y A1C, lee nuestra [guía de laboratorio](/blog/laboratorio-clinico-houston-analisis-sangre).`,
-    longDescriptionEn: `A blood test tells you much more than it seems: it can reveal high blood sugar, anemia, high cholesterol or kidney, liver or thyroid problems before you notice anything. At Clínica Hispana Mangum we draw the sample during the same visit, no appointment needed, and the doctor goes over the results with you in Spanish or English.
+    longDescriptionEn: `A blood test tells you much more than it seems: it can reveal high blood sugar, anemia, high cholesterol or kidney, liver or thyroid problems before you notice anything. At Clínica Hispana Mangum we draw the sample during the same visit, no appointment needed, and the clinic's medical team goes over the results with you in Spanish or English.
 
 ## Which tests can I get?
 
@@ -1232,7 +1291,7 @@ Estamos en 2912 Mangum Rd, Suite A, en el noroeste de Houston, abiertos todos lo
 - **Thyroid (TSH):** whether your thyroid is slow or overactive.
 - **Vitamins:** B12 and vitamin D, when there is fatigue or a suspected deficiency.
 
-If you are not sure which one you need, the doctor guides you based on your symptoms, age and history.
+If you are not sure which one you need, the medical team guides you based on your symptoms, age and history.
 
 ## Do I need to fast?
 
@@ -1241,7 +1300,7 @@ It depends on the test. Fasting glucose and some panels require **8 to 12 hours 
 ## What happens during the visit?
 
 1. You walk in and we register you.
-2. The doctor reviews why you came and which tests make sense.
+2. The medical team reviews why you came and which tests make sense.
 3. We draw blood from your arm; it takes a few minutes.
 4. When results are ready, we explain them and, if needed, start treatment or follow-up.
 
