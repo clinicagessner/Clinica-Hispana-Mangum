@@ -12,7 +12,7 @@
    ──────────────────────────────────────────────────────────── */
 :root {
   /* VERDE — color principal */
-  --green-primary: #178a3a;
+  --green-primary: #147a33;
   --green-dark: #0f6b2c;
   --green-deep: #08431c;
   --green-medium: #1ea64a;
@@ -32,7 +32,7 @@
 
   /* DORADO/ÁMBAR — acento cálido para CTAs */
   --gold-accent: #e0a83c;
-  --gold-accent-dark: #b9831f;
+  --gold-accent-dark: #875e12;
   --gold-accent-light: #f6e3b0;
   --gold-accent-bg: #fffaf0;
 

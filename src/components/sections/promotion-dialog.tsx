@@ -148,7 +148,6 @@ export function PromotionDialog({
           <div className="mt-6 flex flex-col gap-2.5">
             <a
               href={`tel:${contact.phone}`}
-              aria-label={`${labels.ctaCall} ${contact.phoneDisplay} — ${promo.title}`}
               className={cn(ctaButton({ variant: "gold", size: "md" }))}
             >
               <Phone className="h-5 w-5" />

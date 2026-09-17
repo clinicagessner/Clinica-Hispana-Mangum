@@ -113,9 +113,6 @@ export async function Hero() {
             <div className="mt-8 flex flex-col gap-3 sm:flex-row sm:justify-center md:justify-start">
               <a
                 href={`tel:${CONTACT_INFO.phone}`}
-                aria-label={t("ctaCallAria", {
-                  phone: CONTACT_INFO.phoneDisplay,
-                })}
                 className={cn(ctaButton({ variant: "gold", size: "lg" }))}
               >
                 <Phone className="h-5 w-5" />

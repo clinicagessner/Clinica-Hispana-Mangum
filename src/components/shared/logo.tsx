@@ -21,7 +21,8 @@ export function Logo({
     <span className={cn("inline-flex items-center gap-2.5", className)}>
       <Image
         src={SITE_CONFIG.logoUrl}
-        alt="Logo de Clínica Hispana Mangum"
+        // Decorativo: el nombre ya va en texto al lado.
+        alt=""
         width={225}
         height={225}
         priority={priority}

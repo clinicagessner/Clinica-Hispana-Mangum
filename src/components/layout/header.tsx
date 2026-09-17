@@ -36,7 +36,7 @@ export function Header() {
       <div className="h-0.5 w-full bg-linear-to-r from-green-primary via-gold-accent to-red-accent" />
 
       <div className="mx-auto flex h-20 max-w-7xl items-center justify-between gap-4 px-4 py-2.5 sm:px-6 lg:px-8">
-        <Link href="/" aria-label="Clínica Hispana Mangum" className="shrink-0">
+        <Link href="/" className="shrink-0">
           <Logo />
         </Link>
 
@@ -57,7 +57,6 @@ export function Header() {
           <LanguageSwitcher className="hidden sm:inline-flex" />
           <a
             href={`tel:${CONTACT_INFO.phone}`}
-            aria-label={`${t("callNow")} ${CONTACT_INFO.phoneFormatted}`}
             className={cn(ctaButton({ size: "sm" }), "hidden sm:inline-flex")}
           >
             <Phone className="h-4 w-4" />
