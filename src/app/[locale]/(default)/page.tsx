@@ -5,6 +5,7 @@ import { ScrollSpy } from "@/components/shared/scroll-spy";
 import { Hero } from "@/components/sections/hero";
 import { Promotions } from "@/components/sections/promotions";
 import { Services } from "@/components/sections/services";
+import { About } from "@/components/sections/about";
 import { Gynecology } from "@/components/sections/gynecology";
 import { Urology } from "@/components/sections/urology";
 import { Testimonials } from "@/components/sections/testimonials";
@@ -60,6 +61,7 @@ export default async function HomePage({
       <Hero />
       <Promotions />
       <Services />
+      <About />
       <Gynecology />
       <Urology />
       <Testimonials />

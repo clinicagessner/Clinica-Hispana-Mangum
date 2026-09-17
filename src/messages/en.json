@@ -71,6 +71,13 @@
     "cta": "View all services",
     "featured": "Featured"
   },
+  "About": {
+    "eyebrow": "About us",
+    "title": "What is Clínica Hispana Mangum?",
+    "p1": "Clínica Hispana Mangum is a family medical clinic at 2912 Mangum Rd, Suite A, Houston, TX 77092, in northwest Houston. It welcomes walk-in patients seven days a week from 9:00 AM to 9:00 PM, with staff who speak Spanish and English, and no health insurance is needed to be seen.",
+    "p2": "The clinic offers family medicine and general checkups, blood tests and lab work, women's health with Pap smears and ultrasound, men's health, DOT physicals for CDL drivers, school physicals, vaccines, IV vitamin therapy, and wound care and minor surgery. The I-693 immigration medical exam is performed by a USCIS-designated civil surgeon.",
+    "p3": "There is free parking and a wheelchair-accessible entrance, and the clinic accepts cash, cards and Apple Pay. For questions or to let us know you are on your way, call (832) 834-5507 or send a WhatsApp message to the same number."
+  },
   "Gynecology": {
     "eyebrow": "Women's health",
     "title": "Gynecology Consultation in Spanish",
