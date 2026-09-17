@@ -6,6 +6,10 @@ date: "2026-07-22"
 dateModified: "2026-09-16"
 author: "Equipo Clínica Hispana Mangum"
 category: "Salud del hombre"
+relatedServices:
+  - "salud-hombre"
+  - "enfermedades-transmision-sexual"
+  - "electrocardiograma"
 cover: "/images/blog/salud-hombre-houston-chequeos-preventivos.webp"
 coverAlt: "Hombre hispano en un chequeo médico preventivo en una clínica de Houston"
 keywords:
@@ -25,7 +29,7 @@ En la comunidad hispana de Houston es común aguantar el malestar "hasta que pas
 En Clínica Hispana Mangum contamos con servicios pensados para ti:
 
 - **[Salud del hombre](/services/salud-hombre):** evaluación integral enfocada en las necesidades masculinas.
-- **[Examen físico para hombres](/services/examen-hombres):** revisión completa con historial, signos vitales y laboratorio.
+- **[Examen físico para hombres](/promociones):** revisión completa con historial, signos vitales y laboratorio.
 - **[Perfil hormonal masculino](/services/salud-hombre):** incluye testosterona, útil si notas cansancio o baja energía.
 - **[Exámenes de sangre](/services/examenes-sangre):** glucosa, colesterol, función renal y hepática, con resultados rápidos.
 - **[Electrocardiograma](/services/electrocardiograma):** revisa la actividad eléctrica de tu corazón.
@@ -37,7 +41,7 @@ En Clínica Hispana Mangum contamos con servicios pensados para ti:
 - **Diabetes tipo 2:** muy común en nuestra comunidad; detectarla temprano evita complicaciones.
 - **Colesterol y triglicéridos elevados:** aumentan el riesgo de infarto y derrame.
 - **[Infecciones urinarias](/services/infecciones-urinarias):** ardor o molestias al orinar que no debes ignorar.
-- **[Infecciones de transmisión sexual](/services/diagnostico-its):** diagnóstico confidencial y tratamiento oportuno.
+- **[Infecciones de transmisión sexual](/services/enfermedades-transmision-sexual):** diagnóstico confidencial y tratamiento oportuno.
 
 ## Exámenes recomendados por edad
 

@@ -5,6 +5,10 @@ date: "2026-07-22"
 dateModified: "2026-09-16"
 author: "Clínica Hispana Mangum Team"
 category: "Men's health"
+relatedServices:
+  - "salud-hombre"
+  - "enfermedades-transmision-sexual"
+  - "electrocardiograma"
 cover: "/images/blog/salud-hombre-houston-chequeos-preventivos.webp"
 coverAlt: "Hispanic man at a preventive medical checkup in a Houston clinic"
 keywords:
@@ -24,7 +28,7 @@ In Houston's Hispanic community it's common to push through discomfort "until it
 At Clínica Hispana Mangum we offer services designed for you:
 
 - **[Men's health](/en/services/salud-hombre):** a comprehensive evaluation focused on men's needs.
-- **[Men's physical exam](/en/services/examen-hombres):** a full review with history, vital signs, and lab work.
+- **[Men's physical exam](/en/promociones):** a full review with history, vital signs, and lab work.
 - **[Male hormone panel](/en/services/salud-hombre):** includes testosterone, useful if you notice fatigue or low energy.
 - **[Blood tests](/en/services/examenes-sangre):** glucose, cholesterol, kidney and liver function, with fast results.
 - **[Electrocardiogram](/en/services/electrocardiograma):** checks your heart's electrical activity.
@@ -36,7 +40,7 @@ At Clínica Hispana Mangum we offer services designed for you:
 - **Type 2 diabetes:** very common in our community; early detection prevents complications.
 - **High cholesterol and triglycerides:** they raise the risk of heart attack and stroke.
 - **[Urinary tract infections](/en/services/infecciones-urinarias):** burning or discomfort when urinating that you shouldn't ignore.
-- **[Sexually transmitted infections](/en/services/diagnostico-its):** confidential diagnosis and timely treatment.
+- **[Sexually transmitted infections](/en/services/enfermedades-transmision-sexual):** confidential diagnosis and timely treatment.
 
 ## Recommended exams by age
 
