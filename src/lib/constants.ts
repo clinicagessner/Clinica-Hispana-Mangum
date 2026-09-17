@@ -1185,52 +1185,78 @@ ${AREAS_EN}`,
       "Thyroid, liver and kidney tests",
       "Results explained in Spanish",
     ],
-    longDescription: `Un buen diagnóstico empieza con un buen laboratorio. En Clínica Hispana Mangum tomamos tus muestras en el momento y te explicamos los resultados en español, sin tecnicismos.
+    longDescription: `Un análisis de sangre dice mucho más de lo que parece: puede mostrar azúcar alta, anemia, colesterol elevado o problemas de riñón, hígado o tiroides antes de que notes molestias. En Clínica Hispana Mangum tomamos la muestra en la misma visita, sin cita, y el médico revisa contigo los resultados en español.
 
-## ¿Qué incluye?
+## ¿Qué análisis puedo hacerme?
 
-- Biometría hemática completa (conteo de células)
-- Química sanguínea (glucosa, colesterol, triglicéridos)
-- Pruebas de tiroides, hígado y riñón
-- Paneles para chequeo general o seguimiento
-- Resultados rápidos en la mayoría de los casos
+- **Biometría hemática (CBC):** glóbulos rojos, blancos y plaquetas; ayuda a detectar anemia o infección.
+- **Panel metabólico:** glucosa, función del riñón e hígado, sodio y potasio.
+- **Hemoglobina A1C:** tu promedio de azúcar de los últimos 2 a 3 meses.
+- **Perfil de lípidos:** colesterol total, LDL, HDL y triglicéridos.
+- **Tiroides (TSH):** si tu tiroides trabaja lento o acelerado.
+- **Vitaminas:** B12 y vitamina D, cuando hay cansancio o se sospecha deficiencia.
 
-## Para qué sirven
+Si no sabes cuál necesitas, el médico te orienta según tus síntomas, tu edad y tus antecedentes.
 
-Los análisis ayudan a detectar problemas antes de que den síntomas, dar seguimiento a una condición crónica o completar un examen de trabajo o escuela.
+## ¿Tengo que ir en ayunas?
 
-## Análisis de sangre en una clínica hispana cerca de ti
+Depende del estudio. La glucosa en ayunas y algunos paneles piden **8 a 12 horas sin comer**; solo puedes tomar agua. La biometría, la A1C y la TSH no necesitan ayuno. Llámanos antes y te decimos exactamente cómo prepararte.
 
-¿Necesitas un análisis de sangre en Houston? En nuestra clínica hispana te tomamos la muestra sin cita previa, con precios accesibles y resultados explicados en español.
+## ¿Cómo es la visita?
 
-${WHY_ES}
+1. Llegas sin cita y te registramos.
+2. El médico revisa por qué vienes y qué análisis conviene pedir.
+3. Tomamos la muestra de sangre del brazo; tarda pocos minutos.
+4. Cuando están los resultados, te los explicamos y, si hace falta, empezamos tratamiento o seguimiento.
 
-${PAYMENT_ES}
+## ¿Para quién es este servicio?
 
-${AREAS_ES}`,
-    longDescriptionEn: `A good diagnosis starts with a good lab. At Clínica Hispana Mangum we draw your samples on the spot and explain your results in Spanish, without the jargon.
+- Personas que quieren un chequeo aunque se sientan bien.
+- Pacientes con diabetes, presión alta, colesterol o tiroides que necesitan control.
+- Quien tiene cansancio, sed excesiva, mareos o pérdida de peso sin causa.
+- Trámites que piden laboratorio, como algunos exámenes de trabajo.
 
-## What's included?
+## ¿Cuánto cuesta?
 
-- Complete blood count (CBC)
-- Blood chemistry (glucose, cholesterol, triglycerides)
-- Thyroid, liver and kidney tests
-- Panels for general checkups or follow-up
-- Fast results in most cases
+No necesitas seguro médico. El precio depende de los análisis que se pidan; pregúntanos el costo antes de la toma de muestra. Aceptamos efectivo, tarjetas y Apple Pay.
 
-## Why they matter
+Estamos en 2912 Mangum Rd, Suite A, en el noroeste de Houston, abiertos todos los días de 9 AM a 9 PM. Para saber cómo leer glucosa y A1C, lee nuestra [guía de laboratorio](/blog/laboratorio-clinico-houston-analisis-sangre).`,
+    longDescriptionEn: `A blood test tells you much more than it seems: it can reveal high blood sugar, anemia, high cholesterol or kidney, liver or thyroid problems before you notice anything. At Clínica Hispana Mangum we draw the sample during the same visit, no appointment needed, and the doctor goes over the results with you in Spanish or English.
 
-Blood tests help detect problems before symptoms appear, follow up on a chronic condition or complete a work or school exam.
+## Which tests can I get?
 
-## Blood work at a Hispanic clinic near you
+- **Complete blood count (CBC):** red cells, white cells and platelets; helps detect anemia or infection.
+- **Metabolic panel:** glucose, kidney and liver function, sodium and potassium.
+- **Hemoglobin A1C:** your average blood sugar over the last 2 to 3 months.
+- **Lipid panel:** total cholesterol, LDL, HDL and triglycerides.
+- **Thyroid (TSH):** whether your thyroid is slow or overactive.
+- **Vitamins:** B12 and vitamin D, when there is fatigue or a suspected deficiency.
 
-Need blood work in Houston? At our Hispanic clinic we draw your sample with no appointment needed, at affordable prices, with results explained in Spanish.
+If you are not sure which one you need, the doctor guides you based on your symptoms, age and history.
 
-${WHY_EN}
+## Do I need to fast?
 
-${PAYMENT_EN}
+It depends on the test. Fasting glucose and some panels require **8 to 12 hours without food**; water is fine. The CBC, A1C and TSH do not require fasting. Call us first and we will tell you exactly how to prepare.
 
-${AREAS_EN}`,
+## What happens during the visit?
+
+1. You walk in and we register you.
+2. The doctor reviews why you came and which tests make sense.
+3. We draw blood from your arm; it takes a few minutes.
+4. When results are ready, we explain them and, if needed, start treatment or follow-up.
+
+## Who is this service for?
+
+- People who want a checkup even if they feel fine.
+- Patients with diabetes, high blood pressure, cholesterol or thyroid disease who need monitoring.
+- Anyone with fatigue, excessive thirst, dizziness or unexplained weight loss.
+- Paperwork that requires lab results, such as some work exams.
+
+## How much does it cost?
+
+You do not need health insurance. The price depends on the tests ordered; ask us for the cost before the blood draw. We accept cash, cards and Apple Pay.
+
+We are at 2912 Mangum Rd, Suite A, in northwest Houston, open every day from 9 AM to 9 PM. To learn how to read glucose and A1C, see our [lab guide](/en/blog/laboratorio-clinico-houston-analisis-sangre).`,
   },
   {
     slug: "infecciones-urinarias",
@@ -1860,44 +1886,74 @@ ${AREAS_EN}`,
       "Fast process",
       "Care in Spanish",
     ],
-    longDescription: `Si manejas vehículos comerciales necesitas tu examen físico DOT vigente. En Clínica Hispana Mangum lo realizamos de forma rápida y te entregamos tu certificado el mismo día.
+    longDescription: `Todo conductor que maneja un vehículo comercial en rutas interestatales necesita un certificado médico DOT vigente para su licencia CDL. En Clínica Hispana Mangum hacemos el examen físico DOT sin cita y te explicamos cada parte en español.
 
-## ¿Qué incluye?
+## ¿Qué se revisa en el examen DOT?
 
-- Revisión de visión y audición
-- Toma de presión arterial
-- Examen físico requerido por el DOT
-- Revisión de historial médico
-- Certificado médico DOT el mismo día
+- **Historia médica:** llenas el formulario MCSA-5875 con tus condiciones y medicamentos.
+- **Vista:** al menos 20/40 en cada ojo, con o sin lentes, y campo visual de 70 grados.
+- **Oído:** escuchar un susurro a 5 pies, con o sin aparato auditivo.
+- **Presión arterial y pulso.**
+- **Análisis de orina:** busca proteína, sangre o azúcar como señal de otros problemas. No es una prueba de drogas.
+- **Examen físico general:** corazón, pulmones, abdomen, columna y sistema nervioso.
 
-## Para conductores comerciales
+## ¿Por cuánto tiempo me dan el certificado?
 
-El examen es obligatorio para obtener o renovar tu licencia CDL. Te explicamos cada paso en español y agilizamos el proceso para que vuelvas pronto a la carretera.
+Hasta **24 meses** si todo está en orden. Si hay una condición que requiere control, como presión alta o diabetes, el examinador puede darte un certificado más corto para vigilarla. Con la presión en 140/90 o más, lo habitual es un certificado de un año.
 
-${WHY_ES}
+## ¿Qué debo traer?
 
-${PAYMENT_ES}
+- Tu licencia de conducir.
+- Lentes o aparato auditivo, si los usas.
+- La lista de tus medicamentos con dosis.
+- Si tienes diabetes con insulina, el formulario **MCSA-5870** llenado por tu médico en los 45 días anteriores.
+- Si tienes apnea del sueño, problemas del corazón u otra condición, un informe reciente de tu especialista.
 
-${AREAS_ES}`,
-    longDescriptionEn: `If you drive commercial vehicles you need a current DOT physical exam. At Clínica Hispana Mangum we perform it quickly and give you your certificate the same day.
+## ¿Qué pasa si hay algo que revisar?
 
-## What's included?
+No siempre significa que no pasas. Puede que necesites control de la presión, un informe médico adicional o una revisión más frecuente. Te explicamos qué sigue en tu idioma.
 
-- Vision and hearing screening
-- Blood-pressure check
-- DOT-required physical exam
-- Medical-history review
-- Same-day DOT medical certificate
+## ¿La prueba de drogas va incluida?
 
-## For commercial drivers
+El examen físico DOT y la prueba de drogas DOT son trámites distintos. Si tu empresa te pide las dos, pregúntanos por nuestra [prueba de alcohol y drogas](/services/examen-alcohol-drogas).
 
-The exam is required to obtain or renew your CDL license. We explain every step in Spanish and speed up the process so you get back on the road soon.
+## ¿Cuánto cuesta?
 
-${WHY_EN}
+No necesitas seguro. Pregúntanos el precio antes de venir; aceptamos efectivo, tarjetas y Apple Pay. Estamos en 2912 Mangum Rd, Suite A, Houston, todos los días de 9 AM a 9 PM, así que puedes venir antes o después de tu ruta.`,
+    longDescriptionEn: `Every driver who operates a commercial vehicle on interstate routes needs a current DOT medical certificate for their CDL. At Clínica Hispana Mangum we do the DOT physical with no appointment and explain each part in Spanish or English.
 
-${PAYMENT_EN}
+## What does the DOT exam check?
 
-${AREAS_EN}`,
+- **Medical history:** you fill out form MCSA-5875 with your conditions and medications.
+- **Vision:** at least 20/40 in each eye, with or without glasses, and a 70-degree field of vision.
+- **Hearing:** hearing a forced whisper at 5 feet, with or without a hearing aid.
+- **Blood pressure and pulse.**
+- **Urinalysis:** checks for protein, blood or sugar as signs of other problems. It is not a drug test.
+- **General physical exam:** heart, lungs, abdomen, spine and nervous system.
+
+## How long is the certificate valid?
+
+Up to **24 months** if everything is in order. If a condition needs monitoring, such as high blood pressure or diabetes, the examiner may issue a shorter certificate. With blood pressure at 140/90 or higher, a one-year certificate is common.
+
+## What should I bring?
+
+- Your driver's license.
+- Glasses or hearing aid, if you use them.
+- A list of your medications and doses.
+- If you have insulin-treated diabetes, form **MCSA-5870** completed by your doctor within the previous 45 days.
+- If you have sleep apnea, heart problems or another condition, a recent report from your specialist.
+
+## What if something needs attention?
+
+It does not always mean you fail. You may need blood pressure control, an extra medical report or more frequent checks. We explain the next steps in your language.
+
+## Is the drug test included?
+
+The DOT physical and the DOT drug test are separate. If your employer requires both, ask about our [alcohol and drug testing](/en/services/examen-alcohol-drogas).
+
+## How much does it cost?
+
+You do not need insurance. Ask us for the price before you come; we accept cash, cards and Apple Pay. We are at 2912 Mangum Rd, Suite A, Houston, every day from 9 AM to 9 PM, so you can come before or after your route.`,
   },
   {
     slug: "examenes-inmigracion",
@@ -1936,44 +1992,72 @@ ${AREAS_EN}`,
       "Required vaccines available",
       "Process explained in Spanish",
     ],
-    longDescription: `El examen médico de inmigración (Formulario I-693) es un requisito para el ajuste de estatus. En Clínica Hispana Mangum lo realizamos con un médico autorizado por USCIS (civil surgeon) y te entregamos el formulario sellado listo para enviar.
+    longDescription: `Para ajustar tu estatus a residente permanente, USCIS pide el formulario I-693, y solo puede firmarlo un médico designado como civil surgeon. En Clínica Hispana Mangum ese examen lo hace un civil surgeon autorizado por USCIS, con explicaciones en español en cada paso.
 
-## ¿Qué incluye?
+## ¿Qué revisa el civil surgeon?
 
-- Revisión de historial médico y de vacunas
-- Examen físico completo
-- Pruebas requeridas por USCIS (incluida la de tuberculosis)
-- Aplicación de las vacunas que te falten
-- Formulario I-693 completado y sellado en sobre oficial
+- Tu historia clínica y tus registros de vacunas.
+- Un examen físico general.
+- Las pruebas que indica el CDC según tu edad: sangre para tuberculosis desde los 2 años, sífilis de 18 a 44 años y gonorrea de 18 a 24.
+- Las vacunas que te falten según tu edad. La del COVID-19 ya no es obligatoria.
 
-## Qué traer a tu cita
+## ¿Cuántas visitas son?
 
-Identificación con foto, registro de vacunas si lo tienes y cualquier documento médico relevante. Te explicamos todo el proceso en español para que llegues tranquilo.
+Normalmente dos. En la primera se hace la revisión, se toman las muestras y se aplican vacunas. Cuando llegan los resultados, regresas por el formulario firmado en sobre sellado. Si la prueba de tuberculosis sale positiva, antes de firmar hace falta una radiografía de tórax.
 
-${WHY_ES}
+## ¿Qué debo traer?
 
-${PAYMENT_ES}
+- Pasaporte u otra identificación con foto.
+- Registros de vacunas, aunque estén en otro idioma.
+- Resultados o radiografías anteriores, si tienes.
+- Tu número A (A-Number), si ya te lo asignaron.
 
-${AREAS_ES}`,
-    longDescriptionEn: `The immigration medical exam (Form I-693) is required for adjustment of status. At Clínica Hispana Mangum we perform it with a USCIS-authorized physician (civil surgeon) and give you the sealed form ready to submit.
+## ¿Cuándo conviene hacerlo?
 
-## What's included?
+Desde el 2 de diciembre de 2024 el I-693 se presenta junto con el I-485. Lo ideal es hacer el examen cuando tu abogado ya tenga el resto del paquete casi listo. USCIS solo acepta la edición 01/20/25 del formulario.
 
-- Review of medical and vaccination history
-- Complete physical exam
-- USCIS-required tests (including tuberculosis)
-- Administration of any missing vaccines
-- Form I-693 completed and sealed in the official envelope
+## Lo que el civil surgeon no hace
 
-## What to bring
+No decide tu caso ni da asesoría legal. Si aparece una condición que requiere dispensa (waiver), tu abogado es quien la tramita.
 
-Photo ID, your vaccination record if you have it and any relevant medical documents. We explain the entire process in Spanish so you arrive with peace of mind.
+## ¿Cuánto cuesta?
 
-${WHY_EN}
+No necesitas seguro. El costo depende de las pruebas y vacunas que te falten, así que pregúntanos el precio total antes de tu visita. Aceptamos efectivo, tarjetas y Apple Pay.
 
-${PAYMENT_EN}
+Te esperamos en 2912 Mangum Rd, Suite A, Houston, TX 77092, todos los días de 9 AM a 9 PM. Lee la [guía completa del I-693](/blog/guia-examen-medico-inmigracion-i693-houston) y [cómo verificar a un civil surgeon](/blog/medicos-autorizados-uscis-houston-civil-surgeon).`,
+    longDescriptionEn: `To adjust your status to permanent resident, USCIS requires Form I-693, and only a doctor designated as a civil surgeon can sign it. At Clínica Hispana Mangum this exam is done by a USCIS-designated civil surgeon, with every step explained in Spanish or English.
 
-${AREAS_EN}`,
+## What does the civil surgeon check?
+
+- Your medical history and vaccination records.
+- A general physical exam.
+- The tests the CDC requires by age: a tuberculosis blood test from age 2, syphilis for ages 18 to 44 and gonorrhea for ages 18 to 24.
+- Any vaccines you are missing for your age. The COVID-19 vaccine is no longer required.
+
+## How many visits does it take?
+
+Usually two. At the first visit we do the review, draw samples and give vaccines. When results are back, you return for the signed form in a sealed envelope. If the tuberculosis test is positive, a chest X-ray is needed before signing.
+
+## What should I bring?
+
+- Passport or another photo ID.
+- Vaccination records, even if they are in another language.
+- Previous results or X-rays, if you have them.
+- Your A-Number, if you already have one.
+
+## When is the best time?
+
+Since December 2, 2024, Form I-693 is filed together with Form I-485. The best time is when your attorney has the rest of the package almost ready. USCIS only accepts the 01/20/25 edition of the form.
+
+## What the civil surgeon does not do
+
+They do not decide your case or give legal advice. If a condition requires a waiver, your attorney handles it.
+
+## How much does it cost?
+
+You do not need insurance. The cost depends on the tests and vaccines you still need, so ask us for the total price before your visit. We accept cash, cards and Apple Pay.
+
+Visit us at 2912 Mangum Rd, Suite A, Houston, TX 77092, every day from 9 AM to 9 PM. Read the [full I-693 guide](/en/blog/guia-examen-medico-inmigracion-i693-houston) and [how to verify a civil surgeon](/en/blog/medicos-autorizados-uscis-houston-civil-surgeon).`,
   },
   {
     slug: "vacunas",

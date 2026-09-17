@@ -16,6 +16,9 @@ const STATIC_DATES: Record<string, string> = {
 const SERVICES_LAST_MODIFIED = "2026-08-28";
 const SERVICE_DATES: Record<string, string> = {
   "salud-hombre": "2026-09-16",
+  "examenes-sangre": "2026-09-16",
+  "examenes-inmigracion": "2026-09-16",
+  "examen-dot": "2026-09-16",
 };
 
 // Strings YYYY-MM-DD comparan bien lexicográficamente.
