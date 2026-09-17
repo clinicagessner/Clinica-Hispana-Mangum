@@ -1,8 +1,8 @@
 ---
 title: "USCIS-authorized physicians in Houston (Civil Surgeon)"
-description: "What a civil surgeon is, why you need one for your immigration exam, and how to find one in Houston who speaks Spanish."
+description: "What a civil surgeon is, why only they can sign your I-693, how to check a doctor is USCIS-designated and what to ask before your visit in Houston."
 date: "2026-04-12"
-dateModified: "2026-08-28"
+dateModified: "2026-09-16"
 author: "Clínica Hispana Mangum Team"
 category: "Immigration"
 relatedServices:
@@ -17,31 +17,49 @@ keywords:
   - "immigration doctor houston"
 ---
 
-When you start an immigration process that requires a medical exam, you'll hear the term *civil surgeon*. Here's what it means and why choosing the right one matters.
+Searching for "immigration exam doctor in Houston" returns plenty of results, but not all of them can help. For the I-693 exam you need a specific kind of doctor: a *civil surgeon*. Here is what that means, how to check it and what to ask before you pay.
 
 ## What is a civil surgeon?
 
-A *civil surgeon* is a **USCIS-authorized physician** who can perform the immigration medical exam (Form I-693) within the United States. Not every doctor can do it: they must hold this official authorization.
+A licensed physician **officially designated by USCIS** to perform immigration medical exams inside the United States. The designation comes from USCIS, not from the state or a medical board, and it can be revoked. A doctor without it can treat you for anything else, but their signature on Form I-693 is not valid.
 
-## Why is it important?
+## What do they do, and what don't they do?
 
-Only the form completed and **sealed by a civil surgeon** is valid for your process. If a non-authorized doctor does it, USCIS won't accept it and you'll lose time and money.
+**They do:**
+- Review your medical history and vaccination records.
+- Perform the physical exam and order the tests the CDC requires, such as tuberculosis and, depending on age, syphilis and gonorrhea.
+- Give or refer you for any missing vaccines.
+- Complete, sign and hand you Form I-693 in a sealed envelope.
 
-## What they do during the exam
+**They don't:**
+- Decide whether your green card is approved; USCIS does.
+- Give legal advice or prepare your I-485. That is your attorney's or accredited representative's job.
+- "Fix" results or skip required tests.
 
-- Review your medical and vaccination history
-- Perform the physical exam
-- Order the required tests
-- Administer necessary vaccines
-- Complete and seal Form I-693
+## How can I check that a doctor is designated?
 
-## How to choose the right one
+USCIS has an official civil surgeon locator. Open the USCIS **Find a Doctor** tool, enter your ZIP code (for example, 77092) and check that the doctor's name appears. If a clinic says it has a civil surgeon, ask for the doctor's name and look it up there.
 
-1. Confirm they are **USCIS-authorized**.
-2. Look for care in your language.
-3. Ask if they administer vaccines the same day.
-4. Verify they provide the sealed envelope.
+## What should I ask before booking?
 
-## At Clínica Hispana Mangum
+1. **What is the total cost?** USCIS does not set the price. Ask what is included and what is extra (tests, vaccines, X-ray).
+2. **Do you give vaccines at the clinic?** That saves you a trip elsewhere.
+3. **How many days do results take?** Some tests take a few days, so the form is usually not ready the same day.
+4. **Can I be seen in Spanish?** Understanding every history question avoids mistakes.
+5. **Do you use the current edition of the form?** Since July 2025 USCIS only accepts the 01/20/25 edition.
 
-We have a USCIS-authorized physician and perform your complete [I-693 immigration medical exam](/en/services/examenes-inmigracion), in Spanish and with the sealed form. To know what to bring and how to prepare, see our [I-693 exam guide for Houston](/en/blog/guia-examen-medico-inmigracion-i693-houston). Call us at **(832) 834-5507** for more information.
+## Red flags
+
+- They offer the form without an exam or without tests.
+- They cannot tell you the name of the doctor who signs.
+- They guarantee your case will be approved.
+
+## When is the best time for the exam?
+
+Since December 2024, Form I-693 must be filed together with Form I-485. The best time is when your package is almost complete, so you do not have to repeat steps.
+
+## Civil surgeon at Clínica Hispana Mangum
+
+At our clinic at 2912 Mangum Rd, Suite A, the [I-693 immigration medical exam](/en/services/examenes-inmigracion) is performed by a USCIS-designated physician, with care in Spanish or English. We also do [blood tests](/en/services/examenes-sangre) and give [vaccines](/en/services/vacunas) on site. For a step-by-step look at the visit, read our [I-693 exam guide](/en/blog/guia-examen-medico-inmigracion-i693-houston). Call **(832) 834-5507**; we are open every day from 9 AM to 9 PM.
+
+**Sources:** [USCIS: Find a Doctor](https://my.uscis.gov/findadoctor) · [USCIS: Form I-693](https://www.uscis.gov/i-693) · [USCIS Policy Manual, Vol. 8, Part B](https://www.uscis.gov/policy-manual/volume-8-part-b)
