@@ -6,7 +6,7 @@ import { FaqSection } from "@/components/sections/faq-section";
 import { JsonLdBreadcrumb, JsonLdCollectionPage, JsonLdMedicalClinicRef } from "@/components/seo/json-ld";
 import { HOME_FAQS } from "@/lib/home-faqs";
 import { getAllPosts } from "@/lib/blog";
-import { absoluteUrl, buildAlternates } from "@/lib/seo";
+import { absoluteUrl, buildAlternates, buildSocial } from "@/lib/seo";
 import { routing } from "@/i18n/routing";
 import type { Locale } from "@/types";
 
@@ -23,8 +23,9 @@ export async function generateMetadata({
   const t = await getTranslations({ locale, namespace: "BlogPage" });
   return {
     title: t("title"),
-    description: t("subtitle"),
+    description: t("metaDescription"),
     alternates: buildAlternates("/blog", locale as Locale),
+    ...buildSocial({ title: t("title"), description: t("metaDescription"), path: "/blog", locale: locale as Locale }),
   };
 }
 

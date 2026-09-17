@@ -1,6 +1,6 @@
 ---
 title: "Vitamin B12: benefits, deficiency symptoms and injections"
-description: "What vitamin B12 does, how to spot a deficiency and when a B12 shot beats pills. B12 testing and injections in Spanish in Houston — walk in, no insurance needed."
+description: "What vitamin B12 does, how to spot a deficiency and when a B12 shot helps. B12 testing and injections in Houston, walk-in, no insurance needed."
 date: "2026-08-18"
 author: "Clínica Hispana Mangum Team"
 category: "Health"

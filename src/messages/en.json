@@ -194,6 +194,7 @@
   "BlogPage": {
     "title": "Health blog",
     "subtitle": "Health guides and tips for the Hispanic community of Houston.",
+    "metaDescription": "Health guides from Clínica Hispana Mangum in Houston: medical exams, immigration, diabetes, and women's and men's health.",
     "empty": "We'll publish new guides soon."
   },
   "BlogPost": {

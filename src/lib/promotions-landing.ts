@@ -28,7 +28,7 @@ const CONTENT: Record<Locale, PromotionsLandingContent> = {
   es: {
     metaTitle: "Promociones de la clínica en Houston | Clínica Mangum",
     metaDescription:
-      "Promociones del mes en Clínica Hispana Mangum: examen DOT, general de sangre + B12 por $99, salud íntima femenina por $69 y perfil hormonal masculino por $200. En español, sin cita y sin seguro en Houston, TX.",
+      "Promociones del mes en Clínica Hispana Mangum: chequeos, laboratorio y salud de la mujer y del hombre. En español, sin cita y sin seguro en Houston.",
     backToHome: "Volver al inicio",
     eyebrow: "Promociones del mes",
     title: "Promociones de la clínica",
@@ -67,7 +67,7 @@ const CONTENT: Record<Locale, PromotionsLandingContent> = {
   en: {
     metaTitle: "Clinic promotions in Houston | Clínica Mangum",
     metaDescription:
-      "This month's promotions at Clínica Hispana Mangum: DOT exam, complete blood panel + B12 for $99, women's intimate health for $69 and a male hormone panel for $200. In Spanish, walk-ins and no insurance needed in Houston, TX.",
+      "This month's promotions at Clínica Hispana Mangum: checkups, lab work, and women's and men's health. In Spanish, walk-ins, no insurance, Houston.",
     backToHome: "Back to home",
     eyebrow: "This month's offers",
     title: "Clinic promotions",

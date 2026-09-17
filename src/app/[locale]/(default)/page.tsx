@@ -14,7 +14,7 @@ import { Faq } from "@/components/sections/faq";
 import { Location } from "@/components/sections/location";
 import { Contact } from "@/components/sections/contact";
 import { SITE_CONFIG } from "@/lib/constants";
-import { buildAlternates } from "@/lib/seo";
+import { buildAlternates, buildSocial } from "@/lib/seo";
 import type { Locale } from "@/types";
 
 export async function generateMetadata({
@@ -30,6 +30,14 @@ export async function generateMetadata({
       : "Clínica Hispana Mangum · Sin Cita en Houston, TX, Abierta 7 Días",
     description: isEn ? SITE_CONFIG.descriptionEn : SITE_CONFIG.description,
     alternates: buildAlternates("/", locale as Locale),
+    ...buildSocial({
+      title: isEn
+        ? "Clínica Hispana Mangum · Walk-in Clinic in Houston, TX, Open 7 Days"
+        : "Clínica Hispana Mangum · Sin Cita en Houston, TX, Abierta 7 Días",
+      description: isEn ? SITE_CONFIG.descriptionEn : SITE_CONFIG.description,
+      path: "/",
+      locale: locale as Locale,
+    }),
   };
 }
 

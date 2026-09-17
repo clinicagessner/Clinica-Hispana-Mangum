@@ -1,5 +1,6 @@
 ---
 title: "Salud del hombre en Houston: chequeos preventivos que salvan vidas"
+metaTitle: "Salud del hombre en Houston: chequeos preventivos"
 description: "Guía en español de los chequeos preventivos para hombres en Houston: exámenes recomendados por edad, señales de alarma y atención sin cita ni seguro."
 date: "2026-07-22"
 dateModified: "2026-09-16"

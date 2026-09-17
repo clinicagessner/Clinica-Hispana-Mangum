@@ -194,6 +194,7 @@
   "BlogPage": {
     "title": "Blog de salud",
     "subtitle": "Guías y consejos de salud para la comunidad hispana de Houston.",
+    "metaDescription": "Guías de salud en español de Clínica Hispana Mangum en Houston: exámenes, inmigración, diabetes, salud de la mujer y del hombre.",
     "empty": "Pronto publicaremos nuevas guías."
   },
   "BlogPost": {

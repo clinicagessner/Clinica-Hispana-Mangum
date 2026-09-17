@@ -85,6 +85,8 @@ export interface LocalizedFaq {
 
 export interface BlogFrontmatter {
   title: string;
+  /** <title>/OG si el H1 pasa de 60 caracteres; opcional. */
+  metaTitle?: string;
   description: string;
   date: string;
   /** Último cambio de contenido (YYYY-MM-DD); si falta, se usa date. */
