@@ -15,6 +15,11 @@ const STATIC_DATES: Record<string, string> = {
 };
 const SERVICES_LAST_MODIFIED = "2026-08-28";
 const SERVICE_DATES: Record<string, string> = {
+  "electrocardiograma": "2026-09-17",
+  "examen-alcohol-drogas": "2026-09-17",
+  "enfermedades-transmision-sexual": "2026-09-17",
+  "prueba-tuberculosis": "2026-09-17",
+  "prueba-strep": "2026-09-17",
   "examen-heces": "2026-09-17",
   "infecciones-urinarias": "2026-09-17",
   "extraccion-implantes": "2026-09-17",

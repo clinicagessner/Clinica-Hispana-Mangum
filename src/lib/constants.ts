@@ -1680,44 +1680,68 @@ We are at 2912 Mangum Rd, Suite A, in northwest Houston, open every day from 9 A
       "Treatment if positive",
       "Walk-in care in Spanish",
     ],
-    longDescription: `No todo dolor de garganta es igual: la faringitis por estreptococo necesita tratamiento específico. En Clínica Hispana Mangum hacemos la prueba rápida de strep y te damos el resultado y el tratamiento el mismo día.
+    longDescription: `No todo dolor de garganta necesita antibiótico. La mayoría los causan virus, pero la faringitis por estreptococo del grupo A sí requiere tratamiento para evitar complicaciones. La prueba rápida de strep permite saberlo en la misma visita, sin cita.
 
-## ¿Qué incluye?
+## ¿Cuándo sospechar estreptococo?
 
-- Prueba rápida de estreptococo (hisopado de garganta)
-- Resultado en pocos minutos
-- Evaluación del dolor de garganta
-- Tratamiento adecuado si el resultado es positivo
-- Indicaciones de recuperación
+- Dolor de garganta que empezó de repente y duele al tragar.
+- Fiebre.
+- Ganglios del cuello inflamados y adoloridos.
+- Amígdalas rojas, a veces con puntos blancos.
+- **Sin tos ni nariz tapada**, que apuntan más a un virus.
 
-## Cuándo hacerla
+Es más frecuente en niños de 5 a 15 años, pero también da en adultos.
 
-Dolor de garganta fuerte, fiebre, dificultad para tragar o placas blancas en las amígdalas, sobre todo en niños. La prueba evita tratamientos innecesarios.
+## ¿Cómo es la prueba?
 
-${WHY_ES}
+Se pasa un hisopo por la parte de atrás de la garganta durante unos segundos. Puede dar arcadas, pero no duele. El resultado de la prueba rápida está en **pocos minutos**. En niños y adolescentes, si la prueba rápida sale negativa pero la sospecha es alta, se recomienda confirmar con un **cultivo**.
 
-${PAYMENT_ES}
+## Si sale positiva
 
-${AREAS_ES}`,
-    longDescriptionEn: `Not every sore throat is the same: strep throat needs specific treatment. At Clínica Hispana Mangum we run the rapid strep test and give you the result and treatment the same day.
+- El equipo médico indica el antibiótico adecuado, que se toma **completo** aunque te sientas mejor en dos días.
+- Puedes volver a la escuela o al trabajo cuando **ya no tienes fiebre y llevas al menos 12 horas** con el antibiótico.
+- Cambia el cepillo de dientes cuando termines el tratamiento.
 
-## What's included?
+## ¿Por qué no dejarla pasar?
 
-- Rapid strep test (throat swab)
-- Result in minutes
-- Sore-throat evaluation
-- Appropriate treatment if the result is positive
-- Recovery instructions
+Sin tratamiento, el estreptococo puede causar abscesos alrededor de las amígdalas y, con menos frecuencia, fiebre reumática, que afecta el corazón.
 
-## When to get it
+## Señales de urgencia
 
-Severe sore throat, fever, trouble swallowing or white patches on the tonsils, especially in children. The test avoids unnecessary treatments.
+Dificultad para respirar o tragar saliva, babeo, no poder abrir bien la boca o voz de "papa caliente": ve a urgencias.
 
-${WHY_EN}
+Estamos en 2912 Mangum Rd, Suite A, en el noroeste de Houston, abiertos todos los días de 9 AM a 9 PM. No necesitas seguro; pregunta el precio antes de tu visita. Aceptamos efectivo, tarjetas y Apple Pay.`,
+    longDescriptionEn: `Not every sore throat needs antibiotics. Most are caused by viruses, but group A strep throat does need treatment to prevent complications. The rapid strep test tells you during the same visit, no appointment needed.
 
-${PAYMENT_EN}
+## When to suspect strep
 
-${AREAS_EN}`,
+- A sore throat that started suddenly and hurts to swallow.
+- Fever.
+- Swollen, tender neck lymph nodes.
+- Red tonsils, sometimes with white spots.
+- **No cough or stuffy nose**, which point more to a virus.
+
+It is most common in children aged 5 to 15, but adults get it too.
+
+## What is the test like?
+
+A swab is passed over the back of the throat for a few seconds. It may cause gagging, but it does not hurt. The rapid test result is ready in **a few minutes**. In children and teens, if the rapid test is negative but suspicion is high, a **culture** is recommended to confirm.
+
+## If it is positive
+
+- The medical team prescribes the right antibiotic, which must be taken **completely** even if you feel better in two days.
+- You can return to school or work once you **have no fever and have taken the antibiotic for at least 12 hours**.
+- Replace your toothbrush when you finish treatment.
+
+## Why not let it go?
+
+Untreated strep can cause abscesses around the tonsils and, less often, rheumatic fever, which affects the heart.
+
+## Urgent signs
+
+Trouble breathing or swallowing saliva, drooling, not being able to open the mouth fully or a "hot potato" voice: go to the emergency room.
+
+We are at 2912 Mangum Rd, Suite A, in northwest Houston, open every day from 9 AM to 9 PM. No insurance needed; ask for the price before your visit. We accept cash, cards and Apple Pay.`,
   },
   {
     slug: "prueba-tuberculosis",
@@ -1754,42 +1778,52 @@ ${AREAS_EN}`,
       "Useful for work and school",
       "Care in Spanish",
     ],
-    longDescription: `Muchos trabajos y escuelas piden una prueba de tuberculosis al día. En Clínica Hispana Mangum la aplicamos y leemos el resultado, con todo explicado en español.
+    longDescription: `Muchos trabajos en escuelas, guarderías, hospitales y asilos, además de algunas escuelas y programas, piden una prueba de tuberculosis. En Clínica Hispana Mangum aplicamos la **prueba cutánea (PPD)** y te damos la cita para leerla y el documento con tu resultado.
 
-## ¿Qué incluye?
+## ¿Cómo funciona la prueba cutánea?
 
-- Prueba cutánea de tuberculosis (PPD)
-- Cita de lectura del resultado (48–72 horas después)
-- Documentación del resultado para tu trámite
-- Orientación si el resultado requiere seguimiento
+1. **Aplicación:** se inyecta una pequeña cantidad de líquido justo debajo de la piel del antebrazo. Toma segundos.
+2. **Espera:** no rasques, no cubras con curitas ni pongas cremas en la zona.
+3. **Lectura entre 48 y 72 horas después:** el equipo médico mide en milímetros si se formó una zona dura (no el enrojecimiento).
 
-## Para qué la piden
+**Si no regresas dentro de ese plazo, la prueba no se puede leer** y hay que repetirla.
 
-Empleos de salud, escuelas, trámites y voluntariado suelen requerir una prueba de TB vigente. Te ayudamos a cumplir el requisito sin complicaciones.
+## ¿Qué significa un resultado positivo?
 
-${WHY_ES}
+Indica contacto con la bacteria de la tuberculosis en algún momento, **no necesariamente enfermedad activa**. El siguiente paso es una **radiografía de tórax** y una revisión de síntomas. Si recibiste la vacuna BCG de niño, la prueba cutánea puede salir positiva sin infección; en ese caso a veces conviene una prueba en sangre.
 
-${PAYMENT_ES}
+## Prueba de TB para inmigración
 
-${AREAS_ES}`,
-    longDescriptionEn: `Many jobs and schools require an up-to-date tuberculosis test. At Clínica Hispana Mangum we administer it and read the result, with everything explained in Spanish.
+Para el examen médico de inmigración I-693, el CDC exige una **prueba en sangre (IGRA)**, no la cutánea. Esa prueba forma parte del [examen de inmigración](/services/examenes-inmigracion).
 
-## What's included?
+## Síntomas que requieren revisión
 
-- Tuberculosis skin test (PPD)
-- Result-reading appointment (48–72 hours later)
-- Documentation of the result for your paperwork
-- Guidance if the result needs follow-up
+Tos de más de 3 semanas, sangre al toser, fiebre o sudores por la noche y pérdida de peso sin causa. Si los tienes, avísalo antes de la prueba.
 
-## Why it's required
+Estamos en 2912 Mangum Rd, Suite A, en el noroeste de Houston, abiertos todos los días de 9 AM a 9 PM. No necesitas seguro; pregunta el precio antes de tu visita. Aceptamos efectivo, tarjetas y Apple Pay.`,
+    longDescriptionEn: `Many jobs in schools, daycares, hospitals and nursing homes, as well as some schools and programs, require a tuberculosis test. At Clínica Hispana Mangum we give the **skin test (PPD)**, schedule your reading and give you a document with your result.
 
-Healthcare jobs, schools, paperwork and volunteering often require a current TB test. We help you meet the requirement without hassle.
+## How does the skin test work?
 
-${WHY_EN}
+1. **Placement:** a small amount of fluid is injected just under the skin of the forearm. It takes seconds.
+2. **Waiting:** do not scratch, cover with a bandage or put creams on the area.
+3. **Reading 48 to 72 hours later:** the medical team measures in millimeters whether a firm bump formed (not the redness).
 
-${PAYMENT_EN}
+**If you do not return within that window, the test cannot be read** and must be repeated.
 
-${AREAS_EN}`,
+## What does a positive result mean?
+
+It shows contact with the tuberculosis bacteria at some point, **not necessarily active disease**. The next step is a **chest X-ray** and a symptom review. If you received the BCG vaccine as a child, the skin test may be positive without infection; in that case a blood test is sometimes better.
+
+## TB testing for immigration
+
+For the I-693 immigration medical exam, the CDC requires a **blood test (IGRA)**, not the skin test. That test is part of the [immigration exam](/en/services/examenes-inmigracion).
+
+## Symptoms that need an exam
+
+A cough lasting more than 3 weeks, coughing up blood, fever or night sweats and unexplained weight loss. If you have them, tell us before the test.
+
+We are at 2912 Mangum Rd, Suite A, in northwest Houston, open every day from 9 AM to 9 PM. No insurance needed; ask for the price before your visit. We accept cash, cards and Apple Pay.`,
   },
   {
     slug: "enfermedades-transmision-sexual",
@@ -1826,44 +1860,74 @@ ${AREAS_EN}`,
       "Treatment available",
       "Care in Spanish",
     ],
-    longDescription: `Cuidar tu salud sexual es un acto de responsabilidad. En Clínica Hispana Mangum ofrecemos pruebas de enfermedades de transmisión sexual de forma confidencial y respetuosa, con tratamiento cuando es necesario.
+    longDescription: `Muchas infecciones de transmisión sexual no dan ningún síntoma y aun así pueden causar infertilidad o contagiar a tu pareja. Hacerte la prueba es una forma de cuidarte, no un motivo de vergüenza. En Clínica Hispana Mangum las pruebas son **confidenciales** y el equipo médico te atiende con respeto y sin juicios.
 
-## ¿Qué incluye?
+## ¿Qué infecciones se revisan?
 
-- Evaluación de síntomas y factores de riesgo
-- Pruebas de las infecciones más comunes
-- Análisis de laboratorio
-- Tratamiento y orientación si el resultado es positivo
-- Total confidencialidad
+| Infección | Cómo se detecta |
+|---|---|
+| Clamidia y gonorrea | Muestra de orina o hisopo |
+| Sífilis | Análisis de sangre |
+| VIH | Análisis de sangre |
+| Tricomoniasis | Muestra de orina o hisopo |
+| Herpes | Revisión y muestra si hay llagas |
 
-## Cuándo hacerte la prueba
+El equipo médico elige las pruebas según tus síntomas y tu riesgo.
 
-Si tuviste contacto de riesgo, tienes síntomas o simplemente quieres estar tranquilo, hacerte la prueba es la mejor decisión. La detección temprana facilita el tratamiento.
+## ¿Cuándo hacerme la prueba?
 
-${WHY_ES}
+- Si tienes **flujo, ardor, llagas, verrugas o dolor** en la zona genital.
+- Si tu pareja te dijo que tiene una infección.
+- Después de relaciones sin condón con una pareja nueva.
+- Los CDC recomiendan la prueba de **VIH al menos una vez** a toda persona de 13 a 64 años, y clamidia y gonorrea **cada año** a mujeres sexualmente activas menores de 25.
 
-${PAYMENT_ES}
+Algunas infecciones tardan en aparecer en las pruebas; si la exposición fue muy reciente, puede ser necesario repetirla semanas después.
 
-${AREAS_ES}`,
-    longDescriptionEn: `Taking care of your sexual health is an act of responsibility. At Clínica Hispana Mangum we offer confidential, respectful testing for sexually transmitted diseases, with treatment when needed.
+## Si el resultado sale positivo
 
-## What's included?
+- Muchas infecciones se **curan con antibiótico**; otras, como el VIH o el herpes, se controlan con tratamiento.
+- Tu pareja o parejas también deben tratarse para no volver a contagiarte.
+- Evita las relaciones sexuales hasta terminar el tratamiento, según lo que te indiquen.
 
-- Symptom and risk-factor assessment
-- Testing for the most common infections
-- Laboratory analysis
-- Treatment and guidance if the result is positive
-- Complete confidentiality
+## Prevención
 
-## When to get tested
+El condón en cada relación reduce mucho el riesgo. Pregunta también por la vacuna contra el VPH y la hepatitis B.
 
-If you had a risky encounter, have symptoms or simply want peace of mind, getting tested is the best decision. Early detection makes treatment easier.
+Estamos en 2912 Mangum Rd, Suite A, en el noroeste de Houston, abiertos todos los días de 9 AM a 9 PM. No necesitas seguro; pregunta el precio antes de tu visita. Aceptamos efectivo, tarjetas y Apple Pay.`,
+    longDescriptionEn: `Many sexually transmitted infections cause no symptoms at all and can still lead to infertility or spread to your partner. Getting tested is a way to take care of yourself, not something to be ashamed of. At Clínica Hispana Mangum testing is **confidential** and the medical team treats you with respect and without judgment.
 
-${WHY_EN}
+## Which infections are checked?
 
-${PAYMENT_EN}
+| Infection | How it is detected |
+|---|---|
+| Chlamydia and gonorrhea | Urine sample or swab |
+| Syphilis | Blood test |
+| HIV | Blood test |
+| Trichomoniasis | Urine sample or swab |
+| Herpes | Exam and sample if there are sores |
 
-${AREAS_EN}`,
+The medical team chooses tests based on your symptoms and risk.
+
+## When should I get tested?
+
+- If you have **discharge, burning, sores, warts or pain** in the genital area.
+- If a partner told you they have an infection.
+- After sex without a condom with a new partner.
+- The CDC recommends an **HIV test at least once** for everyone aged 13 to 64, and **yearly** chlamydia and gonorrhea testing for sexually active women under 25.
+
+Some infections take time to show up on tests; if the exposure was very recent, a repeat test may be needed weeks later.
+
+## If the result is positive
+
+- Many infections are **cured with antibiotics**; others, such as HIV or herpes, are managed with treatment.
+- Your partner or partners should also be treated so you do not get reinfected.
+- Avoid sex until treatment is finished, as directed.
+
+## Prevention
+
+Using a condom every time greatly lowers the risk. Ask about the HPV and hepatitis B vaccines too.
+
+We are at 2912 Mangum Rd, Suite A, in northwest Houston, open every day from 9 AM to 9 PM. No insurance needed; ask for the price before your visit. We accept cash, cards and Apple Pay.`,
   },
   {
     slug: "examen-alcohol-drogas",
@@ -1900,42 +1964,66 @@ ${AREAS_EN}`,
       "Fast process",
       "Result documentation",
     ],
-    longDescription: `Muchos empleos y trámites requieren una prueba de alcohol y drogas. En Clínica Hispana Mangum la realizamos de forma rápida y te entregamos la documentación que necesitas.
+    longDescription: `Muchas empresas piden una prueba de drogas o alcohol antes de contratar, después de un accidente o de forma aleatoria. En Clínica Hispana Mangum hacemos la prueba sin cita, de forma discreta, y te entregamos la documentación del resultado para tu empleador o trámite.
 
-## ¿Qué incluye?
+## ¿Qué pruebas hacemos?
 
-- Prueba de detección de drogas
-- Prueba de alcohol
-- Proceso ágil y discreto
-- Documentación del resultado para tu empleador o trámite
+- **Prueba de drogas en orina**, con paneles que suelen incluir marihuana, cocaína, anfetaminas, opioides y otras sustancias. El panel depende de lo que pida tu empleador.
+- **Prueba de alcohol.**
 
-## Para trabajo y trámites
+## ¿Qué debo traer?
 
-Atendemos solicitudes de empleo, requisitos laborales y trámites personales. Te explicamos el proceso en español para que llegues tranquilo.
+1. **Identificación con foto** vigente; sin ella no se puede tomar la muestra.
+2. El **formulario u orden de tu empleador**, si te dieron uno.
+3. La lista de **medicamentos con receta** que tomas.
 
-${WHY_ES}
+## Cómo es la toma de muestra
 
-${PAYMENT_ES}
+- Se verifica tu identidad y se registra la muestra para que no se confunda con otra.
+- Das la muestra de orina en privado, siguiendo las indicaciones del personal.
+- Se sella el frasco frente a ti.
 
-${AREAS_ES}`,
-    longDescriptionEn: `Many jobs and processes require an alcohol and drug test. At Clínica Hispana Mangum we perform it quickly and give you the documentation you need.
+## Consejos para evitar repetirla
 
-## What's included?
+- **No tomes grandes cantidades de agua** antes: una muestra muy diluida puede ser rechazada.
+- Avisa si tomas medicamentos con receta, como algunos para el dolor, la ansiedad o el TDAH, que pueden dar positivo.
+- Llega con ganas de orinar.
 
-- Drug screening test
-- Alcohol test
-- Quick, discreet process
-- Result documentation for your employer or paperwork
+## Pruebas bajo reglas del DOT
 
-## For work and paperwork
+Si tu empleador pide una prueba bajo las reglas del Departamento de Transporte, avísanos al llamar para confirmar el procedimiento. Es un trámite distinto del [examen físico DOT](/services/examen-dot).
 
-We handle job applications, workplace requirements and personal paperwork. We explain the process in Spanish so you arrive with peace of mind.
+Estamos en 2912 Mangum Rd, Suite A, en el noroeste de Houston, abiertos todos los días de 9 AM a 9 PM. No necesitas seguro; pregunta el precio antes de tu visita. Aceptamos efectivo, tarjetas y Apple Pay.`,
+    longDescriptionEn: `Many employers require a drug or alcohol test before hiring, after an accident or at random. At Clínica Hispana Mangum we do the test with no appointment, discreetly, and give you documentation of the result for your employer or paperwork.
 
-${WHY_EN}
+## Which tests do we do?
 
-${PAYMENT_EN}
+- **Urine drug test**, with panels that often include marijuana, cocaine, amphetamines, opioids and other substances. The panel depends on what your employer requests.
+- **Alcohol test.**
 
-${AREAS_EN}`,
+## What should I bring?
+
+1. A current **photo ID**; without it the sample cannot be collected.
+2. Your **employer's form or order**, if you were given one.
+3. A list of the **prescription medications** you take.
+
+## How the sample is collected
+
+- Your identity is verified and the sample is logged so it cannot be mixed up.
+- You give the urine sample in private, following staff instructions.
+- The container is sealed in front of you.
+
+## Tips to avoid a retest
+
+- **Do not drink large amounts of water** beforehand: a very diluted sample may be rejected.
+- Tell us about prescription medications, such as some for pain, anxiety or ADHD, which can test positive.
+- Arrive needing to urinate.
+
+## Tests under DOT rules
+
+If your employer requires a test under Department of Transportation rules, tell us when you call so we can confirm the procedure. It is separate from the [DOT physical](/en/services/examen-dot).
+
+We are at 2912 Mangum Rd, Suite A, in northwest Houston, open every day from 9 AM to 9 PM. No insurance needed; ask for the price before your visit. We accept cash, cards and Apple Pay.`,
   },
   {
     slug: "electrocardiograma",
@@ -1972,42 +2060,72 @@ ${AREAS_EN}`,
       "Useful for medical exams",
       "Results in Spanish",
     ],
-    longDescription: `El electrocardiograma (EKG) registra la actividad eléctrica de tu corazón en pocos minutos y sin ninguna molestia. En Clínica Hispana Mangum lo realizamos como parte de chequeos y exámenes médicos.
+    longDescription: `El electrocardiograma (EKG o ECG) registra la actividad eléctrica del corazón en pocos minutos. Es un estudio rápido, sin dolor y sin radiación, y muchas veces es el primer paso para revisar palpitaciones, mareos o un requisito médico antes de una cirugía o un deporte.
 
-## ¿Qué incluye?
+## ¿Para qué sirve?
 
-- Estudio del ritmo y la actividad del corazón
-- Interpretación por personal médico
-- Útil para exámenes de trabajo, deporte o cirugía
-- Resultados explicados en español
+- Detectar **alteraciones del ritmo**, como latidos rápidos, lentos o irregulares.
+- Buscar señales de un **infarto previo** o de falta de oxígeno en el corazón.
+- Ver si alguna cavidad del corazón está **agrandada**.
+- Cumplir requisitos de **exámenes preoperatorios, laborales o deportivos**.
 
-## Cuándo se recomienda
+## ¿Cómo es el estudio?
 
-Si tienes palpitaciones, presión alta, dolor en el pecho o necesitas un examen médico completo, el EKG aporta información valiosa sobre tu corazón.
+1. Te recuestas en la camilla.
+2. Se colocan **electrodos adhesivos** en el pecho, los brazos y las piernas.
+3. Te quedas quieto y respiras normal durante unos segundos mientras se registra.
+4. Se retiran los electrodos y el equipo médico revisa el trazo.
 
-${WHY_ES}
+Todo el proceso suele tomar alrededor de 10 minutos.
 
-${PAYMENT_ES}
+## ¿Cómo prepararme?
 
-${AREAS_ES}`,
-    longDescriptionEn: `The electrocardiogram (EKG) records your heart's electrical activity in just a few minutes with no discomfort. At Clínica Hispana Mangum we perform it as part of checkups and medical exams.
+- Usa **ropa de dos piezas** para descubrir el pecho con facilidad.
+- No te pongas **cremas ni aceites** en el pecho ese día.
+- Trae la lista de tus medicamentos.
 
-## What's included?
+## Lo que el electrocardiograma no muestra
 
-- Study of your heart's rhythm and activity
-- Interpretation by medical staff
-- Useful for work, sports or surgery exams
-- Results explained in Spanish
+Un EKG normal no descarta todos los problemas del corazón; solo registra lo que pasa en ese momento. Si los síntomas van y vienen, puede hacer falta un monitoreo más largo o la referencia al cardiólogo.
 
-## When it's recommended
+## Dolor de pecho: no esperes
 
-If you have palpitations, high blood pressure, chest discomfort or need a complete medical exam, the EKG provides valuable information about your heart.
+Si tienes **dolor u opresión en el pecho, falta de aire, sudor frío o dolor que se va al brazo o la mandíbula**, llama al 911. No vengas manejando a la clínica.
 
-${WHY_EN}
+Estamos en 2912 Mangum Rd, Suite A, en el noroeste de Houston, abiertos todos los días de 9 AM a 9 PM. No necesitas seguro; pregunta el precio antes de tu visita. Aceptamos efectivo, tarjetas y Apple Pay.`,
+    longDescriptionEn: `An electrocardiogram (EKG or ECG) records the heart's electrical activity in a few minutes. It is a quick, painless test with no radiation, and it is often the first step to check palpitations, dizziness or a medical requirement before surgery or sports.
 
-${PAYMENT_EN}
+## What is it for?
 
-${AREAS_EN}`,
+- Detecting **rhythm problems**, such as fast, slow or irregular heartbeats.
+- Looking for signs of a **past heart attack** or lack of oxygen to the heart.
+- Seeing whether a heart chamber is **enlarged**.
+- Meeting requirements for **pre-surgery, work or sports exams**.
+
+## What is the test like?
+
+1. You lie down on the exam table.
+2. **Adhesive electrodes** are placed on your chest, arms and legs.
+3. You stay still and breathe normally for a few seconds while it records.
+4. The electrodes are removed and the medical team reviews the tracing.
+
+The whole process usually takes about 10 minutes.
+
+## How do I prepare?
+
+- Wear **two-piece clothing** so your chest is easy to uncover.
+- Do not put **lotions or oils** on your chest that day.
+- Bring a list of your medications.
+
+## What the EKG does not show
+
+A normal EKG does not rule out every heart problem; it only records what happens at that moment. If symptoms come and go, longer monitoring or a cardiology referral may be needed.
+
+## Chest pain: do not wait
+
+If you have **chest pain or pressure, shortness of breath, cold sweats or pain spreading to your arm or jaw**, call 911. Do not drive yourself to the clinic.
+
+We are at 2912 Mangum Rd, Suite A, in northwest Houston, open every day from 9 AM to 9 PM. No insurance needed; ask for the price before your visit. We accept cash, cards and Apple Pay.`,
   },
   {
     slug: "ultrasonido",
