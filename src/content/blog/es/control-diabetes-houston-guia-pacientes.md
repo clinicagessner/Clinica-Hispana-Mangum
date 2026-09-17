@@ -1,8 +1,8 @@
 ---
 title: "Control de diabetes en Houston: guía para pacientes"
-description: "Aprende a controlar tu diabetes con una guía práctica en español: alimentación, monitoreo y seguimiento médico en Houston."
+description: "Vivir con diabetes: metas de A1C y presión, qué hacer ante una baja de azúcar, revisiones de pies, ojos y riñón, y cuándo ir a urgencias."
 date: "2026-02-10"
-dateModified: "2026-07-22"
+dateModified: "2026-09-17"
 author: "Equipo Clínica Hispana Mangum"
 category: "Diabetes"
 relatedServices:
@@ -17,33 +17,50 @@ keywords:
   - "guía diabetes pacientes"
 ---
 
-La diabetes es una de las condiciones más comunes en la comunidad hispana, pero con el control adecuado puedes llevar una vida plena y activa. Esta guía te explica lo esencial en palabras simples.
+Recibir el diagnóstico de diabetes asusta, pero con buen control se puede vivir muchos años sin complicaciones. La clave está en conocer tus números, saber qué hacer en una emergencia y no faltar a las revisiones. Esta guía resume lo esencial en lenguaje sencillo.
 
-## Conoce tus números
+## ¿Qué números debo conocer?
 
-El primer paso es saber dónde estás. Tu médico te ayudará a entender:
+La Asociación Americana de la Diabetes (ADA) propone metas generales para muchos adultos. Tu equipo médico puede ajustarlas según tu edad y tu salud.
 
-- **Glucosa en ayunas:** tu nivel de azúcar al despertar.
-- **Hemoglobina A1c:** tu promedio de azúcar en los últimos 3 meses.
-- **Presión arterial y colesterol:** muchas veces van de la mano con la diabetes.
+| Medición | Meta general |
+|---|---|
+| Hemoglobina A1C | Menos de 7 % |
+| Glucosa antes de comer | 80 a 130 mg/dL |
+| Glucosa 1 a 2 horas después de comer | Menos de 180 mg/dL |
+| Presión arterial | Menos de 130/80 |
 
-## La alimentación es tu medicina
+## ¿Qué hago si el azúcar baja demasiado?
 
-No se trata de dejar de comer lo que te gusta, sino de equilibrar. Algunos consejos:
+Si tu glucosa está por debajo de **70 mg/dL** o sientes temblor, sudor frío, mareo o confusión, usa la **regla 15-15**:
 
-1. Reduce las bebidas azucaradas y los refrescos.
-2. Prefiere porciones moderadas de tortilla, arroz y pan.
-3. Llena la mitad de tu plato con verduras.
-4. Toma agua en lugar de jugos.
+1. Come o bebe **15 gramos de azúcar rápida**: medio vaso de jugo o de refresco normal, o 3 a 4 tabletas de glucosa.
+2. Espera **15 minutos** y vuelve a medir.
+3. Si sigue bajo 70, repite. Cuando suba, come algo con proteína si falta mucho para tu próxima comida.
 
-## Muévete cada día
+Si la persona no puede tragar o pierde el conocimiento, llama al **911**.
 
-Una caminata de 30 minutos al día ayuda a bajar el azúcar y a sentirte mejor. No necesitas un gimnasio: camina, baila o sube escaleras.
+## ¿Y si el azúcar está muy alta?
 
-## El seguimiento marca la diferencia
+Mucha sed, orinar seguido, visión borrosa y cansancio son señales de azúcar alta. Ve a urgencias si además hay **vómito, dolor de estómago, respiración rápida o aliento con olor a fruta**, porque puede tratarse de una complicación grave.
 
-La diabetes mal controlada puede dañar los riñones, la vista y el corazón. Por eso el seguimiento regular con tu médico es clave para ajustar el tratamiento a tiempo.
+## Revisiones que no debes saltarte
 
-## Cuenta con nosotros
+- **A1C:** cada 3 meses si no estás en meta; cada 6 si está estable.
+- **Pies:** revísalos tú todos los días y que el equipo médico los examine en cada consulta.
+- **Ojos:** examen de retina una vez al año.
+- **Riñones:** análisis de orina y de sangre al menos una vez al año.
+- **Colesterol:** perfil de lípidos según indicación.
 
-En Clínica Hispana Mangum tenemos un programa de control de diabetes en español, con laboratorio el mismo día y un plan personalizado. Llámanos al **(832) 834-5507** y toma el control de tu salud.
+## Hábitos que ayudan
+
+- Usa el **método del plato**: la mitad con verduras, un cuarto con proteína y un cuarto con carbohidratos.
+- Camina **30 minutos** la mayoría de los días.
+- Cambia refrescos y jugos por agua.
+- Toma tus medicamentos a la misma hora y no los suspendas sin consultar.
+
+## Control de diabetes en Clínica Hispana Mangum
+
+Damos seguimiento a [diabetes, presión alta y colesterol](/services/condiciones-cronicas) con [análisis de sangre](/services/examenes-sangre) y [exámenes de orina](/services/infecciones-urinarias), sin cita y en español. Estamos en 2912 Mangum Rd, Suite A, todos los días de 9 AM a 9 PM. Llama al **(832) 834-5507**.
+
+**Fuentes:** [ADA: Metas de glucosa](https://diabetes.org/living-with-diabetes/treatment-care/checking-your-blood-sugar) · [ADA: Hipoglucemia](https://diabetes.org/living-with-diabetes/hypoglycemia-low-blood-glucose) · [CDC: Cuidado de la diabetes](https://www.cdc.gov/diabetes/es/index.html)

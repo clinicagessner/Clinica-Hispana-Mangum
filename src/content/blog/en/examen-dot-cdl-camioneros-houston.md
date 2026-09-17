@@ -1,8 +1,8 @@
 ---
 title: "DOT exam for CDL truck drivers in Houston"
-description: "Everything about the DOT physical exam for your CDL license in Houston: what it includes, what to bring and how to get your certificate the same day."
+description: "How to prepare for your DOT physical and avoid a short certificate: blood pressure, blood sugar, sleep, medications and paperwork in Houston."
 date: "2026-02-22"
-dateModified: "2026-07-22"
+dateModified: "2026-09-17"
 author: "Clínica Hispana Mangum Team"
 category: "Exams"
 relatedServices:
@@ -17,33 +17,42 @@ keywords:
   - "dot exam houston"
 ---
 
-If you drive commercial vehicles, the DOT physical exam is a requirement you can't skip. Here we explain everything you need to know to get it done fast and hassle-free.
+For a truck driver, the DOT medical certificate matters as much as the license: without it you cannot drive. Many drivers pass without trouble, but others leave with a one-year or even three-month certificate because of something they could have prepared for. This guide helps you arrive ready.
 
-## What is the DOT exam?
+## Who needs a DOT physical?
 
-The DOT (Department of Transportation) physical exam confirms you're healthy enough to drive trucks and commercial vehicles safely. It's required to **obtain or renew your CDL license**.
+Drivers of commercial vehicles on interstate routes, for example trucks over 10,001 pounds, hazardous materials vehicles or passenger transport. The certificate is renewed at most every **24 months**, and your CDL can lose validity if it expires.
 
-## What does it include?
+## What usually shortens the certificate?
 
-- Vision and hearing screening
-- Blood-pressure check
-- General physical exam
-- Review of your medical history and medications
-- DOT medical certificate
+- **High blood pressure.** At 140/90 or higher a one-year certificate is common. With higher readings it may be only temporary until it is controlled.
+- **Uncontrolled diabetes.** If you use insulin, you need form MCSA-5870 from whoever treats your diabetes, signed within the previous 45 days.
+- **Heart problems or sleep apnea** without a recent specialist report.
+- **Medications** that cause drowsiness or that you did not list in your history.
 
-## What should I bring?
+## Two weeks before: how to prepare
 
-To speed up your visit, bring:
+1. **Check your blood pressure** several times. If it is high, get care before the exam date.
+2. **Take your medications** as usual; do not stop them to "look better".
+3. **Request reports** from your cardiologist, pulmonologist or endocrinologist if you have a managed condition.
+4. **Check your glasses or hearing aid** and bring them.
 
-1. Your photo ID.
-2. Glasses or hearing aids if you use them.
-3. A list of the medications you take.
-4. If you have diabetes or high blood pressure, recent control data.
+## On exam day
 
-## How long does it take?
+- Arrive rested and without a lot of coffee or energy drinks, which raise blood pressure.
+- Bring your license, a list of medications with doses and your reports.
+- Fill out the medical history honestly: leaving out a condition can cause bigger problems later.
 
-The exam is quick. In most cases you leave the **same day with your certificate** ready to process or renew your license.
+## What if the result is not what you expected?
 
-## Do it with us
+It does not always mean losing your job. Sometimes controlling your blood pressure and coming back is enough, or bringing a missing report. The clinic's medical team explains what you need to complete the process.
 
-At Clínica Hispana Mangum we perform your DOT exam in Spanish, quickly and with a same-day certificate. Call us at **(832) 834-5507** or walk in.
+## The physical and the drug test are not the same
+
+The physical checks your health. The DOT drug test is separate, and its results are reported to the federal Clearinghouse database according to the rules that apply to your employer. If you need both, ask about both when you call.
+
+## Walk-in DOT exam in northwest Houston
+
+See our [DOT physical](/en/services/examen-dot) and [alcohol and drug testing](/en/services/examen-alcohol-drogas). If you want to check your blood pressure or heart first, we also do [electrocardiograms](/en/services/electrocardiograma). We are at 2912 Mangum Rd, Suite A, open every day from 9 AM to 9 PM; call **(832) 834-5507**.
+
+**Sources:** [FMCSA: driver medical requirements](https://www.fmcsa.dot.gov/medical/driver-medical-requirements/driver-medical-fitness-duty) · [FMCSA: form MCSA-5870](https://www.fmcsa.dot.gov/regulations/medical/assessment-insulin-treated-diabetes-mellitus-form-mcsa-5870) · [FMCSA Clearinghouse](https://clearinghouse.fmcsa.dot.gov/)

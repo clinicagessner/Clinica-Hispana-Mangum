@@ -1,8 +1,8 @@
 ---
 title: "Diabetes management in Houston: a patient guide"
-description: "Learn to manage your diabetes with a practical guide: nutrition, monitoring and medical follow-up in Houston."
+description: "Living with diabetes: A1C and blood pressure goals, what to do for low blood sugar, foot, eye and kidney checks, and when to seek urgent care."
 date: "2026-02-10"
-dateModified: "2026-07-22"
+dateModified: "2026-09-17"
 author: "Clínica Hispana Mangum Team"
 category: "Diabetes"
 relatedServices:
@@ -17,33 +17,50 @@ keywords:
   - "diabetes patient guide"
 ---
 
-Diabetes is one of the most common conditions in the Hispanic community, but with the right management you can live a full, active life. This guide explains the essentials in simple terms.
+A diabetes diagnosis is frightening, but with good control you can live many years without complications. The key is knowing your numbers, knowing what to do in an emergency and keeping up with checkups. This guide covers the essentials in plain language.
 
-## Know your numbers
+## Which numbers should I know?
 
-The first step is knowing where you stand. Your doctor will help you understand:
+The American Diabetes Association (ADA) sets general goals for many adults. Your medical team may adjust them for your age and health.
 
-- **Fasting glucose:** your sugar level when you wake up.
-- **Hemoglobin A1c:** your average sugar over the last 3 months.
-- **Blood pressure and cholesterol:** these often go hand in hand with diabetes.
+| Measurement | General goal |
+|---|---|
+| Hemoglobin A1C | Below 7% |
+| Glucose before meals | 80 to 130 mg/dL |
+| Glucose 1 to 2 hours after meals | Below 180 mg/dL |
+| Blood pressure | Below 130/80 |
 
-## Food is your medicine
+## What do I do if my blood sugar drops too low?
 
-It's not about giving up what you love, but about balance. Some tips:
+If your glucose is below **70 mg/dL** or you feel shaky, sweaty, dizzy or confused, use the **15-15 rule**:
 
-1. Cut back on sugary drinks and sodas.
-2. Choose moderate portions of tortilla, rice and bread.
-3. Fill half your plate with vegetables.
-4. Drink water instead of juice.
+1. Eat or drink **15 grams of fast sugar**: half a glass of juice or regular soda, or 3 to 4 glucose tablets.
+2. Wait **15 minutes** and check again.
+3. If it is still below 70, repeat. Once it rises, eat something with protein if your next meal is a while away.
 
-## Move every day
+If the person cannot swallow or passes out, call **911**.
 
-A 30-minute walk a day helps lower your sugar and makes you feel better. You don't need a gym: walk, dance or take the stairs.
+## What if my blood sugar is very high?
 
-## Follow-up makes the difference
+Extreme thirst, frequent urination, blurry vision and fatigue are signs of high blood sugar. Go to the emergency room if there is also **vomiting, stomach pain, fast breathing or fruity-smelling breath**, because it can be a serious complication.
 
-Poorly managed diabetes can damage the kidneys, eyesight and heart. That's why regular follow-up with your doctor is key to adjusting treatment in time.
+## Checkups you should not skip
 
-## Count on us
+- **A1C:** every 3 months if you are not at goal; every 6 if stable.
+- **Feet:** check them yourself every day and have the medical team examine them at each visit.
+- **Eyes:** a retinal exam once a year.
+- **Kidneys:** urine and blood tests at least once a year.
+- **Cholesterol:** a lipid panel as recommended.
 
-At Clínica Hispana Mangum we have a diabetes management program in Spanish, with same-day lab work and a personalized plan. Call us at **(832) 834-5507** and take control of your health.
+## Habits that help
+
+- Use the **plate method**: half vegetables, a quarter protein and a quarter carbohydrates.
+- Walk **30 minutes** most days.
+- Swap soda and juice for water.
+- Take your medications at the same time and do not stop them without asking.
+
+## Diabetes care at Clínica Hispana Mangum
+
+We follow up on [diabetes, high blood pressure and cholesterol](/en/services/condiciones-cronicas) with [blood tests](/en/services/examenes-sangre) and [urine tests](/en/services/infecciones-urinarias), no appointment needed. We are at 2912 Mangum Rd, Suite A, every day from 9 AM to 9 PM. Call **(832) 834-5507**.
+
+**Sources:** [ADA: Blood glucose targets](https://diabetes.org/living-with-diabetes/treatment-care/checking-your-blood-sugar) · [ADA: Hypoglycemia](https://diabetes.org/living-with-diabetes/hypoglycemia-low-blood-glucose) · [CDC: Diabetes care](https://www.cdc.gov/diabetes/index.html)
