@@ -6,27 +6,14 @@ poner `✅ PEDIDA dd/mm/aaaa` en su encabezado. Límite: 10 peticiones al día p
 Propiedad: `https://www.clinicahispanamangum.com/`, cuenta **clinicahispanamangum@gmail.com**.
 
 <!-- tandas:auto -->
-**Estado (actualizado 2026-10-05; URL Inspection API, datos de hoy 2026-10-05):** 82 de 90 URLs del sitemap indexadas · 8 sin indexar (4 desconocida · 4 descubierta sin indexar).
+**Estado (actualizado 2026-10-06; URL Inspection API, datos ANTIGUOS del 2026-10-05: antiguos (2026-10-05): --sin-fetch):** 82 de 90 URLs del sitemap indexadas · 8 sin indexar (4 desconocida · 4 descubierta sin indexar).
 
-**Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 62 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 0 no indexadas no pedidas en los últimos 14 días.
+**Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 52 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 0 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
 8 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-10-09).
 <!-- /tandas:auto -->
 
-## Tanda 2  ✅ PEDIDA 05/10/2026
-
-- [x] https://www.clinicahispanamangum.com/walk-in  — cambiada 2026-09-17 · rastreada 2026-08-28 · indexada · 971 impr.
-- [x] https://www.clinicahispanamangum.com/services/examen-fisico-escolar  — cambiada 2026-09-17 · rastreada 2026-09-05 · indexada · 387 impr.
-- [x] https://www.clinicahispanamangum.com/promociones  — cambiada 2026-09-17 · rastreada 2026-09-11 · indexada · 163 impr.
-- [x] https://www.clinicahispanamangum.com/blog/atencion-medica-sin-seguro-houston  — cambiada 2026-09-17 · rastreada 2026-08-03 · indexada · 123 impr.
-- [x] https://www.clinicahispanamangum.com/services/ultrasonido  — cambiada 2026-09-17 · rastreada 2026-07-28 · indexada · 78 impr.
-- [x] https://www.clinicahispanamangum.com/services/extraccion-implantes  — cambiada 2026-09-17 · rastreada 2026-07-12 · indexada · 70 impr.
-- [x] https://www.clinicahispanamangum.com/blog/ginecologos-hispanos-houston-hablan-espanol  — cambiada 2026-09-17 · rastreada 2026-07-04 · indexada · 41 impr.
-- [x] https://www.clinicahispanamangum.com/services/enfermedades-respiratorias  — cambiada 2026-09-17 · rastreada 2026-09-11 · indexada · 36 impr.
-- [x] https://www.clinicahispanamangum.com/services/infecciones-urinarias  — cambiada 2026-09-17 · rastreada 2026-08-31 · indexada · 28 impr.
-- [x] https://www.clinicahispanamangum.com/services/condiciones-cronicas  — cambiada 2026-09-17 · rastreada 2026-09-11 · indexada · 27 impr.
-
-## Tanda 3
+## Tanda 3  📨 ENVIADA 06/10/2026
 
 - [ ] https://www.clinicahispanamangum.com/blog/bienvenidos-clinica-hispana-mangum  — cambiada 2026-09-17 · rastreada 2026-07-03 · indexada · 24 impr.
 - [ ] https://www.clinicahispanamangum.com/services/examen-dot  — cambiada 2026-09-17 · rastreada 2026-07-05 · indexada · 24 impr.
@@ -109,3 +96,16 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [x] https://www.clinicahispanamangum.com/en/services/examen-heces  — descubierta sin indexar · 0 impr.
 - [x] https://www.clinicahispanamangum.com/en/services/sueros-vitaminados  — descubierta sin indexar · 0 impr.
 - [x] https://www.clinicahispanamangum.com/en/services/tiroides  — descubierta sin indexar · 0 impr.
+
+## Tanda 2  ✅ PEDIDA 05/10/2026
+
+- [x] https://www.clinicahispanamangum.com/walk-in  — cambiada 2026-09-17 · rastreada 2026-08-28 · indexada · 971 impr.
+- [x] https://www.clinicahispanamangum.com/services/examen-fisico-escolar  — cambiada 2026-09-17 · rastreada 2026-09-05 · indexada · 387 impr.
+- [x] https://www.clinicahispanamangum.com/promociones  — cambiada 2026-09-17 · rastreada 2026-09-11 · indexada · 163 impr.
+- [x] https://www.clinicahispanamangum.com/blog/atencion-medica-sin-seguro-houston  — cambiada 2026-09-17 · rastreada 2026-08-03 · indexada · 123 impr.
+- [x] https://www.clinicahispanamangum.com/services/ultrasonido  — cambiada 2026-09-17 · rastreada 2026-07-28 · indexada · 78 impr.
+- [x] https://www.clinicahispanamangum.com/services/extraccion-implantes  — cambiada 2026-09-17 · rastreada 2026-07-12 · indexada · 70 impr.
+- [x] https://www.clinicahispanamangum.com/blog/ginecologos-hispanos-houston-hablan-espanol  — cambiada 2026-09-17 · rastreada 2026-07-04 · indexada · 41 impr.
+- [x] https://www.clinicahispanamangum.com/services/enfermedades-respiratorias  — cambiada 2026-09-17 · rastreada 2026-09-11 · indexada · 36 impr.
+- [x] https://www.clinicahispanamangum.com/services/infecciones-urinarias  — cambiada 2026-09-17 · rastreada 2026-08-31 · indexada · 28 impr.
+- [x] https://www.clinicahispanamangum.com/services/condiciones-cronicas  — cambiada 2026-09-17 · rastreada 2026-09-11 · indexada · 27 impr.
