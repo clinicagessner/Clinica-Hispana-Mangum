@@ -13,18 +13,18 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 8 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-10-09).
 <!-- /tandas:auto -->
 
-## Tanda 2 — 📨 ENVIADA 05/10/2026
+## Tanda 2  ✅ PEDIDA 05/10/2026
 
-- [ ] https://www.clinicahispanamangum.com/walk-in  — cambiada 2026-09-17 · rastreada 2026-08-28 · indexada · 971 impr.
-- [ ] https://www.clinicahispanamangum.com/services/examen-fisico-escolar  — cambiada 2026-09-17 · rastreada 2026-09-05 · indexada · 387 impr.
-- [ ] https://www.clinicahispanamangum.com/promociones  — cambiada 2026-09-17 · rastreada 2026-09-11 · indexada · 163 impr.
-- [ ] https://www.clinicahispanamangum.com/blog/atencion-medica-sin-seguro-houston  — cambiada 2026-09-17 · rastreada 2026-08-03 · indexada · 123 impr.
-- [ ] https://www.clinicahispanamangum.com/services/ultrasonido  — cambiada 2026-09-17 · rastreada 2026-07-28 · indexada · 78 impr.
-- [ ] https://www.clinicahispanamangum.com/services/extraccion-implantes  — cambiada 2026-09-17 · rastreada 2026-07-12 · indexada · 70 impr.
-- [ ] https://www.clinicahispanamangum.com/blog/ginecologos-hispanos-houston-hablan-espanol  — cambiada 2026-09-17 · rastreada 2026-07-04 · indexada · 41 impr.
-- [ ] https://www.clinicahispanamangum.com/services/enfermedades-respiratorias  — cambiada 2026-09-17 · rastreada 2026-09-11 · indexada · 36 impr.
-- [ ] https://www.clinicahispanamangum.com/services/infecciones-urinarias  — cambiada 2026-09-17 · rastreada 2026-08-31 · indexada · 28 impr.
-- [ ] https://www.clinicahispanamangum.com/services/condiciones-cronicas  — cambiada 2026-09-17 · rastreada 2026-09-11 · indexada · 27 impr.
+- [x] https://www.clinicahispanamangum.com/walk-in  — cambiada 2026-09-17 · rastreada 2026-08-28 · indexada · 971 impr.
+- [x] https://www.clinicahispanamangum.com/services/examen-fisico-escolar  — cambiada 2026-09-17 · rastreada 2026-09-05 · indexada · 387 impr.
+- [x] https://www.clinicahispanamangum.com/promociones  — cambiada 2026-09-17 · rastreada 2026-09-11 · indexada · 163 impr.
+- [x] https://www.clinicahispanamangum.com/blog/atencion-medica-sin-seguro-houston  — cambiada 2026-09-17 · rastreada 2026-08-03 · indexada · 123 impr.
+- [x] https://www.clinicahispanamangum.com/services/ultrasonido  — cambiada 2026-09-17 · rastreada 2026-07-28 · indexada · 78 impr.
+- [x] https://www.clinicahispanamangum.com/services/extraccion-implantes  — cambiada 2026-09-17 · rastreada 2026-07-12 · indexada · 70 impr.
+- [x] https://www.clinicahispanamangum.com/blog/ginecologos-hispanos-houston-hablan-espanol  — cambiada 2026-09-17 · rastreada 2026-07-04 · indexada · 41 impr.
+- [x] https://www.clinicahispanamangum.com/services/enfermedades-respiratorias  — cambiada 2026-09-17 · rastreada 2026-09-11 · indexada · 36 impr.
+- [x] https://www.clinicahispanamangum.com/services/infecciones-urinarias  — cambiada 2026-09-17 · rastreada 2026-08-31 · indexada · 28 impr.
+- [x] https://www.clinicahispanamangum.com/services/condiciones-cronicas  — cambiada 2026-09-17 · rastreada 2026-09-11 · indexada · 27 impr.
 
 ## Tanda 3
 
