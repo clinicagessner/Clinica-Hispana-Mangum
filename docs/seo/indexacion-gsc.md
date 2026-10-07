@@ -13,18 +13,18 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 8 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-10-09).
 <!-- /tandas:auto -->
 
-## Tanda 3  📨 ENVIADA 06/10/2026
+## Tanda 3  ✅ PEDIDA 06/10/2026
 
-- [ ] https://www.clinicahispanamangum.com/blog/bienvenidos-clinica-hispana-mangum  — cambiada 2026-09-17 · rastreada 2026-07-03 · indexada · 24 impr.
-- [ ] https://www.clinicahispanamangum.com/services/examen-dot  — cambiada 2026-09-17 · rastreada 2026-07-05 · indexada · 24 impr.
-- [ ] https://www.clinicahispanamangum.com/services/alergias  — cambiada 2026-09-17 · rastreada 2026-09-14 · indexada · 22 impr.
-- [ ] https://www.clinicahispanamangum.com/services/examenes-sangre  — cambiada 2026-09-17 · rastreada 2026-06-23 · indexada · 16 impr.
-- [ ] https://www.clinicahispanamangum.com/services/electrocardiograma  — cambiada 2026-09-17 · rastreada 2026-07-02 · indexada · 14 impr.
-- [ ] https://www.clinicahispanamangum.com/blog/examen-dot-cdl-camioneros-houston  — cambiada 2026-09-17 · rastreada 2026-07-05 · indexada · 12 impr.
-- [ ] https://www.clinicahispanamangum.com/services/enfermedades-transmision-sexual  — cambiada 2026-09-17 · rastreada 2026-07-02 · indexada · 9 impr.
-- [ ] https://www.clinicahispanamangum.com/services/prueba-embarazo  — cambiada 2026-09-17 · rastreada 2026-08-25 · indexada · 4 impr.
-- [ ] https://www.clinicahispanamangum.com/services/suturas-heridas  — cambiada 2026-09-17 · rastreada 2026-08-27 · indexada · 3 impr.
-- [ ] https://www.clinicahispanamangum.com/blog/control-diabetes-houston-guia-pacientes  — cambiada 2026-09-17 · rastreada 2026-07-02 · indexada · 2 impr.
+- [x] https://www.clinicahispanamangum.com/blog/bienvenidos-clinica-hispana-mangum  — cambiada 2026-09-17 · rastreada 2026-07-03 · indexada · 24 impr.
+- [x] https://www.clinicahispanamangum.com/services/examen-dot  — cambiada 2026-09-17 · rastreada 2026-07-05 · indexada · 24 impr.
+- [x] https://www.clinicahispanamangum.com/services/alergias  — cambiada 2026-09-17 · rastreada 2026-09-14 · indexada · 22 impr.
+- [x] https://www.clinicahispanamangum.com/services/examenes-sangre  — cambiada 2026-09-17 · rastreada 2026-06-23 · indexada · 16 impr.
+- [x] https://www.clinicahispanamangum.com/services/electrocardiograma  — cambiada 2026-09-17 · rastreada 2026-07-02 · indexada · 14 impr.
+- [x] https://www.clinicahispanamangum.com/blog/examen-dot-cdl-camioneros-houston  — cambiada 2026-09-17 · rastreada 2026-07-05 · indexada · 12 impr.
+- [x] https://www.clinicahispanamangum.com/services/enfermedades-transmision-sexual  — cambiada 2026-09-17 · rastreada 2026-07-02 · indexada · 9 impr.
+- [x] https://www.clinicahispanamangum.com/services/prueba-embarazo  — cambiada 2026-09-17 · rastreada 2026-08-25 · indexada · 4 impr.
+- [x] https://www.clinicahispanamangum.com/services/suturas-heridas  — cambiada 2026-09-17 · rastreada 2026-08-27 · indexada · 3 impr.
+- [x] https://www.clinicahispanamangum.com/blog/control-diabetes-houston-guia-pacientes  — cambiada 2026-09-17 · rastreada 2026-07-02 · indexada · 2 impr.
 
 ## Tanda 4
 
