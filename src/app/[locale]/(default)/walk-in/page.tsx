@@ -150,7 +150,7 @@ export default async function WalkInPage({
       <section className="relative overflow-hidden bg-linear-to-br from-green-primary via-green-dark to-green-deep py-20 text-mint-bg lg:py-28">
         <div
           aria-hidden
-          className="pointer-events-none absolute -right-20 -top-16 h-96 w-96 rounded-full bg-gold-accent/15 blur-3xl"
+          className="pointer-events-none absolute -right-20 -top-16 h-96 w-96 rounded-full bg-radial from-gold-accent/15 to-transparent to-70%"
         />
         <div className="relative mx-auto max-w-4xl px-4 text-center sm:px-6 lg:px-8">
           <Reveal>

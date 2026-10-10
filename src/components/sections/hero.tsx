@@ -63,20 +63,20 @@ export async function Hero() {
         aria-hidden
         className="absolute inset-x-0 bottom-0 -z-10 h-2/3 bg-linear-to-t from-green-deep via-green-deep/60 to-transparent md:hidden"
       />
-      {/* Glows decorativos */}
+      {/* Glows decorativos: degradado radial en vez de blur (el blur se rasteriza lento en móvil) */}
       <div
         aria-hidden
-        className="pointer-events-none absolute -left-24 top-1/4 -z-10 h-72 w-72 rounded-full bg-gold-accent/20 blur-3xl"
+        className="pointer-events-none absolute -left-24 top-1/4 -z-10 h-72 w-72 rounded-full bg-radial from-gold-accent/20 to-transparent to-70%"
       />
       <div
         aria-hidden
-        className="pointer-events-none absolute -right-16 bottom-0 -z-10 h-72 w-72 rounded-full bg-red-accent/15 blur-3xl"
+        className="pointer-events-none absolute -right-16 bottom-0 -z-10 h-72 w-72 rounded-full bg-radial from-red-accent/15 to-transparent to-70%"
       />
       <div className="mx-auto w-full max-w-7xl px-4 py-24 sm:px-6 lg:px-8 lg:py-28">
         <div className="mx-auto max-w-xl text-center md:mx-0 md:text-left lg:max-w-3xl xl:max-w-4xl">
           {/* Badge de reseñas de Google */}
           <Reveal>
-            <span className="inline-flex items-center gap-2.5 rounded-full border border-white/20 bg-white/10 px-4 py-1.5 backdrop-blur">
+            <span className="inline-flex items-center gap-2.5 rounded-full border border-white/20 bg-white/10 px-4 py-1.5">
               <StarRating rating={place.averageRating} starClassName="h-4 w-4" />
               <span className="text-sm font-semibold text-white">
                 {t("reviewsBadge", { count: place.totalReviews })}

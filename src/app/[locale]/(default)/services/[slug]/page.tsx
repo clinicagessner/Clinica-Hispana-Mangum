@@ -137,7 +137,7 @@ export default async function ServiceDetailPage({
         ) : (
           <div
             aria-hidden
-            className="pointer-events-none absolute -left-16 top-1/3 h-72 w-72 rounded-full bg-green-primary/30 blur-3xl"
+            className="pointer-events-none absolute -left-16 top-1/3 h-72 w-72 rounded-full bg-radial from-green-primary/30 to-transparent to-70%"
           />
         )}
         <div className="relative mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
