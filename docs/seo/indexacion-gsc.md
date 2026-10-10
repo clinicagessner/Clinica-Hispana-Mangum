@@ -12,7 +12,7 @@ Propiedad: `https://www.clinicahispanamangum.com/`, cuenta **clinicahispanamangu
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
 <!-- /tandas:auto -->
 
-## Tanda 4  📨 ENVIADA 09/10/2026
+## Tanda 4  📨 ENVIADA 10/10/2026
 
 - [ ] https://www.clinicahispanamangum.com/services/examen-alcohol-drogas  — cambiada 2026-09-17 · rastreada 2026-08-27 · indexada · 2 impr.
 - [ ] https://www.clinicahispanamangum.com/services/examenes-inmigracion  — cambiada 2026-09-17 · rastreada 2026-07-02 · indexada · 1 impr.
