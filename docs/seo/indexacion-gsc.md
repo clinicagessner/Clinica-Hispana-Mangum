@@ -6,26 +6,13 @@ poner `✅ PEDIDA dd/mm/aaaa` en su encabezado. Límite: 10 peticiones al día p
 Propiedad: `https://www.clinicahispanamangum.com/`, cuenta **clinicahispanamangum@gmail.com**.
 
 <!-- tandas:auto -->
-**Estado (actualizado 2026-10-10; URL Inspection API, datos de hoy 2026-10-10):** 84 de 92 URLs del sitemap indexadas · 8 sin indexar (5 desconocida · 3 descubierta sin indexar).
+**Estado (actualizado 2026-10-11; URL Inspection API, datos ANTIGUOS del 2026-10-10: antiguos (2026-10-10): --sin-fetch):** 84 de 92 URLs del sitemap indexadas · 8 sin indexar (5 desconocida · 3 descubierta sin indexar).
 
 **Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 31 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 8 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
 <!-- /tandas:auto -->
 
-## Tanda 4  ✅ PEDIDA 11/10/2026
-
-- [x] https://www.clinicahispanamangum.com/services/examen-alcohol-drogas  — cambiada 2026-09-17 · rastreada 2026-08-27 · indexada · 2 impr.
-- [x] https://www.clinicahispanamangum.com/services/examenes-inmigracion  — cambiada 2026-09-17 · rastreada 2026-07-02 · indexada · 1 impr.
-- [x] https://www.clinicahispanamangum.com/services/farmacia  — cambiada 2026-09-17 · rastreada 2026-07-02 · indexada · 1 impr.
-- [x] https://www.clinicahispanamangum.com/blog/guia-examen-medico-inmigracion-i693-houston  — cambiada 2026-09-17 · rastreada 2026-07-04 · indexada · 0 impr.
-- [x] https://www.clinicahispanamangum.com/services/cirugias-menores  — cambiada 2026-09-17 · rastreada 2026-08-26 · indexada · 0 impr.
-- [x] https://www.clinicahispanamangum.com/services/curacion-heridas  — cambiada 2026-09-17 · rastreada 2026-08-22 · indexada · 0 impr.
-- [x] https://www.clinicahispanamangum.com/services/prueba-tuberculosis  — cambiada 2026-09-17 · rastreada 2026-08-26 · indexada · 0 impr.
-- [x] https://www.clinicahispanamangum.com/services/unas-encarnadas  — cambiada 2026-09-17 · rastreada 2026-08-20 · indexada · 0 impr.
-- [x] https://www.clinicahispanamangum.com/en/walk-in  — cambiada 2026-09-17 · rastreada 2026-08-28 · indexada · 339 impr.
-- [x] https://www.clinicahispanamangum.com/en/services/examenes-inmigracion  — cambiada 2026-09-17 · rastreada 2026-07-02 · indexada · 101 impr.
-
-## Tanda 9 — cambios del 2026-10-10 (análisis diario: etiquetas diferidas (toda la web) y farmacia sin surtido de recetas)
+## Tanda 9 — cambios del 2026-10-10 (análisis diario: etiquetas diferidas (toda la web) y farmacia sin surtido de recetas)  📨 ENVIADA 11/10/2026
 
 - [ ] https://www.clinicahispanamangum.com/  — cambiada 2026-10-10
 - [ ] https://www.clinicahispanamangum.com/en  — cambiada 2026-10-10
@@ -121,3 +108,16 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [x] https://www.clinicahispanamangum.com/services/prueba-embarazo  — cambiada 2026-09-17 · rastreada 2026-08-25 · indexada · 4 impr.
 - [x] https://www.clinicahispanamangum.com/services/suturas-heridas  — cambiada 2026-09-17 · rastreada 2026-08-27 · indexada · 3 impr.
 - [x] https://www.clinicahispanamangum.com/blog/control-diabetes-houston-guia-pacientes  — cambiada 2026-09-17 · rastreada 2026-07-02 · indexada · 2 impr.
+
+## Tanda 4  ✅ PEDIDA 11/10/2026
+
+- [x] https://www.clinicahispanamangum.com/services/examen-alcohol-drogas  — cambiada 2026-09-17 · rastreada 2026-08-27 · indexada · 2 impr.
+- [x] https://www.clinicahispanamangum.com/services/examenes-inmigracion  — cambiada 2026-09-17 · rastreada 2026-07-02 · indexada · 1 impr.
+- [x] https://www.clinicahispanamangum.com/services/farmacia  — cambiada 2026-09-17 · rastreada 2026-07-02 · indexada · 1 impr.
+- [x] https://www.clinicahispanamangum.com/blog/guia-examen-medico-inmigracion-i693-houston  — cambiada 2026-09-17 · rastreada 2026-07-04 · indexada · 0 impr.
+- [x] https://www.clinicahispanamangum.com/services/cirugias-menores  — cambiada 2026-09-17 · rastreada 2026-08-26 · indexada · 0 impr.
+- [x] https://www.clinicahispanamangum.com/services/curacion-heridas  — cambiada 2026-09-17 · rastreada 2026-08-22 · indexada · 0 impr.
+- [x] https://www.clinicahispanamangum.com/services/prueba-tuberculosis  — cambiada 2026-09-17 · rastreada 2026-08-26 · indexada · 0 impr.
+- [x] https://www.clinicahispanamangum.com/services/unas-encarnadas  — cambiada 2026-09-17 · rastreada 2026-08-20 · indexada · 0 impr.
+- [x] https://www.clinicahispanamangum.com/en/walk-in  — cambiada 2026-09-17 · rastreada 2026-08-28 · indexada · 339 impr.
+- [x] https://www.clinicahispanamangum.com/en/services/examenes-inmigracion  — cambiada 2026-09-17 · rastreada 2026-07-02 · indexada · 101 impr.
