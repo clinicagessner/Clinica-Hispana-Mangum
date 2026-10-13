@@ -12,11 +12,11 @@ Propiedad: `https://www.clinicahispanamangum.com/`, cuenta **clinicahispanamangu
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
 <!-- /tandas:auto -->
 
-## Tanda 9 — cambios del 2026-10-10 (análisis diario: etiquetas diferidas (toda la web) y farmacia sin surtido de recetas)  📨 ENVIADA 13/10/2026
+## Tanda 9 — cambios del 2026-10-10 (análisis diario: etiquetas diferidas (toda la web) y farmacia sin surtido de recetas)  ✅ PEDIDA 13/10/2026
 
-- [ ] https://www.clinicahispanamangum.com/  — cambiada 2026-10-10
-- [ ] https://www.clinicahispanamangum.com/en  — cambiada 2026-10-10
-- [ ] https://www.clinicahispanamangum.com/en/services/farmacia  — cambiada 2026-10-10
+- [x] https://www.clinicahispanamangum.com/  — cambiada 2026-10-10
+- [x] https://www.clinicahispanamangum.com/en  — cambiada 2026-10-10
+- [x] https://www.clinicahispanamangum.com/en/services/farmacia  — cambiada 2026-10-10
 
 ## Tanda 10
 
