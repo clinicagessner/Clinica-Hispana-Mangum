@@ -567,10 +567,16 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
   ],
   "farmacia": [
     {
-      question: "¿Puedo llevarme mis medicamentos al terminar la consulta?",
-      answer: "Sí. Tenemos farmacia dentro de la clínica con los medicamentos que el equipo médico indica con más frecuencia y opciones de venta libre.",
-      questionEn: "Can I get my medications right after my visit?",
-      answerEn: "Yes. We have a pharmacy inside the clinic with the medications the medical team most often prescribes and over-the-counter options.",
+      question: "¿Puedo comprar mis medicamentos al terminar la consulta?",
+      answer: "Sí. Tenemos farmacia en la clínica: al salir del consultorio compras aquí mismo los medicamentos que te recetó nuestro médico.",
+      questionEn: "Can I buy my medications right after my visit?",
+      answerEn: "Yes. We have an on-site pharmacy: when you leave the exam room you buy the medicines our doctor prescribed right here.",
+    },
+    {
+      question: "¿Venden medicamentos con la receta de otro médico?",
+      answer: "No. La farmacia solo vende lo que receta el médico de la clínica en tu consulta; no atiende recetas de otros médicos.",
+      questionEn: "Do you sell medications on another doctor's prescription?",
+      answerEn: "No. The pharmacy only sells what the clinic's doctor prescribes during your visit; it does not take prescriptions from other doctors.",
     },
     {
       question: "¿Los genéricos funcionan igual que los de marca?",
