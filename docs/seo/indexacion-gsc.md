@@ -17,6 +17,11 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.clinicahispanamangum.com/  — cambiada 2026-10-13
 - [ ] https://www.clinicahispanamangum.com/en  — cambiada 2026-10-13
 
+## Tanda 19 — cambios del 2026-10-15 (farmacia en la clínica)
+
+- [ ] https://www.clinicahispanamangum.com/services/farmacia  — cambiada 2026-10-15
+- [ ] https://www.clinicahispanamangum.com/en/services/farmacia  — cambiada 2026-10-15
+
 ## Tanda 15
 
 - [ ] https://www.clinicahispanamangum.com/en/blog/medicos-autorizados-uscis-houston-civil-surgeon  — cambiada 2026-09-17 · rastreada 2026-07-02 · indexada · 96 impr.
