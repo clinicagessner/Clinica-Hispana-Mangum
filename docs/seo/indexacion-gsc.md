@@ -6,27 +6,27 @@ poner `✅ PEDIDA dd/mm/aaaa` en su encabezado. Límite: 10 peticiones al día p
 Propiedad: `https://www.clinicahispanamangum.com/`, cuenta **clinicahispanamangum@gmail.com**.
 
 <!-- tandas:auto -->
-**Estado (actualizado 2026-10-14; URL Inspection API, datos ANTIGUOS del 2026-10-12: antiguos (2026-10-12): --sin-fetch):** 84 de 92 URLs del sitemap indexadas · 8 sin indexar (6 desconocida · 2 descubierta sin indexar).
+**Estado (actualizado 2026-10-15; URL Inspection API, datos ANTIGUOS del 2026-10-12: antiguos (2026-10-12): --sin-fetch):** 84 de 92 URLs del sitemap indexadas · 8 sin indexar (6 desconocida · 2 descubierta sin indexar).
 
 **Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 30 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 8 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
 <!-- /tandas:auto -->
 
-## Tanda 14 — cambios del 2026-10-13 (consulta inicial gratis en la home)  📨 ENVIADA 14/10/2026
+## Tanda 14 — cambios del 2026-10-13 (consulta inicial gratis en la home)  📨 ENVIADA 15/10/2026
 
 - [ ] https://www.clinicahispanamangum.com/  — cambiada 2026-10-13
 - [ ] https://www.clinicahispanamangum.com/en  — cambiada 2026-10-13
+
+## Tanda 15
+
 - [ ] https://www.clinicahispanamangum.com/en/blog/medicos-autorizados-uscis-houston-civil-surgeon  — cambiada 2026-09-17 · rastreada 2026-07-02 · indexada · 96 impr.
 - [ ] https://www.clinicahispanamangum.com/en/blog/guia-examen-medico-inmigracion-i693-houston  — cambiada 2026-09-17 · rastreada 2026-07-02 · indexada · 51 impr.
 - [ ] https://www.clinicahispanamangum.com/en/blog/salud-hombre-houston-chequeos-preventivos  — cambiada 2026-09-17 · rastreada 2026-08-01 · indexada · 40 impr.
 - [ ] https://www.clinicahispanamangum.com/en/blog/atencion-medica-sin-seguro-houston  — cambiada 2026-09-17 · rastreada 2026-09-15 · indexada · 38 impr.
 - [ ] https://www.clinicahispanamangum.com/en/services/ginecologia  — cambiada 2026-09-17 · rastreada 2026-07-12 · indexada · 24 impr.
-- [ ] https://www.clinicahispanamangum.com/en/services/ginecologia  — cambiada 2026-09-17 · rastreada 2026-07-12 · indexada · 24 impr.
+- [ ] https://www.clinicahispanamangum.com/en/services  — cambiada 2026-09-17 · rastreada 2026-07-08 · indexada · 21 impr.
 - [ ] https://www.clinicahispanamangum.com/en/promociones  — cambiada 2026-09-17 · rastreada 2026-07-03 · indexada · 18 impr.
 - [ ] https://www.clinicahispanamangum.com/en/services/examen-fisico-escolar  — cambiada 2026-09-17 · rastreada 2026-08-01 · indexada · 16 impr.
-
-## Tanda 15
-
 - [ ] https://www.clinicahispanamangum.com/en/blog/examen-dot-cdl-camioneros-houston  — cambiada 2026-09-17 · rastreada 2026-07-02 · indexada · 11 impr.
 - [ ] https://www.clinicahispanamangum.com/en/blog/laboratorio-clinico-houston-analisis-sangre  — cambiada 2026-09-17 · rastreada 2026-07-02 · indexada · 9 impr.
 
