@@ -6,13 +6,13 @@ poner `✅ PEDIDA dd/mm/aaaa` en su encabezado. Límite: 10 peticiones al día p
 Propiedad: `https://www.clinicahispanamangum.com/`, cuenta **clinicahispanamangum@gmail.com**.
 
 <!-- tandas:auto -->
-**Estado (actualizado 2026-10-15; URL Inspection API, datos ANTIGUOS del 2026-10-12: antiguos (2026-10-12): --sin-fetch):** 84 de 92 URLs del sitemap indexadas · 8 sin indexar (6 desconocida · 2 descubierta sin indexar).
+**Estado (actualizado 2026-10-16; URL Inspection API, datos ANTIGUOS del 2026-10-12: antiguos (2026-10-12): --sin-fetch):** 84 de 94 URLs del sitemap indexadas · 10 sin indexar (6 desconocida · 2 descubierta sin indexar · 2 sin datos).
 
 **Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 30 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 8 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
 <!-- /tandas:auto -->
 
-## Tanda 19 — cambios del 2026-10-15 (farmacia en la clínica + post del blog semanal + home de la tanda 14)  📨 ENVIADA 15/10/2026
+## Tanda 19 — cambios del 2026-10-15 (farmacia en la clínica + post del blog semanal + home de la tanda 14)  📨 ENVIADA 16/10/2026
 
 - [ ] https://www.clinicahispanamangum.com/blog/antibiotico-infeccion-urinaria-terminar-tratamiento  — post nuevo 2026-10-15 (blog semanal)
 - [ ] https://www.clinicahispanamangum.com/en/blog/antibiotico-infeccion-urinaria-terminar-tratamiento  — post nuevo 2026-10-15 (blog semanal)
@@ -21,7 +21,7 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.clinicahispanamangum.com/  — cambiada 2026-10-13
 - [ ] https://www.clinicahispanamangum.com/en  — cambiada 2026-10-13
 
-## Tanda 15
+## Tanda 20
 
 - [ ] https://www.clinicahispanamangum.com/en/blog/medicos-autorizados-uscis-houston-civil-surgeon  — cambiada 2026-09-17 · rastreada 2026-07-02 · indexada · 96 impr.
 - [ ] https://www.clinicahispanamangum.com/en/blog/guia-examen-medico-inmigracion-i693-houston  — cambiada 2026-09-17 · rastreada 2026-07-02 · indexada · 51 impr.
@@ -34,7 +34,7 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.clinicahispanamangum.com/en/blog/examen-dot-cdl-camioneros-houston  — cambiada 2026-09-17 · rastreada 2026-07-02 · indexada · 11 impr.
 - [ ] https://www.clinicahispanamangum.com/en/blog/laboratorio-clinico-houston-analisis-sangre  — cambiada 2026-09-17 · rastreada 2026-07-02 · indexada · 9 impr.
 
-## Tanda 16
+## Tanda 21
 
 - [ ] https://www.clinicahispanamangum.com/en/services/salud-hombre  — cambiada 2026-09-17 · rastreada 2026-06-19 · indexada · 7 impr.
 - [ ] https://www.clinicahispanamangum.com/en/services/anticonceptivos  — cambiada 2026-09-17 · rastreada 2026-06-19 · indexada · 6 impr.
@@ -47,7 +47,7 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.clinicahispanamangum.com/en/services/extraccion-implantes  — cambiada 2026-09-17 · rastreada 2026-08-26 · indexada · 4 impr.
 - [ ] https://www.clinicahispanamangum.com/en/services/vacunas  — cambiada 2026-09-17 · rastreada 2026-06-19 · indexada · 3 impr.
 
-## Tanda 17
+## Tanda 22
 
 - [ ] https://www.clinicahispanamangum.com/en/blog/control-diabetes-houston-guia-pacientes  — cambiada 2026-09-17 · rastreada 2026-07-08 · indexada · 2 impr.
 - [ ] https://www.clinicahispanamangum.com/en/blog/salud-mujer-houston-servicios-ginecologia  — cambiada 2026-09-17 · rastreada 2026-07-08 · indexada · 1 impr.
@@ -60,7 +60,7 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.clinicahispanamangum.com/en/services/examenes-sangre  — cambiada 2026-09-17 · rastreada 2026-08-29 · indexada · 0 impr.
 - [ ] https://www.clinicahispanamangum.com/en/services/ultrasonido  — cambiada 2026-09-17 · rastreada 2026-07-06 · indexada · 0 impr.
 
-## Tanda 18
+## Tanda 23
 
 - [ ] https://www.clinicahispanamangum.com/services/anticonceptivos  — cambiada 2026-09-17 · descubierta sin indexar · pedida 2026-09-25 · 0 impr.
 - [ ] https://www.clinicahispanamangum.com/services/vacunas  — cambiada 2026-09-17 · desconocida · pedida 2026-09-25 · 0 impr.
