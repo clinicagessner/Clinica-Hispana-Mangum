@@ -12,14 +12,14 @@ Propiedad: `https://www.clinicahispanamangum.com/`, cuenta **clinicahispanamangu
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
 <!-- /tandas:auto -->
 
-## Tanda 19 — cambios del 2026-10-15 (farmacia en la clínica + post del blog semanal + home de la tanda 14)  📨 ENVIADA 16/10/2026
+## Tanda 19 — cambios del 2026-10-15 (farmacia en la clínica + post del blog semanal + home de la tanda 14)  ✅ PEDIDA 16/10/2026
 
-- [ ] https://www.clinicahispanamangum.com/blog/antibiotico-infeccion-urinaria-terminar-tratamiento  — post nuevo 2026-10-15 (blog semanal)
-- [ ] https://www.clinicahispanamangum.com/en/blog/antibiotico-infeccion-urinaria-terminar-tratamiento  — post nuevo 2026-10-15 (blog semanal)
-- [ ] https://www.clinicahispanamangum.com/services/farmacia  — cambiada 2026-10-15
-- [ ] https://www.clinicahispanamangum.com/en/services/farmacia  — cambiada 2026-10-15
-- [ ] https://www.clinicahispanamangum.com/  — cambiada 2026-10-13
-- [ ] https://www.clinicahispanamangum.com/en  — cambiada 2026-10-13
+- [x] https://www.clinicahispanamangum.com/blog/antibiotico-infeccion-urinaria-terminar-tratamiento  — post nuevo 2026-10-15 (blog semanal)
+- [x] https://www.clinicahispanamangum.com/en/blog/antibiotico-infeccion-urinaria-terminar-tratamiento  — post nuevo 2026-10-15 (blog semanal)
+- [x] https://www.clinicahispanamangum.com/services/farmacia  — cambiada 2026-10-15
+- [x] https://www.clinicahispanamangum.com/en/services/farmacia  — cambiada 2026-10-15
+- [x] https://www.clinicahispanamangum.com/  — cambiada 2026-10-13
+- [x] https://www.clinicahispanamangum.com/en  — cambiada 2026-10-13
 
 ## Tanda 20
 
