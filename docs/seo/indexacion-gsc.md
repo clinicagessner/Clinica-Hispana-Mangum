@@ -12,6 +12,11 @@ Propiedad: `https://www.clinicahispanamangum.com/`, cuenta **clinicahispanamangu
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
 <!-- /tandas:auto -->
 
+## Tanda 24 — cambios del 2026-10-22 (post del blog semanal)  📨 ENVIADA 22/10/2026
+
+- [ ] https://www.clinicahispanamangum.com/blog/quistes-ovarios-ovario-poliquistico-ultrasonido  — cambiada 2026-10-22
+- [ ] https://www.clinicahispanamangum.com/en/blog/quistes-ovarios-ovario-poliquistico-ultrasonido  — cambiada 2026-10-22
+
 ## Tanda 20
 
 - [ ] https://www.clinicahispanamangum.com/en/blog/medicos-autorizados-uscis-houston-civil-surgeon  — cambiada 2026-09-17 · rastreada 2026-07-02 · indexada · 96 impr.
