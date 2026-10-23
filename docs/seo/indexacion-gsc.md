@@ -6,18 +6,14 @@ poner `✅ PEDIDA dd/mm/aaaa` en su encabezado. Límite: 10 peticiones al día p
 Propiedad: `https://www.clinicahispanamangum.com/`, cuenta **clinicahispanamangum@gmail.com**.
 
 <!-- tandas:auto -->
-**Estado (actualizado 2026-10-22; URL Inspection API, datos ANTIGUOS del 2026-10-19: antiguos (2026-10-19): --sin-fetch):** 86 de 94 URLs del sitemap indexadas · 8 sin indexar (6 desconocida · 2 descubierta sin indexar).
+**Estado (actualizado 2026-10-23; URL Inspection API, datos ANTIGUOS del 2026-10-19: antiguos (2026-10-19): --sin-fetch):** 86 de 96 URLs del sitemap indexadas · 10 sin indexar (6 desconocida · 2 descubierta sin indexar · 2 sin datos).
 
 **Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 30 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 8 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
+2 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-05).
 <!-- /tandas:auto -->
 
-## Tanda 24 — cambios del 2026-10-22 (post del blog semanal)  ✅ PEDIDA 22/10/2026
-
-- [x] https://www.clinicahispanamangum.com/blog/quistes-ovarios-ovario-poliquistico-ultrasonido  — cambiada 2026-10-22
-- [x] https://www.clinicahispanamangum.com/en/blog/quistes-ovarios-ovario-poliquistico-ultrasonido  — cambiada 2026-10-22
-
-## Tanda 20
+## Tanda 25
 
 - [ ] https://www.clinicahispanamangum.com/en/blog/medicos-autorizados-uscis-houston-civil-surgeon  — cambiada 2026-09-17 · rastreada 2026-07-02 · indexada · 96 impr.
 - [ ] https://www.clinicahispanamangum.com/en/blog/guia-examen-medico-inmigracion-i693-houston  — cambiada 2026-09-17 · rastreada 2026-07-02 · indexada · 50 impr.
@@ -30,7 +26,7 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.clinicahispanamangum.com/en/blog/examen-dot-cdl-camioneros-houston  — cambiada 2026-09-17 · rastreada 2026-07-02 · indexada · 9 impr.
 - [ ] https://www.clinicahispanamangum.com/en/blog/laboratorio-clinico-houston-analisis-sangre  — cambiada 2026-09-17 · rastreada 2026-07-02 · indexada · 9 impr.
 
-## Tanda 21
+## Tanda 26
 
 - [ ] https://www.clinicahispanamangum.com/en/services/salud-hombre  — cambiada 2026-09-17 · rastreada 2026-06-19 · indexada · 8 impr.
 - [ ] https://www.clinicahispanamangum.com/en/services/extraccion-implantes  — cambiada 2026-09-17 · rastreada 2026-08-26 · indexada · 7 impr.
@@ -43,7 +39,7 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.clinicahispanamangum.com/en/blog/ginecologos-hispanos-houston-hablan-espanol  — cambiada 2026-09-17 · rastreada 2026-07-02 · indexada · 5 impr.
 - [ ] https://www.clinicahispanamangum.com/en/services/vacunas  — cambiada 2026-09-17 · rastreada 2026-06-19 · indexada · 3 impr.
 
-## Tanda 22
+## Tanda 27
 
 - [ ] https://www.clinicahispanamangum.com/en/blog/control-diabetes-houston-guia-pacientes  — cambiada 2026-09-17 · rastreada 2026-07-08 · indexada · 2 impr.
 - [ ] https://www.clinicahispanamangum.com/en/services/enfermedades-transmision-sexual  — cambiada 2026-09-17 · rastreada 2026-07-03 · indexada · 2 impr.
@@ -56,7 +52,7 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.clinicahispanamangum.com/en/services/condiciones-cronicas  — cambiada 2026-09-17 · rastreada 2026-07-05 · indexada · 0 impr.
 - [ ] https://www.clinicahispanamangum.com/en/services/enfermedades-respiratorias  — cambiada 2026-09-17 · rastreada 2026-07-10 · indexada · 0 impr.
 
-## Tanda 23
+## Tanda 28
 
 - [ ] https://www.clinicahispanamangum.com/services/anticonceptivos  — cambiada 2026-09-17 · desconocida · pedida 2026-09-25 · 0 impr.
 - [ ] https://www.clinicahispanamangum.com/services/vacunas  — cambiada 2026-09-17 · desconocida · pedida 2026-09-25 · 0 impr.
@@ -134,3 +130,8 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [x] https://www.clinicahispanamangum.com/en/services/farmacia  — cambiada 2026-10-15
 - [x] https://www.clinicahispanamangum.com/  — cambiada 2026-10-13
 - [x] https://www.clinicahispanamangum.com/en  — cambiada 2026-10-13
+
+## Tanda 24 — cambios del 2026-10-22 (post del blog semanal)  ✅ PEDIDA 22/10/2026
+
+- [x] https://www.clinicahispanamangum.com/blog/quistes-ovarios-ovario-poliquistico-ultrasonido  — cambiada 2026-10-22
+- [x] https://www.clinicahispanamangum.com/en/blog/quistes-ovarios-ovario-poliquistico-ultrasonido  — cambiada 2026-10-22
