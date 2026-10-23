@@ -148,9 +148,9 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
   "anticonceptivos": [
     {
       question: "¿Qué métodos anticonceptivos ofrecen?",
-      answer: "En la clínica ofrecemos pastillas e inyección anticonceptiva, y orientación sobre el implante y el DIU con referencia si eliges uno de ellos.",
+      answer: "En la clínica ofrecemos pastillas e inyección anticonceptiva, y orientación sobre el implante y el DIU.",
       questionEn: "Which birth control methods do you offer?",
-      answerEn: "At the clinic we offer birth control pills and the shot, plus guidance on the implant and IUD with a referral if you choose one.",
+      answerEn: "At the clinic we offer birth control pills and the shot, plus guidance on the implant and IUD.",
     },
     {
       question: "¿Cada cuánto se aplica la inyección anticonceptiva?",

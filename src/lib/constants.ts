@@ -1063,7 +1063,7 @@ We are at 2912 Mangum Rd, Suite A, in northwest Houston, open every day from 9 A
 
 - **Pastillas anticonceptivas:** una al día, a la misma hora.
 - **Inyección anticonceptiva:** una aplicación cada 3 meses.
-- **Orientación** sobre otros métodos de larga duración, como el implante o el DIU, con referencia si eliges uno de ellos.
+- **Orientación** sobre otros métodos de larga duración, como el implante o el DIU.
 
 ## ¿Qué tan efectivos son?
 
@@ -1095,7 +1095,7 @@ Estamos en 2912 Mangum Rd, Suite A, en el noroeste de Houston, abiertos todos lo
 
 - **Birth control pills:** one a day, at the same time.
 - **Birth control shot:** one injection every 3 months.
-- **Guidance** on long-acting methods such as the implant or IUD, with a referral if you choose one.
+- **Guidance** on long-acting methods such as the implant or IUD.
 
 ## How effective are they?
 
