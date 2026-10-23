@@ -875,7 +875,6 @@ We are at 2912 Mangum Rd, Suite A, in northwest Houston, open every day from 9 A
 - **Cultivo vaginal** para saber qué causa una infección y darte el tratamiento correcto.
 - **Infecciones vaginales:** hongos, vaginosis bacteriana y otras causas de flujo, comezón o mal olor.
 - **Molestias al orinar o dolor pélvico**, con estudios de orina cuando hacen falta.
-- **Referencia a especialista** si el resultado lo necesita.
 
 ## ¿Cada cuánto debo hacerme el Papanicolaou?
 
@@ -909,7 +908,6 @@ No necesitas seguro médico y aceptamos efectivo, tarjetas y Apple Pay. Estamos 
 - **Vaginal culture** to find what is causing an infection and give you the right treatment.
 - **Vaginal infections:** yeast, bacterial vaginosis and other causes of discharge, itching or odor.
 - **Urinary discomfort or pelvic pain**, with urine tests when needed.
-- **Referral to a specialist** if a result calls for it.
 
 ## How often should I get a Pap smear?
 
@@ -982,7 +980,7 @@ You do not need health insurance, and we accept cash, cards and Apple Pay. We ar
 
 1. El equipo médico confirma el resultado y calcula las semanas según tu última regla.
 2. Revisamos tus medicamentos y si ya tomas **ácido fólico** (400 microgramos diarios).
-3. Te orientamos para iniciar el **control prenatal** cuanto antes; si hace falta, con un ultrasonido y la referencia a obstetricia.
+3. Te orientamos para iniciar el **control prenatal** cuanto antes; si hace falta, con un ultrasonido.
 
 ## ¿Y si sale negativa?
 
@@ -1008,7 +1006,7 @@ Estamos en 2912 Mangum Rd, Suite A, en el noroeste de Houston, abiertos todos lo
 
 1. The medical team confirms the result and estimates the weeks from your last period.
 2. We review your medications and whether you already take **folic acid** (400 micrograms a day).
-3. We guide you to start **prenatal care** as soon as possible; if needed, with an ultrasound and a referral to obstetrics.
+3. We guide you to start **prenatal care** as soon as possible; if needed, with an ultrasound.
 
 ## What if it is negative?
 
@@ -1260,7 +1258,6 @@ We are at 2912 Mangum Rd, Suite A, in northwest Houston, open every day from 9 A
 - **Perfil hormonal:** incluye el nivel de testosterona cuando hay cansancio, poca energía o cambios de ánimo.
 - **Chequeo general:** presión arterial, peso y signos vitales.
 - **Análisis de sangre y orina** según tu edad y tus síntomas.
-- **Referencia al urólogo** si un resultado lo requiere.
 
 ## ¿A qué edad conviene hacerse el PSA?
 
@@ -1292,7 +1289,6 @@ No necesitas seguro y aceptamos efectivo, tarjetas y Apple Pay. Estamos en 2912 
 - **Hormone panel:** includes the testosterone level when there is fatigue, low energy or mood changes.
 - **General checkup:** blood pressure, weight and vital signs.
 - **Blood and urine tests** based on your age and symptoms.
-- **Referral to a urologist** if a result calls for it.
 
 ## At what age should I get a PSA test?
 

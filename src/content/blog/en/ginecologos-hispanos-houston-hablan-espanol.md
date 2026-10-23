@@ -2,7 +2,7 @@
 title: "Hispanic gynecologists in Houston who speak Spanish"
 description: "Gynecology care in Spanish in Houston: what a clinic can handle, when to see a specialist, what to ask and useful words in English."
 date: "2026-03-05"
-dateModified: "2026-09-17"
+dateModified: "2026-10-23"
 author: "Clínica Hispana Mangum Team"
 category: "Women's health"
 relatedServices:
@@ -30,8 +30,6 @@ You do not always need to start with a specialist. Many needs are handled at a f
 | Pregnancy test | Heavy bleeding that does not improve |
 | Birth control | Cysts or fibroids needing surgery |
 | Urinary discomfort | Trouble getting pregnant |
-
-If the clinic finds something that needs a specialist, it gives you a referral.
 
 ## What to ask before you go
 

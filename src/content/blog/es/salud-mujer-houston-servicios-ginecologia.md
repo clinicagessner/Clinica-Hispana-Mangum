@@ -2,7 +2,7 @@
 title: "Salud de la mujer en Houston: servicios de ginecología"
 description: "Qué chequeos necesita una mujer en cada etapa: Papanicolaou, ITS, mamografía, azúcar, colon y huesos, con edades recomendadas por el USPSTF."
 date: "2026-04-25"
-dateModified: "2026-09-17"
+dateModified: "2026-10-23"
 author: "Equipo Clínica Hispana Mangum"
 category: "Salud de la mujer"
 relatedServices:
@@ -49,7 +49,7 @@ Bochornos, sudores nocturnos, cambios de ánimo y problemas para dormir son comu
 
 ## ¿Qué se puede hacer en una sola visita?
 
-En una clínica familiar puedes hacerte el Papanicolaou, un cultivo si hay molestias, la prueba de embarazo, análisis de sangre y de orina, y salir con la orden de mamografía. Si algo requiere especialista, te dan la referencia.
+En una clínica familiar puedes hacerte el Papanicolaou, un cultivo si hay molestias, la prueba de embarazo, análisis de sangre y de orina, y salir con la orden de mamografía.
 
 ## Salud de la mujer en Clínica Hispana Mangum
 

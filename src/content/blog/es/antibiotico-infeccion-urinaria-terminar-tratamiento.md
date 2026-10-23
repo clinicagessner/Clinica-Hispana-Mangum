@@ -2,7 +2,7 @@
 title: "Antibiótico para infección urinaria: por qué terminarlo"
 description: "¿Ya no arde al orinar y quieres dejar el antibiótico? Por qué completarlo, qué hacer si olvidas una toma o te cae mal y por qué no guardar sobrantes."
 date: "2026-10-15"
-dateModified: "2026-10-15"
+dateModified: "2026-10-23"
 author: "Equipo Clínica Hispana Mangum"
 category: "Salud"
 relatedServices:
@@ -78,8 +78,6 @@ Regresa a consulta si:
 - Es tu segunda o tercera infección en pocos meses: conviene buscar la causa, no solo apagar cada episodio.
 - Tienes diabetes y el azúcar se ha descontrolado durante la infección; el seguimiento de [condiciones crónicas](/services/condiciones-cronicas) también se hace aquí.
 - Aparecen síntomas nuevos de tipo ginecológico, como flujo o comezón; la consulta de [ginecología](/services/ginecologia) los revisa.
-
-Y cuando un resultado lo requiere, el servicio incluye orientar la referencia a un urólogo para un estudio más completo.
 
 ## Señales que no esperan: urgencias o 911
 

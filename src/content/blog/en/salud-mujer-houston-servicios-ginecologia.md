@@ -2,7 +2,7 @@
 title: "Women's health in Houston: gynecology services"
 description: "Which checkups a woman needs at each stage: Pap smear, STIs, mammogram, blood sugar, colon and bone health, with USPSTF ages."
 date: "2026-04-25"
-dateModified: "2026-09-17"
+dateModified: "2026-10-23"
 author: "Clínica Hispana Mangum Team"
 category: "Women's health"
 relatedServices:
@@ -49,7 +49,7 @@ Hot flashes, night sweats, mood changes and trouble sleeping are common between 
 
 ## What can be done in one visit?
 
-At a family clinic you can get a Pap smear, a culture if you have symptoms, a pregnancy test, blood and urine tests, and leave with a mammogram order. If something needs a specialist, you get a referral.
+At a family clinic you can get a Pap smear, a culture if you have symptoms, a pregnancy test, blood and urine tests, and leave with a mammogram order.
 
 ## Women's health at Clínica Hispana Mangum
 

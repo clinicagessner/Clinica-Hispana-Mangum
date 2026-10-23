@@ -2,7 +2,7 @@
 title: "UTI antibiotics: why finish them once you feel better"
 description: "The burning stopped, so can you quit? Why to finish a UTI antibiotic, what to do after a missed dose or side effects, and why not to keep leftovers."
 date: "2026-10-15"
-dateModified: "2026-10-15"
+dateModified: "2026-10-23"
 author: "Clínica Hispana Mangum Team"
 category: "Health"
 relatedServices:
@@ -78,8 +78,6 @@ Schedule another visit if:
 - This is your second or third infection in a few months; it is worth looking for the cause instead of just putting out each fire.
 - You have diabetes and your sugar ran high during the infection; [chronic condition](/en/services/condiciones-cronicas) follow-up happens here too.
 - New gynecological symptoms show up, such as discharge or itching; our [gynecology](/en/services/ginecologia) visit covers them.
-
-When a result calls for it, the service also includes guiding a referral to a urologist for a more complete workup.
 
 ## Signs that cannot wait: ER or 911
 

@@ -134,9 +134,9 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
     },
     {
       question: "¿Qué hago si la prueba sale positiva?",
-      answer: "Empieza a tomar ácido fólico si no lo tomas y agenda tu control prenatal. El equipo médico te orienta sobre el ultrasonido y la referencia a obstetricia.",
+      answer: "Empieza a tomar ácido fólico si no lo tomas y agenda tu control prenatal. El equipo médico te orienta sobre el ultrasonido.",
       questionEn: "What should I do if the test is positive?",
-      answerEn: "Start taking folic acid if you are not already and schedule prenatal care. The medical team guides you on ultrasound and an obstetrics referral.",
+      answerEn: "Start taking folic acid if you are not already and schedule prenatal care. The medical team guides you on the ultrasound.",
     },
     {
       question: "¿El resultado es confidencial?",

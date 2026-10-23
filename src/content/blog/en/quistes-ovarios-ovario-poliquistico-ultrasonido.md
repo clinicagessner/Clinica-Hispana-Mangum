@@ -2,7 +2,7 @@
 title: "Ovarian cysts and PCOS: what an ultrasound can show"
 description: "One-sided pelvic pain or periods that skip months? How a functional cyst differs from PCOS, and what a pelvic ultrasound can and cannot tell you."
 date: "2026-10-22"
-dateModified: "2026-10-22"
+dateModified: "2026-10-23"
 author: "Clínica Hispana Mangum Team"
 category: "Women's health"
 relatedServices:
@@ -44,7 +44,7 @@ When a period is late and there is any chance you could be pregnant, a [pregnanc
 
 When the scan shows a thin-walled, fluid-only cyst in someone who still gets periods, it is often a functional cyst. The usual approach, based on general guidance from MedlinePlus and ACOG, is **watching it**: a repeat ultrasound after one or two cycles to confirm it has shrunk or disappeared. In the meantime, mild pain is often managed with over-the-counter pain relievers and a heating pad.
 
-What gets a closer look is a cyst that keeps growing, does not go away across cycles, has solid areas, or appears after menopause. Those cases may call for a different study, a specific blood test or a specialist's opinion, and the medical team guides you to the right order or referral.
+What gets a closer look is a cyst that keeps growing, does not go away across cycles, has solid areas, or appears after menopause. Those cases may call for a different study, a specific blood test or a specialist's opinion.
 
 ## PCOS: the picture is only one piece of the puzzle
 

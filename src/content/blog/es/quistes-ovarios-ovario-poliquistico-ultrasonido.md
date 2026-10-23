@@ -2,7 +2,7 @@
 title: "Quistes en los ovarios y ovario poliquístico: el ultrasonido"
 description: "¿Dolor de un lado o reglas que no llegan? Qué es un quiste funcional, qué es el ovario poliquístico y qué puede (o no) mostrar el ultrasonido pélvico."
 date: "2026-10-22"
-dateModified: "2026-10-22"
+dateModified: "2026-10-23"
 author: "Equipo Clínica Hispana Mangum"
 category: "Salud de la mujer"
 relatedServices:
@@ -44,7 +44,7 @@ Si la regla se retrasó y existe la posibilidad de un embarazo, lo primero es un
 
 Cuando el ultrasonido muestra un quiste de paredes delgadas y lleno de líquido en una mujer que todavía tiene reglas, muchas veces se trata de un quiste funcional. Lo habitual, según la información general de MedlinePlus y ACOG, es **vigilarlo**: repetir el ultrasonido después de uno o dos ciclos para comprobar que se hizo más pequeño o que ya no está. Mientras tanto, el dolor leve suele manejarse con analgésicos de venta libre y calor local.
 
-Lo que se revisa con más cuidado es el quiste que crece, el que no desaparece con los ciclos, el que tiene partes sólidas o el que aparece después de la menopausia. En esos casos puede hacer falta otro estudio, un análisis de sangre específico o la valoración de un especialista, y el equipo médico orienta la orden o la referencia.
+Lo que se revisa con más cuidado es el quiste que crece, el que no desaparece con los ciclos, el que tiene partes sólidas o el que aparece después de la menopausia. En esos casos puede hacer falta otro estudio, un análisis de sangre específico o la valoración de un especialista.
 
 ## Ovario poliquístico: la imagen es solo una pieza del rompecabezas
 

@@ -2,7 +2,7 @@
 title: "Ginecólogos hispanos en Houston que hablan español"
 description: "Atención ginecológica en español en Houston: qué resuelve una clínica, cuándo ver a un especialista, qué preguntar y palabras útiles en inglés."
 date: "2026-03-05"
-dateModified: "2026-09-17"
+dateModified: "2026-10-23"
 author: "Equipo Clínica Hispana Mangum"
 category: "Salud de la mujer"
 relatedServices:
@@ -30,8 +30,6 @@ No siempre necesitas empezar con un especialista. Muchas necesidades se atienden
 | Prueba de embarazo | Sangrado abundante que no mejora |
 | Métodos anticonceptivos | Quistes o miomas que necesitan cirugía |
 | Molestias urinarias | Problemas para quedar embarazada |
-
-Si la clínica encuentra algo que necesita especialista, te da la referencia.
 
 ## ¿Qué preguntar antes de ir?
 
