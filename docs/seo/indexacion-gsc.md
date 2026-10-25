@@ -6,13 +6,13 @@ poner `✅ PEDIDA dd/mm/aaaa` en su encabezado. Límite: 10 peticiones al día p
 Propiedad: `https://www.clinicahispanamangum.com/`, cuenta **clinicahispanamangum@gmail.com**.
 
 <!-- tandas:auto -->
-**Estado (actualizado 2026-10-24; URL Inspection API, datos ANTIGUOS del 2026-10-19: antiguos (2026-10-19): --sin-fetch):** 86 de 96 URLs del sitemap indexadas · 10 sin indexar (6 desconocida · 2 descubierta sin indexar · 2 sin datos).
+**Estado (actualizado 2026-10-25; URL Inspection API, datos ANTIGUOS del 2026-10-19: antiguos (2026-10-19): --sin-fetch):** 86 de 96 URLs del sitemap indexadas · 10 sin indexar (6 desconocida · 2 descubierta sin indexar · 2 sin datos).
 
 **Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 30 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 7 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
 <!-- /tandas:auto -->
 
-## Tanda 29 — cambios del 2026-10-23 (regla Ads = referencia (urología/ginecología)) 📨 ENVIADA 24/10/2026 · APLAZADA por el usuario: la pide el 25/10/2026, va primero ese día (no repetir en otra tanda)
+## Tanda 29 — cambios del 2026-10-23 (regla Ads = referencia (urología/ginecología)) 📨 ENVIADA 25/10/2026 (aplazada del 24/10 por el usuario)
 
 - [ ] https://www.clinicahispanamangum.com/services/ginecologia  — cambiada 2026-10-23
 - [ ] https://www.clinicahispanamangum.com/services/prueba-embarazo  — cambiada 2026-10-23
