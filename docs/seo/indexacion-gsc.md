@@ -12,18 +12,18 @@ Propiedad: `https://www.clinicahispanamangum.com/`, cuenta **clinicahispanamangu
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
 <!-- /tandas:auto -->
 
-## Tanda 29 — cambios del 2026-10-23 (regla Ads = referencia (urología/ginecología)) 📨 ENVIADA 25/10/2026 (aplazada del 24/10 por el usuario)
+## Tanda 29 — cambios del 2026-10-23 (regla Ads = referencia (urología/ginecología)) ✅ PEDIDA 25/10/2026 (aplazada del 24/10 por el usuario)
 
-- [ ] https://www.clinicahispanamangum.com/services/ginecologia  — cambiada 2026-10-23
-- [ ] https://www.clinicahispanamangum.com/services/prueba-embarazo  — cambiada 2026-10-23
-- [ ] https://www.clinicahispanamangum.com/services/salud-hombre  — cambiada 2026-10-23
-- [ ] https://www.clinicahispanamangum.com/services/anticonceptivos  — cambiada 2026-10-23
-- [ ] https://www.clinicahispanamangum.com/blog/antibiotico-infeccion-urinaria-terminar-tratamiento  — cambiada 2026-10-23
-- [ ] https://www.clinicahispanamangum.com/blog/ginecologos-hispanos-houston-hablan-espanol  — cambiada 2026-10-23
-- [ ] https://www.clinicahispanamangum.com/blog/quistes-ovarios-ovario-poliquistico-ultrasonido  — cambiada 2026-10-23
-- [ ] https://www.clinicahispanamangum.com/blog/salud-mujer-houston-servicios-ginecologia  — cambiada 2026-10-23
-- [ ] https://www.clinicahispanamangum.com/en/services/ginecologia  — cambiada 2026-10-23
-- [ ] https://www.clinicahispanamangum.com/en/services/prueba-embarazo  — cambiada 2026-10-23
+- [x] https://www.clinicahispanamangum.com/services/ginecologia  — cambiada 2026-10-23
+- [x] https://www.clinicahispanamangum.com/services/prueba-embarazo  — cambiada 2026-10-23
+- [x] https://www.clinicahispanamangum.com/services/salud-hombre  — cambiada 2026-10-23
+- [x] https://www.clinicahispanamangum.com/services/anticonceptivos  — cambiada 2026-10-23
+- [x] https://www.clinicahispanamangum.com/blog/antibiotico-infeccion-urinaria-terminar-tratamiento  — cambiada 2026-10-23
+- [x] https://www.clinicahispanamangum.com/blog/ginecologos-hispanos-houston-hablan-espanol  — cambiada 2026-10-23
+- [x] https://www.clinicahispanamangum.com/blog/quistes-ovarios-ovario-poliquistico-ultrasonido  — cambiada 2026-10-23
+- [x] https://www.clinicahispanamangum.com/blog/salud-mujer-houston-servicios-ginecologia  — cambiada 2026-10-23
+- [x] https://www.clinicahispanamangum.com/en/services/ginecologia  — cambiada 2026-10-23
+- [x] https://www.clinicahispanamangum.com/en/services/prueba-embarazo  — cambiada 2026-10-23
 
 ## Tanda 30
 
