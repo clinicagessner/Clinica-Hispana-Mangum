@@ -6,72 +6,62 @@ poner `✅ PEDIDA dd/mm/aaaa` en su encabezado. Límite: 10 peticiones al día p
 Propiedad: `https://www.clinicahispanamangum.com/`, cuenta **clinicahispanamangum@gmail.com**.
 
 <!-- tandas:auto -->
-**Estado (actualizado 2026-10-25; URL Inspection API, datos ANTIGUOS del 2026-10-19: antiguos (2026-10-19): --sin-fetch):** 86 de 96 URLs del sitemap indexadas · 10 sin indexar (6 desconocida · 2 descubierta sin indexar · 2 sin datos).
+**Estado (actualizado 2026-10-26; URL Inspection API, datos de hoy 2026-10-26):** 89 de 96 URLs del sitemap indexadas · 7 sin indexar (4 desconocida · 3 descubierta sin indexar).
 
-**Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 30 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 7 no indexadas no pedidas en los últimos 14 días.
+**Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 30 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 6 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
+1 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-08).
 <!-- /tandas:auto -->
 
-## Tanda 29 — cambios del 2026-10-23 (regla Ads = referencia (urología/ginecología)) ✅ PEDIDA 25/10/2026 (aplazada del 24/10 por el usuario)
+## Tanda 34 — cambios del 2026-10-23 (tanda del día: páginas cambiadas y aún no pedidas) 📨 ENVIADA 26/10/2026
 
-- [x] https://www.clinicahispanamangum.com/services/ginecologia  — cambiada 2026-10-23
-- [x] https://www.clinicahispanamangum.com/services/prueba-embarazo  — cambiada 2026-10-23
-- [x] https://www.clinicahispanamangum.com/services/salud-hombre  — cambiada 2026-10-23
-- [x] https://www.clinicahispanamangum.com/services/anticonceptivos  — cambiada 2026-10-23
-- [x] https://www.clinicahispanamangum.com/blog/antibiotico-infeccion-urinaria-terminar-tratamiento  — cambiada 2026-10-23
-- [x] https://www.clinicahispanamangum.com/blog/ginecologos-hispanos-houston-hablan-espanol  — cambiada 2026-10-23
-- [x] https://www.clinicahispanamangum.com/blog/quistes-ovarios-ovario-poliquistico-ultrasonido  — cambiada 2026-10-23
-- [x] https://www.clinicahispanamangum.com/blog/salud-mujer-houston-servicios-ginecologia  — cambiada 2026-10-23
-- [x] https://www.clinicahispanamangum.com/en/services/ginecologia  — cambiada 2026-10-23
-- [x] https://www.clinicahispanamangum.com/en/services/prueba-embarazo  — cambiada 2026-10-23
+- [ ] https://www.clinicahispanamangum.com/en/blog/antibiotico-infeccion-urinaria-terminar-tratamiento  — cambiada 2026-10-23 · rastreada 2026-10-17 · indexada · pedida 2026-10-16 · 368 impr.
+- [ ] https://www.clinicahispanamangum.com/en/blog/quistes-ovarios-ovario-poliquistico-ultrasonido  — cambiada 2026-10-23 · rastreada 2026-10-23 · indexada · pedida 2026-10-22 · 13 impr.
+- [ ] https://www.clinicahispanamangum.com/en/services/salud-hombre  — cambiada 2026-10-23 · rastreada 2026-06-19 · indexada · 8 impr.
+- [ ] https://www.clinicahispanamangum.com/en/services/anticonceptivos  — cambiada 2026-10-23 · rastreada 2026-06-19 · indexada · 6 impr.
+- [ ] https://www.clinicahispanamangum.com/en/blog/ginecologos-hispanos-houston-hablan-espanol  — cambiada 2026-10-23 · rastreada 2026-07-02 · indexada · 5 impr.
+- [ ] https://www.clinicahispanamangum.com/en/blog/salud-mujer-houston-servicios-ginecologia  — cambiada 2026-10-23 · rastreada 2026-07-08 · indexada · 1 impr.
 
 ## Tanda 30
 
-- [ ] https://www.clinicahispanamangum.com/en/blog/medicos-autorizados-uscis-houston-civil-surgeon  — cambiada 2026-09-17 · rastreada 2026-07-02 · indexada · 96 impr.
-- [ ] https://www.clinicahispanamangum.com/en/blog/guia-examen-medico-inmigracion-i693-houston  — cambiada 2026-09-17 · rastreada 2026-07-02 · indexada · 50 impr.
+- [ ] https://www.clinicahispanamangum.com/en/blog/medicos-autorizados-uscis-houston-civil-surgeon  — cambiada 2026-09-17 · rastreada 2026-07-02 · indexada · 89 impr.
+- [ ] https://www.clinicahispanamangum.com/en/blog/guia-examen-medico-inmigracion-i693-houston  — cambiada 2026-09-17 · rastreada 2026-07-02 · indexada · 45 impr.
 - [ ] https://www.clinicahispanamangum.com/en/blog/salud-hombre-houston-chequeos-preventivos  — cambiada 2026-09-17 · rastreada 2026-08-01 · indexada · 40 impr.
-- [ ] https://www.clinicahispanamangum.com/en/blog/atencion-medica-sin-seguro-houston  — cambiada 2026-09-17 · rastreada 2026-09-15 · indexada · 35 impr.
-- [ ] https://www.clinicahispanamangum.com/en/services  — cambiada 2026-09-17 · rastreada 2026-07-08 · indexada · 22 impr.
-- [ ] https://www.clinicahispanamangum.com/en/services/examen-fisico-escolar  — cambiada 2026-09-17 · rastreada 2026-08-01 · indexada · 22 impr.
+- [ ] https://www.clinicahispanamangum.com/en/blog/atencion-medica-sin-seguro-houston  — cambiada 2026-09-17 · rastreada 2026-09-15 · indexada · 36 impr.
+- [ ] https://www.clinicahispanamangum.com/en/services  — cambiada 2026-09-17 · rastreada 2026-07-08 · indexada · 27 impr.
+- [ ] https://www.clinicahispanamangum.com/en/services/examen-fisico-escolar  — cambiada 2026-09-17 · rastreada 2026-08-01 · indexada · 23 impr.
 - [ ] https://www.clinicahispanamangum.com/en/promociones  — cambiada 2026-09-17 · rastreada 2026-07-03 · indexada · 16 impr.
-- [ ] https://www.clinicahispanamangum.com/en/blog/examen-dot-cdl-camioneros-houston  — cambiada 2026-09-17 · rastreada 2026-07-02 · indexada · 9 impr.
 - [ ] https://www.clinicahispanamangum.com/en/blog/laboratorio-clinico-houston-analisis-sangre  — cambiada 2026-09-17 · rastreada 2026-07-02 · indexada · 9 impr.
-- [ ] https://www.clinicahispanamangum.com/en/services/salud-hombre  — cambiada 2026-10-23 · rastreada 2026-06-19 · indexada · 8 impr.
 
 ## Tanda 31
 
+- [ ] https://www.clinicahispanamangum.com/en/services/examen-dot  — cambiada 2026-09-17 · rastreada 2026-07-02 · indexada · 7 impr.
 - [ ] https://www.clinicahispanamangum.com/en/services/extraccion-implantes  — cambiada 2026-09-17 · rastreada 2026-08-26 · indexada · 7 impr.
 - [ ] https://www.clinicahispanamangum.com/en/services/unas-encarnadas  — cambiada 2026-09-17 · rastreada 2026-08-27 · indexada · 7 impr.
-- [ ] https://www.clinicahispanamangum.com/en/services/anticonceptivos  — cambiada 2026-10-23 · rastreada 2026-06-19 · indexada · 6 impr.
-- [ ] https://www.clinicahispanamangum.com/en/services/electrocardiograma  — cambiada 2026-09-17 · rastreada 2026-07-02 · indexada · 6 impr.
-- [ ] https://www.clinicahispanamangum.com/en/services/examen-alcohol-drogas  — cambiada 2026-09-17 · rastreada 2026-09-17 · indexada · 6 impr.
-- [ ] https://www.clinicahispanamangum.com/en/services/examen-dot  — cambiada 2026-09-17 · rastreada 2026-07-02 · indexada · 6 impr.
-- [ ] https://www.clinicahispanamangum.com/en/services/infecciones-urinarias  — cambiada 2026-09-17 · rastreada 2026-07-02 · indexada · 6 impr.
-- [ ] https://www.clinicahispanamangum.com/en/blog/ginecologos-hispanos-houston-hablan-espanol  — cambiada 2026-10-23 · rastreada 2026-07-02 · indexada · 5 impr.
-- [ ] https://www.clinicahispanamangum.com/en/services/vacunas  — cambiada 2026-09-17 · rastreada 2026-06-19 · indexada · 3 impr.
-- [ ] https://www.clinicahispanamangum.com/en/blog/control-diabetes-houston-guia-pacientes  — cambiada 2026-09-17 · rastreada 2026-07-08 · indexada · 2 impr.
+- [ ] https://www.clinicahispanamangum.com/en/blog/examen-dot-cdl-camioneros-houston  — cambiada 2026-09-17 · rastreada 2026-07-02 · indexada · 6 impr.
+- [ ] https://www.clinicahispanamangum.com/en/services/electrocardiograma  — cambiada 2026-09-17 · rastreada 2026-07-02 · indexada · 5 impr.
+- [ ] https://www.clinicahispanamangum.com/en/services/examen-alcohol-drogas  — cambiada 2026-09-17 · rastreada 2026-09-17 · indexada · 5 impr.
+- [ ] https://www.clinicahispanamangum.com/en/services/infecciones-urinarias  — cambiada 2026-09-17 · rastreada 2026-07-02 · indexada · 5 impr.
 
 ## Tanda 32
 
+- [ ] https://www.clinicahispanamangum.com/en/blog/control-diabetes-houston-guia-pacientes  — cambiada 2026-09-17 · rastreada 2026-07-08 · indexada · 3 impr.
+- [ ] https://www.clinicahispanamangum.com/en/services/vacunas  — cambiada 2026-09-17 · rastreada 2026-06-19 · indexada · 3 impr.
 - [ ] https://www.clinicahispanamangum.com/en/services/enfermedades-transmision-sexual  — cambiada 2026-09-17 · rastreada 2026-07-03 · indexada · 2 impr.
-- [ ] https://www.clinicahispanamangum.com/en/blog/antibiotico-infeccion-urinaria-terminar-tratamiento  — cambiada 2026-10-23 · rastreada 2026-10-17 · indexada · pedida 2026-10-16 · 1 impr.
-- [ ] https://www.clinicahispanamangum.com/en/blog/salud-mujer-houston-servicios-ginecologia  — cambiada 2026-10-23 · rastreada 2026-07-08 · indexada · 1 impr.
-- [ ] https://www.clinicahispanamangum.com/en/services/examenes-sangre  — cambiada 2026-09-17 · rastreada 2026-08-29 · indexada · 1 impr.
+- [ ] https://www.clinicahispanamangum.com/en/services/examenes-sangre  — cambiada 2026-09-17 · rastreada 2026-08-29 · indexada · 2 impr.
 - [ ] https://www.clinicahispanamangum.com/en/services/prueba-strep  — cambiada 2026-09-17 · rastreada 2026-06-19 · indexada · 1 impr.
 - [ ] https://www.clinicahispanamangum.com/en/services/suturas-heridas  — cambiada 2026-09-17 · rastreada 2026-08-26 · indexada · 1 impr.
 - [ ] https://www.clinicahispanamangum.com/en/services/ultrasonido  — cambiada 2026-09-17 · rastreada 2026-07-06 · indexada · 1 impr.
-- [ ] https://www.clinicahispanamangum.com/en/blog/quistes-ovarios-ovario-poliquistico-ultrasonido  — cambiada 2026-10-23 · sin datos de inspección · pedida 2026-10-22 · 0 impr.
 - [ ] https://www.clinicahispanamangum.com/en/services/condiciones-cronicas  — cambiada 2026-09-17 · rastreada 2026-07-05 · indexada · 0 impr.
 - [ ] https://www.clinicahispanamangum.com/en/services/enfermedades-respiratorias  — cambiada 2026-09-17 · rastreada 2026-07-10 · indexada · 0 impr.
 
 ## Tanda 33
 
-- [ ] https://www.clinicahispanamangum.com/services/vacunas  — cambiada 2026-09-17 · desconocida · pedida 2026-09-25 · 0 impr.
+- [ ] https://www.clinicahispanamangum.com/services/vacunas  — cambiada 2026-09-17 · descubierta sin indexar · pedida 2026-09-25 · 0 impr.
 - [ ] https://www.clinicahispanamangum.com/en/services/alergias  — cambiada 2026-09-17 · desconocida · pedida 2026-09-25 · 0 impr.
-- [ ] https://www.clinicahispanamangum.com/en/services/curacion-heridas  — cambiada 2026-09-17 · desconocida · pedida 2026-09-25 · 0 impr.
-- [ ] https://www.clinicahispanamangum.com/en/services/drenaje-abscesos  — cambiada 2026-09-17 · descubierta sin indexar · pedida 2026-09-25 · 0 impr.
+- [ ] https://www.clinicahispanamangum.com/en/services/drenaje-abscesos  — cambiada 2026-09-17 · desconocida · pedida 2026-09-25 · 0 impr.
 - [ ] https://www.clinicahispanamangum.com/en/services/examen-heces  — cambiada 2026-09-17 · descubierta sin indexar · pedida 2026-09-25 · 0 impr.
-- [ ] https://www.clinicahispanamangum.com/en/services/sueros-vitaminados  — cambiada 2026-09-17 · desconocida · pedida 2026-09-25 · 0 impr.
+- [ ] https://www.clinicahispanamangum.com/en/services/sueros-vitaminados  — cambiada 2026-09-17 · descubierta sin indexar · pedida 2026-09-25 · 0 impr.
 - [ ] https://www.clinicahispanamangum.com/en/services/tiroides  — cambiada 2026-09-17 · desconocida · pedida 2026-09-25 · 0 impr.
 
 ## Historial (tandas pedidas)
@@ -146,3 +136,16 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 
 - [x] https://www.clinicahispanamangum.com/blog/quistes-ovarios-ovario-poliquistico-ultrasonido  — cambiada 2026-10-22
 - [x] https://www.clinicahispanamangum.com/en/blog/quistes-ovarios-ovario-poliquistico-ultrasonido  — cambiada 2026-10-22
+
+## Tanda 29 — cambios del 2026-10-23 (regla Ads = referencia (urología/ginecología)) ✅ PEDIDA 25/10/2026 (aplazada del 24/10 por el usuario)
+
+- [x] https://www.clinicahispanamangum.com/services/ginecologia  — cambiada 2026-10-23
+- [x] https://www.clinicahispanamangum.com/services/prueba-embarazo  — cambiada 2026-10-23
+- [x] https://www.clinicahispanamangum.com/services/salud-hombre  — cambiada 2026-10-23
+- [x] https://www.clinicahispanamangum.com/services/anticonceptivos  — cambiada 2026-10-23
+- [x] https://www.clinicahispanamangum.com/blog/antibiotico-infeccion-urinaria-terminar-tratamiento  — cambiada 2026-10-23
+- [x] https://www.clinicahispanamangum.com/blog/ginecologos-hispanos-houston-hablan-espanol  — cambiada 2026-10-23
+- [x] https://www.clinicahispanamangum.com/blog/quistes-ovarios-ovario-poliquistico-ultrasonido  — cambiada 2026-10-23
+- [x] https://www.clinicahispanamangum.com/blog/salud-mujer-houston-servicios-ginecologia  — cambiada 2026-10-23
+- [x] https://www.clinicahispanamangum.com/en/services/ginecologia  — cambiada 2026-10-23
+- [x] https://www.clinicahispanamangum.com/en/services/prueba-embarazo  — cambiada 2026-10-23
