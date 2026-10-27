@@ -1,8 +1,8 @@
 ---
-title: "Sinus infection or flu? Facial pain, congestion and care"
-description: "Pressure in your face and a stuffy nose? How to tell a sinus infection from a cold or the flu, what helps at home and when treatment makes sense."
+title: "Face hurting with the flu? Sinus infection vs. flu"
+description: "Cheekbones and face hurting with the flu, plus a stuffy nose? How to tell a sinus infection from the flu, what helps at home and when to come in."
 date: "2026-10-08"
-dateModified: "2026-10-08"
+dateModified: "2026-10-27"
 author: "Clínica Hispana Mangum Team"
 category: "Health"
 relatedServices:

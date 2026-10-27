@@ -1,8 +1,8 @@
 ---
-title: "Sinusitis o gripe: dolor de cara, congestión y tratamiento"
-description: "¿Presión en la cara y nariz tapada? Cómo distinguir sinusitis, resfriado y gripe, qué alivia en casa y cuándo el equipo médico valora tratamiento."
+title: "¿Te duele la cara con la gripe? Sinusitis o gripe y qué hacer"
+description: "¿Te duelen la cara y los pómulos con la gripe y tienes la nariz tapada? Cómo saber si es sinusitis, qué alivia en casa y cuándo venir a la clínica."
 date: "2026-10-08"
-dateModified: "2026-10-08"
+dateModified: "2026-10-27"
 author: "Equipo Clínica Hispana Mangum"
 category: "Salud"
 relatedServices:
