@@ -843,14 +843,14 @@ We are at 2912 Mangum Rd, Suite A, in northwest Houston, open every day from 9 A
     descriptionEn: "Gynecology in Houston, TX: Pap smear, cultures, pelvic ultrasound and birth control. Free initial visit, in Spanish, no insurance needed.",
     keywords: [
       "ginecologia en houston",
-      "ginecologo houston español",
+      "clinica para la mujer houston",
       "papanicolaou houston",
       "cultivo vaginal houston",
       "infeccion vaginal tratamiento houston",
     ],
     keywordsEn: [
       "gynecology houston",
-      "gynecologist houston spanish",
+      "womens clinic houston",
       "pap smear houston",
       "vaginal culture houston",
       "vaginal infection treatment houston",
