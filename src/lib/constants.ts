@@ -835,12 +835,12 @@ We are at 2912 Mangum Rd, Suite A, in northwest Houston, open every day from 9 A
     category: "salud-mujer",
     icon: "Flower2",
     highlighted: true,
-    title: "Atención Ginecológica: Papanicolaou y Cultivos",
-    titleEn: "Gynecology Care: Pap Smear & Cultures",
-    shortDescription: "Papanicolaou, cultivos vaginales y tratamiento de infecciones vaginales, con privacidad y en español.",
-    shortDescriptionEn: "Pap smear, vaginal cultures and treatment of vaginal infections, with privacy and in Spanish.",
-    description: "Atención ginecológica en Houston, TX: papanicolaou, cultivos vaginales y tratamiento de infecciones. En español, con precios accesibles.",
-    descriptionEn: "Gynecology care in Houston, TX: Pap smear, vaginal cultures and infection treatment. In Spanish, with affordable pricing.",
+    title: "Ginecología en Español: Papanicolaou, Ultrasonido y Cultivos",
+    titleEn: "Gynecology in Spanish: Pap Smear, Ultrasound & Cultures",
+    shortDescription: "Papanicolaou, cultivos, ultrasonido pélvico y anticonceptivos en una clínica para la mujer, privada y en español.",
+    shortDescriptionEn: "Pap smear, cultures, pelvic ultrasound and birth control at a private women's clinic, in Spanish.",
+    description: "Ginecología en Houston, TX: papanicolaou, cultivos, ultrasonido pélvico y anticonceptivos. Consulta inicial gratis, en español y sin seguro.",
+    descriptionEn: "Gynecology in Houston, TX: Pap smear, cultures, pelvic ultrasound and birth control. Free initial visit, in Spanish, no insurance needed.",
     keywords: [
       "ginecologia en houston",
       "ginecologo houston español",
@@ -859,15 +859,19 @@ We are at 2912 Mangum Rd, Suite A, in northwest Houston, open every day from 9 A
       "Papanicolaou y chequeo ginecológico",
       "Cultivos vaginales",
       "Tratamiento de infecciones vaginales",
+      "Ultrasonido pélvico en la clínica",
+      "Anticonceptivos: pastillas e inyección",
       "Atención privada en español",
     ],
     featuresEn: [
       "Pap smear and gynecological checkup",
       "Vaginal cultures",
       "Treatment of vaginal infections",
+      "Pelvic ultrasound at the clinic",
+      "Birth control: pills and the shot",
       "Private care in Spanish",
     ],
-    longDescription: `Muchas mujeres posponen su revisión ginecológica por falta de tiempo, por pena o porque no encuentran quién las atienda en su idioma. En Clínica Hispana Mangum el equipo médico de la clínica te atiende en un consultorio privado, sin cita y en español, y te explica cada paso antes de empezar.
+    longDescription: `Muchas mujeres posponen su revisión ginecológica por falta de tiempo, por pena o porque no encuentran quién las atienda en su idioma. En Clínica Hispana Mangum el equipo médico de la clínica te atiende en un consultorio privado, sin cita y en español, y te explica cada paso antes de empezar. Somos tu clínica para la mujer en Mangum Rd: llega cuando puedas o llama para agendar tu cita; la consulta inicial es gratis y los exámenes y el tratamiento se pagan aparte.
 
 ## ¿Qué atendemos en la consulta de ginecología?
 
@@ -875,6 +879,8 @@ We are at 2912 Mangum Rd, Suite A, in northwest Houston, open every day from 9 A
 - **Cultivo vaginal** para saber qué causa una infección y darte el tratamiento correcto.
 - **Infecciones vaginales:** hongos, vaginosis bacteriana y otras causas de flujo, comezón o mal olor.
 - **Molestias al orinar o dolor pélvico**, con estudios de orina cuando hacen falta.
+- **Ultrasonido pélvico** en nuestra sala, sin mandarte a otro edificio, con la imagen explicada en tu idioma.
+- **Anticonceptivos:** la inyección anticonceptiva, las pastillas y la orientación para escoger el método que va con tu vida.
 
 ## ¿Cada cuánto debo hacerme el Papanicolaou?
 
@@ -900,7 +906,7 @@ Acude pronto si tienes flujo con mal olor o de color distinto, comezón o ardor 
 ${promoList(["chequeo-mujer", "chequeo-mujer-ultrasonido", "salud-intima-femenina"])}
 
 No necesitas seguro médico y aceptamos efectivo, tarjetas y Apple Pay. Estamos en 2912 Mangum Rd, Suite A, en el noroeste de Houston, todos los días de 9 AM a 9 PM. También hacemos [prueba de embarazo](/services/prueba-embarazo), [ultrasonido](/services/ultrasonido) y [métodos anticonceptivos](/services/anticonceptivos).`,
-    longDescriptionEn: `Many women put off their gynecology checkup because of time, embarrassment or not finding care in their language. At Clínica Hispana Mangum the clinic's medical team sees you in a private exam room, no appointment needed, in Spanish or English, and explains each step before starting.
+    longDescriptionEn: `Many women put off their gynecology checkup because of time, embarrassment or not finding care in their language. At Clínica Hispana Mangum the clinic's medical team sees you in a private exam room, no appointment needed, in Spanish or English, and explains each step before starting. We are your women's clinic on Mangum Rd: drop in when it suits you or call to book your appointment; the initial visit is free, and tests and treatment are paid separately.
 
 ## What does the gynecology visit cover?
 
@@ -908,6 +914,8 @@ No necesitas seguro médico y aceptamos efectivo, tarjetas y Apple Pay. Estamos 
 - **Vaginal culture** to find what is causing an infection and give you the right treatment.
 - **Vaginal infections:** yeast, bacterial vaginosis and other causes of discharge, itching or odor.
 - **Urinary discomfort or pelvic pain**, with urine tests when needed.
+- **Pelvic ultrasound** in our own exam room, no trip to another building, with the image explained in your language.
+- **Birth control:** the contraceptive shot, pills and guidance to pick the method that fits your life.
 
 ## How often should I get a Pap smear?
 
