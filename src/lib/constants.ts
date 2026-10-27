@@ -2530,8 +2530,8 @@ We are at 2912 Mangum Rd, Suite A, in northwest Houston, open every day from 9 A
     titleEn: "Vitamin IV Therapy",
     shortDescription: "Sueros vitaminados intravenosos para hidratación y energía, aplicados por personal médico.",
     shortDescriptionEn: "Intravenous vitamin drips for hydration and energy, administered by medical staff.",
-    description: "Sueros vitaminados (terapia IV) en Houston, TX. Hidratación y vitaminas en español, con precios accesibles.",
-    descriptionEn: "Vitamin IV therapy in Houston, TX. Hydration and vitamins in Spanish, with affordable pricing.",
+    description: "¿Para qué sirven los sueros vitaminados? Terapia IV con hidratación y vitaminas en Houston, aplicada por personal médico, en español y sin cita.",
+    descriptionEn: "What are vitamin IV drips for? IV therapy with hydration and vitamins in Houston, given by medical staff, in Spanish, walk-ins welcome.",
     keywords: [
       "sueros vitaminados houston",
       "terapia iv houston",
