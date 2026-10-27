@@ -13,14 +13,14 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 1 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-08).
 <!-- /tandas:auto -->
 
-## Tanda 34 — cambios del 2026-10-23 (tanda del día: páginas cambiadas y aún no pedidas) 📨 ENVIADA 26/10/2026
+## Tanda 34 — cambios del 2026-10-23 (tanda del día: páginas cambiadas y aún no pedidas) ✅ PEDIDA 26/10/2026
 
-- [ ] https://www.clinicahispanamangum.com/en/blog/antibiotico-infeccion-urinaria-terminar-tratamiento  — cambiada 2026-10-23 · rastreada 2026-10-17 · indexada · pedida 2026-10-16 · 368 impr.
-- [ ] https://www.clinicahispanamangum.com/en/blog/quistes-ovarios-ovario-poliquistico-ultrasonido  — cambiada 2026-10-23 · rastreada 2026-10-23 · indexada · pedida 2026-10-22 · 13 impr.
-- [ ] https://www.clinicahispanamangum.com/en/services/salud-hombre  — cambiada 2026-10-23 · rastreada 2026-06-19 · indexada · 8 impr.
-- [ ] https://www.clinicahispanamangum.com/en/services/anticonceptivos  — cambiada 2026-10-23 · rastreada 2026-06-19 · indexada · 6 impr.
-- [ ] https://www.clinicahispanamangum.com/en/blog/ginecologos-hispanos-houston-hablan-espanol  — cambiada 2026-10-23 · rastreada 2026-07-02 · indexada · 5 impr.
-- [ ] https://www.clinicahispanamangum.com/en/blog/salud-mujer-houston-servicios-ginecologia  — cambiada 2026-10-23 · rastreada 2026-07-08 · indexada · 1 impr.
+- [x] https://www.clinicahispanamangum.com/en/blog/antibiotico-infeccion-urinaria-terminar-tratamiento  — cambiada 2026-10-23 · rastreada 2026-10-17 · indexada · pedida 2026-10-16 · 368 impr.
+- [x] https://www.clinicahispanamangum.com/en/blog/quistes-ovarios-ovario-poliquistico-ultrasonido  — cambiada 2026-10-23 · rastreada 2026-10-23 · indexada · pedida 2026-10-22 · 13 impr.
+- [x] https://www.clinicahispanamangum.com/en/services/salud-hombre  — cambiada 2026-10-23 · rastreada 2026-06-19 · indexada · 8 impr.
+- [x] https://www.clinicahispanamangum.com/en/services/anticonceptivos  — cambiada 2026-10-23 · rastreada 2026-06-19 · indexada · 6 impr.
+- [x] https://www.clinicahispanamangum.com/en/blog/ginecologos-hispanos-houston-hablan-espanol  — cambiada 2026-10-23 · rastreada 2026-07-02 · indexada · 5 impr.
+- [x] https://www.clinicahispanamangum.com/en/blog/salud-mujer-houston-servicios-ginecologia  — cambiada 2026-10-23 · rastreada 2026-07-08 · indexada · 1 impr.
 
 ## Tanda 30
 
