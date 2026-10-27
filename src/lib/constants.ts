@@ -1228,12 +1228,12 @@ We are at 2912 Mangum Rd, Suite A, in northwest Houston, open every day from 9 A
     category: "medicina-general",
     icon: "Mars",
     highlighted: true,
-    title: "Exámenes del Hombre: PSA y Perfil Hormonal",
-    titleEn: "Men's Health Exams: PSA & Hormone Panel",
-    shortDescription: "Exámenes de salud del hombre: antígeno prostático (PSA), perfil hormonal y chequeo general, en español.",
-    shortDescriptionEn: "Men's health exams: prostate antigen (PSA), hormone panel and general checkup, in Spanish.",
-    description: "Exámenes del hombre en Houston, TX: PSA y perfil hormonal. Laboratorio y atención en español, con precios accesibles.",
-    descriptionEn: "Men's health exams in Houston, TX: PSA and hormone panel. Lab work and care in Spanish, with affordable pricing.",
+    title: "Urología y Salud del Hombre: PSA, Próstata y Orina",
+    titleEn: "Urology & Men's Health: PSA, Prostate & Urinary Care",
+    shortDescription: "Urología en español: PSA de próstata, perfil hormonal, vejiga hiperactiva, escapes de orina y chequeo general.",
+    shortDescriptionEn: "Urology in Spanish: prostate PSA, hormone panel, overactive bladder, urine leaks and a general checkup.",
+    description: "Urología y salud del hombre en Houston, TX: PSA, próstata, vejiga hiperactiva y escapes de orina. Consulta inicial gratis, en español y sin cita.",
+    descriptionEn: "Urology and men's health in Houston, TX: PSA, prostate, overactive bladder and urine leaks. Free initial visit, in Spanish, walk-ins welcome.",
     keywords: [
       "examen del hombre houston",
       "prueba psa houston",
@@ -1250,12 +1250,14 @@ We are at 2912 Mangum Rd, Suite A, in northwest Houston, open every day from 9 A
       "Antígeno prostático (PSA)",
       "Nivel de testosterona",
       "Chequeo general del hombre",
+      "Vejiga hiperactiva y escapes de orina",
       "Resultados explicados en español",
     ],
     featuresEn: [
       "Prostate antigen (PSA)",
       "Testosterone level",
       "General men's checkup",
+      "Overactive bladder and urine leaks",
       "Results explained in Spanish",
     ],
     longDescription: `Muchos hombres solo van a consulta cuando algo duele. El problema es que la próstata, la presión o el azúcar pueden cambiar durante años sin dar síntomas. En Clínica Hispana Mangum hacemos tus exámenes sin cita y el equipo médico de la clínica te explica los resultados en español, claro y sin rodeos.
@@ -1277,6 +1279,10 @@ El USPSTF recomienda que los hombres de **55 a 69 años** decidan con su equipo 
 - Levantarte varias veces en la noche para orinar.
 - Ardor, dolor o sangre al orinar.
 - Cansancio que no mejora con descanso.
+
+## ¿Atienden la vejiga hiperactiva y los escapes de orina?
+
+Sí, es parte de la consulta de urología. Si te dan ganas repentinas de orinar que casi no aguantas, vas al baño cada hora o se te salen unas gotas al toser, cargar algo pesado o reírte, no tienes que aguantarlo como "cosa de la edad". En Clínica Hispana Mangum repasamos cuánto líquido tomas y a qué hora, qué medicamentos usas y cómo está tu próstata, hacemos el examen de orina aquí mismo para descartar una infección y pedimos el PSA cuando tu edad o tus síntomas lo piden. Con eso el equipo médico te indica el tratamiento para la vejiga hiperactiva o los escapes, que compras al salir en la farmacia de la clínica, y te enseña ejercicios del piso pélvico y cambios sencillos con los líquidos de la noche.
 
 ## ¿Cómo me preparo?
 
@@ -1308,6 +1314,10 @@ The USPSTF recommends that men aged **55 to 69** decide with their medical team 
 - Getting up several times at night to urinate.
 - Burning, pain or blood when urinating.
 - Fatigue that does not improve with rest.
+
+## Do you treat an overactive bladder and urine leaks?
+
+Yes, it is part of the urology visit. If you get sudden urges you can barely hold, go to the bathroom every hour or leak a few drops when you cough, lift something heavy or laugh, you do not have to put up with it as "just age". At Clínica Hispana Mangum we go over how much you drink and when, which medications you take and how your prostate is doing, run the urine test right here to rule out an infection and order a PSA when your age or symptoms call for it. Then the medical team sets your treatment for the overactive bladder or the leaks, which you buy on your way out at the clinic's pharmacy, and shows you pelvic-floor exercises and simple changes to evening fluids.
 
 ## How do I prepare?
 

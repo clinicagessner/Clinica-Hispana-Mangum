@@ -194,9 +194,9 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
     },
     {
       question: "Si mi PSA sale alto, ¿tengo cáncer?",
-      answer: "No necesariamente. El PSA también sube con infecciones, crecimiento benigno de la próstata o ejercicio reciente. El equipo médico te dice si hay que repetirlo o si conviene ver al urólogo.",
+      answer: "No necesariamente. El PSA también sube con infecciones, crecimiento benigno de la próstata o ejercicio reciente. El equipo médico te dice si hay que repetirlo y cuál es el siguiente paso.",
       questionEn: "If my PSA is high, do I have cancer?",
-      answerEn: "Not necessarily. PSA also rises with infections, benign prostate enlargement or recent exercise. The medical team tells you whether to repeat it or see a urologist.",
+      answerEn: "Not necessarily. PSA also rises with infections, benign prostate enlargement or recent exercise. The medical team tells you whether to repeat it and what the next step is.",
     },
     {
       question: "¿Cuándo tienen sentido los análisis hormonales?",
