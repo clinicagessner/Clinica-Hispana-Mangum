@@ -13,18 +13,18 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 2 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-08).
 <!-- /tandas:auto -->
 
-## Tanda 35 — cambios del 2026-10-27 (análisis diario: landings de Ads alineadas con los anuncios, FAQ I-693, títulos y metas por CTR) 📨 ENVIADA 27/10/2026
+## Tanda 35 — cambios del 2026-10-27 (análisis diario: landings de Ads alineadas con los anuncios, FAQ I-693, títulos y metas por CTR) ✅ PEDIDA 28/10/2026
 
-- [ ] https://www.clinicahispanamangum.com/  — cambiada 2026-10-27
-- [ ] https://www.clinicahispanamangum.com/services/ginecologia  — cambiada 2026-10-27
-- [ ] https://www.clinicahispanamangum.com/services/salud-hombre  — cambiada 2026-10-27
-- [ ] https://www.clinicahispanamangum.com/blog/sinusitis-o-gripe-dolor-cara-congestion  — cambiada 2026-10-27
-- [ ] https://www.clinicahispanamangum.com/services/sueros-vitaminados  — cambiada 2026-10-27
-- [ ] https://www.clinicahispanamangum.com/en  — cambiada 2026-10-27
-- [ ] https://www.clinicahispanamangum.com/en/services/ginecologia  — cambiada 2026-10-27
-- [ ] https://www.clinicahispanamangum.com/en/services/salud-hombre  — cambiada 2026-10-27
-- [ ] https://www.clinicahispanamangum.com/en/blog/sinusitis-o-gripe-dolor-cara-congestion  — cambiada 2026-10-27
-- [ ] https://www.clinicahispanamangum.com/en/services/sueros-vitaminados  — cambiada 2026-10-27
+- [x] https://www.clinicahispanamangum.com/  — cambiada 2026-10-27
+- [x] https://www.clinicahispanamangum.com/services/ginecologia  — cambiada 2026-10-27
+- [x] https://www.clinicahispanamangum.com/services/salud-hombre  — cambiada 2026-10-27
+- [x] https://www.clinicahispanamangum.com/blog/sinusitis-o-gripe-dolor-cara-congestion  — cambiada 2026-10-27
+- [x] https://www.clinicahispanamangum.com/services/sueros-vitaminados  — cambiada 2026-10-27
+- [x] https://www.clinicahispanamangum.com/en  — cambiada 2026-10-27
+- [x] https://www.clinicahispanamangum.com/en/services/ginecologia  — cambiada 2026-10-27
+- [x] https://www.clinicahispanamangum.com/en/services/salud-hombre  — cambiada 2026-10-27
+- [x] https://www.clinicahispanamangum.com/en/blog/sinusitis-o-gripe-dolor-cara-congestion  — cambiada 2026-10-27
+- [x] https://www.clinicahispanamangum.com/en/services/sueros-vitaminados  — cambiada 2026-10-27
 
 ## Tanda 36
 
