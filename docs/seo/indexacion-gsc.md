@@ -6,25 +6,12 @@ poner `✅ PEDIDA dd/mm/aaaa` en su encabezado. Límite: 10 peticiones al día p
 Propiedad: `https://www.clinicahispanamangum.com/`, cuenta **clinicahispanamangum@gmail.com**.
 
 <!-- tandas:auto -->
-**Estado (actualizado 2026-10-27; URL Inspection API, datos de hoy 2026-10-27):** 86 de 96 URLs del sitemap indexadas · 10 sin indexar (5 descubierta sin indexar · 3 rastreada sin indexar · 2 desconocida).
+**Estado (actualizado 2026-10-28; URL Inspection API, datos ANTIGUOS del 2026-10-27: antiguos (2026-10-27): --sin-fetch):** 86 de 96 URLs del sitemap indexadas · 10 sin indexar (5 descubierta sin indexar · 3 rastreada sin indexar · 2 desconocida).
 
 **Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 24 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 5 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
-2 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-08).
+4 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-08).
 <!-- /tandas:auto -->
-
-## Tanda 35 — cambios del 2026-10-27 (análisis diario: landings de Ads alineadas con los anuncios, FAQ I-693, títulos y metas por CTR) ✅ PEDIDA 28/10/2026
-
-- [x] https://www.clinicahispanamangum.com/  — cambiada 2026-10-27
-- [x] https://www.clinicahispanamangum.com/services/ginecologia  — cambiada 2026-10-27
-- [x] https://www.clinicahispanamangum.com/services/salud-hombre  — cambiada 2026-10-27
-- [x] https://www.clinicahispanamangum.com/blog/sinusitis-o-gripe-dolor-cara-congestion  — cambiada 2026-10-27
-- [x] https://www.clinicahispanamangum.com/services/sueros-vitaminados  — cambiada 2026-10-27
-- [x] https://www.clinicahispanamangum.com/en  — cambiada 2026-10-27
-- [x] https://www.clinicahispanamangum.com/en/services/ginecologia  — cambiada 2026-10-27
-- [x] https://www.clinicahispanamangum.com/en/services/salud-hombre  — cambiada 2026-10-27
-- [x] https://www.clinicahispanamangum.com/en/blog/sinusitis-o-gripe-dolor-cara-congestion  — cambiada 2026-10-27
-- [x] https://www.clinicahispanamangum.com/en/services/sueros-vitaminados  — cambiada 2026-10-27
 
 ## Tanda 36
 
@@ -158,3 +145,16 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [x] https://www.clinicahispanamangum.com/en/services/anticonceptivos  — cambiada 2026-10-23 · rastreada 2026-06-19 · indexada · 6 impr.
 - [x] https://www.clinicahispanamangum.com/en/blog/ginecologos-hispanos-houston-hablan-espanol  — cambiada 2026-10-23 · rastreada 2026-07-02 · indexada · 5 impr.
 - [x] https://www.clinicahispanamangum.com/en/blog/salud-mujer-houston-servicios-ginecologia  — cambiada 2026-10-23 · rastreada 2026-07-08 · indexada · 1 impr.
+
+## Tanda 35 — cambios del 2026-10-27 (análisis diario: landings de Ads alineadas con los anuncios, FAQ I-693, títulos y metas por CTR) ✅ PEDIDA 28/10/2026
+
+- [x] https://www.clinicahispanamangum.com/  — cambiada 2026-10-27
+- [x] https://www.clinicahispanamangum.com/services/ginecologia  — cambiada 2026-10-27
+- [x] https://www.clinicahispanamangum.com/services/salud-hombre  — cambiada 2026-10-27
+- [x] https://www.clinicahispanamangum.com/blog/sinusitis-o-gripe-dolor-cara-congestion  — cambiada 2026-10-27
+- [x] https://www.clinicahispanamangum.com/services/sueros-vitaminados  — cambiada 2026-10-27
+- [x] https://www.clinicahispanamangum.com/en  — cambiada 2026-10-27
+- [x] https://www.clinicahispanamangum.com/en/services/ginecologia  — cambiada 2026-10-27
+- [x] https://www.clinicahispanamangum.com/en/services/salud-hombre  — cambiada 2026-10-27
+- [x] https://www.clinicahispanamangum.com/en/blog/sinusitis-o-gripe-dolor-cara-congestion  — cambiada 2026-10-27
+- [x] https://www.clinicahispanamangum.com/en/services/sueros-vitaminados  — cambiada 2026-10-27
