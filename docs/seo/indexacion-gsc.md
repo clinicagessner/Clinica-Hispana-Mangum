@@ -6,14 +6,21 @@ poner `✅ PEDIDA dd/mm/aaaa` en su encabezado. Límite: 10 peticiones al día p
 Propiedad: `https://www.clinicahispanamangum.com/`, cuenta **clinicahispanamangum@gmail.com**.
 
 <!-- tandas:auto -->
-**Estado (actualizado 2026-10-29; URL Inspection API, datos ANTIGUOS del 2026-10-27: antiguos (2026-10-27): --sin-fetch):** 86 de 96 URLs del sitemap indexadas · 10 sin indexar (5 descubierta sin indexar · 3 rastreada sin indexar · 2 desconocida).
+**Estado (actualizado 2026-10-29; URL Inspection API, datos ANTIGUOS del 2026-10-27: antiguos (2026-10-27): --sin-fetch):** 86 de 98 URLs del sitemap indexadas · 12 sin indexar (5 descubierta sin indexar · 3 rastreada sin indexar · 2 desconocida · 2 sin datos).
 
 **Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 24 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 5 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
 4 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-08).
 <!-- /tandas:auto -->
 
-## Tanda 36
+## Tanda 39 — cambios del 2026-10-29 (post del blog semanal + farmacia: equipo médico)  📨 ENVIADA 29/10/2026
+
+- [ ] https://www.clinicahispanamangum.com/blog/piernas-hinchadas-falta-de-aire-corazon  — cambiada 2026-10-29
+- [ ] https://www.clinicahispanamangum.com/en/blog/piernas-hinchadas-falta-de-aire-corazon  — cambiada 2026-10-29
+- [ ] https://www.clinicahispanamangum.com/services/farmacia  — cambiada 2026-10-29
+- [ ] https://www.clinicahispanamangum.com/en/services/farmacia  — cambiada 2026-10-29
+
+## Tanda 40
 
 - [ ] https://www.clinicahispanamangum.com/en/blog/medicos-autorizados-uscis-houston-civil-surgeon  — cambiada 2026-09-17 · rastreada 2026-07-02 · indexada · 19 impr.
 - [ ] https://www.clinicahispanamangum.com/en/services  — cambiada 2026-09-17 · rastreada 2026-07-08 · indexada · 15 impr.
@@ -26,7 +33,7 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.clinicahispanamangum.com/en/blog/laboratorio-clinico-houston-analisis-sangre  — cambiada 2026-09-17 · rastreada 2026-07-02 · indexada · 3 impr.
 - [ ] https://www.clinicahispanamangum.com/en/services/examen-dot  — cambiada 2026-09-17 · rastreada 2026-07-02 · indexada · 3 impr.
 
-## Tanda 37
+## Tanda 41
 
 - [ ] https://www.clinicahispanamangum.com/en/blog/control-diabetes-houston-guia-pacientes  — cambiada 2026-09-17 · rastreada 2026-07-08 · indexada · 2 impr.
 - [ ] https://www.clinicahispanamangum.com/en/services/examen-alcohol-drogas  — cambiada 2026-09-17 · rastreada 2026-09-17 · indexada · 2 impr.
@@ -39,7 +46,7 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.clinicahispanamangum.com/en/services/ultrasonido  — cambiada 2026-09-17 · rastreada 2026-07-06 · indexada · 1 impr.
 - [ ] https://www.clinicahispanamangum.com/en/services/unas-encarnadas  — cambiada 2026-09-17 · rastreada 2026-08-27 · indexada · 1 impr.
 
-## Tanda 38
+## Tanda 42
 
 - [ ] https://www.clinicahispanamangum.com/en/services/vacunas  — cambiada 2026-09-17 · rastreada 2026-06-19 · rastreada sin indexar · 1 impr.
 - [ ] https://www.clinicahispanamangum.com/en/services/condiciones-cronicas  — cambiada 2026-09-17 · rastreada 2026-07-05 · indexada · 0 impr.
