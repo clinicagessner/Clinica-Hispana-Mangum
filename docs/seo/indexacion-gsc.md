@@ -13,12 +13,12 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 4 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-08).
 <!-- /tandas:auto -->
 
-## Tanda 39 — cambios del 2026-10-29 (post del blog semanal + farmacia: equipo médico)  ✅ PEDIDA 29/10/2026
+## Tanda 39 — cambios del 2026-10-29 (post del blog semanal + farmacia: equipo médico)  📨 ENVIADA 29/10/2026
 
-- [x] https://www.clinicahispanamangum.com/blog/piernas-hinchadas-falta-de-aire-corazon  — cambiada 2026-10-29
-- [x] https://www.clinicahispanamangum.com/en/blog/piernas-hinchadas-falta-de-aire-corazon  — cambiada 2026-10-29
-- [x] https://www.clinicahispanamangum.com/services/farmacia  — cambiada 2026-10-29
-- [x] https://www.clinicahispanamangum.com/en/services/farmacia  — cambiada 2026-10-29
+- [ ] https://www.clinicahispanamangum.com/blog/piernas-hinchadas-falta-de-aire-corazon  — cambiada 2026-10-29
+- [ ] https://www.clinicahispanamangum.com/en/blog/piernas-hinchadas-falta-de-aire-corazon  — cambiada 2026-10-29
+- [ ] https://www.clinicahispanamangum.com/services/farmacia  — cambiada 2026-10-29
+- [ ] https://www.clinicahispanamangum.com/en/services/farmacia  — cambiada 2026-10-29
 
 ## Tanda 40
 
