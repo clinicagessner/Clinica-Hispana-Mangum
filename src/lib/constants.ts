@@ -3176,10 +3176,10 @@ We are at 2912 Mangum Rd, Suite A, in northwest Houston, open every day from 9 A
     icon: "Pill",
     title: "Farmacia",
     titleEn: "Pharmacy",
-    shortDescription: "Terminas tu consulta y compras aquí lo que te recetó nuestro médico.",
-    shortDescriptionEn: "Finish your visit and buy what our doctor prescribed right here.",
-    description: "Farmacia en la clínica en Mangum Rd, Houston: al terminar tu consulta compras aquí mismo los medicamentos que te recetó nuestro médico.",
-    descriptionEn: "On-site pharmacy on Mangum Rd, Houston: after your visit, buy the medicines our doctor prescribed right here, with no extra stop.",
+    shortDescription: "Terminas tu consulta y compras aquí lo que te recetó el equipo médico.",
+    shortDescriptionEn: "Finish your visit and buy what our medical team prescribed right here.",
+    description: "Farmacia en la clínica en Mangum Rd, Houston: al terminar tu consulta compras aquí mismo los medicamentos que te recetó el equipo médico.",
+    descriptionEn: "On-site pharmacy on Mangum Rd, Houston: after your visit, buy the medicines our medical team prescribed right here, with no extra stop.",
     keywords: [
       "farmacia en houston",
       "farmacia hispana houston",
@@ -3194,17 +3194,17 @@ We are at 2912 Mangum Rd, Suite A, in northwest Houston, open every day from 9 A
     ],
     features: [
       "Farmacia en el mismo local de la clínica",
-      "Compras lo que te recetó nuestro médico al salir",
+      "Compras lo que te recetó el equipo médico al salir",
       "Medicamentos de marca y genéricos",
       "Explicación de cada medicamento en español",
     ],
     featuresEn: [
       "Pharmacy in the same building as the clinic",
-      "Buy what our doctor prescribed on your way out",
+      "Buy what our medical team prescribed on your way out",
       "Brand-name and generic medications",
       "Each medication explained in Spanish",
     ],
-    longDescription: `Después de la consulta, lo último que quieres es manejar a otra parte para buscar tus medicamentos. En Clínica Hispana Mangum tenemos farmacia en la clínica: al terminar tu consulta compras aquí mismo los medicamentos que te recetó nuestro médico y sales con el tratamiento y las explicaciones en tu idioma, sin hacer otra parada.
+    longDescription: `Después de la consulta, lo último que quieres es manejar a otra parte para buscar tus medicamentos. En Clínica Hispana Mangum tenemos farmacia en la clínica: al terminar tu consulta compras aquí mismo los medicamentos que te recetó el equipo médico y sales con el tratamiento y las explicaciones en tu idioma, sin hacer otra parada.
 
 ## ¿Cómo funciona?
 
@@ -3214,7 +3214,7 @@ We are at 2912 Mangum Rd, Suite A, in northwest Houston, open every day from 9 A
 
 ## Solo recetas de la clínica
 
-La farmacia vende únicamente los medicamentos que receta el médico de Clínica Hispana Mangum en tu consulta. No atiende recetas de otros médicos ni de otras clínicas.
+La farmacia vende únicamente los medicamentos que receta el equipo médico de Clínica Hispana Mangum en tu consulta. No atiende recetas de otros médicos ni de otras clínicas.
 
 ## Te explicamos cómo tomarlos
 
@@ -3242,7 +3242,7 @@ Los genéricos aprobados por la FDA tienen el mismo ingrediente activo, dosis y 
 Si alguien tomó una sobredosis o un niño tragó medicamentos, llama al **Centro de Control de Envenenamientos: 1-800-222-1222**, o al 911 si hay dificultad para respirar o pérdida del conocimiento.
 
 Estamos en 2912 Mangum Rd, Suite A, en el noroeste de Houston, abiertos todos los días de 9 AM a 9 PM. No necesitas seguro; pregunta el precio antes de tu visita. Aceptamos efectivo, tarjetas y Apple Pay.`,
-    longDescriptionEn: `After your visit, the last thing you want is to drive somewhere else for your medications. At Clínica Hispana Mangum we have an on-site pharmacy: after your visit you buy the medicines our doctor prescribed right here and leave with your treatment and instructions in your language, with no extra stop.
+    longDescriptionEn: `After your visit, the last thing you want is to drive somewhere else for your medications. At Clínica Hispana Mangum we have an on-site pharmacy: after your visit you buy the medicines our medical team prescribed right here and leave with your treatment and instructions in your language, with no extra stop.
 
 ## How does it work?
 
@@ -3252,7 +3252,7 @@ Estamos en 2912 Mangum Rd, Suite A, en el noroeste de Houston, abiertos todos lo
 
 ## Clinic prescriptions only
 
-The pharmacy only sells the medications prescribed by the Clínica Hispana Mangum doctor during your visit. It does not take prescriptions from other doctors or other clinics.
+The pharmacy only sells the medications prescribed by the Clínica Hispana Mangum medical team during your visit. It does not take prescriptions from other doctors or other clinics.
 
 ## We explain how to take them
 
