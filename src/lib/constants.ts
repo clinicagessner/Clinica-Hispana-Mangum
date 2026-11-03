@@ -862,6 +862,7 @@ We are at 2912 Mangum Rd, Suite A, in northwest Houston, open every day from 9 A
       "Ultrasonido pélvico en la clínica",
       "Anticonceptivos: pastillas e inyección",
       "Atención privada en español",
+      "Papanicolaou y ultrasonido en un mismo lugar",
     ],
     featuresEn: [
       "Pap smear and gynecological checkup",
@@ -870,6 +871,7 @@ We are at 2912 Mangum Rd, Suite A, in northwest Houston, open every day from 9 A
       "Pelvic ultrasound at the clinic",
       "Birth control: pills and the shot",
       "Private care in Spanish",
+      "Pap smear and ultrasound in one place",
     ],
     longDescription: `Muchas mujeres posponen su revisión ginecológica por falta de tiempo, por pena o porque no encuentran quién las atienda en su idioma. En Clínica Hispana Mangum el equipo médico de la clínica te atiende en un consultorio privado, sin cita y en español, y te explica cada paso antes de empezar. Somos tu clínica para la mujer en Mangum Rd: llega cuando puedas o llama para agendar tu cita; la consulta inicial es gratis y los exámenes y el tratamiento se pagan aparte.
 
@@ -881,6 +883,16 @@ We are at 2912 Mangum Rd, Suite A, in northwest Houston, open every day from 9 A
 - **Molestias al orinar o dolor pélvico**, con estudios de orina cuando hacen falta.
 - **Ultrasonido pélvico** en nuestra sala, sin mandarte a otro edificio, con la imagen explicada en tu idioma.
 - **Anticonceptivos:** la inyección anticonceptiva, las pastillas y la orientación para escoger el método que va con tu vida.
+
+## Clínica para la mujer: todo en un mismo lugar
+
+Tu bienestar ginecológico es fundamental para tu salud general. Por eso en Clínica Hispana Mangum la consulta ginecológica, el examen de Papanicolaou y el ultrasonido se hacen en un mismo lugar, en un espacio cómodo, seguro y confidencial:
+
+- **Consulta de ginecología gratis:** la consulta inicial no se cobra
+- **Examen de Papanicolaou** y revisión ginecológica
+- **Ultrasonidos** en la clínica
+- **Anticoncepción hormonal:** inyección anticonceptiva y pastillas
+- **Agenda tu cita** o llega sin cita, todos los días
 
 ## ¿Cada cuánto debo hacerme el Papanicolaou?
 
@@ -916,6 +928,16 @@ No necesitas seguro médico y aceptamos efectivo, tarjetas y Apple Pay. Estamos 
 - **Urinary discomfort or pelvic pain**, with urine tests when needed.
 - **Pelvic ultrasound** in our own exam room, no trip to another building, with the image explained in your language.
 - **Birth control:** the contraceptive shot, pills and guidance to pick the method that fits your life.
+
+## Women's clinic: everything in one place
+
+Your gynecological well-being is essential to your overall health. That is why at Clínica Hispana Mangum the gynecology visit, the Pap smear and the ultrasound are done in one place, in a comfortable, safe and confidential space:
+
+- **Free gynecology visit:** the initial visit is free of charge
+- **Pap smear** and gynecological exam
+- **Ultrasounds** at the clinic
+- **Hormonal birth control:** the contraceptive shot and pills
+- **Book your appointment** or walk in, every day
 
 ## How often should I get a Pap smear?
 
@@ -1252,6 +1274,7 @@ We are at 2912 Mangum Rd, Suite A, in northwest Houston, open every day from 9 A
       "Chequeo general del hombre",
       "Vejiga hiperactiva y escapes de orina",
       "Resultados explicados en español",
+      "Consulta de urología en español",
     ],
     featuresEn: [
       "Prostate antigen (PSA)",
@@ -1259,6 +1282,7 @@ We are at 2912 Mangum Rd, Suite A, in northwest Houston, open every day from 9 A
       "General men's checkup",
       "Overactive bladder and urine leaks",
       "Results explained in Spanish",
+      "Urology visit in Spanish",
     ],
     longDescription: `Muchos hombres solo van a consulta cuando algo duele. El problema es que la próstata, la presión o el azúcar pueden cambiar durante años sin dar síntomas. En Clínica Hispana Mangum hacemos tus exámenes sin cita y el equipo médico de la clínica te explica los resultados en español, claro y sin rodeos.
 
@@ -1279,6 +1303,14 @@ El USPSTF recomienda que los hombres de **55 a 69 años** decidan con su equipo 
 - Levantarte varias veces en la noche para orinar.
 - Ardor, dolor o sangre al orinar.
 - Cansancio que no mejora con descanso.
+
+## ¿De qué se trata la urología?
+
+La urología atiende la orina, la vejiga y, en el hombre, la próstata. En Clínica Hispana Mangum, clínica familiar en Houston y también clínica para hombres, la consulta de urología es en español:
+
+- **Examen de urología** y problemas urológicos: ardor, chorro débil, ir mucho al baño
+- **Vejiga hiperactiva y escapes de orina:** revisamos las causas y te damos el tratamiento
+- **Sin seguro y sin cita:** llámanos o llega cuando puedas
 
 ## ¿Atienden la vejiga hiperactiva y los escapes de orina?
 
@@ -1314,6 +1346,14 @@ The USPSTF recommends that men aged **55 to 69** decide with their medical team 
 - Getting up several times at night to urinate.
 - Burning, pain or blood when urinating.
 - Fatigue that does not improve with rest.
+
+## What is urology about?
+
+Urology takes care of urine, the bladder and, in men, the prostate. At Clínica Hispana Mangum, a family clinic in Houston and also a men's clinic, the urology visit is in Spanish or English:
+
+- **Urology exam** and urological problems: burning, a weak stream, going to the bathroom often
+- **Overactive bladder and urine leaks:** we look at the causes and give you treatment
+- **No insurance and no appointment needed:** call us or come in when you can
 
 ## Do you treat an overactive bladder and urine leaks?
 

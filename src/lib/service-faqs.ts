@@ -107,6 +107,12 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
   ],
   "ginecologia": [
     {
+      question: "¿La consulta de ginecología es gratis?",
+      answer: "Sí, la consulta inicial de ginecología es gratis; los exámenes y el tratamiento se pagan aparte. La consulta ginecológica, el Papanicolaou y el ultrasonido se hacen en un mismo lugar.",
+      questionEn: "Is the gynecology visit free?",
+      answerEn: "Yes, the initial gynecology visit is free; tests and treatment are paid separately. The gynecology visit, the Pap smear and the ultrasound are done in one place.",
+    },
+    {
       question: "¿Puedo hacerme el Papanicolaou si estoy en mi periodo?",
       answer: "Es mejor esperar a que termine, porque la sangre puede alterar la muestra. Programa tu visita unos días después de tu regla y antes de la siguiente.",
       questionEn: "Can I get a Pap smear during my period?",
@@ -186,6 +192,12 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
     },
   ],
   "salud-hombre": [
+    {
+      question: "¿De qué se trata la consulta de urología?",
+      answer: "Se revisan los problemas urológicos: síntomas al orinar, vejiga hiperactiva, escapes de orina y sus causas, y la próstata en el hombre. Es en español, sin cita y sin seguro.",
+      questionEn: "What is the urology visit about?",
+      answerEn: "It covers urological problems: urinary symptoms, overactive bladder, urine leaks and their causes, and the prostate in men. It is in Spanish or English, walk-in and with no insurance needed.",
+    },
     {
       question: "¿El PSA duele o necesita ayuno?",
       answer: "Es una toma de sangre normal del brazo y no requiere ayuno. Solo evita el ejercicio intenso y andar en bicicleta los 2 días anteriores, porque pueden subir el resultado.",
