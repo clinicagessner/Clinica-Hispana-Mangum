@@ -10,7 +10,7 @@ relatedServices:
   - "examenes-sangre"
   - "tiroides"
 cover: "/images/blog/vitamina-b12-beneficios-inyecciones-houston.webp"
-coverAlt: "Aplicación de vitamina B12 y sueros vitaminados en una clínica hispana de Houston"
+coverAlt: "Aplicación de vitamina B12 en inyección y en suero en una clínica hispana de Houston"
 keywords:
   - "inyección de vitamina b12 houston"
   - "vitamina b12 beneficios"
@@ -61,6 +61,6 @@ Carne, hígado, pescado como sardina y salmón, huevo, leche, queso, yogur y cer
 
 ## Prueba e inyección de B12 en Clínica Hispana Mangum
 
-Medimos tu nivel con [análisis de sangre](/services/examenes-sangre) y aplicamos B12 cuando está indicada; también ofrecemos [sueros vitaminados](/services/sueros-vitaminados) y control de [tiroides](/services/tiroides), otra causa común de cansancio. Revisa las [promociones vigentes](/promociones). Estamos en 2912 Mangum Rd, Suite A, todos los días de 9 AM a 9 PM; llama al **(832) 834-5507**.
+Medimos tu nivel con [análisis de sangre](/services/examenes-sangre) y aplicamos B12 cuando está indicada; también ofrecemos [suero de vitamina B12](/services/sueros-vitaminados) y control de [tiroides](/services/tiroides), otra causa común de cansancio. Revisa las [promociones vigentes](/promociones). Estamos en 2912 Mangum Rd, Suite A, todos los días de 9 AM a 9 PM; llama al **(832) 834-5507**.
 
 **Fuentes:** [NIH: Vitamina B12](https://ods.od.nih.gov/factsheets/VitaminB12-DatosEnEspanol/) · [MedlinePlus: Anemia por deficiencia de B12](https://medlineplus.gov/spanish/ency/article/000574.htm)

@@ -21,7 +21,7 @@ const SERVICE_DATES: Record<string, string> = {
   "cirugias-menores": "2026-09-17",
   "curacion-heridas": "2026-09-17",
   "suturas-heridas": "2026-09-17",
-  "sueros-vitaminados": "2026-09-17",
+  "sueros-vitaminados": "2026-11-02",
   "vacunas": "2026-09-17",
   "ultrasonido": "2026-09-17",
   "electrocardiograma": "2026-09-17",

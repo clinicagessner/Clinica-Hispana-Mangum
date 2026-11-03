@@ -9,7 +9,7 @@ relatedServices:
   - "examenes-sangre"
   - "tiroides"
 cover: "/images/blog/vitamina-b12-beneficios-inyecciones-houston.webp"
-coverAlt: "Vitamin B12 shot and vitamin IV therapy at a Hispanic clinic in Houston"
+coverAlt: "Vitamin B12 shot and vitamin B12 IV therapy at a Hispanic clinic in Houston"
 keywords:
   - "vitamin b12 injection houston"
   - "vitamin b12 benefits"
@@ -60,6 +60,6 @@ Meat, liver, fish such as sardines and salmon, eggs, milk, cheese, yogurt and fo
 
 ## B12 testing and shots at Clínica Hispana Mangum
 
-We measure your level with [blood tests](/en/services/examenes-sangre) and give B12 when indicated; we also offer [IV vitamin therapy](/en/services/sueros-vitaminados) and [thyroid](/en/services/tiroides) care, another common cause of fatigue. See our [current promotions](/en/promociones). We are at 2912 Mangum Rd, Suite A, every day from 9 AM to 9 PM; call **(832) 834-5507**.
+We measure your level with [blood tests](/en/services/examenes-sangre) and give B12 when indicated; we also offer [vitamin B12 IV therapy](/en/services/sueros-vitaminados) and [thyroid](/en/services/tiroides) care, another common cause of fatigue. See our [current promotions](/en/promociones). We are at 2912 Mangum Rd, Suite A, every day from 9 AM to 9 PM; call **(832) 834-5507**.
 
 **Sources:** [NIH: Vitamin B12](https://ods.od.nih.gov/factsheets/VitaminB12-Consumer/) · [MedlinePlus: B12 deficiency anemia](https://medlineplus.gov/ency/article/000574.htm)

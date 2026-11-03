@@ -2526,52 +2526,45 @@ We are at 2912 Mangum Rd, Suite A, in northwest Houston, open every day from 9 A
     order: 23,
     category: "tratamientos",
     icon: "Droplets",
-    title: "Sueros Vitaminados (Terapia IV)",
-    titleEn: "Vitamin IV Therapy",
-    shortDescription: "Sueros vitaminados intravenosos para hidratación y energía, aplicados por personal médico.",
-    shortDescriptionEn: "Intravenous vitamin drips for hydration and energy, administered by medical staff.",
-    description: "¿Para qué sirven los sueros vitaminados? Terapia IV con hidratación y vitaminas en Houston, aplicada por personal médico, en español y sin cita.",
-    descriptionEn: "What are vitamin IV drips for? IV therapy with hydration and vitamins in Houston, given by medical staff, in Spanish, walk-ins welcome.",
+    title: "Suero de Vitamina B12 (Terapia IV)",
+    titleEn: "Vitamin B12 IV Therapy",
+    shortDescription: "Suero intravenoso de vitamina B12, aplicado por personal médico.",
+    shortDescriptionEn: "Intravenous vitamin B12 drip, administered by medical staff.",
+    description: "Suero de vitamina B12 (terapia IV) en Houston, aplicado por personal médico tras una evaluación breve, en español y sin cita.",
+    descriptionEn: "Vitamin B12 IV therapy in Houston, given by medical staff after a brief evaluation, in Spanish, walk-ins welcome.",
     keywords: [
       "sueros vitaminados houston",
       "terapia iv houston",
       "suero de vitaminas houston",
-      "hidratacion intravenosa houston",
+      "suero de vitamina b12 houston",
     ],
     keywordsEn: [
       "vitamin iv therapy houston",
       "iv drip houston",
-      "iv hydration houston",
+      "vitamin b12 iv houston",
       "vitamin drip houston",
     ],
     features: [
-      "Hidratación intravenosa",
-      "Vitaminas y minerales",
+      "Suero de vitamina B12",
+      "Evaluación antes de aplicarlo",
       "Aplicación por personal médico",
       "Atención en español",
     ],
     featuresEn: [
-      "Intravenous hydration",
-      "Vitamins and minerals",
+      "Vitamin B12 IV drip",
+      "Evaluation before starting",
       "Administered by medical staff",
       "Care in Spanish",
     ],
-    longDescription: `Los sueros vitaminados, también llamados terapia IV, administran líquidos, vitaminas y minerales directamente en la vena. Muchas personas los buscan para rehidratarse después de un malestar, un día de mucho calor o una etapa de cansancio. En Clínica Hispana Mangum el equipo médico de la clínica hace una evaluación breve antes de aplicarlos y vigila la aplicación de principio a fin.
+    longDescription: `El suero que se aplica en Clínica Hispana Mangum es de vitamina B12: la vitamina entra directamente en la vena (terapia IV). El equipo médico de la clínica hace una evaluación breve antes de aplicarlo y vigila la aplicación de principio a fin.
 
-## ¿Para quién pueden ser útiles?
-
-- Personas **deshidratadas** por calor intenso, ejercicio o un cuadro de vómito o diarrea ya en recuperación.
-- Quienes tienen **dificultad para tomar suficientes líquidos** por la boca.
-- Personas que buscan un aporte de hidratación y vitaminas como apoyo, junto con alimentación y descanso.
-
-Los sueros **no sustituyen** el tratamiento de una enfermedad ni la consulta para encontrar la causa del cansancio.
+El suero **no sustituye** el tratamiento de una enfermedad ni la consulta para encontrar la causa del cansancio.
 
 ## ¿Cómo es la visita?
 
 1. **Evaluación:** preguntas sobre tu salud, medicamentos y alergias, y toma de signos vitales.
-2. **Elección del suero** adecuado para ti.
-3. **Colocación** de una vía pequeña en la vena del brazo.
-4. **Aplicación y monitoreo**, normalmente entre 30 y 60 minutos, sentado y cómodo.
+2. **Colocación** de una vía pequeña en la vena del brazo.
+3. **Aplicación y monitoreo**, normalmente entre 30 y 60 minutos, sentado y cómodo.
 
 ## ¿Quién no debería aplicárselo sin revisión?
 
@@ -2586,22 +2579,15 @@ Cuando el cansancio dura semanas, conviene buscar la causa con [análisis de san
 Confusión, desmayo, orinar muy poco o vómito que no para son señales de deshidratación grave que requieren atención de urgencias.
 
 Estamos en 2912 Mangum Rd, Suite A, en el noroeste de Houston, abiertos todos los días de 9 AM a 9 PM. No necesitas seguro; pregunta el precio antes de tu visita. Aceptamos efectivo, tarjetas y Apple Pay.`,
-    longDescriptionEn: `IV vitamin therapy delivers fluids, vitamins and minerals directly into a vein. Many people look for it to rehydrate after being sick, a very hot day or a period of fatigue. At Clínica Hispana Mangum the clinic's medical team does a brief evaluation before starting and monitors the infusion from start to finish.
+    longDescriptionEn: `The IV given at Clínica Hispana Mangum is a vitamin B12 drip: the vitamin goes directly into a vein (IV therapy). The clinic's medical team does a brief evaluation before starting and monitors the infusion from start to finish.
 
-## Who might it help?
-
-- People who are **dehydrated** from intense heat, exercise or a bout of vomiting or diarrhea that is already improving.
-- People who have **trouble drinking enough fluids** by mouth.
-- People looking for hydration and vitamin support alongside good food and rest.
-
-IV therapy **does not replace** treatment for an illness or a visit to find the cause of fatigue.
+The IV **does not replace** treatment for an illness or a visit to find the cause of fatigue.
 
 ## What is the visit like?
 
 1. **Evaluation:** questions about your health, medications and allergies, plus vital signs.
-2. **Choosing the right IV** for you.
-3. **Placing** a small line in an arm vein.
-4. **Infusion and monitoring**, usually 30 to 60 minutes, seated and comfortable.
+2. **Placing** a small line in an arm vein.
+3. **Infusion and monitoring**, usually 30 to 60 minutes, seated and comfortable.
 
 ## Who should not get it without a review?
 

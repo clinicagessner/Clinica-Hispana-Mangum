@@ -447,9 +447,9 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
   ],
   "sueros-vitaminados": [
     {
-      question: "¿Quién aplica el suero vitaminado?",
+      question: "¿Quién aplica el suero de vitamina B12?",
       answer: "Lo aplica y vigila el equipo médico de la clínica, después de una evaluación breve de tu salud, medicamentos y alergias.",
-      questionEn: "Who gives the IV vitamin therapy?",
+      questionEn: "Who gives the vitamin B12 IV?",
       answerEn: "The clinic's medical team gives and monitors it, after a brief review of your health, medications and allergies.",
     },
     {
