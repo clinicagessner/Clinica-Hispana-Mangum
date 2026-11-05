@@ -6,17 +6,12 @@ poner `✅ PEDIDA dd/mm/aaaa` en su encabezado. Límite: 10 peticiones al día p
 Propiedad: `https://www.clinicahispanamangum.com/`, cuenta **clinicahispanamangum@gmail.com**.
 
 <!-- tandas:auto -->
-**Estado (actualizado 2026-11-04; URL Inspection API, datos ANTIGUOS del 2026-11-02: antiguos (2026-11-02): --sin-fetch):** 87 de 98 URLs del sitemap indexadas · 11 sin indexar (4 descubierta sin indexar · 4 rastreada sin indexar · 3 desconocida).
+**Estado (actualizado 2026-11-05; URL Inspection API, datos ANTIGUOS del 2026-11-02: antiguos (2026-11-02): --sin-fetch):** 87 de 98 URLs del sitemap indexadas · 11 sin indexar (4 descubierta sin indexar · 4 rastreada sin indexar · 3 desconocida).
 
 **Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 17 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 5 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
-3 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-08).
+4 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-08).
 <!-- /tandas:auto -->
-
-## Tanda 47 — cambios del 2026-11-02 (anuncios = referencia (barrido completo))  📨 ENVIADA 04/11/2026  ✅ PEDIDA 05/11/2026
-
-- [x] https://www.clinicahispanamangum.com/en/services/ginecologia  — cambiada 2026-11-02
-- [x] https://www.clinicahispanamangum.com/en/services/salud-hombre  — cambiada 2026-11-02
 
 ## Tanda 48
 
@@ -176,3 +171,8 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [x] https://www.clinicahispanamangum.com/en/blog/vitamina-b12-beneficios-inyecciones-houston  — cambiada 2026-11-02
 - [x] https://www.clinicahispanamangum.com/services/ginecologia  — cambiada 2026-11-02
 - [x] https://www.clinicahispanamangum.com/services/salud-hombre  — cambiada 2026-11-02
+
+## Tanda 47 — cambios del 2026-11-02 (anuncios = referencia (barrido completo))  📨 ENVIADA 04/11/2026  ✅ PEDIDA 05/11/2026
+
+- [x] https://www.clinicahispanamangum.com/en/services/ginecologia  — cambiada 2026-11-02
+- [x] https://www.clinicahispanamangum.com/en/services/salud-hombre  — cambiada 2026-11-02
