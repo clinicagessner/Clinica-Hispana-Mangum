@@ -13,6 +13,11 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 4 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-08).
 <!-- /tandas:auto -->
 
+## Tanda 51 — cambios del 2026-11-05 (post del blog semanal) 📨 ENVIADA 05/11/2026
+
+- [ ] https://www.clinicahispanamangum.com/blog/raspones-cortadas-mordidas-ninos-tetanos  — cambiada 2026-11-05
+- [ ] https://www.clinicahispanamangum.com/en/blog/raspones-cortadas-mordidas-ninos-tetanos  — cambiada 2026-11-05
+
 ## Tanda 48
 
 - [ ] https://www.clinicahispanamangum.com/en/blog/medicos-autorizados-uscis-houston-civil-surgeon  — cambiada 2026-09-17 · rastreada 2026-07-02 · indexada · 87 impr.
