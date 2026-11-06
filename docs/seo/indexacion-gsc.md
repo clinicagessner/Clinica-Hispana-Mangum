@@ -13,10 +13,10 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 4 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-08).
 <!-- /tandas:auto -->
 
-## Tanda 51 — cambios del 2026-11-05 (post del blog semanal)  📨 ENVIADA 06/11/2026
+## Tanda 51 — cambios del 2026-11-05 (post del blog semanal)  📨 ENVIADA 06/11/2026  ✅ PEDIDA 06/11/2026
 
-- [ ] https://www.clinicahispanamangum.com/blog/raspones-cortadas-mordidas-ninos-tetanos  — cambiada 2026-11-05
-- [ ] https://www.clinicahispanamangum.com/en/blog/raspones-cortadas-mordidas-ninos-tetanos  — cambiada 2026-11-05
+- [x] https://www.clinicahispanamangum.com/blog/raspones-cortadas-mordidas-ninos-tetanos  — cambiada 2026-11-05
+- [x] https://www.clinicahispanamangum.com/en/blog/raspones-cortadas-mordidas-ninos-tetanos  — cambiada 2026-11-05
 
 ## Tanda 52
 
