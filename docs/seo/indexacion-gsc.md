@@ -6,19 +6,19 @@ poner `✅ PEDIDA dd/mm/aaaa` en su encabezado. Límite: 10 peticiones al día p
 Propiedad: `https://www.clinicahispanamangum.com/`, cuenta **clinicahispanamangum@gmail.com**.
 
 <!-- tandas:auto -->
-**Estado (actualizado 2026-11-05; URL Inspection API, datos ANTIGUOS del 2026-11-02: antiguos (2026-11-02): --sin-fetch):** 87 de 98 URLs del sitemap indexadas · 11 sin indexar (4 descubierta sin indexar · 4 rastreada sin indexar · 3 desconocida).
+**Estado (actualizado 2026-11-06; URL Inspection API, datos ANTIGUOS del 2026-11-02: antiguos (2026-11-02): --sin-fetch):** 87 de 100 URLs del sitemap indexadas · 13 sin indexar (4 descubierta sin indexar · 4 rastreada sin indexar · 3 desconocida · 2 sin datos).
 
 **Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 17 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 5 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
 4 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-08).
 <!-- /tandas:auto -->
 
-## Tanda 51 — cambios del 2026-11-05 (post del blog semanal) 📨 ENVIADA 05/11/2026
+## Tanda 51 — cambios del 2026-11-05 (post del blog semanal)  📨 ENVIADA 06/11/2026
 
 - [ ] https://www.clinicahispanamangum.com/blog/raspones-cortadas-mordidas-ninos-tetanos  — cambiada 2026-11-05
 - [ ] https://www.clinicahispanamangum.com/en/blog/raspones-cortadas-mordidas-ninos-tetanos  — cambiada 2026-11-05
 
-## Tanda 48
+## Tanda 52
 
 - [ ] https://www.clinicahispanamangum.com/en/blog/medicos-autorizados-uscis-houston-civil-surgeon  — cambiada 2026-09-17 · rastreada 2026-07-02 · indexada · 87 impr.
 - [ ] https://www.clinicahispanamangum.com/en/blog/salud-hombre-houston-chequeos-preventivos  — cambiada 2026-09-17 · rastreada 2026-08-01 · indexada · 41 impr.
@@ -31,7 +31,7 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.clinicahispanamangum.com/en/services/examen-alcohol-drogas  — cambiada 2026-09-17 · rastreada 2026-09-17 · indexada · 5 impr.
 - [ ] https://www.clinicahispanamangum.com/en/services/enfermedades-transmision-sexual  — cambiada 2026-09-17 · rastreada 2026-07-03 · indexada · 2 impr.
 
-## Tanda 49
+## Tanda 53
 
 - [ ] https://www.clinicahispanamangum.com/en/services/examenes-sangre  — cambiada 2026-09-17 · rastreada 2026-08-29 · indexada · 2 impr.
 - [ ] https://www.clinicahispanamangum.com/en/services/vacunas  — cambiada 2026-09-17 · rastreada 2026-06-19 · rastreada sin indexar · 2 impr.
@@ -44,7 +44,7 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.clinicahispanamangum.com/en/services/alergias  — cambiada 2026-09-17 · descubierta sin indexar · pedida 2026-09-25 · 0 impr.
 - [ ] https://www.clinicahispanamangum.com/en/services/drenaje-abscesos  — cambiada 2026-09-17 · descubierta sin indexar · pedida 2026-09-25 · 0 impr.
 
-## Tanda 50
+## Tanda 54
 
 - [ ] https://www.clinicahispanamangum.com/en/services/examen-heces  — cambiada 2026-09-17 · desconocida · pedida 2026-09-25 · 0 impr.
 - [ ] https://www.clinicahispanamangum.com/en/services/tiroides  — cambiada 2026-09-17 · desconocida · pedida 2026-09-25 · 0 impr.
