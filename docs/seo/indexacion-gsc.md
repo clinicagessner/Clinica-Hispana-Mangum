@@ -6,11 +6,11 @@ poner `✅ PEDIDA dd/mm/aaaa` en su encabezado. Límite: 10 peticiones al día p
 Propiedad: `https://www.clinicahispanamangum.com/`, cuenta **clinicahispanamangum@gmail.com**.
 
 <!-- tandas:auto -->
-**Estado (actualizado 2026-11-07; URL Inspection API, datos ANTIGUOS del 2026-11-02: antiguos (2026-11-02): --sin-fetch):** 87 de 100 URLs del sitemap indexadas · 13 sin indexar (4 descubierta sin indexar · 4 rastreada sin indexar · 3 desconocida · 2 sin datos).
+**Estado (actualizado 2026-11-08; URL Inspection API, datos ANTIGUOS del 2026-11-02: antiguos (2026-11-02): --sin-fetch):** 87 de 100 URLs del sitemap indexadas · 13 sin indexar (4 descubierta sin indexar · 4 rastreada sin indexar · 3 desconocida · 2 sin datos).
 
-**Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 17 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 5 no indexadas no pedidas en los últimos 14 días.
+**Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 17 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 6 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
-6 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-08).
+5 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-09).
 <!-- /tandas:auto -->
 
 ## Tanda 52
@@ -35,12 +35,13 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.clinicahispanamangum.com/en/services/ultrasonido  — cambiada 2026-09-17 · rastreada 2026-07-06 · indexada · 1 impr.
 - [ ] https://www.clinicahispanamangum.com/en/services/condiciones-cronicas  — cambiada 2026-09-17 · rastreada 2026-07-05 · indexada · 0 impr.
 - [ ] https://www.clinicahispanamangum.com/en/services/enfermedades-respiratorias  — cambiada 2026-09-17 · rastreada 2026-07-10 · indexada · 0 impr.
+- [ ] https://www.clinicahispanamangum.com/services/anticonceptivos  — cambiada 2026-10-23 · descubierta sin indexar · pedida 2026-10-25 · 0 impr.
 - [ ] https://www.clinicahispanamangum.com/services/vacunas  — cambiada 2026-09-17 · desconocida · pedida 2026-09-25 · 0 impr.
 - [ ] https://www.clinicahispanamangum.com/en/services/alergias  — cambiada 2026-09-17 · descubierta sin indexar · pedida 2026-09-25 · 0 impr.
-- [ ] https://www.clinicahispanamangum.com/en/services/drenaje-abscesos  — cambiada 2026-09-17 · descubierta sin indexar · pedida 2026-09-25 · 0 impr.
 
 ## Tanda 54
 
+- [ ] https://www.clinicahispanamangum.com/en/services/drenaje-abscesos  — cambiada 2026-09-17 · descubierta sin indexar · pedida 2026-09-25 · 0 impr.
 - [ ] https://www.clinicahispanamangum.com/en/services/examen-heces  — cambiada 2026-09-17 · desconocida · pedida 2026-09-25 · 0 impr.
 - [ ] https://www.clinicahispanamangum.com/en/services/tiroides  — cambiada 2026-09-17 · desconocida · pedida 2026-09-25 · 0 impr.
 
