@@ -560,9 +560,9 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
   "unas-encarnadas": [
     {
       question: "¿Cómo tratan la uña encarnada?",
-      answer: "Con anestesia local se retira la porción de uña que se clava en la piel, se limpia y se venda. El alivio del dolor se nota el mismo día.",
+      answer: "Con anestesia local se retira la porción de uña que se clava en la piel, se limpia y se venda. Te explicamos los cuidados en casa para que se recupere bien.",
       questionEn: "How do you treat an ingrown nail?",
-      answerEn: "With local anesthesia, the portion of nail digging into the skin is removed, cleaned and bandaged. Pain relief is noticeable the same day.",
+      answerEn: "With local anesthesia, the portion of nail digging into the skin is removed, cleaned and bandaged. We explain the home care so it heals well.",
     },
     {
       question: "¿Cómo evito que se vuelva a encarnar?",

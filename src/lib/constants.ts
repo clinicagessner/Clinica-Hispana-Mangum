@@ -571,13 +571,13 @@ We are at 2912 Mangum Rd, Suite A, in northwest Houston, open every day from 9 A
     keywords: [
       "alergias houston",
       "tratamiento de alergias houston",
-      "doctor de alergias español houston",
+      "clínica de alergias en español houston",
       "examen de alergias houston",
     ],
     keywordsEn: [
       "allergy treatment houston",
       "allergy testing houston",
-      "allergy doctor houston",
+      "allergy care houston",
       "allergy clinic houston",
     ],
     features: [
@@ -603,7 +603,7 @@ We are at 2912 Mangum Rd, Suite A, in northwest Houston, open every day from 9 A
 
 ## ¿Cómo sabemos qué te causa la alergia?
 
-El equipo médico revisa cuándo aparecen los síntomas, dónde estás y qué cambió en tu rutina. Muchas veces el patrón basta para identificar el desencadenante. Si hace falta confirmar, se indican estudios o la referencia a un alergólogo.
+El equipo médico revisa cuándo aparecen los síntomas, dónde estás y qué cambió en tu rutina. Muchas veces el patrón basta para identificar el desencadenante. Si hace falta confirmar, se indican estudios y te explicamos el siguiente paso.
 
 ## ¿Cómo se tratan?
 
@@ -627,7 +627,7 @@ Estamos en 2912 Mangum Rd, Suite A, en el noroeste de Houston, abiertos todos lo
 
 ## How do we find what causes it?
 
-The medical team reviews when symptoms appear, where you are and what changed in your routine. Often the pattern is enough to identify the trigger. If confirmation is needed, tests or a referral to an allergist are arranged.
+The medical team reviews when symptoms appear, where you are and what changed in your routine. Often the pattern is enough to identify the trigger. If confirmation is needed, tests are ordered and we explain the next step.
 
 ## How are allergies treated?
 
@@ -3120,7 +3120,7 @@ We are at 2912 Mangum Rd, Suite A, in northwest Houston, open every day from 9 A
       "Pain relief",
       "After-care instructions",
     ],
-    longDescription: `Una uña encarnada se clava en la piel del dedo, casi siempre del dedo gordo del pie, y causa dolor, enrojecimiento y a veces pus. Cuando no mejora con cuidados en casa, se puede tratar en la clínica con un procedimiento sencillo y anestesia local, y el alivio llega el mismo día.
+    longDescription: `Una uña encarnada se clava en la piel del dedo, casi siempre del dedo gordo del pie, y causa dolor, enrojecimiento y a veces pus. Cuando no mejora con cuidados en casa, se puede tratar en la clínica con un procedimiento sencillo y anestesia local; el procedimiento se hace en la consulta y te explicamos los cuidados para que se recupere bien.
 
 ## ¿Por qué se encarna la uña?
 
@@ -3157,7 +3157,7 @@ Si las uñas encarnadas se repiten, el equipo médico te explica las opciones pa
 **No intentes tratarla en casa.** Una herida pequeña en el pie puede complicarse rápido; consulta pronto.
 
 Estamos en 2912 Mangum Rd, Suite A, en el noroeste de Houston, abiertos todos los días de 9 AM a 9 PM. No necesitas seguro; pregunta el precio antes de tu visita. Aceptamos efectivo, tarjetas y Apple Pay.`,
-    longDescriptionEn: `An ingrown nail digs into the skin of the toe, usually the big toe, causing pain, redness and sometimes pus. When home care does not help, it can be treated at the clinic with a simple procedure and local anesthesia, with relief the same day.
+    longDescriptionEn: `An ingrown nail digs into the skin of the toe, usually the big toe, causing pain, redness and sometimes pus. When home care does not help, it can be treated at the clinic with a simple procedure and local anesthesia; the procedure is done during your visit and we explain the after-care so it heals well.
 
 ## Why do nails become ingrown?
 
@@ -3234,7 +3234,7 @@ We are at 2912 Mangum Rd, Suite A, in northwest Houston, open every day from 9 A
 
 ## ¿Cómo funciona?
 
-1. Nuestro médico te revisa y te receta lo que necesitas.
+1. Nuestro equipo médico te revisa y te receta lo que necesitas.
 2. Al salir del consultorio pasas a la farmacia, en el mismo local de Mangum Rd.
 3. Compras tus medicamentos, con **opción genérica** cuando existe, que suele costar menos y tiene el mismo ingrediente activo.
 
@@ -3272,7 +3272,7 @@ Estamos en 2912 Mangum Rd, Suite A, en el noroeste de Houston, abiertos todos lo
 
 ## How does it work?
 
-1. Our doctor examines you and prescribes what you need.
+1. Our medical team examines you and prescribes what you need.
 2. When you leave the exam room, you go to the pharmacy in the same building on Mangum Rd.
 3. You buy your medications, with a **generic option** where one exists, which usually costs less and has the same active ingredient.
 
