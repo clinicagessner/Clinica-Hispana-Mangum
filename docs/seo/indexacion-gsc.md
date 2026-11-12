@@ -13,10 +13,10 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 3 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-13).
 <!-- /tandas:auto -->
 
-## Tanda 55 — cambios del 2026-11-12 (post del blog semanal)  📨 ENVIADA 12/11/2026
+## Tanda 55 — cambios del 2026-11-12 (post del blog semanal)  📨 ENVIADA 12/11/2026  ✅ PEDIDA 12/11/2026
 
-- [ ] https://www.clinicahispanamangum.com/blog/una-encarnada-infectada-dolor-pus-cuidados  — cambiada 2026-11-12
-- [ ] https://www.clinicahispanamangum.com/en/blog/una-encarnada-infectada-dolor-pus-cuidados  — cambiada 2026-11-12
+- [x] https://www.clinicahispanamangum.com/blog/una-encarnada-infectada-dolor-pus-cuidados  — cambiada 2026-11-12
+- [x] https://www.clinicahispanamangum.com/en/blog/una-encarnada-infectada-dolor-pus-cuidados  — cambiada 2026-11-12
 
 ## Tanda 52
 
