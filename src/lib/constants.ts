@@ -894,6 +894,15 @@ Tu bienestar ginecológico es fundamental para tu salud general. Por eso en Clí
 - **Anticoncepción hormonal:** inyección anticonceptiva y pastillas
 - **Agenda tu cita** o llega sin cita, todos los días
 
+## Chequeo general de la mujer y control ginecológico
+
+Como clínica hispana de ginecología en el noroeste de Houston, ofrecemos una gama completa de servicios para el cuidado de la salud de la mujer. En cada control ginecológico el equipo médico repasa tu historial y arma contigo un plan de cuidado individualizado, pensado para tu edad, tus molestias y tus resultados anteriores:
+
+- **Evaluación completa anual:** examen ginecológico, examen pélvico y el Papanicolaou cuando te corresponde
+- **Chequeo general de la mujer**, con análisis de sangre si el equipo médico los indica
+- **[Pruebas de ETS para mujeres](/services/enfermedades-transmision-sexual)**, confidenciales y sin juicios
+- **Orden de mamografía** cuando toca, como en el chequeo completo de la mujer
+
 ## ¿Cada cuánto debo hacerme el Papanicolaou?
 
 Según el Grupo de Trabajo de Servicios Preventivos de EE. UU. (USPSTF):
@@ -938,6 +947,15 @@ Your gynecological well-being is essential to your overall health. That is why a
 - **Ultrasounds** at the clinic
 - **Hormonal birth control:** the contraceptive shot and pills
 - **Book your appointment** or walk in, every day
+
+## Women's general checkup and gynecology follow-up
+
+As a Hispanic gynecology clinic in northwest Houston, we offer a full range of services for women's health care. At each gynecology follow-up the medical team goes over your history and builds an individualized care plan with you, shaped around your age, your symptoms and your earlier results:
+
+- **Complete yearly evaluation:** gynecological exam, pelvic exam and the Pap smear when you are due
+- **Women's general checkup**, with blood work if the medical team orders it
+- **[STD testing for women](/en/services/enfermedades-transmision-sexual)**, confidential and judgment-free
+- **Mammogram referral** when it is time, as in the complete women's checkup
 
 ## How often should I get a Pap smear?
 
