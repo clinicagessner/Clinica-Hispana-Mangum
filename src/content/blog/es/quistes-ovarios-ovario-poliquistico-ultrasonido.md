@@ -1,6 +1,7 @@
 ---
 title: "Quistes en los ovarios y ovario poliquístico: el ultrasonido"
-description: "¿Dolor de un lado o reglas que no llegan? Qué es un quiste funcional, qué es el ovario poliquístico y qué puede (o no) mostrar el ultrasonido pélvico."
+metaTitle: "¿Quistes en los ovarios y ovario poliquístico es lo mismo?"
+description: "No son lo mismo. La diferencia entre un quiste funcional y el ovario poliquístico, y qué puede (o no) mostrar el ultrasonido pélvico de los ovarios."
 date: "2026-10-22"
 dateModified: "2026-10-23"
 author: "Equipo Clínica Hispana Mangum"

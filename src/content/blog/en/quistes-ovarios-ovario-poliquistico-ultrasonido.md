@@ -1,6 +1,7 @@
 ---
 title: "Ovarian cysts and PCOS: what an ultrasound can show"
-description: "One-sided pelvic pain or periods that skip months? How a functional cyst differs from PCOS, and what a pelvic ultrasound can and cannot tell you."
+metaTitle: "Are ovarian cysts and PCOS the same? What ultrasound shows"
+description: "They are not the same thing. How a functional cyst differs from PCOS, and what a pelvic ultrasound can and cannot tell you about your ovaries."
 date: "2026-10-22"
 dateModified: "2026-10-23"
 author: "Clínica Hispana Mangum Team"
