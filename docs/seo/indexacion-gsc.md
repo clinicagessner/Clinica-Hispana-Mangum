@@ -28,8 +28,8 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 
 ## Tanda 59 — cambios del 2026-11-14 (análisis diario 13/11: título y meta del post de quistes y ovario poliquístico)
 
-- [ ] https://www.clinicahispanamangum.com/blog/quistes-ovarios-ovario-poliquistico-ultrasonido  — cambiada 2026-11-14
-- [ ] https://www.clinicahispanamangum.com/en/blog/quistes-ovarios-ovario-poliquistico-ultrasonido  — cambiada 2026-11-14
+- [ ] https://www.clinicahispanamangum.com/blog/quistes-ovarios-ovario-poliquistico-ultrasonido  — cambiada 2026-11-13 (pedir el 14/11: cupo de hoy lleno)
+- [ ] https://www.clinicahispanamangum.com/en/blog/quistes-ovarios-ovario-poliquistico-ultrasonido  — cambiada 2026-11-13 (pedir el 14/11: cupo de hoy lleno)
 
 ## Tanda 57
 
