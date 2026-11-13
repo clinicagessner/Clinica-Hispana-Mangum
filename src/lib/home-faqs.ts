@@ -66,4 +66,12 @@ export const HOME_FAQS: ServiceFaq[] = [
     answerEn:
       "Yes. Many families choose us as their primary care provider and medical center close to home: general medicine visits, chronic condition management and lab work in one place.",
   },
+  {
+    question: "¿Es una clínica general y un centro de salud para hispanos?",
+    answer:
+      "Sí. Somos una clínica general y una clínica para hispanos abierta a toda la comunidad latina del noroeste de Houston: atención médica familiar para niños y adultos, exámenes y análisis de sangre, y el examen médico de inmigración para la residencia (I-693). Funcionamos como tu centro de salud de barrio, sin seguro y sin cita, y el equipo te atiende en español.",
+    questionEn: "Is this a general clinic and a health center for Hispanics?",
+    answerEn:
+      "Yes. We are a general clinic for Hispanics, open to the whole Latino community of northwest Houston: family medical care for children and adults, lab tests and blood work, and the immigration medical exam for your green card (I-693). Think of us as your neighborhood health center, with no insurance or appointment needed, and a team that sees you in Spanish.",
+  },
 ];
