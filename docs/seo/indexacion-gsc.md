@@ -26,22 +26,25 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.clinicahispanamangum.com/services/alergias  — cambiada 2026-11-13
 - [ ] https://www.clinicahispanamangum.com/en/services/alergias  — cambiada 2026-11-13
 
-## Tanda 59 — cambios del 2026-11-14 (análisis diario 13/11: título y meta del post de quistes y ovario poliquístico)
+## Tanda 59 — cambios del 2026-11-14 (análisis diario 13/11: post de quistes + páginas que salieron del índice)
 
 - [ ] https://www.clinicahispanamangum.com/blog/quistes-ovarios-ovario-poliquistico-ultrasonido  — cambiada 2026-11-13 (pedir el 14/11: cupo de hoy lleno)
 - [ ] https://www.clinicahispanamangum.com/en/blog/quistes-ovarios-ovario-poliquistico-ultrasonido  — cambiada 2026-11-13 (pedir el 14/11: cupo de hoy lleno)
+- [ ] https://www.clinicahispanamangum.com/services/examenes-inmigracion  — salió del índice entre el 06/11 y el 10/11 (rastreada sin indexar, último rastreo en julio)
+- [ ] https://www.clinicahispanamangum.com/en/services/examenes-inmigracion  — salió del índice entre el 06/11 y el 10/11 (rastreada sin indexar, último rastreo en julio)
+- [ ] https://www.clinicahispanamangum.com/en/services  — salió del índice entre el 06/11 y el 10/11 (rastreada sin indexar, último rastreo en julio)
+- [ ] https://www.clinicahispanamangum.com/en/services/ultrasonido  — salió del índice entre el 06/11 y el 10/11 (rastreada sin indexar, último rastreo en julio)
+- [ ] https://www.clinicahispanamangum.com/en/services/enfermedades-transmision-sexual  — salió del índice entre el 06/11 y el 10/11 (rastreada sin indexar, último rastreo en julio)
+- [ ] https://www.clinicahispanamangum.com/en/services/electrocardiograma  — salió del índice entre el 06/11 y el 10/11 (rastreada sin indexar, último rastreo en julio)
+- [ ] https://www.clinicahispanamangum.com/en/blog/medicos-autorizados-uscis-houston-civil-surgeon  — salió del índice entre el 06/11 y el 10/11 (rastreada sin indexar, último rastreo en julio)
+- [ ] https://www.clinicahispanamangum.com/en/blog/laboratorio-clinico-houston-analisis-sangre  — salió del índice entre el 06/11 y el 10/11 (rastreada sin indexar, último rastreo en julio)
 
 ## Tanda 57
 
-- [ ] https://www.clinicahispanamangum.com/en/blog/medicos-autorizados-uscis-houston-civil-surgeon  — cambiada 2026-09-17 · rastreada 2026-07-02 · indexada · 84 impr.
 - [ ] https://www.clinicahispanamangum.com/en/services/examen-fisico-escolar  — cambiada 2026-09-17 · rastreada 2026-08-01 · indexada · 22 impr.
 - [ ] https://www.clinicahispanamangum.com/en/blog/atencion-medica-sin-seguro-houston  — cambiada 2026-09-17 · rastreada 2026-09-15 · indexada · 21 impr.
-- [ ] https://www.clinicahispanamangum.com/en/blog/laboratorio-clinico-houston-analisis-sangre  — cambiada 2026-09-17 · rastreada 2026-07-02 · indexada · 9 impr.
 - [ ] https://www.clinicahispanamangum.com/en/services/extraccion-implantes  — cambiada 2026-09-17 · rastreada 2026-08-26 · indexada · 7 impr.
-- [ ] https://www.clinicahispanamangum.com/en/services/electrocardiograma  — cambiada 2026-09-17 · rastreada 2026-07-02 · indexada · 5 impr.
-- [ ] https://www.clinicahispanamangum.com/en/services/enfermedades-transmision-sexual  — cambiada 2026-09-17 · rastreada 2026-07-03 · indexada · 2 impr.
 - [ ] https://www.clinicahispanamangum.com/en/services/examenes-sangre  — cambiada 2026-09-17 · rastreada 2026-08-29 · indexada · 2 impr.
-- [ ] https://www.clinicahispanamangum.com/en/services/ultrasonido  — cambiada 2026-09-17 · rastreada 2026-07-06 · indexada · 2 impr.
 - [ ] https://www.clinicahispanamangum.com/en/services/vacunas  — cambiada 2026-09-17 · rastreada 2026-06-19 · rastreada sin indexar · 2 impr.
 
 ## Tanda 58
