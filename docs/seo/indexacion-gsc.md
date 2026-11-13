@@ -13,14 +13,23 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 4 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-17).
 <!-- /tandas:auto -->
 
-## Tanda 56 — cambios del 2026-11-13 (§9 del blog-semanal 12/11: uña encarnada, farmacia, alergias)
+## Tanda 56 — cambios del 2026-11-13 (§9 del blog-semanal 12/11 + análisis diario 13/11: ginecología y FAQ de la home)  📨 ENVIADA 13/11/2026
 
+- [ ] https://www.clinicahispanamangum.com/services/ginecologia  — cambiada 2026-11-13 (anuncio de Ads: chequeo de la mujer)
+- [ ] https://www.clinicahispanamangum.com/en/services/ginecologia  — cambiada 2026-11-13 (anuncio de Ads: chequeo de la mujer)
+- [ ] https://www.clinicahispanamangum.com/  — cambiada 2026-11-13 (FAQ clínica general y centro de salud)
+- [ ] https://www.clinicahispanamangum.com/en  — cambiada 2026-11-13 (FAQ clínica general y centro de salud)
 - [ ] https://www.clinicahispanamangum.com/services/unas-encarnadas  — cambiada 2026-11-13
 - [ ] https://www.clinicahispanamangum.com/en/services/unas-encarnadas  — cambiada 2026-11-13
 - [ ] https://www.clinicahispanamangum.com/services/farmacia  — cambiada 2026-11-13
 - [ ] https://www.clinicahispanamangum.com/en/services/farmacia  — cambiada 2026-11-13
 - [ ] https://www.clinicahispanamangum.com/services/alergias  — cambiada 2026-11-13
 - [ ] https://www.clinicahispanamangum.com/en/services/alergias  — cambiada 2026-11-13
+
+## Tanda 59 — cambios del 2026-11-14 (análisis diario 13/11: título y meta del post de quistes y ovario poliquístico)
+
+- [ ] https://www.clinicahispanamangum.com/blog/quistes-ovarios-ovario-poliquistico-ultrasonido  — cambiada 2026-11-14
+- [ ] https://www.clinicahispanamangum.com/en/blog/quistes-ovarios-ovario-poliquistico-ultrasonido  — cambiada 2026-11-14
 
 ## Tanda 57
 
