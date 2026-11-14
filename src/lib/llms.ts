@@ -91,6 +91,7 @@ function contactBlock(locale: Locale): string[] {
     `- ${t.languages}`,
     `- Facebook: [facebook.com/clinicahispanamangum](${SOCIAL_LINKS.facebook})`,
     `- Instagram: [instagram.com/clinicahispanamangum](${SOCIAL_LINKS.instagram})`,
+    `- YouTube: [youtube.com/channel/UCPJrSlOQpLbjYNMsC8oEiqw](${SOCIAL_LINKS.youtube})`,
     "",
     ...t.facts.map((f) => `- ${f}`),
     "",

@@ -80,6 +80,7 @@ export const OPENING_HOURS = [
 export const SOCIAL_LINKS = {
   facebook: "https://www.facebook.com/clinicahispanamangum",
   instagram: "https://www.instagram.com/clinicahispanamangum",
+  youtube: "https://www.youtube.com/channel/UCPJrSlOQpLbjYNMsC8oEiqw",
 } as const;
 
 // Fallback de build para rating/reseñas. Valores reales (Google Maps, jun 2026).
