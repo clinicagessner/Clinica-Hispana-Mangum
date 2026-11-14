@@ -39,6 +39,10 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.clinicahispanamangum.com/en/blog/medicos-autorizados-uscis-houston-civil-surgeon  — salió del índice entre el 06/11 y el 10/11 (rastreada sin indexar, último rastreo en julio)
 - [ ] https://www.clinicahispanamangum.com/en/blog/laboratorio-clinico-houston-analisis-sangre  — salió del índice entre el 06/11 y el 10/11 (rastreada sin indexar, último rastreo en julio)
 
+## Tanda 62 — cambios del 2026-11-14 (YouTube en el footer de toda la web)
+
+- [ ] https://www.clinicahispanamangum.com/es  — cambiada 2026-11-14
+
 ## Tanda 60
 
 - [ ] https://www.clinicahispanamangum.com/en/services/examen-fisico-escolar  — cambiada 2026-09-17 · rastreada 2026-08-01 · indexada · 5 impr.
