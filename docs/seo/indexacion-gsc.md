@@ -6,14 +6,14 @@ poner `✅ PEDIDA dd/mm/aaaa` en su encabezado. Límite: 10 peticiones al día p
 Propiedad: `https://www.clinicahispanamangum.com/`, cuenta **clinicahispanamangum@gmail.com**.
 
 <!-- tandas:auto -->
-**Estado (actualizado 2026-11-13; URL Inspection API, datos de hoy 2026-11-13):** 82 de 102 URLs del sitemap indexadas · 20 sin indexar (13 rastreada sin indexar · 5 descubierta sin indexar · 2 desconocida).
+**Estado (actualizado 2026-11-14; URL Inspection API, datos ANTIGUOS del 2026-11-13: antiguos (2026-11-13): --sin-fetch):** 82 de 102 URLs del sitemap indexadas · 20 sin indexar (13 rastreada sin indexar · 5 descubierta sin indexar · 2 desconocida).
 
 **Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 7 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 6 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
 2 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-17).
 <!-- /tandas:auto -->
 
-## Tanda 56 — cambios del 2026-11-13 (§9 del blog-semanal 12/11 + análisis diario 13/11: ginecología y FAQ de la home)  📨 ENVIADA 13/11/2026
+## Tanda 56 — cambios del 2026-11-13 (§9 del blog-semanal 12/11 + análisis diario 13/11: ginecología y FAQ de la home)
 
 - [ ] https://www.clinicahispanamangum.com/services/ginecologia  — cambiada 2026-11-13 (anuncio de Ads: chequeo de la mujer)
 - [ ] https://www.clinicahispanamangum.com/en/services/ginecologia  — cambiada 2026-11-13 (anuncio de Ads: chequeo de la mujer)
@@ -26,7 +26,7 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.clinicahispanamangum.com/services/alergias  — cambiada 2026-11-13
 - [ ] https://www.clinicahispanamangum.com/en/services/alergias  — cambiada 2026-11-13
 
-## Tanda 59 — cambios del 2026-11-14 (análisis diario 13/11: post de quistes + páginas que salieron del índice)
+## Tanda 59 — cambios del 2026-11-14 (análisis diario 13/11: post de quistes + páginas que salieron del índice)  📨 ENVIADA 14/11/2026
 
 - [ ] https://www.clinicahispanamangum.com/blog/quistes-ovarios-ovario-poliquistico-ultrasonido  — cambiada 2026-11-13 (pedir el 14/11: cupo de hoy lleno)
 - [ ] https://www.clinicahispanamangum.com/en/blog/quistes-ovarios-ovario-poliquistico-ultrasonido  — cambiada 2026-11-13 (pedir el 14/11: cupo de hoy lleno)
@@ -39,11 +39,7 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.clinicahispanamangum.com/en/blog/medicos-autorizados-uscis-houston-civil-surgeon  — salió del índice entre el 06/11 y el 10/11 (rastreada sin indexar, último rastreo en julio)
 - [ ] https://www.clinicahispanamangum.com/en/blog/laboratorio-clinico-houston-analisis-sangre  — salió del índice entre el 06/11 y el 10/11 (rastreada sin indexar, último rastreo en julio)
 
-## Tanda 62 — cambios del 2026-11-14 (YouTube en el footer de toda la web)
-
-- [ ] https://www.clinicahispanamangum.com/es  — cambiada 2026-11-14
-
-## Tanda 60
+## Tanda 63
 
 - [ ] https://www.clinicahispanamangum.com/en/services/examen-fisico-escolar  — cambiada 2026-09-17 · rastreada 2026-08-01 · indexada · 5 impr.
 - [ ] https://www.clinicahispanamangum.com/en/services/extraccion-implantes  — cambiada 2026-09-17 · rastreada 2026-08-26 · indexada · 4 impr.
@@ -56,7 +52,7 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.clinicahispanamangum.com/services/vacunas  — cambiada 2026-09-17 · descubierta sin indexar · pedida 2026-09-25 · 0 impr.
 - [ ] https://www.clinicahispanamangum.com/en/services/anticonceptivos  — cambiada 2026-10-23 · rastreada 2026-06-19 · rastreada sin indexar · pedida 2026-10-26 · 1 impr.
 
-## Tanda 61
+## Tanda 64
 
 - [ ] https://www.clinicahispanamangum.com/en/services/drenaje-abscesos  — cambiada 2026-09-17 · desconocida · pedida 2026-09-25 · 0 impr.
 - [ ] https://www.clinicahispanamangum.com/en/services/examen-heces  — cambiada 2026-09-17 · descubierta sin indexar · pedida 2026-09-25 · 0 impr.
