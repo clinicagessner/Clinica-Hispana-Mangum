@@ -13,18 +13,18 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 10 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-17).
 <!-- /tandas:auto -->
 
-## Tanda 56 — cambios del 2026-11-13 (§9 del blog-semanal 12/11 + análisis diario 13/11: ginecología y FAQ de la home)  📨 ENVIADA 15/11/2026
+## Tanda 56 — cambios del 2026-11-13 (§9 del blog-semanal 12/11 + análisis diario 13/11: ginecología y FAQ de la home)  📨 ENVIADA 15/11/2026  ✅ PEDIDA 15/11/2026
 
-- [ ] https://www.clinicahispanamangum.com/services/ginecologia  — cambiada 2026-11-13 (anuncio de Ads: chequeo de la mujer)
-- [ ] https://www.clinicahispanamangum.com/en/services/ginecologia  — cambiada 2026-11-13 (anuncio de Ads: chequeo de la mujer)
-- [ ] https://www.clinicahispanamangum.com/  — cambiada 2026-11-13 (FAQ clínica general y centro de salud)
-- [ ] https://www.clinicahispanamangum.com/en  — cambiada 2026-11-13 (FAQ clínica general y centro de salud)
-- [ ] https://www.clinicahispanamangum.com/services/unas-encarnadas  — cambiada 2026-11-13
-- [ ] https://www.clinicahispanamangum.com/en/services/unas-encarnadas  — cambiada 2026-11-13
-- [ ] https://www.clinicahispanamangum.com/services/farmacia  — cambiada 2026-11-13
-- [ ] https://www.clinicahispanamangum.com/en/services/farmacia  — cambiada 2026-11-13
-- [ ] https://www.clinicahispanamangum.com/services/alergias  — cambiada 2026-11-13
-- [ ] https://www.clinicahispanamangum.com/en/services/alergias  — cambiada 2026-11-13
+- [x] https://www.clinicahispanamangum.com/services/ginecologia  — cambiada 2026-11-13 (anuncio de Ads: chequeo de la mujer)
+- [x] https://www.clinicahispanamangum.com/en/services/ginecologia  — cambiada 2026-11-13 (anuncio de Ads: chequeo de la mujer)
+- [x] https://www.clinicahispanamangum.com/  — cambiada 2026-11-13 (FAQ clínica general y centro de salud)
+- [x] https://www.clinicahispanamangum.com/en  — cambiada 2026-11-13 (FAQ clínica general y centro de salud)
+- [x] https://www.clinicahispanamangum.com/services/unas-encarnadas  — cambiada 2026-11-13
+- [x] https://www.clinicahispanamangum.com/en/services/unas-encarnadas  — cambiada 2026-11-13
+- [x] https://www.clinicahispanamangum.com/services/farmacia  — cambiada 2026-11-13
+- [x] https://www.clinicahispanamangum.com/en/services/farmacia  — cambiada 2026-11-13
+- [x] https://www.clinicahispanamangum.com/services/alergias  — cambiada 2026-11-13
+- [x] https://www.clinicahispanamangum.com/en/services/alergias  — cambiada 2026-11-13
 
 ## Tanda 60
 
