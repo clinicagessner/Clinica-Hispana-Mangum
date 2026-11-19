@@ -13,6 +13,11 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 8 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-28).
 <!-- /tandas:auto -->
 
+## Tanda 62 — cambios del 2026-11-19 (post del blog semanal)  📨 ENVIADA 19/11/2026
+
+- [ ] https://www.clinicahispanamangum.com/blog/implante-anticonceptivo-brazo-cuando-quitarlo-retiro  — cambiada 2026-11-19
+- [ ] https://www.clinicahispanamangum.com/en/blog/implante-anticonceptivo-brazo-cuando-quitarlo-retiro  — cambiada 2026-11-19
+
 ## Tanda 60
 
 - [ ] https://www.clinicahispanamangum.com/en/blog/atencion-medica-sin-seguro-houston  — cambiada 2026-09-17 · rastreada 2026-09-15 · indexada · 23 impr.
