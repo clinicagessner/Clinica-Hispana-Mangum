@@ -13,6 +13,11 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 8 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-28).
 <!-- /tandas:auto -->
 
+## Tanda 65 — cambios del 2026-11-25 (TikTok y Yelp en el pie, sameAs y llms)
+
+- [ ] https://www.clinicahispanamangum.com/  — cambiada 2026-11-25
+- [ ] https://www.clinicahispanamangum.com/en  — cambiada 2026-11-25
+
 ## Tanda 63
 
 - [ ] https://www.clinicahispanamangum.com/en/blog/atencion-medica-sin-seguro-houston  — cambiada 2026-09-17 · rastreada 2026-09-15 · indexada · 21 impr.
