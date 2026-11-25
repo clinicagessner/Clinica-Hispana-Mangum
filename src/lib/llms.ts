@@ -94,6 +94,7 @@ function contactBlock(locale: Locale): string[] {
     `- YouTube: [youtube.com/channel/UCPJrSlOQpLbjYNMsC8oEiqw](${SOCIAL_LINKS.youtube})`,
     `- TikTok: [tiktok.com/@clinica.hispana.m](${SOCIAL_LINKS.tiktok})`,
     `- Yelp: [yelp.com/biz/clinica-hispana-mangum-houston](${SOCIAL_LINKS.yelp})`,
+    `- X: [x.com/CHispMangum](${SOCIAL_LINKS.x})`,
     "",
     ...t.facts.map((f) => `- ${f}`),
     "",
