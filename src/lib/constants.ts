@@ -84,6 +84,7 @@ export const SOCIAL_LINKS = {
   tiktok: "https://www.tiktok.com/@clinica.hispana.m",
   yelp: "https://www.yelp.com/biz/clinica-hispana-mangum-houston",
   x: "https://x.com/CHispMangum",
+  pinterest: "https://www.pinterest.com/clinicahispanamangum/",
 } as const;
 
 // Fallback de build para rating/reseñas. Valores reales (Google Maps, jun 2026).

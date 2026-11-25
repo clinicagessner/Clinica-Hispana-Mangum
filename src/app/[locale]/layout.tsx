@@ -41,6 +41,7 @@ export async function generateMetadata({
     authors: [{ name: SITE_CONFIG.name }],
     verification: {
       google: "XiPUKbIE_Kie6LQWBXHVdNZifUsM4A3k6F6NA_LgnzQ",
+      other: { "p:domain_verify": "222e39bc60ee0460496b482cc7f3bb4c" },
     },
     openGraph: {
       type: "website",
