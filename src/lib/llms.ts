@@ -92,6 +92,8 @@ function contactBlock(locale: Locale): string[] {
     `- Facebook: [facebook.com/clinicahispanamangum](${SOCIAL_LINKS.facebook})`,
     `- Instagram: [instagram.com/clinicahispanamangum](${SOCIAL_LINKS.instagram})`,
     `- YouTube: [youtube.com/channel/UCPJrSlOQpLbjYNMsC8oEiqw](${SOCIAL_LINKS.youtube})`,
+    `- TikTok: [tiktok.com/@clinica.hispana.m](${SOCIAL_LINKS.tiktok})`,
+    `- Yelp: [yelp.com/biz/clinica-hispana-mangum-houston](${SOCIAL_LINKS.yelp})`,
     "",
     ...t.facts.map((f) => `- ${f}`),
     "",
