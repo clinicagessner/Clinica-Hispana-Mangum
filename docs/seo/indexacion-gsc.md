@@ -20,6 +20,25 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.clinicahispanamangum.com/  — cambiada 2026-11-25
 - [ ] https://www.clinicahispanamangum.com/en  — cambiada 2026-11-25
 
+## Tanda 68 — cambios del 2026-11-26 (limpieza §9)
+
+- [ ] https://www.clinicahispanamangum.com/services/examen-dot  — cambiada 2026-11-26
+- [ ] https://www.clinicahispanamangum.com/en/services/examen-dot  — cambiada 2026-11-26
+- [ ] https://www.clinicahispanamangum.com/services/tiroides  — cambiada 2026-11-26
+- [ ] https://www.clinicahispanamangum.com/en/services/tiroides  — cambiada 2026-11-26
+- [ ] https://www.clinicahispanamangum.com/services/electrocardiograma  — cambiada 2026-11-26
+- [ ] https://www.clinicahispanamangum.com/en/services/electrocardiograma  — cambiada 2026-11-26
+- [ ] https://www.clinicahispanamangum.com/promociones  — cambiada 2026-11-26
+- [ ] https://www.clinicahispanamangum.com/en/promociones  — cambiada 2026-11-26
+- [ ] https://www.clinicahispanamangum.com/blog/medicos-autorizados-uscis-houston-civil-surgeon  — cambiada 2026-11-26
+- [ ] https://www.clinicahispanamangum.com/en/blog/medicos-autorizados-uscis-houston-civil-surgeon  — cambiada 2026-11-26
+
+## Tanda 69 — cambios del 2026-11-26 (limpieza §9)
+
+- [ ] https://www.clinicahispanamangum.com/blog/salud-hombre-houston-chequeos-preventivos  — cambiada 2026-11-26
+- [ ] https://www.clinicahispanamangum.com/en/blog/salud-hombre-houston-chequeos-preventivos  — cambiada 2026-11-26
+- [ ] https://www.clinicahispanamangum.com/blog/atencion-medica-sin-seguro-houston  — cambiada 2026-11-26
+
 ## Tanda 66
 
 - [ ] https://www.clinicahispanamangum.com/en/blog/atencion-medica-sin-seguro-houston  — cambiada 2026-09-17 · rastreada 2026-09-15 · indexada · 21 impr.
@@ -29,7 +48,6 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.clinicahispanamangum.com/en/services/enfermedades-respiratorias  — cambiada 2026-09-17 · rastreada 2026-07-10 · rastreada sin indexar · 0 impr.
 - [ ] https://www.clinicahispanamangum.com/services/anticonceptivos  — cambiada 2026-10-23 · desconocida · pedida 2026-10-25 · 0 impr.
 - [ ] https://www.clinicahispanamangum.com/services/vacunas  — cambiada 2026-09-17 · descubierta sin indexar · pedida 2026-09-25 · 0 impr.
-- [ ] https://www.clinicahispanamangum.com/en/promociones  — cambiada 2026-09-17 · rastreada 2026-11-16 · rastreada sin indexar · 12 impr.
 - [ ] https://www.clinicahispanamangum.com/en/services/salud-hombre  — cambiada 2026-11-03 · rastreada 2026-06-19 · rastreada sin indexar · pedida 2026-11-04 · 8 impr.
 - [ ] https://www.clinicahispanamangum.com/en/services/extraccion-implantes  — cambiada 2026-09-17 · rastreada 2026-11-19 · rastreada sin indexar · 7 impr.
 
@@ -39,7 +57,6 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.clinicahispanamangum.com/en/services/drenaje-abscesos  — cambiada 2026-09-17 · descubierta sin indexar · pedida 2026-09-25 · 0 impr.
 - [ ] https://www.clinicahispanamangum.com/en/services/examen-heces  — cambiada 2026-09-17 · desconocida · pedida 2026-09-25 · 0 impr.
 - [ ] https://www.clinicahispanamangum.com/en/services/sueros-vitaminados  — cambiada 2026-11-03 · descubierta sin indexar · pedida 2026-11-03 · 0 impr.
-- [ ] https://www.clinicahispanamangum.com/en/services/tiroides  — cambiada 2026-09-17 · descubierta sin indexar · pedida 2026-09-25 · 0 impr.
 
 ## Historial (tandas pedidas)
 
