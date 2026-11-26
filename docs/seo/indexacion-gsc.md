@@ -6,14 +6,14 @@ poner `✅ PEDIDA dd/mm/aaaa` en su encabezado. Límite: 10 peticiones al día p
 Propiedad: `https://www.clinicahispanamangum.com/`, cuenta **clinicahispanamangum@gmail.com**.
 
 <!-- tandas:auto -->
-**Estado (actualizado 2026-11-25; URL Inspection API, datos ANTIGUOS del 2026-11-23: antiguos (2026-11-23): --sin-fetch):** 83 de 104 URLs del sitemap indexadas · 21 sin indexar (14 rastreada sin indexar · 5 descubierta sin indexar · 2 desconocida).
+**Estado (actualizado 2026-11-26; URL Inspection API, datos ANTIGUOS del 2026-11-23: antiguos (2026-11-23): --sin-fetch):** 83 de 104 URLs del sitemap indexadas · 21 sin indexar (14 rastreada sin indexar · 5 descubierta sin indexar · 2 desconocida).
 
 **Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 5 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 10 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
 8 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-28).
 <!-- /tandas:auto -->
 
-## Tanda 65 — cambios del 2026-11-25 (TikTok y Yelp en el pie, sameAs y llms)  📨 ENVIADA 25/11/2026
+## Tanda 65 — cambios del 2026-11-25 (TikTok y Yelp en el pie, sameAs y llms)  📨 ENVIADA 26/11/2026
 
 - [ ] https://www.clinicahispanamangum.com/  — cambiada 2026-11-25
 - [ ] https://www.clinicahispanamangum.com/en  — cambiada 2026-11-25
