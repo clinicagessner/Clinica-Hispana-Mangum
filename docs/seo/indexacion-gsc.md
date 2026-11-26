@@ -15,6 +15,8 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 
 ## Tanda 65 — cambios del 2026-11-25 (TikTok y Yelp en el pie, sameAs y llms)  📨 ENVIADA 26/11/2026
 
+- [ ] https://www.clinicahispanamangum.com/blog/infeccion-urinaria-hombre-por-que-revisar  — cambiada 2026-11-26 (post del blog semanal)
+- [ ] https://www.clinicahispanamangum.com/en/blog/infeccion-urinaria-hombre-por-que-revisar  — cambiada 2026-11-26 (post del blog semanal)
 - [ ] https://www.clinicahispanamangum.com/  — cambiada 2026-11-25
 - [ ] https://www.clinicahispanamangum.com/en  — cambiada 2026-11-25
 
