@@ -38,7 +38,7 @@ A licensed physician **officially designated by USCIS** to perform immigration m
 
 ## How can I check that a doctor is designated?
 
-USCIS has an official civil surgeon locator. Open the USCIS **Find a Doctor** tool, enter your ZIP code (for example, 77092) and check that the doctor's name appears. If a clinic says it has a civil surgeon, ask for the doctor's name and look it up there.
+USCIS has an official civil surgeon locator. Open the USCIS **Find a Doctor** tool, enter your ZIP code (for example, 77092) and check that the civil surgeon's name appears. If a clinic says it has a civil surgeon, ask for their name and look it up there.
 
 ## What should I ask before booking?
 
@@ -51,7 +51,7 @@ USCIS has an official civil surgeon locator. Open the USCIS **Find a Doctor** to
 ## Red flags
 
 - They offer the form without an exam or without tests.
-- They cannot tell you the name of the doctor who signs.
+- They cannot tell you the name of the civil surgeon who signs.
 - They guarantee your case will be approved.
 
 ## When is the best time for the exam?

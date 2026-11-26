@@ -14,7 +14,6 @@ coverAlt: "Paciente recibiendo atención médica sin seguro en una clínica hisp
 keywords:
   - "atención médica sin seguro houston"
   - "clínica sin seguro houston"
-  - "doctor barato houston español"
 ---
 
 No tener seguro médico no significa quedarte sin atención. En Houston hay varias opciones, y conocerlas te ayuda a gastar menos y a no esperar a que un problema pequeño se vuelva una emergencia. Aquí las ordenamos de la más rápida a la de más trámite.

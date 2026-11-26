@@ -38,7 +38,7 @@ Es un médico con licencia al que **USCIS designa oficialmente** para hacer exá
 
 ## ¿Cómo compruebo que un médico está autorizado?
 
-USCIS tiene un buscador oficial de civil surgeons. Entra a la herramienta **Find a Doctor** de USCIS, escribe tu código postal (por ejemplo, 77092) y revisa que el nombre del médico aparezca en la lista. Si una clínica dice que tiene civil surgeon, pide el nombre del médico y búscalo ahí.
+USCIS tiene un buscador oficial de civil surgeons. Entra a la herramienta **Find a Doctor** de USCIS, escribe tu código postal (por ejemplo, 77092) y revisa que el nombre del civil surgeon aparezca en la lista. Si una clínica dice que tiene civil surgeon, pide su nombre y búscalo ahí.
 
 ## ¿Qué preguntar antes de agendar?
 
@@ -51,7 +51,7 @@ USCIS tiene un buscador oficial de civil surgeons. Entra a la herramienta **Find
 ## Señales de alerta
 
 - Te ofrecen el formulario sin examen o sin pruebas.
-- No pueden decirte el nombre del médico que firma.
+- No pueden decirte el nombre del civil surgeon que firma.
 - Te garantizan que tu caso será aprobado.
 
 ## ¿Cuándo conviene hacer el examen?

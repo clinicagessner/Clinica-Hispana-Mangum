@@ -172,20 +172,20 @@ export const PROMOTIONS: Promotion[] = [
     titleEn: "DOT exam for your CDL license",
     price: null,
     blurb:
-      "¿Necesitas tu examen físico DOT para conducir? En Clínica Hispana Mangum te lo hacemos de forma rápida, con certificación oficial y atención 100% en español. Sal el mismo día con tu certificado y vuelve a la carretera sin demoras.",
+      "¿Necesitas tu examen físico DOT para conducir? En Clínica Hispana Mangum te lo hacemos de forma rápida, con certificación oficial y atención 100% en español. Sal con tu certificado si no queda nada pendiente y vuelve a la carretera sin demoras.",
     blurbEn:
-      "Need your DOT physical to drive? At Clínica Hispana Mangum we do it fast, with official certification and care 100% in Spanish. Leave the same day with your certificate and get back on the road without delays.",
+      "Need your DOT physical to drive? At Clínica Hispana Mangum we do it fast, with official certification and care 100% in Spanish. Leave with your certificate if nothing is left pending and get back on the road without delays.",
     includes: [
       "Examen médico DOT rápido",
       "Certificación oficial para tu licencia CDL",
       "Atención 100% en español",
-      "Resultados el mismo día",
+      "Examen rápido",
     ],
     includesEn: [
       "Fast DOT medical exam",
       "Official certification for your CDL license",
       "Care 100% in Spanish",
-      "Same-day results",
+      "Fast exam",
     ],
     alt: "Promoción de examen médico DOT para licencia CDL en Clínica Hispana Mangum, Houston",
     altEn:
@@ -527,7 +527,7 @@ Con la **TSH**, la prueba principal. Si sale alterada, se agregan **T4 libre** y
 ## ¿Cómo es el tratamiento?
 
 - **Hipotiroidismo:** una pastilla diaria de hormona tiroidea. Se toma en ayunas, con agua, 30 a 60 minutos antes del desayuno y lejos del calcio o el hierro.
-- **Hipertiroidismo:** medicamentos para bajar la actividad de la glándula y controlar las palpitaciones; algunos casos necesitan especialista.
+- **Hipertiroidismo:** medicamentos para bajar la actividad de la glándula y controlar las palpitaciones; con referencia al especialista cuando el resultado lo requiere.
 - **Seguimiento:** se repite la TSH unas 6 a 8 semanas después de cada ajuste de dosis.
 
 ## ¿Quién debería revisarse?
@@ -554,7 +554,7 @@ With **TSH**, the main test. If it is abnormal, **free T4** and sometimes **T3**
 ## What is the treatment?
 
 - **Hypothyroidism:** a daily thyroid hormone pill. It is taken on an empty stomach with water, 30 to 60 minutes before breakfast and away from calcium or iron.
-- **Hyperthyroidism:** medications to lower the gland's activity and control palpitations; some cases need a specialist.
+- **Hyperthyroidism:** medications to lower the gland's activity and control palpitations; with a specialist referral when results call for it.
 - **Follow-up:** TSH is repeated about 6 to 8 weeks after each dose change.
 
 ## Who should get checked?
@@ -2139,7 +2139,7 @@ Todo el proceso suele tomar alrededor de 10 minutos.
 
 ## Lo que el electrocardiograma no muestra
 
-Un EKG normal no descarta todos los problemas del corazón; solo registra lo que pasa en ese momento. Si los síntomas van y vienen, puede hacer falta un monitoreo más largo o la referencia al cardiólogo.
+Un EKG normal no descarta todos los problemas del corazón; solo registra lo que pasa en ese momento. Si los síntomas van y vienen, puede hacer falta un monitoreo más largo, con referencia al especialista cuando el resultado lo requiere.
 
 ## Dolor de pecho: no esperes
 
@@ -2172,7 +2172,7 @@ The whole process usually takes about 10 minutes.
 
 ## What the EKG does not show
 
-A normal EKG does not rule out every heart problem; it only records what happens at that moment. If symptoms come and go, longer monitoring or a cardiology referral may be needed.
+A normal EKG does not rule out every heart problem; it only records what happens at that moment. If symptoms come and go, longer monitoring may be needed, with a specialist referral when results call for it.
 
 ## Chest pain: do not wait
 
@@ -2290,10 +2290,10 @@ We are at 2912 Mangum Rd, Suite A, in northwest Houston, open every day from 9 A
     highlighted: true,
     title: "Examen Físico DOT - Licencia CDL",
     titleEn: "DOT Physical Exam - CDL License",
-    shortDescription: "Examen físico DOT para conductores comerciales (CDL), con certificado el mismo día.",
-    shortDescriptionEn: "DOT physical exam for commercial drivers (CDL), with same-day certificate.",
-    description: "Examen físico DOT en Houston, TX para licencia CDL, certificado el mismo día y en español. Con precios accesibles.",
-    descriptionEn: "DOT physical exam in Houston, TX for CDL license, same-day certificate, in Spanish. With affordable pricing.",
+    shortDescription: "Examen físico DOT para conductores comerciales (CDL), en español y sin cita.",
+    shortDescriptionEn: "DOT physical exam for commercial drivers (CDL), in Spanish and walk-in.",
+    description: "Examen físico DOT en Houston, TX para licencia CDL, en español y sin cita. Con precios accesibles.",
+    descriptionEn: "DOT physical exam in Houston, TX for CDL license, in Spanish and walk-in. With affordable pricing.",
     keywords: [
       "examen dot houston",
       "examen fisico dot houston español",
@@ -2307,13 +2307,13 @@ We are at 2912 Mangum Rd, Suite A, in northwest Houston, open every day from 9 A
       "dot medical exam houston",
     ],
     features: [
-      "Certificado DOT el mismo día",
+      "Certificado DOT al terminar el examen",
       "Para licencia CDL",
       "Proceso rápido",
       "Atención en español",
     ],
     featuresEn: [
-      "Same-day DOT certificate",
+      "DOT certificate when the exam is done",
       "For CDL license",
       "Fast process",
       "Care in Spanish",

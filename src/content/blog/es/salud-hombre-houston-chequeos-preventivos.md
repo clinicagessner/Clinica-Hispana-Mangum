@@ -52,7 +52,7 @@ En Clínica Hispana Mangum contamos con servicios pensados para ti:
 | 50–64 | Lo anterior + prueba de próstata (PSA) y detección de cáncer de colon según indicación médica |
 | 65+ | Chequeo completo anual, vacunas al día y evaluación de vista, audición y memoria |
 
-Cada persona es distinta: en tu consulta el médico ajusta estos exámenes a tu historial y factores de riesgo.
+Cada persona es distinta: en tu consulta el equipo médico ajusta estos exámenes a tu historial y factores de riesgo.
 
 ## Señales de alarma: no las ignores
 

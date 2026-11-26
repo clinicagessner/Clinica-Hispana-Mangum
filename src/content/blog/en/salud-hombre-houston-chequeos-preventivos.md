@@ -51,7 +51,7 @@ At Clínica Hispana Mangum we offer services designed for you:
 | 50–64 | All of the above + prostate test (PSA) and colon cancer screening as medically indicated |
 | 65+ | Full annual checkup, up-to-date vaccines, and vision, hearing, and memory evaluation |
 
-Everyone is different: at your visit, the doctor adjusts these exams to your history and risk factors.
+Everyone is different: at your visit, the medical team adjusts these exams to your history and risk factors.
 
 ## Warning signs: don't ignore them
 

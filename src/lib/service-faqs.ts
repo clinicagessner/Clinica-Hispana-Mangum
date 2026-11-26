@@ -406,9 +406,9 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
     },
     {
       question: "¿Puedo pasar el examen DOT si uso insulina?",
-      answer: "Sí, es posible. Debes traer el formulario MCSA-5870 llenado por el médico que trata tu diabetes en los 45 días anteriores al examen.",
+      answer: "Sí, es posible. Debes traer el formulario MCSA-5870 llenado por tu médico tratante en los 45 días anteriores al examen.",
       questionEn: "Can I pass the DOT exam if I use insulin?",
-      answerEn: "Yes, it is possible. Bring form MCSA-5870 completed by the doctor who treats your diabetes within 45 days before the exam.",
+      answerEn: "Yes, it is possible. Bring form MCSA-5870 completed by your treating doctor within 45 days before the exam.",
     },
     {
       question: "¿El análisis de orina del DOT es una prueba de drogas?",
