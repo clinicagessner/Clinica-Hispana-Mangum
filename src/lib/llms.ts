@@ -96,6 +96,7 @@ function contactBlock(locale: Locale): string[] {
     `- Yelp: [yelp.com/biz/clinica-hispana-mangum-houston](${SOCIAL_LINKS.yelp})`,
     `- X: [x.com/CHispMangum](${SOCIAL_LINKS.x})`,
     `- Pinterest: [pinterest.com/clinicahispanamangum](${SOCIAL_LINKS.pinterest})`,
+    `- Nextdoor: [nextdoor.com/page/clinica-hispana-mangum-houston-tx](${SOCIAL_LINKS.nextdoor})`,
     "",
     ...t.facts.map((f) => `- ${f}`),
     "",

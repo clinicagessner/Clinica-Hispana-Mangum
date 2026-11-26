@@ -2,7 +2,7 @@ import { useLocale, useTranslations } from "next-intl";
 import { Mail, MapPin, Phone, Clock } from "lucide-react";
 import {
   FacebookLogo,
-  InstagramLogo, YoutubeLogo, TiktokLogo, XLogo, PinterestLogo,
+  InstagramLogo, YoutubeLogo, TiktokLogo, XLogo, PinterestLogo, House,
 } from "@phosphor-icons/react/dist/ssr";
 import { Link } from "@/i18n/navigation";
 import { Logo } from "@/components/shared/logo";
@@ -129,6 +129,17 @@ export function Footer() {
                       className="rounded-full bg-white/10 p-2 hover:bg-white/20"
                     >
                       <PinterestLogo className="h-4 w-4" weight="fill" />
+                    </a>
+                  )}
+                  {SOCIAL_LINKS.nextdoor && (
+                    <a
+                      href={SOCIAL_LINKS.nextdoor}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      aria-label="Nextdoor"
+                      className="rounded-full bg-white/10 p-2 hover:bg-white/20"
+                    >
+                      <House className="h-4 w-4" weight="fill" />
                     </a>
                   )}
                 </div>

@@ -85,6 +85,7 @@ export const SOCIAL_LINKS = {
   yelp: "https://www.yelp.com/biz/clinica-hispana-mangum-houston",
   x: "https://x.com/CHispMangum",
   pinterest: "https://www.pinterest.com/clinicahispanamangum/",
+  nextdoor: "https://nextdoor.com/page/clinica-hispana-mangum-houston-tx/",
 } as const;
 
 // Fallback de build para rating/reseñas. Valores reales (Google Maps, jun 2026).
