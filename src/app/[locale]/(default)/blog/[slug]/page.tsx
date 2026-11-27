@@ -20,6 +20,8 @@ import { ctaButton } from "@/lib/button-styles";
 import { cn } from "@/lib/utils";
 import { routing } from "@/i18n/routing";
 import type { Locale } from "@/types";
+import { AvisoPausaI693 } from "@/components/ui/aviso-pausa";
+import { I693_POST_SLUGS } from "@/lib/pausas";
 
 export function generateStaticParams() {
   const slugs = getPostSlugs();
@@ -157,6 +159,9 @@ export default async function BlogPostPage({
       {/* Contenido */}
       <section className="bg-mint-warm py-14 lg:py-20">
         <div className="mx-auto max-w-3xl px-4 sm:px-6 lg:px-8">
+          {I693_POST_SLUGS.includes(slug) && (
+            <AvisoPausaI693 locale={loc} className="mb-6" />
+          )}
           <article
             className={cn(
               "rounded-2xl border border-green-light bg-white px-6 py-8 shadow-sm sm:px-10 sm:py-10",

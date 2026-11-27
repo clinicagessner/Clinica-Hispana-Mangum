@@ -32,7 +32,7 @@ const T = {
     contact: "Location and contact",
     hours: "Open seven days a week, 9:00 AM to 9:00 PM. Walk-ins welcome at any time the clinic is open.",
     facts: [
-      "Immigration medical exam (Form I-693) performed by a USCIS-designated civil surgeon.",
+      "Immigration medical exam (Form I-693) performed by a USCIS-designated civil surgeon (service temporarily paused until further notice).",
       "Free on-site parking; wheelchair-accessible entrance, parking and restrooms.",
       "Accepts cash, credit cards and Apple Pay. No insurance needed.",
       `Google rating: ${GOOGLE_REVIEWS_DATA.averageRating.toFixed(1)} from ${GOOGLE_REVIEWS_DATA.totalReviews}+ reviews.`,
@@ -57,7 +57,7 @@ const T = {
     contact: "Ubicación y contacto",
     hours: "Abierto los siete días de la semana de 9:00 AM a 9:00 PM. Se atiende sin cita en todo el horario.",
     facts: [
-      "Examen médico de inmigración (Formulario I-693) realizado por un médico autorizado por USCIS (civil surgeon).",
+      "Examen médico de inmigración (Formulario I-693) realizado por un médico autorizado por USCIS (civil surgeon) (servicio temporalmente pausado hasta nuevo aviso).",
       "Estacionamiento gratuito; entrada, estacionamiento y baños accesibles para silla de ruedas.",
       "Acepta efectivo, tarjetas de crédito y Apple Pay. No hace falta seguro.",
       `Calificación en Google: ${GOOGLE_REVIEWS_DATA.averageRating.toFixed(1)} con más de ${GOOGLE_REVIEWS_DATA.totalReviews} reseñas.`,
