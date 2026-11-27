@@ -6,22 +6,14 @@ poner `✅ PEDIDA dd/mm/aaaa` en su encabezado. Límite: 10 peticiones al día p
 Propiedad: `https://www.clinicahispanamangum.com/`, cuenta **clinicahispanamangum@gmail.com**.
 
 <!-- tandas:auto -->
-**Estado (actualizado 2026-11-26; URL Inspection API, datos ANTIGUOS del 2026-11-23: antiguos (2026-11-23): --sin-fetch):** 83 de 106 URLs del sitemap indexadas · 23 sin indexar (14 rastreada sin indexar · 5 descubierta sin indexar · 2 desconocida · 2 sin datos).
+**Estado (actualizado 2026-11-27; URL Inspection API, datos ANTIGUOS del 2026-11-23: antiguos (2026-11-23): --sin-fetch):** 83 de 106 URLs del sitemap indexadas · 23 sin indexar (14 rastreada sin indexar · 5 descubierta sin indexar · 2 desconocida · 2 sin datos).
 
 **Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 5 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 8 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
-8 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-28).
+10 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-28).
 <!-- /tandas:auto -->
 
-## Tanda 65 — cambios del 2026-11-25 (TikTok y Yelp en el pie, sameAs y llms)  📨 ENVIADA 26/11/2026  ✅ PEDIDA 26/11/2026
-
-- [x] https://www.clinicahispanamangum.com/blog/infeccion-urinaria-hombre-por-que-revisar  — cambiada 2026-11-26 (post del blog semanal)
-- [x] https://www.clinicahispanamangum.com/en/blog/infeccion-urinaria-hombre-por-que-revisar  — cambiada 2026-11-26 (post del blog semanal)
-- [x] https://www.clinicahispanamangum.com/  — cambiada 2026-11-25
-- [x] https://www.clinicahispanamangum.com/en  — cambiada 2026-11-25
-
-## Tanda 68 — cambios del 2026-11-26 (limpieza §9)
-
+## Tanda 68 — cambios del 2026-11-26 (limpieza §9)  📨 ENVIADA 27/11/2026
 - [ ] https://www.clinicahispanamangum.com/services/examen-dot  — cambiada 2026-11-26
 - [ ] https://www.clinicahispanamangum.com/en/services/examen-dot  — cambiada 2026-11-26
 - [ ] https://www.clinicahispanamangum.com/services/tiroides  — cambiada 2026-11-26
@@ -231,3 +223,10 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 
 - [x] https://www.clinicahispanamangum.com/blog/implante-anticonceptivo-brazo-cuando-quitarlo-retiro  — cambiada 2026-11-19
 - [x] https://www.clinicahispanamangum.com/en/blog/implante-anticonceptivo-brazo-cuando-quitarlo-retiro  — cambiada 2026-11-19
+
+## Tanda 65 — cambios del 2026-11-25 (TikTok y Yelp en el pie, sameAs y llms)  📨 ENVIADA 26/11/2026  ✅ PEDIDA 26/11/2026
+
+- [x] https://www.clinicahispanamangum.com/blog/infeccion-urinaria-hombre-por-que-revisar  — cambiada 2026-11-26 (post del blog semanal)
+- [x] https://www.clinicahispanamangum.com/en/blog/infeccion-urinaria-hombre-por-que-revisar  — cambiada 2026-11-26 (post del blog semanal)
+- [x] https://www.clinicahispanamangum.com/  — cambiada 2026-11-25
+- [x] https://www.clinicahispanamangum.com/en  — cambiada 2026-11-25
