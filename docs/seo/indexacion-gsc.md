@@ -6,14 +6,15 @@ poner `✅ PEDIDA dd/mm/aaaa` en su encabezado. Límite: 10 peticiones al día p
 Propiedad: `https://www.clinicahispanamangum.com/`, cuenta **clinicahispanamangum@gmail.com**.
 
 <!-- tandas:auto -->
-**Estado (actualizado 2026-11-27; URL Inspection API, datos ANTIGUOS del 2026-11-23: antiguos (2026-11-23): --sin-fetch):** 83 de 106 URLs del sitemap indexadas · 23 sin indexar (14 rastreada sin indexar · 5 descubierta sin indexar · 2 desconocida · 2 sin datos).
+**Estado (actualizado 2026-11-27; URL Inspection API, datos ANTIGUOS del 2026-09-30: antiguos (2026-09-30): --sin-fetch):** 82 de 106 URLs del sitemap indexadas · 24 sin indexar (16 sin datos · 4 desconocida · 4 descubierta sin indexar).
 
-**Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 5 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 8 no indexadas no pedidas en los últimos 14 días.
+**Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 15 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 16 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
-10 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-28).
+7 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-28).
 <!-- /tandas:auto -->
 
 ## Tanda 68 — cambios del 2026-11-26 (limpieza §9)  📨 ENVIADA 27/11/2026
+
 - [ ] https://www.clinicahispanamangum.com/services/examen-dot  — cambiada 2026-11-26
 - [ ] https://www.clinicahispanamangum.com/en/services/examen-dot  — cambiada 2026-11-26
 - [ ] https://www.clinicahispanamangum.com/services/tiroides  — cambiada 2026-11-26
@@ -31,24 +32,57 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.clinicahispanamangum.com/en/blog/salud-hombre-houston-chequeos-preventivos  — cambiada 2026-11-26
 - [ ] https://www.clinicahispanamangum.com/blog/atencion-medica-sin-seguro-houston  — cambiada 2026-11-26
 
-## Tanda 70
+## Tanda 72 — cambios del 2026-11-27 (aviso I-693 pausado)
 
-- [ ] https://www.clinicahispanamangum.com/en/blog/atencion-medica-sin-seguro-houston  — cambiada 2026-09-17 · rastreada 2026-09-15 · indexada · 21 impr.
-- [ ] https://www.clinicahispanamangum.com/en/services/examen-fisico-escolar  — cambiada 2026-09-17 · rastreada 2026-08-01 · indexada · 11 impr.
-- [ ] https://www.clinicahispanamangum.com/en/services/vacunas  — cambiada 2026-09-17 · rastreada 2026-06-19 · rastreada sin indexar · 2 impr.
-- [ ] https://www.clinicahispanamangum.com/en/services/prueba-strep  — cambiada 2026-09-17 · rastreada 2026-06-19 · rastreada sin indexar · 1 impr.
-- [ ] https://www.clinicahispanamangum.com/en/services/enfermedades-respiratorias  — cambiada 2026-09-17 · rastreada 2026-07-10 · rastreada sin indexar · 0 impr.
+- [ ] https://www.clinicahispanamangum.com/services/examenes-inmigracion  — cambiada 2026-11-27
+- [ ] https://www.clinicahispanamangum.com/en/services/examenes-inmigracion  — cambiada 2026-11-27
+- [ ] https://www.clinicahispanamangum.com/blog/guia-examen-medico-inmigracion-i693-houston  — cambiada 2026-11-27
+- [ ] https://www.clinicahispanamangum.com/en/blog/guia-examen-medico-inmigracion-i693-houston  — cambiada 2026-11-27
+- [ ] https://www.clinicahispanamangum.com/  — cambiada 2026-11-27
+- [ ] https://www.clinicahispanamangum.com/en  — cambiada 2026-11-27
+
+## Tanda 73
+
+- [ ] https://www.clinicahispanamangum.com/services/drenaje-abscesos  — cambiada 2026-09-16 · rastreada 2026-09-17 · indexada · 31 impr.
+- [ ] https://www.clinicahispanamangum.com/en/blog/bienvenidos-clinica-hispana-mangum  — cambiada 2026-09-16 · rastreada 2026-09-09 · indexada · 90 impr.
+- [ ] https://www.clinicahispanamangum.com/en/blog/atencion-medica-sin-seguro-houston  — cambiada 2026-09-16 · rastreada 2026-09-15 · indexada · 51 impr.
+- [ ] https://www.clinicahispanamangum.com/en/services/examen-fisico-escolar  — cambiada 2026-09-16 · rastreada 2026-08-01 · indexada · 15 impr.
+- [ ] https://www.clinicahispanamangum.com/en/blog/examen-dot-cdl-camioneros-houston  — cambiada 2026-09-16 · rastreada 2026-07-02 · indexada · 11 impr.
+- [ ] https://www.clinicahispanamangum.com/en/services/infecciones-urinarias  — cambiada 2026-09-16 · rastreada 2026-07-02 · indexada · 7 impr.
+- [ ] https://www.clinicahispanamangum.com/en/services/examen-alcohol-drogas  — cambiada 2026-09-16 · rastreada 2026-09-17 · indexada · 4 impr.
+- [ ] https://www.clinicahispanamangum.com/en/services/extraccion-implantes  — cambiada 2026-09-16 · rastreada 2026-08-26 · indexada · 4 impr.
+- [ ] https://www.clinicahispanamangum.com/en/blog/control-diabetes-houston-guia-pacientes  — cambiada 2026-09-16 · rastreada 2026-07-08 · indexada · 2 impr.
+- [ ] https://www.clinicahispanamangum.com/en/services/vacunas  — cambiada 2026-09-16 · rastreada 2026-06-19 · indexada · 2 impr.
+
+## Tanda 74
+
+- [ ] https://www.clinicahispanamangum.com/en/services/suturas-heridas  — cambiada 2026-09-16 · rastreada 2026-08-26 · indexada · 1 impr.
+- [ ] https://www.clinicahispanamangum.com/en/services/condiciones-cronicas  — cambiada 2026-09-16 · rastreada 2026-07-05 · indexada · 0 impr.
+- [ ] https://www.clinicahispanamangum.com/en/services/enfermedades-respiratorias  — cambiada 2026-09-16 · rastreada 2026-07-10 · indexada · 0 impr.
+- [ ] https://www.clinicahispanamangum.com/en/services/examenes-sangre  — cambiada 2026-09-16 · rastreada 2026-08-29 · indexada · 0 impr.
+- [ ] https://www.clinicahispanamangum.com/en/services/prueba-strep  — cambiada 2026-09-16 · rastreada 2026-06-19 · indexada · 0 impr.
+- [ ] https://www.clinicahispanamangum.com/blog/antibiotico-infeccion-urinaria-terminar-tratamiento  — cambiada 2026-10-23 · sin datos de inspección · pedida 2026-10-25 · 0 impr.
+- [ ] https://www.clinicahispanamangum.com/blog/piernas-hinchadas-falta-de-aire-corazon  — cambiada 2026-10-29 · sin datos de inspección · pedida 2026-10-30 · 0 impr.
+- [ ] https://www.clinicahispanamangum.com/blog/raspones-cortadas-mordidas-ninos-tetanos  — cambiada 2026-11-05 · sin datos de inspección · pedida 2026-11-06 · 0 impr.
+- [ ] https://www.clinicahispanamangum.com/blog/sinusitis-o-gripe-dolor-cara-congestion  — cambiada 2026-10-27 · sin datos de inspección · pedida 2026-10-28 · 0 impr.
+- [ ] https://www.clinicahispanamangum.com/blog/una-encarnada-infectada-dolor-pus-cuidados  — cambiada 2026-11-12 · sin datos de inspección · pedida 2026-11-12 · 0 impr.
+
+## Tanda 75
+
 - [ ] https://www.clinicahispanamangum.com/services/anticonceptivos  — cambiada 2026-10-23 · desconocida · pedida 2026-10-25 · 0 impr.
-- [ ] https://www.clinicahispanamangum.com/services/vacunas  — cambiada 2026-09-17 · descubierta sin indexar · pedida 2026-09-25 · 0 impr.
-- [ ] https://www.clinicahispanamangum.com/en/services/salud-hombre  — cambiada 2026-11-03 · rastreada 2026-06-19 · rastreada sin indexar · pedida 2026-11-04 · 8 impr.
-- [ ] https://www.clinicahispanamangum.com/en/services/extraccion-implantes  — cambiada 2026-09-17 · rastreada 2026-11-19 · rastreada sin indexar · 7 impr.
-- [ ] https://www.clinicahispanamangum.com/en/services/anticonceptivos  — cambiada 2026-10-23 · rastreada 2026-06-19 · rastreada sin indexar · pedida 2026-10-26 · 4 impr.
+- [ ] https://www.clinicahispanamangum.com/services/vacunas  — cambiada 2026-09-16 · desconocida · pedida 2026-09-25 · 0 impr.
+- [ ] https://www.clinicahispanamangum.com/en/blog/antibiotico-infeccion-urinaria-terminar-tratamiento  — cambiada 2026-10-23 · sin datos de inspección · pedida 2026-10-26 · 0 impr.
+- [ ] https://www.clinicahispanamangum.com/en/blog/piernas-hinchadas-falta-de-aire-corazon  — cambiada 2026-10-29 · sin datos de inspección · pedida 2026-10-30 · 0 impr.
+- [ ] https://www.clinicahispanamangum.com/en/blog/raspones-cortadas-mordidas-ninos-tetanos  — cambiada 2026-11-05 · sin datos de inspección · pedida 2026-11-06 · 0 impr.
+- [ ] https://www.clinicahispanamangum.com/en/blog/sinusitis-o-gripe-dolor-cara-congestion  — cambiada 2026-10-27 · sin datos de inspección · pedida 2026-10-28 · 0 impr.
+- [ ] https://www.clinicahispanamangum.com/en/blog/una-encarnada-infectada-dolor-pus-cuidados  — cambiada 2026-11-12 · sin datos de inspección · pedida 2026-11-12 · 0 impr.
+- [ ] https://www.clinicahispanamangum.com/en/services/curacion-heridas  — cambiada 2026-09-16 · descubierta sin indexar · pedida 2026-09-25 · 0 impr.
+- [ ] https://www.clinicahispanamangum.com/en/services/drenaje-abscesos  — cambiada 2026-09-16 · descubierta sin indexar · pedida 2026-09-25 · 0 impr.
+- [ ] https://www.clinicahispanamangum.com/en/services/examen-heces  — cambiada 2026-09-16 · descubierta sin indexar · pedida 2026-09-25 · 0 impr.
 
-## Tanda 71
+## Tanda 76
 
-- [ ] https://www.clinicahispanamangum.com/en/services/drenaje-abscesos  — cambiada 2026-09-17 · descubierta sin indexar · pedida 2026-09-25 · 0 impr.
-- [ ] https://www.clinicahispanamangum.com/en/services/examen-heces  — cambiada 2026-09-17 · desconocida · pedida 2026-09-25 · 0 impr.
-- [ ] https://www.clinicahispanamangum.com/en/services/sueros-vitaminados  — cambiada 2026-11-03 · descubierta sin indexar · pedida 2026-11-03 · 0 impr.
+- [ ] https://www.clinicahispanamangum.com/en/services/sueros-vitaminados  — cambiada 2026-11-02 · descubierta sin indexar · pedida 2026-11-03 · 0 impr.
 
 ## Historial (tandas pedidas)
 
